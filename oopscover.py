@@ -2,10 +2,11 @@ import json
 import logging
 import os
 from haystack.document_stores import InMemoryDocumentStore
-from haystack.nodes import TextConverter, PreProcessor, OpenAIAnswerGenerator, PromptTemplate, EmbeddingRetriever, BaseOutputParser
+from haystack.nodes import TextConverter, PreProcessor, OpenAIAnswerGenerator, PromptTemplate, EmbeddingRetriever, BaseOutputParser, PromptNode
 from haystack.pipelines import Pipeline
 from haystack.utils import print_answers
 from haystack.schema import Document, Answer
+from uuid import uuid4
 
 class HaystackEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -60,18 +61,25 @@ retriever = EmbeddingRetriever(
 document_store.update_embeddings(retriever)
 
 generator_template = PromptTemplate(
-    name="question-answering-with-examples",
-    prompt_text="===\nContext: {context}"
+    name="question-answering",
+    prompt_text="===\nContext: {join(documents)}"
      "\n===\n {query}\n"
     "\n===\n Answer the question using the above answers as guidance. Give a commonsense answer in simple language. Use short words. Do not quote the context. Think step by step.\nA:"
 )
-generator = OpenAIAnswerGenerator(
-    api_key, 
-    "gpt-3.5-turbo", 
-    max_tokens=150,
-    prompt_template=generator_template
+generator = PromptNode(
+    api_key=api_key,
+    model_name_or_path="gpt-3.5-turbo", 
+    default_prompt_template=generator_template,
+    max_length=100,
+    top_k=1
 )
 
+# generator = OpenAIAnswerGenerator(
+#     api_key, 
+#     model="gpt-3.5-turbo", 
+#     max_tokens=150,
+#     prompt_template=generator_template
+# )
 
 pipe = Pipeline()
 pipe.add_node(name="Retriever", component=retriever, inputs=["Query"])
@@ -94,17 +102,13 @@ def ask_question(pipe, question):
         query=question,
         params={
             "Retriever": {"top_k": 10},
-            "Generator": {"top_k": 1},
         }
     )
 
 for q in questions:
     prediction = ask_question(pipe, q)
-    print_answers(
-        prediction,
-        details="medium" ## Choose from `minimum`, `medium`, and `all`
-    )
+    print(prediction['results'])
     answers.append(prediction)
 
-with open('answers2.json', 'w') as f:
+with open(f'cruft/answers-{uuid4()}.json', 'w') as f:
     json.dump(answers, f, indent=4, cls=HaystackEncoder)
