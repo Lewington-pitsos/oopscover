@@ -41,13 +41,8 @@ def main():
     st.markdown(
         """Ask a Question about the **Australian** Medicare system. 
 
-OuchMate will search a bunch of relevant resources and try to give you a straight answer.
-
-## This is not medical advice
-
-OuchMate just gives a general gist. For the love of god consult the sources or an actual doctor or something before making any important decisions.""",
-        unsafe_allow_html=True,
-    )
+OuchMate will search a bunch of relevant resources and try to give you a straight answer.""",
+        unsafe_allow_html=True,)
 
     # Sidebar
     st.sidebar.header("Options")
@@ -105,84 +100,91 @@ OuchMate just gives a general gist. For the love of god consult the sources or a
             run_query = False
             reset_results()
 
+    results_section = st.container()
+    
+    st.markdown("""## THIS IS NOT MEDICAL ADVICE
+
+OuchMate is just a demo which gives you a general gist. For the love of god consult an actual doctor or at least some of the sources before making any important decisions.""", 
+unsafe_allow_html=True)
+
     # Get results for query
     if run_query and question:
-        reset_results()
         st.session_state.question = question
-
-        with st.spinner(
-            "🔭🧠 &nbsp;&nbsp; Performing a bloody neural search mate..."
-        ):
-            try:
-                st.session_state.results = ouchmate_query(question)
-            except JSONDecodeError as je:
-                st.error("👓 &nbsp;&nbsp; An error occurred reading the results. Is the document store working?")
-                return
-            except Exception as e:
-                logging.exception(e)
-                if "The server is busy processing requests" in str(e) or "503" in str(e):
-                    st.error("🧑‍🌾 &nbsp;&nbsp; All our workers are busy! Try again later.")
-                else:
-                    st.error("🐞 &nbsp;&nbsp; An error occurred during the request.")
-                return
+        with results_section:
+            with st.spinner(
+                "🔭🧠 &nbsp;&nbsp; Performing a bloody neural search mate..."
+            ):
+                try:
+                    st.session_state.results = ouchmate_query(question)
+                except JSONDecodeError as je:
+                    st.error("👓 &nbsp;&nbsp; An error occurred reading the results. Is the document store working?")
+                    return
+                except Exception as e:
+                    logging.exception(e)
+                    if "The server is busy processing requests" in str(e) or "503" in str(e):
+                        st.error("🧑‍🌾 &nbsp;&nbsp; All our workers are busy! Try again later.")
+                    else:
+                        st.error("🐞 &nbsp;&nbsp; An error occurred during the request.")
+                    return
             
     if st.session_state.results:
-        st.write("## Answer:")
-        st.write(st.session_state.results['results'][0])
+        with results_section:
+            st.write("## Answer:")
+            st.write(st.session_state.results['results'][0])
 
-        with st.expander("References"):
-            st.write("#### References:")
+            with st.expander("References"):
+                st.write("#### References:")
 
-            for count, result in enumerate(st.session_state.results['invocation_context']['documents'][:3]):
-                if result["content"]:
-                    st.write(
-                        markdown("<sup><sub>" + result["content"] + "</sub></sup>"),
-                        unsafe_allow_html=True,
-                    )
-                    source = f"[{result['meta']['url']}]({result['meta']['url']})"
-                    st.markdown(f"**Relevance:** {result['score']} -  **Source:** {source}")
+                for count, result in enumerate(st.session_state.results['invocation_context']['documents'][:3]):
+                    if result["content"]:
+                        st.write(
+                            markdown("<sup><sub>" + result["content"] + "</sub></sup>"),
+                            unsafe_allow_html=True,
+                        )
+                        source = f"[{result['meta']['url']}]({result['meta']['url']})"
+                        st.markdown(f"**Relevance:** {result['score']} -  **Source:** {source}")
 
-                else:
-                    st.info(
-                        "🤔 &nbsp;&nbsp; Haystack is unsure whether any of the documents contain an answer to your question. Try to reformulate it!"
-                    )
-                    st.write("**Relevance:** ", result["relevance"])
+                    else:
+                        st.info(
+                            "🤔 &nbsp;&nbsp; Haystack is unsure whether any of the documents contain an answer to your question. Try to reformulate it!"
+                        )
+                        st.write("**Relevance:** ", result["relevance"])
 
-                if eval_mode and result["answer"]:
-                    # Define columns for buttons
-                    is_correct_answer = None
-                    is_correct_document = None
+                    if eval_mode and result["answer"]:
+                        # Define columns for buttons
+                        is_correct_answer = None
+                        is_correct_document = None
 
-                    button_col1, button_col2, button_col3, _ = st.columns([1, 1, 1, 6])
-                    if button_col1.button("👍", key=f"{result['context']}{count}1", help="Correct answer"):
-                        is_correct_answer = True
-                        is_correct_document = True
+                        button_col1, button_col2, button_col3, _ = st.columns([1, 1, 1, 6])
+                        if button_col1.button("👍", key=f"{result['context']}{count}1", help="Correct answer"):
+                            is_correct_answer = True
+                            is_correct_document = True
 
-                    if button_col2.button("👎", key=f"{result['context']}{count}2", help="Wrong answer and wrong passage"):
-                        is_correct_answer = False
-                        is_correct_document = False
+                        if button_col2.button("👎", key=f"{result['context']}{count}2", help="Wrong answer and wrong passage"):
+                            is_correct_answer = False
+                            is_correct_document = False
 
-                    if button_col3.button(
-                        "👎👍", key=f"{result['context']}{count}3", help="Wrong answer, but correct passage"
-                    ):
-                        is_correct_answer = False
-                        is_correct_document = True
+                        if button_col3.button(
+                            "👎👍", key=f"{result['context']}{count}3", help="Wrong answer, but correct passage"
+                        ):
+                            is_correct_answer = False
+                            is_correct_document = True
 
-                    if is_correct_answer is not None and is_correct_document is not None:
-                        try:
-                            send_feedback(
-                                query=question,
-                                answer_obj=result["_raw"],
-                                is_correct_answer=is_correct_answer,
-                                is_correct_document=is_correct_document,
-                                document=result["document"],
-                            )
-                            st.success("✨ &nbsp;&nbsp; Thanks for your feedback! &nbsp;&nbsp; ✨")
-                        except Exception as e:
-                            logging.exception(e)
-                            st.error("🐞 &nbsp;&nbsp; An error occurred while submitting your feedback!")
+                        if is_correct_answer is not None and is_correct_document is not None:
+                            try:
+                                send_feedback(
+                                    query=question,
+                                    answer_obj=result["_raw"],
+                                    is_correct_answer=is_correct_answer,
+                                    is_correct_document=is_correct_document,
+                                    document=result["document"],
+                                )
+                                st.success("✨ &nbsp;&nbsp; Thanks for your feedback! &nbsp;&nbsp; ✨")
+                            except Exception as e:
+                                logging.exception(e)
+                                st.error("🐞 &nbsp;&nbsp; An error occurred while submitting your feedback!")
 
-                st.write("___")           
+                    st.write("___")           
 
 
 main()

@@ -31,7 +31,7 @@ def load_pipeline(doc_dir):
 
     def get_url(doc_dir, filename, mapping):
         if filename[-7:] == "act.txt":
-            return "https://www5.austlii.edu.au/au/legis/cth/consol_act/hia1973164/"
+            return "http://classic.austlii.edu.au/au/legis/cth/consol_act/hia1973164/"
 
         return mapping[filename]
 
@@ -72,7 +72,7 @@ def load_pipeline(doc_dir):
         model_name_or_path="gpt-3.5-turbo", 
         default_prompt_template=generator_template,
         top_k=1,
-        model_kwargs={"max_tokens":175},
+        model_kwargs={"max_tokens":100},
     )
 
     pipe = Pipeline()
