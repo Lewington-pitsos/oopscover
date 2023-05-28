@@ -72,7 +72,7 @@ def load_pipeline(doc_dir):
         model_name_or_path="gpt-3.5-turbo", 
         default_prompt_template=generator_template,
         top_k=1,
-        model_kwargs={"max_tokens":125},
+        model_kwargs={"max_tokens":175},
     )
 
     pipe = Pipeline()

@@ -11,8 +11,9 @@ import requests
 
 openai.api_key = "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"
 
-API_ENDPOINT = os.getenv("API_ENDPOINT", "http://localhost:8000")
-STATUS = "initialized"
+API_ENDPOINT = os.getenv("API_ENDPOINT", "http://localhost:8080")
+INVOKE = "invocations"
+STATUS = "ping"
 HS_VERSION = "hs_version"
 DOC_REQUEST = "query"
 DOC_FEEDBACK = "feedback"
@@ -20,9 +21,6 @@ DOC_UPLOAD = "file-upload"
 
 
 def haystack_is_ready():
-    """
-    Used to show the "Haystack is loading..." message
-    """
     url = f"{API_ENDPOINT}/{STATUS}"
     try:
         if requests.get(url).status_code < 400:
@@ -83,7 +81,7 @@ def haystack_version():
     return requests.get(url, timeout=0.1).json()["hs_version"]
 
 def ouchmate_query(query):
-    url = "http://127.0.0.1:8080/invocations"
+    url = f"{API_ENDPOINT}/{INVOKE}"
 
     req = {"query": query}
     response_raw = requests.post(url, json=req)

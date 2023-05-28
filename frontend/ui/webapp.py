@@ -6,11 +6,10 @@ from json import JSONDecodeError
 
 import pandas as pd
 import streamlit as st
-from annotated_text import annotation
 from markdown import markdown
 import time
 
-from ui.utils import haystack_is_ready, query, send_feedback, upload_doc, haystack_version, get_backlink, generate_answer, ouchmate_query
+from ui.utils import haystack_is_ready, send_feedback, ouchmate_query
 
 DEFAULT_QUESTION_AT_STARTUP = os.getenv("DEFAULT_QUESTION_AT_STARTUP", "If I break my leg and have to go to hospital, how much will I have to pay, roughly?")
 
@@ -81,17 +80,6 @@ OuchMate just gives a general gist. For the love of god consult the sources or a
         unsafe_allow_html=True,
     )
 
-    # Load csv into pandas dataframe
-    try:
-        df = pd.read_csv(EVAL_LABELS, sep=";")
-    except Exception:
-        st.error(
-            f"The eval file was not found. Please check the demo's [README](https://github.com/deepset-ai/haystack/tree/main/ui/README.md) for more information."
-        )
-        sys.exit(
-            f"The eval file was not found under `{EVAL_LABELS}`. Please check the README (https://github.com/deepset-ai/haystack/tree/main/ui/README.md) for more information."
-        )
-
     # Search bar
     question = st.text_input(
         value=st.session_state.question,
@@ -111,9 +99,9 @@ OuchMate just gives a general gist. For the love of god consult the sources or a
     ) 
 
     # Check the connection
-    with st.spinner("⌛️ &nbsp;&nbsp; Haystack is starting..."):
+    with st.spinner("⌛️ &nbsp;&nbsp; Hold up, let me get me glasses on..."):
         if not haystack_is_ready():
-            st.error("🚫 &nbsp;&nbsp; Connection Error. Is Haystack running?")
+            st.error("🚫 &nbsp;&nbsp; Something's up mate. Maybe come back later.")
             run_query = False
             reset_results()
 
@@ -141,11 +129,6 @@ OuchMate just gives a general gist. For the love of god consult the sources or a
     if st.session_state.results:
         st.write("## Answer:")
         st.write(st.session_state.results['results'][0])
-
-        # Show the gold answer if we use a question of the given set
-        if eval_mode and st.session_state.answer:
-            st.write("## Correct answer:")
-            st.write(st.session_state.answer)  
 
         with st.expander("References"):
             st.write("#### References:")
