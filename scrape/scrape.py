@@ -5,7 +5,7 @@ from html2text import html2text
 from urllib.parse import urljoin
 import time
 from concurrent.futures import ThreadPoolExecutor
-import json
+from urllib.parse import quote
 
 start_time = time.time()
 
@@ -28,7 +28,7 @@ def scrape_url(url, url_queue):
     try:
         # Make a request to the url
         response = requests.get(url)
-        scraped_urls.add(url)
+        scraped_urls.add(quote(url))
 
         print(f'{len(url_queue)} urls left, scraping:', url)
 

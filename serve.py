@@ -5,7 +5,7 @@ from pipeline import load_pipeline, ask_question, HaystackEncoder
 
 app = Flask(__name__)
 
-pipe = load_pipeline("data/combo/")
+pipe = load_pipeline("data/medicare/")
 
 @app.route('/ping', methods=['GET'])
 def ping():
