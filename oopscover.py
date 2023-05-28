@@ -90,7 +90,6 @@ questions = [
 
 answers = []
 
-
 def ask_question(pipe, question):
     return pipe.run(
         query=question,
