@@ -2,7 +2,7 @@ import json
 import logging
 import os
 from haystack.document_stores import InMemoryDocumentStore
-from haystack.nodes import TextConverter, PreProcessor, OpenAIAnswerGenerator, PromptTemplate, EmbeddingRetriever, BaseOutputParser, PromptNode
+from haystack.nodes import TextConverter, PreProcessor, PromptTemplate, EmbeddingRetriever, PromptNode
 from haystack.pipelines import Pipeline
 from haystack.utils import print_answers
 from haystack.schema import Document, Answer
