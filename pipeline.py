@@ -14,7 +14,7 @@ class HaystackEncoder(json.JSONEncoder):
             return obj.to_dict()
         return json.JSONEncoder.default(self, obj)
 
-def load_pipeline():
+def load_pipeline(doc_dir):
     with open('creds.json') as f:
         api_key = json.load(f)['api_key']
 
@@ -29,18 +29,21 @@ def load_pipeline():
         max_chars_check=10_000
     )
 
-    doc_dir = "data/combo/"
-
-    def get_url(doc_dir, filename):
+    def get_url(doc_dir, filename, mapping):
         if filename == "act.txt":
             return "https://www5.austlii.edu.au/au/legis/cth/consol_act/hia1973164/"
 
-        filename = filename.replace(".txt", "").replace("_", "/")
+        return mapping[filename.replace(doc_dir, "")]
 
-        return "https://" + filename.replace(doc_dir, "")
+    with open(doc_dir + 'url_mapping.txt') as f:
+        mapping_lines = f.readlines()
 
-    files_to_index = [doc_dir + f for f in os.listdir(doc_dir)]
-    metadata = [{'url': get_url(doc_dir, f)} for f in files_to_index]
+    mapping = dict()
+    for l in mapping_lines:
+        mapping[l.split()[0]] = l.split()[1]
+
+    files_to_index = [doc_dir + filename for filename in os.listdir(doc_dir) if filename[-4:] != 'url_mapping.txt']
+    metadata = [{'url': get_url(doc_dir, filenme, mapping)} for filenme in files_to_index]
 
     indexing_pipeline = Pipeline()
     indexing_pipeline.add_node(component=text_converter, name="TextConverter", inputs=["File"])

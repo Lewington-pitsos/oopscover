@@ -5,10 +5,11 @@ from html2text import html2text
 from urllib.parse import urljoin
 import time
 from concurrent.futures import ThreadPoolExecutor
+import json
 
 start_time = time.time()
 
-save_dir = 'data/www.health.gov.au/'
+save_dir = 'data/medicare/'
 
 # Set the starting url
 start_url = 'https://www.health.gov.au/topics/medicare/about/what-medicare-covers'
@@ -27,6 +28,7 @@ def scrape_url(url, url_queue):
     try:
         # Make a request to the url
         response = requests.get(url)
+        scraped_urls.add(url)
 
         print(f'{len(url_queue)} urls left, scraping:', url)
 
@@ -36,15 +38,18 @@ def scrape_url(url, url_queue):
         # Convert the html to text
         text = html2text(str(soup))
 
-        # Save the text to a file, using the url as the filename
-        filename = url.replace('https://', '').replace('/', '_') + '.txt'
+        if 'medicare' in text.lower():
+            # Save the text to a file, using the url as the filename
+            filename = url.replace('https://', '').replace('http://', '').replace('/', '_') + '.txt'
+            
+            filename = save_dir + filename
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write(text)  
 
-        filename = save_dir + filename
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(text)
+            # Add the url to the set of urls that have been scraped
 
-        # Add the url to the set of urls that have been scraped
-        scraped_urls.add(url)
+            with open(save_dir + 'url_mapping.txt', 'a') as f:
+                f.write(url + ' ' + filename + '\n')
 
         # Find all links on the page and add them to the queue of urls to scrape
         for a_tag in soup.find_all('a'):
