@@ -64,22 +64,16 @@ generator_template = PromptTemplate(
     name="question-answering",
     prompt_text="===\nContext: {join(documents)}"
      "\n===\n {query}\n"
-    "\n===\n Answer the question using the above answers as guidance. Give a commonsense answer in simple language. Use short words. Do not quote the context. Think step by step.\nA:"
+    "\n===\n Answer the question using the above context as guidance. Be as helpful as possible. Answer in the style of crocodile dundee, use lots of aussie slang and short words. Think step by step.\nA:"
 )
 generator = PromptNode(
     api_key=api_key,
     model_name_or_path="gpt-3.5-turbo", 
     default_prompt_template=generator_template,
-    max_length=100,
+    max_length=200,
     top_k=1
 )
 
-# generator = OpenAIAnswerGenerator(
-#     api_key, 
-#     model="gpt-3.5-turbo", 
-#     max_tokens=150,
-#     prompt_template=generator_template
-# )
 
 pipe = Pipeline()
 pipe.add_node(name="Retriever", component=retriever, inputs=["Query"])
