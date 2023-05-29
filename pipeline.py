@@ -52,8 +52,6 @@ def load_pipeline(doc_dir):
 
     indexing_pipeline.run_batch(file_paths=files_to_index, meta=metadata)
 
-
-
     retriever = EmbeddingRetriever(
         document_store=document_store,
     embedding_model="sentence-transformers/all-MiniLM-L6-v2",
@@ -72,8 +70,9 @@ def load_pipeline(doc_dir):
         model_name_or_path="gpt-3.5-turbo", 
         default_prompt_template=generator_template,
         top_k=1,
+        max_length=175,
         model_kwargs={
-            "max_tokens":150, 
+            "max_tokens":125, 
             "temperature": 0.1
         },
     )
