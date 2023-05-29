@@ -1,4 +1,5 @@
 venv
+env
 data/combo
 __pycache__
 .elasticbeanstalk/*

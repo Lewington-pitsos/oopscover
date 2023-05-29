@@ -24,8 +24,8 @@ def load_pipeline(doc_dir):
     text_converter = TextConverter()
     pp = PreProcessor(
         clean_header_footer=True,
-        split_length=150,
-        split_overlap=15,
+        split_length=175,
+        split_overlap=17,
         max_chars_check=10_000
     )
 
@@ -72,7 +72,10 @@ def load_pipeline(doc_dir):
         model_name_or_path="gpt-3.5-turbo", 
         default_prompt_template=generator_template,
         top_k=1,
-        model_kwargs={"max_tokens":150},
+        model_kwargs={
+            "max_tokens":150, 
+            "temperature": 0.1
+        },
     )
 
     pipe = Pipeline()
