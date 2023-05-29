@@ -95,7 +95,6 @@ idna==3.4
 importlib-metadata==6.6.0
 inflect==6.0.4
 iniconfig==2.0.0
-ipython==8.13.2
 isodate==0.6.1
 isort==5.12.0
 itsdangerous==2.1.2
@@ -284,8 +283,6 @@ triton==2.0.0
 types-PyYAML==6.0.12.10
 typing_extensions==4.6.2
 tzdata==2023.3
-tzlocal==5.0.1
--e git+ssh://git@github.com/Lewington-pitsos/oopscover.git@427cf93ceedf4bb483bda5ea3be7e3a3c1912760#egg=ui&subdirectory=frontend
 ujson==5.1.0
 url-normalize==1.4.3
 urllib3==1.26.16
