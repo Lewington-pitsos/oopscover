@@ -30,7 +30,7 @@ and then the frontend with
 
 ## Elastic Beanstalk
 
-Create the app with
+Make sure you are in the right virtualenv, then create the app with
 
 `eb init -p python-3.10 ouchmate --region ap-southeast-2`
 

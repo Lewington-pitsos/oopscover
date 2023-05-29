@@ -72,7 +72,7 @@ def load_pipeline(doc_dir):
         top_k=1,
         max_length=175,
         model_kwargs={
-            "max_tokens":125, 
+            "max_tokens":100, 
             "temperature": 0.1
         },
     )
@@ -83,10 +83,11 @@ def load_pipeline(doc_dir):
 
     return pipe
 
-def ask_question(pipe, question):
+def ask_question(pipe, question, model_kwargs={}):
     return pipe.run(
         query=question,
         params={
             "Retriever": {"top_k": 8},
+            "Generator": model_kwargs
         }
     )
