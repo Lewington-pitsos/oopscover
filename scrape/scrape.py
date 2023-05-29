@@ -1,3 +1,4 @@
+import shutil
 import os
 import requests
 from bs4 import BeautifulSoup
@@ -6,6 +7,24 @@ from urllib.parse import urljoin
 import time
 from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import quote
+import unicodedata
+import re
+
+def slugify(value, allow_unicode=False):
+    """
+    Taken from https://github.com/django/django/blob/master/django/utils/text.py
+    Convert to ASCII if 'allow_unicode' is False. Convert spaces or repeated
+    dashes to single dashes. Remove characters that aren't alphanumerics,
+    underscores, or hyphens. Convert to lowercase. Also strip leading and
+    trailing whitespace, dashes, and underscores.
+    """
+    value = str(value)
+    if allow_unicode:
+        value = unicodedata.normalize('NFKC', value)
+    else:
+        value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore').decode('ascii')
+    value = re.sub(r'[^\w\s-]', '', value.lower())
+    return re.sub(r'[-\s]+', '-', value).strip('-_')
 
 start_time = time.time()
 
@@ -28,9 +47,9 @@ def scrape_url(url, url_queue):
     try:
         # Make a request to the url
         response = requests.get(url)
-        scraped_urls.add(quote(url))
+        scraped_urls.add(url)
 
-        print(f'{len(url_queue)} urls left, scraping:', url)
+        print(f'{len(scraped_urls)}, scraping: {url}')
 
         # Parse the response text with BeautifulSoup
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -40,7 +59,7 @@ def scrape_url(url, url_queue):
 
         if 'medicare' in text.lower():
             # Save the text to a file, using the url as the filename
-            filename = url.replace('https://', '').replace('http://', '').replace('/', '_') + '.txt'
+            filename = slugify(url.replace('https://', '').replace('http://', '').replace('/', '_')) + '.txt'
             
             filename = save_dir + filename
             with open(filename, 'w', encoding='utf-8') as f:
@@ -49,7 +68,7 @@ def scrape_url(url, url_queue):
             # Add the url to the set of urls that have been scraped
 
             with open(save_dir + 'url_mapping.txt', 'a') as f:
-                f.write(url + ' ' + filename + '\n')
+                f.write(quote(url) + ' ' + filename + '\n')
 
         # Find all links on the page and add them to the queue of urls to scrape
         for a_tag in soup.find_all('a'):
@@ -77,6 +96,9 @@ def delete_files(directory):
 
 # Call the function to delete files
 delete_files(save_dir)
+
+shutil.copyfile('data/combo/act.txt', save_dir + 'act.txt')
+
 
 url = url_queue.pop(0)
 scrape_url(url, url_queue)

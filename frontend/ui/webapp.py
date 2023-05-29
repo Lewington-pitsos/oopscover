@@ -41,7 +41,7 @@ def main():
     st.markdown(
         """Ask a Question about the **Australian** Medicare system. 
 
-OuchMate will search a bunch of relevant resources and try to give you a straight answer.""",
+OuchMate will search relevant resources and try to give you a straight answer in less than 100 words.""",
         unsafe_allow_html=True,)
 
     # Sidebar
@@ -112,7 +112,7 @@ unsafe_allow_html=True)
         st.session_state.question = question
         with results_section:
             with st.spinner(
-                "🔭🧠 &nbsp;&nbsp; Performing a bloody neural search mate..."
+                "🔭🧠 &nbsp;&nbsp; Performing a bloody neural search mate, should take about 15 seconds..."
             ):
                 try:
                     st.session_state.results = ouchmate_query(question)
@@ -130,17 +130,13 @@ unsafe_allow_html=True)
     if st.session_state.results:
         with results_section:
             st.write("## Answer:")
-            st.write(st.session_state.results['results'][0])
+            st.markdown(st.session_state.results['results'][0])
 
-            with st.expander("References"):
-                st.write("#### References:")
-
+            with st.expander("**Sources**"):
                 for count, result in enumerate(st.session_state.results['invocation_context']['documents'][:3]):
                     if result["content"]:
-                        st.write(
-                            markdown("<sup><sub>" + result["content"] + "</sub></sup>"),
-                            unsafe_allow_html=True,
-                        )
+                        st.markdown(result["content"])
+                        
                         source = f"[{result['meta']['url']}]({result['meta']['url']})"
                         st.markdown(f"**Relevance:** {result['score']} -  **Source:** {source}")
 

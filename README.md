@@ -9,6 +9,20 @@ Make a virtualenv with puython 3.10, activate it and then
 
 `pip install -r requirements.txt`
 
+You will also need to 
+
+`cd frontend`
+`pip install -e .`
+
+since this installs `ui` as a package.
+
 ## Running
 
-`python ouchcover.py`
+start the backend with
+
+`python serve.py`
+
+and then the frontend with
+
+`cd frontend`
+`streamlit run ui/webapp.py`
