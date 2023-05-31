@@ -61,9 +61,13 @@ def load_pipeline(doc_dir):
     
     generator_template = PromptTemplate(
         name="question-answering",
-        prompt_text="===\nContext: {join(documents)}"
-        "\n===\n {query}\n"
-        "\n===\n Answer the question using the above context as guidance. Be as helpful as possible. Answer in the style of crocodile dundee, use lots of aussie slang and short words. Think step by step.\nA:"
+        prompt_text="""Context: {join(documents)}
+===
+{query}
+===
+Answer the question using the above context as guidance. Answer in the style of crocodile dundee. Use short, easy to understand language. Do not quote directly from the context. Do not be afraid to deliver bad news. Think step by step.
+===
+A:"""
     )
     generator = PromptNode(
         api_key=api_key,
@@ -71,10 +75,6 @@ def load_pipeline(doc_dir):
         default_prompt_template=generator_template,
         top_k=1,
         max_length=175,
-        model_kwargs={
-            "max_tokens":100, 
-            "temperature": 0.1
-        },
     )
 
     pipe = Pipeline()
@@ -83,11 +83,11 @@ def load_pipeline(doc_dir):
 
     return pipe
 
-def ask_question(pipe, question, model_kwargs={}):
+def ask_question(pipe, question, **generator_kwargs):
     return pipe.run(
         query=question,
         params={
             "Retriever": {"top_k": 8},
-            "Generator": model_kwargs
+            "Generator": generator_kwargs
         }
     )

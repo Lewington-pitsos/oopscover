@@ -8,3 +8,4 @@ cruft
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+pad.py
