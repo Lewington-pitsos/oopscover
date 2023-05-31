@@ -54,8 +54,9 @@ def load_pipeline(doc_dir):
 
     retriever = EmbeddingRetriever(
         document_store=document_store,
-    embedding_model="sentence-transformers/all-MiniLM-L6-v2",
-    model_format="sentence_transformers"
+        embedding_model="sentence-transformers/all-MiniLM-L6-v2",
+        model_format="sentence_transformers",
+        top_k=8
     )
     document_store.update_embeddings(retriever)
     
@@ -82,12 +83,3 @@ A:"""
     pipe.add_node(name="Generator", component=generator, inputs=["Retriever"])
 
     return pipe
-
-def ask_question(pipe, question, **generator_kwargs):
-    return pipe.run(
-        query=question,
-        params={
-            "Retriever": {"top_k": 8},
-            "Generator": generator_kwargs
-        }
-    )

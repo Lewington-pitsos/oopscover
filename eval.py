@@ -13,17 +13,18 @@ template = """Context: {join(documents)}
 ===
 {query}
 ===
-Answer the question using the above context as guidance. Answer in the style of crocodile dundee. Use short, easy to understand language. Do not quote directly from the context. Do not be afraid to deliver bad news. Think step by step.
+Answer the question strictly in 75 words or less using the above context as guidance. Answer in the style of crocodile dundee. Use short, easy to understand language, 75 words or less. Do not be afraid to deliver bad news. Do not quote from the context. Think step by step.
 ===
-A:"""
+A (75 words or less):"""
 
-def send_query(query, generator_kwargs):
+def send_query(query, retriever_kwargs, generator_kwargs):
     response = requests.post(ENDPOINT, json={
         "query": query,
-        "generator_kwargs": generator_kwargs
+        "generator_kwargs": generator_kwargs,
+        "retriever_kwargs": retriever_kwargs
     })
 
-    print(response)
+    print(response.status_code)
 
     return response.json()
 
@@ -42,12 +43,15 @@ queries = [
 generator_kwargs = {
     "invocation_context": {
         "prompt_template": template,
-        "max_tokens": 200,
+        "max_tokens": 110,
     }
+}
+retriever_kwargs = {
+    "top_k": 6
 }
 
 for q in queries:
-    response = send_query(q, generator_kwargs=generator_kwargs)
+    response = send_query(q, retriever_kwargs=retriever_kwargs, generator_kwargs=generator_kwargs)
     results.append({
         "query": q,
         "response": response['results'][0]
@@ -58,5 +62,10 @@ for q in queries:
     })
 
     with open(results_file, 'w') as f:
-        json.dump({'generator_kwargs': generator_kwargs, 'results': results, 'verbose': verbose}, f, indent=4)
+        json.dump({
+            'retriever_kwargs': retriever_kwargs,
+            'generator_kwargs': generator_kwargs, 
+            'results': results, 
+            'verbose': verbose
+        }, f, indent=4)
 
