@@ -1,0 +1,430 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Brain and nervous system - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+6007
+
+     Professional attendance by a specialist in the practice of neurosurgery following referral of the patient to the specialist-an attendance (other than a second or subsequent attendance in a single course of treatment) at consulting rooms or hospital [](/dynamic/MBSItems/BrainNervousSystem/6007)
+6009
+
+     Professional attendance by a specialist in the practice of neurosurgery following referral of the patient to the specialist-a minor attendance after the first in a single course of treatment at consulting rooms or hospital [](/dynamic/MBSItems/BrainNervousSystem/6009)
+6011
+
+     Professional attendance by a specialist in the practice of neurosurgery following referral of the patient to the specialist-an attendance after the first in a single course of treatment, involving an extensive and comprehensive examination, arranging any necessary investigations in relation to one or more complex problems and of more than 15 minutes in duration but not more than 30 minutes in duration at consulting rooms or hospital [](/dynamic/MBSItems/BrainNervousSystem/6011)
+6013
+
+     Professional attendance by a specialist in the practice of neurosurgery following referral of the patient to the specialist-an attendance after the first in a single course of treatment, involving a detailed and comprehensive examination, arranging any necessary investigations in relation to one or more complex problems and of more than 30 minutes in duration but not more than 45 minutes in duration at consulting rooms or hospital [](/dynamic/MBSItems/BrainNervousSystem/6013)
+6015
+
+     Professional attendance by a specialist in the practice of neurosurgery following referral of the patient to the specialist-an attendance after the first in a single course of treatment, involving an exhaustive and comprehensive examination, arranging any necessary investigations in relation to one or more complex problems and of more than 45 minutes in duration at consulting rooms or hospital [](/dynamic/MBSItems/BrainNervousSystem/6015)
+14227
+
+     IMPLANTED INFUSION PUMP, REFILLING of reservoir, with baclofen, for infusion to the subarachnoid or epidural space, with or without re-programming of a programmable pump, for the management of severe chronic spasticity [](/dynamic/MBSItems/BrainNervousSystem/14227)
+14234
+
+     Infusion pump or components of an infusion pump, removal or replacement of, and connection to intrathecal or epidural catheter, and loading of reservoir with baclofen, with or without programming of the pump, for the management of severe chronic spasticity (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/14234)
+14237
+
+     Infusion pump or components of an infusion pump, subcutaneous implantation of, and intrathecal or epidural spinal catheter insertion, and connection of pump to catheter, and loading of reservoir with baclofen, with or without programming of the pump, for the management of severe chronic spasticity (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/14237)
+18377
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox), injection of, for the treatment of chronic migraine, including all injections in 1 day, if: (a)the patient is at least 18 years of age; and (b) the patient has experienced an inadequate response, intolerance or contraindication to at least 3 prophylactic migraine medications before commencement of treatment with botulinum toxin, as manifested by an average of 15 or more headache days per month, with at least 8 days of migraine, over a period of at least 6 months, before commencement of treatment with botulinum toxin; and (c)the requirements relating to botulinum toxin type A under the Pharmaceutical Benefits Scheme are complied with For each patient-applicable not more than twice except if the patient achieves and maintains at least a 50% reduction in the number of headache days per month from baseline after 2 treatment cycles (each of 12 weeks duration) [](/dynamic/MBSItems/BrainNervousSystem/18377)
+35000
+
+     LUMBAR SYMPATHECTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/35000)
+35003
+
+     CERVICAL OR UPPER THORACIC SYMPATHECTOMY by any surgical approach (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/35003)
+35006
+
+     CERVICAL OR UPPER THORACIC SYMPATHECTOMY, where operation is a reoperation for previous incomplete sympathectomy by any surgical approach (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/35006)
+35009
+
+     LUMBAR SYMPATHECTOMY, where operation is following chemical sympathectomy or for previous incomplete surgical sympathectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/35009)
+35012
+
+     SACRAL or PRE-SACRAL SYMPATHECTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/35012)
+35412
+
+     Intracranial aneurysm, ruptured or unruptured, endovascular occlusion with detachable coils, and assisted coiling (if performed), with parent artery preservation, not for use with liquid embolics only, including intra-operative imaging, but in association with pre-operative diagnostic imaging under item 60009, 60072, 60075 or 60078, including aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/35412)
+35414
+
+     Mechanical thrombectomy, in a patient with a diagnosis of acute ischaemic stroke caused by occlusion of a large vessel of the anterior cerebral circulation, including intra-operative imaging and aftercare, if: (a) the diagnosis is confirmed by an appropriate imaging modality such as computed tomography, magnetic resonance imaging or angiography; and (b) the service is performed by a specialist or consultant physician with appropriate training that is recognised by the Conjoint Committee for Recognition of Training in Interventional Neuroradiology; and (c) the service is provided in an eligible stroke centre. For any particular patient - applicable once per presentation by the patient at an eligible stroke centre, regardless of the number of times mechanical thrombectomy is attempted during that presentation (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/35414)
+39007
+
+     Procedure to obtain access to intracranial space (including subdural space, ventricle or basal cistern), percutaneously or by burr-hole (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/39007)
+39015
+
+     Intracranial parenchymal pressure monitoring device, insertion of—including burr hole (excluding after care) (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/39015)
+39018
+
+     Cerebrospinal reservoir, ventricular reservoir or external ventricular drain, insertion of, with or without stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39018)
+39113
+
+     Cranial nerve, neurectomy or intracranial decompression of, using microsurgical techniques, including stereotaxy and cranioplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39113)
+39300
+
+     Nerve, digital or cutaneous, primary repair of, using microsurgical techniques, other than a service associated with a service to which item 39330 applies—applicable once per nerve (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39300)
+39303
+
+     Nerve, digital or cutaneous, delayed repair of, using microsurgical techniques, including either or both of the following (if performed): (a) neurolysis; (b) transposition of nerve to facilitate repair; other than a service associated with a service to which item 30023 applies—applicable once per nerve (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39303)
+39306
+
+     Nerve trunk, primary repair of, using microsurgical techniques, other than a service associated with a service to which item 39330 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39306)
+39307
+
+     Reconstruction of nerve trunk using biological or synthetic nerve conduit, using microsurgical techniques, other than a service associated with a service to which item 39330 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39307)
+39309
+
+     Nerve trunk, delayed repair of, using microsurgical techniques, including either or both of the following (if performed): (a) neurolysis; (b) transposition of nerve or nerve transfer to facilitate repair; other than a service associated with a service to which item 30023 or 39321 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39309)
+39312
+
+     Nerve trunk, internal (interfascicular), neurolysis of, using microsurgical techniques, other than a service associated with a service to which item 30023 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39312)
+39315
+
+     Nerve trunk, nerve graft to, by cable graft, using microsurgical techniques, including any of the following (if performed): (a) harvesting of nerve graft; (b) proximal and distal anastomosis of nerve graft; (c) transposition of nerve to facilitate grafting; (d) neurolysis; other than a service associated with a service to which item 30023 or 39330 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39315)
+39318
+
+     Nerve, digital or cutaneous, nerve graft to, using microsurgical techniques, including either or both of the following (if performed): (a) harvesting of nerve graft from separate donor site; (b) proximal and distal anastomosis of nerve graft; other than a service associated with a service to which item 39330 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39318)
+39319
+
+     Reconstruction of digital or cutaneous nerve using biological or synthetic nerve conduit, using microsurgical techniques, other than a service associated with a service to which item 39330 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39319)
+39321
+
+     Transposition of nerve, excluding the ulnar nerve at the elbow, other than a service associated with a service to which item 39330 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39321)
+39324
+
+     Neurectomy or removal of tumour or neuroma from superficial peripheral nerve (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39324)
+39327
+
+     NEURECTOMY, NEUROTOMY or removal of tumour from deep peripheral or cranial nerve, by open operation, not being a service to which item 41575, 41576, 41578 or 41579 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39327)
+39328
+
+     Neurectomy, neurotomy or removal of tumour from deep peripheral nerve, by open operation, for upper limb surgery (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39328)
+39329
+
+     Extensive neurolysis of radial, median or ulnar nerve trunk nerve in the forearm or arm, other than a service associated with a service to which item 30023, 39303, 39309, 39312, 39315, 39318, 39324, 39327 or 39333 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39329)
+39330
+
+     Neurolysis by open operation without transposition, other than a service associated with a service to which item 30023, 39321, 39328, 39329, 39332, 39336, 39339, 39342, 39345, 49774 or 49775 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39330)
+39333
+
+     BRACHIAL PLEXUS, exploration of, not being a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39333)
+39503
+
+     Facio-hypoglossal nerve or facio-accessory nerve, anastomosis of (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39503)
+39604
+
+     Any of the following procedures for intracranial haemorrhage or swelling:(a) craniotomy, craniectomy or burr-holes for removal of intracranial haemorrhage, including stereotaxy;(b) craniotomy or craniectomy for brain swelling, stroke, or raised intracranial pressure, including for subtemporal decompression, including stereotaxy; or(c) post-operative re-opening, including for swelling or post-operative cerebrospinal fluid leak. (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39604)
+39610
+
+     Fractured skull, without brain laceration or dural penetration, repair of (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39610)
+39612
+
+     Fractured skull, with brain laceration or dural penetration but without cerebrospinal fluid, rhinorrhoea or otorrhoea, repair of (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39612)
+39615
+
+     Fractured skull, after trauma, with cerebrospinal fluid rhinorrhoea or otorrhoea, repair of, including stereotaxy and dermofat graft (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39615)
+39638
+
+     Anterior or middle cranial fossa or cavernous sinus, tumour or vascular lesion, removal or radical excision of, including stereotaxy and cranioplasty—conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39638)
+39639
+
+     Anterior or middle cranial fossa or cavernous sinus, tumour or vascular lesion, removal or radical excision of, including stereotaxy and cranioplasty—conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39639)
+39641
+
+     Anterior or middle cranial fossa or cavernous sinus, tumour or vascular lesion, removal or radical excision of, including stereotaxy and cranioplasty - one surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39641)
+39651
+
+     Petro-clival, clival or foramen magnum tumour or vascular lesion, removal or radical excision of, including stereotaxy and cranioplasty - one surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39651)
+39654
+
+     Petro-clival, clival or foramen magnum tumour or vascular lesion, removal or radical excision of, including stereotaxy and cranioplasty—conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39654)
+39656
+
+     Petro clival, clival or foramen magnum tumour or vascular lesion, removal or radical excision of, including stereotaxy and cranioplasty—conjoint surgery, co surgeon (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39656)
+39700
+
+     Skull tumour, benign or malignant, excision of, including stereotaxy and cranioplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39700)
+39703
+
+     Intracranial tumour, cyst or other brain tissue, either or both of: (a) burr hole and biopsy of; (b) drainage of; including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39703)
+39710
+
+     Intracranial tumour, one or more, biopsy, drainage, decompression or removal of, through a single craniotomy, including stereotaxy and cranioplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39710)
+39712
+
+     Transcranial tumour removal or biopsy of one or more of any of the following: (a) meningioma; (b) pinealoma; (c) cranio pharyngioma; (d) pituitary tumour; (e) intraventricular lesion; (f) brain stem lesion; (g) any other intracranial tumour; by any means (with or without endoscopy), through a single craniotomy, including stereotaxy and cranioplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39712)
+39715
+
+     Pituitary tumour, removal of, by transphenoidal approach, including stereotaxy and dermis, dermofat or fascia grafting, other than a service associated with a service to which item 40600 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39715)
+39718
+
+     Arachnoidal cyst, craniotomy for, including stereotaxy and neuroendoscopy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39718)
+39720
+
+     Awake craniotomy for functional neurosurgery (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39720)
+39801
+
+     Aneurysm, clipping, proximal ligation, or reinforcement of sac, including stereotaxy and cranioplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39801)
+39803
+
+     Intracranial arteriovenous malformation or fistula, treatment through a craniotomy, including stereotaxy, cranioplasty and all angiography (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39803)
+39815
+
+     CAROTID-CAVERNOUS FISTULA, obliteration of - combined cervical and intracranial procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39815)
+39818
+
+     Intracranial vascular bypass using indirect techniques, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39818)
+39821
+
+     Intracranial vascular bypass using direct anastomosis techniques, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39821)
+39900
+
+     Intracranial infection, treated by burr hole, including stereotaxy, other than a service associated with a service to which item 40600 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39900)
+39903
+
+     Intracranial infection, treated by craniotomy, including stereotaxy, other than a service associated with a service to which item 40600 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39903)
+39906
+
+     Osteomyelitis of skull or removal of infected bone flap, craniectomy for, other than a service associated with a service to which item 40600 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/39906)
+40004
+
+     Ventricular, lumbar or cisternal shunt diversion, insertion or revision of, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40004)
+40012
+
+     Endoscopic ventriculostomy for treatment of cerebrospinal fluid circulation disorders, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40012)
+40018
+
+     LUMBAR CEREBROSPINAL FLUID DRAIN, insertion of (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/40018)
+40104
+
+     Spinal myelomeningocele or spinal meningocele, excision and closure of, other than a service associated with a service to which item 40600 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40104)
+40106
+
+     Chiari malformation, decompression or reconstruction of, including laminectomy, dermofat graft and stereotaxy, other than a service associated with a service to which item 40600 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40106)
+40109
+
+     Encephalocoele or cranial meningocele, excision and closure of, including stereotaxy and dermofat graft (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40109)
+40112
+
+     Tethered cord, release of, including lipomeningocele or diastematomyelia, multiple levels, including laminectomy and rhizolysis, other than a service associated with a service to which item 40600 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40112)
+40119
+
+     Craniostenosis, operation for, other than a service associated with a service to which item 40600 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40119)
+40600
+
+     Cranioplasty, reconstructive, other than a service associated with a service to which item 39113, 39638, 39639, 39641, 39651, 39654, 39656, 39700, 39710, 39712, 39715, 39801, 39803, 40703 or 41887 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40600)
+40700
+
+     Corpus callosotomy, for epilepsy, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40700)
+40701
+
+     Vagus nerve stimulation therapy through stimulation of the left vagus nerve, subcutaneous placement of electrical pulse generator, for: (a) management of refractory generalised epilepsy; or (b) treatment of refractory focal epilepsy not suitable for resective epilepsy surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40701)
+40702
+
+     Vagus nerve stimulation therapy through stimulation of the left vagus nerve, surgical repositioning or removal of electrical pulse generator inserted for: (a) management of refractory generalised epilepsy; or (b) treatment of refractory focal epilepsy not suitable for resective epilepsy surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40702)
+40703
+
+     Corticectomy, topectomy or partial lobectomy, for epilepsy, including stereotaxy and cranioplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40703)
+40704
+
+     Vagus nerve stimulation therapy through stimulation of the left vagus nerve, surgical placement of lead, including connection of lead to left vagus nerve and intra-operative test stimulation, for: (a) management of refractory generalised epilepsy; or (b) treatment of refractory focal epilepsy not suitable for resective epilepsy surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40704)
+40705
+
+     Vagus nerve stimulation therapy through stimulation of the left vagus nerve, surgical repositioning or removal of lead attached to left vagus nerve for: (a) management of refractory generalised epilepsy; or (b) treatment of refractory focal epilepsy not suitable for resective epilepsy surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40705)
+40706
+
+     Hemispherectomy or functional hemispherectomy, for intractable epilepsy, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40706)
+40707
+
+     Vagus nerve stimulation therapy through stimulation of the left vagus nerve, electrical analysis and programming of vagus nerve stimulation therapy device using external wand, for: (a) management of refractory generalised epilepsy; or (b) treatment of refractory focal epilepsy not suitable for resective epilepsy surgery [](/dynamic/MBSItems/BrainNervousSystem/40707)
+40708
+
+     Vagus nerve stimulation therapy through stimulation of the left vagus nerve, surgical replacement of battery in electrical pulse generator inserted for: (a) management of refractory generalised epilepsy; or (b) treating refractory focal epilepsy not suitable for resective epilepsy surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40708)
+40709
+
+     Intracranial electrode placement by burr hole, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40709)
+40712
+
+     Intracranial electrode placement by craniotomy, single or multiple, including stereotactic EEG, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40712)
+40801
+
+     Functional stereotactic procedure including computer assisted anatomical localisation, physiological localisation, and lesion production, by any method, in the basal ganglia, brain stem or deep white matter tracts, other than a service associated with deep brain stimulation for Parkinson’s disease, essential tremor or dystonia (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40801)
+40803
+
+     Intracranial stereotactic procedure by any method, other than: (a) a service to which item 40801 applies; or (b) a service associated with a service to which item 39018, 39109, 39113, 39604, 39615, 39638, 39639, 39641, 39651, 39654, 39656, 39700, 39703, 39710, 39712, 39715, 39718, 39720, 39801, 39803, 39818, 39821, 39900, 39903, 40004, 40012, 40106, 40109, 40700, 40703, 40706, 40709 or 40712 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40803)
+40850
+
+     DEEP BRAIN STIMULATION (unilateral) functional stereotactic procedure including computer assisted anatomical localisation, physiological localisation including twist drill, burr hole craniotomy or craniectomy and insertion of electrodes for the treatment of: Parkinson's disease where the patient's response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or Essential tremor or dystonia where the patient's symptoms cause severe disability (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40850)
+40851
+
+     DEEP BRAIN STIMULATION (bilateral) functional stereotactic procedure including computer assisted anatomical localisation, physiological localisation including twist drill, burr hole craniotomy or craniectomy and insertion of electrodes for the treatment of: Parkinson's disease where the patient's response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or Essential tremor or dystonia where the patient's symptoms cause severe disability. (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40851)
+40852
+
+     DEEP BRAIN STIMULATION (unilateral) subcutaneous placement of neurostimulator receiver or pulse generator for the treatment of: Parkinson's disease where the patient's response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or Essential tremor or dystonia where the patient's symptoms cause severe disability. (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40852)
+40854
+
+     DEEP BRAIN STIMULATION (unilateral) revision or removal of brain electrode for the treatment of: Parkinson's disease where the patient's response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or Essential tremor or dystonia where the patient's symptoms cause severe disability. (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/40854)
+40856
+
+     DEEP BRAIN STIMULATION (unilateral) removal or replacement of neurostimulator receiver or pulse generator for the treatment of: Parkinson's disease where the patient's response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or Essential tremor or dystonia where the patient's symptoms cause severe disability. (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/40856)
+40858
+
+     DEEP BRAIN STIMULATION (unilateral) placement, removal or replacement of extension leadfor the treatment of: Parkinson's disease where the patient's response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or Essential tremor or dystonia where the patient's symptoms cause severe disability. (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/40858)
+40860
+
+     DEEP BRAIN STIMULATION (unilateral) target localisation incorporating anatomical and physiological techniques, including intra-operative clinical evaluation, for the insertion of a single neurostimulation wire for the treatment of: Parkinson's disease where the patient's response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or Essential tremor or dystonia where the patient's symptoms cause severe disability. (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/40860)
+40862
+
+     DEEP BRAIN STIMULATION (unilateral) electronic analysis and programming of neurostimulator pulse generator for the treatment of: Parkinson's disease where the patient's response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or Essential tremor or dystonia where the patient's symptoms cause severe disability. (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/40862)
+40863
+
+     Deep brain stimulation (unilateral), remote electronic analysis and programming of neurostimulator pulse generator for the treatment of: (a) Parkinson’s disease, if the patient’s response to medical therapy is not sustained and is accompanied by unacceptable motor fluctuations; or (b) essential tremor or dystonia, if the patient’s symptoms cause severe disability Applicable not more than 8 times in any 12 month period [](/dynamic/MBSItems/BrainNervousSystem/40863)
+40905
+
+     Craniotomy, performed by a neurosurgeon in conjunction with the correction of craniofacial abnormalities (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/40905)
+41888
+
+     Fractured skull, after trauma only, or spontaneous defects with cerebrospinal fluid rhinorrhoea or otorrhoea, repair of, including stereotaxy and dermofat graft(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/41888)
+43987
+
+     NEUROBLASTOMA, radical excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/43987)
+46364
+
+     Digital sympathectomy of hand, using microsurgical techniques, other than a service associated with a service to which item 30023 or 46363 applies—one digit or palmer arch (or both) or radial or ulnar artery (or both) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/46364)
+51011
+
+     Direct spinal decompression or exposure (via a partial or a total laminectomy or a partial vertebrectomy), or a posterior spinal release, one motion segment, not being a service associated with a service to which item 51012, 51013, 51014 or 51015 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/51011)
+51012
+
+     Direct spinal decompression or exposure (via a partial or a total laminectomy or a partial vertebrectomy), or a posterior spinal release, 2 motion segments, not being a service associated with a service to which item 51011, 51013, 51014 or 51015 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/51012)
+51013
+
+     Direct spinal decompression or exposure (via a partial or a total laminectomy or a partial vertebrectomy), or a posterior spinal release, 3 motion segments, not being a service associated with a service to which item 51011, 51012, 51014 or 51015 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/51013)
+51014
+
+     Direct spinal decompression or exposure (via a partial or a total laminectomy or a partial vertebrectomy), or a posterior spinal release, 4 motion segments, not being a service associated with a service to which item 51011, 51012, 51013 or 51015 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/51014)
+51015
+
+     Direct spinal decompression or exposure (via a partial or a total laminectomy or a partial vertebrectomy), or a posterior spinal release, more than 4 motion segments, not being a service associated with a service to which item 51011, 51012, 51013 or 51014 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/51015)
+52800
+
+     NEUROLYSIS BY OPEN OPERATION, without transposition, not being a service associated with a service to which item 52803 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52800)
+52803
+
+     NERVE TRUNK, internal (interfascicular), NEUROLYSIS of, using microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52803)
+52806
+
+     NEURECTOMY, NEUROTOMY or REMOVAL OF TUMOUR from superficial peripheral nerve (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52806)
+52809
+
+     NEURECTOMY, NEUROTOMY or REMOVAL OF TUMOUR from deep peripheral nerve (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52809)
+52812
+
+     NERVE TRUNK, PRIMARY repair of, using microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52812)
+52815
+
+     NERVE TRUNK, SECONDARY repair of, using microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52815)
+52818
+
+     NERVE, TRANSPOSITION OF (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52818)
+52821
+
+     NERVE GRAFT TO NERVE TRUNK, (cable graft) including harvesting of nerve graft using microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52821)
+52824
+
+     PERIPHERAL BRANCHES OF THE TRIGEMINAL NERVE, cryosurgery of, for pain relief (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52824)
+52826
+
+     INJECTION OF PRIMARY BRANCH OF TRIGEMINAL NERVE with alcohol, cortisone, phenol, or similar substance (Anaes.) [](/dynamic/MBSItems/BrainNervousSystem/52826)
+52828
+
+     CUTANEOUS NERVE,primary repair of, using microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52828)
+52830
+
+     CUTANEOUS NERVE,secondary repair of, using microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52830)
+52832
+
+     CUTANEOUS NERVE, nerve graft to, using microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BrainNervousSystem/52832)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

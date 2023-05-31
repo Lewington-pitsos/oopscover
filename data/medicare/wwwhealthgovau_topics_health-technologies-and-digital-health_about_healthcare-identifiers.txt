@@ -1,0 +1,367 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Health technologies and digital health](/topics/health-technologies-and-digital-health)
+  4. [About health technologies and digital health](/topics/health-technologies-and-digital-health/about)
+
+[About health technologies and digital health](/topics/health-technologies-
+and-digital-health/about)
+
+# Healthcare Identifiers and the Healthcare Identifier Service
+
+A healthcare identifier is a unique number that ensures healthcare providers
+can accurately match records to the person they are treating. The Healthcare
+Identifiers Service is a national system for identifying individuals,
+healthcare providers and organisations, using a healthcare identifier.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Healthcare Identifiers and the Healthcare Identifier Service&url=https://www.health.gov.au/topics/health-technologies-and-digital-health/about/healthcare-identifiers)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/health-technologies-and-digital-health/about/healthcare-identifiers)
+    * [Email](mailto:?subject=Healthcare Identifiers and the Healthcare Identifier Service&body=https://www.health.gov.au/topics/health-technologies-and-digital-health/about/healthcare-identifiers)
+
+Loading...
+
+On this page
+
+## About healthcare identifiers
+
+Healthcare identifiers are unique numbers assigned to:
+
+  * individuals
+  * healthcare providers
+  * organisations that provide health services.
+
+## Healthcare Identifier Service
+
+The Healthcare Identifiers Service (HI Service) allows healthcare providers to
+view a person’s information by using a healthcare identifier to access My
+Health Record.
+
+The HI Service assigns and administers healthcare identifiers. The [Chief
+Executive Medicare](https://www.directory.gov.au/portfolios/social-
+services/chief-executive-medicare) oversees the HI Service.
+
+## Purpose
+
+Healthcare identifiers connect the right information with the right individual
+at the point of care. This gives both health professionals and patients
+confidence that they are using the correct information.
+
+The HI Service:
+
+  * improves safety for patients
+  * increases efficiency for healthcare providers.
+
+One of the users of healthcare identifiers is [My Health
+Record](https://www.myhealthrecord.gov.au/). The My Health Record system uses
+healthcare identifiers because anyone receiving healthcare in Australia can be
+assigned a healthcare identifier.
+
+## Types
+
+The HI Service has 3 types of healthcare identifiers.
+
+### Individual Healthcare Identifier
+
+An [Individual Healthcare
+Identifier](https://www.servicesaustralia.gov.au/individual-healthcare-
+identifiers) (IHI) is a unique 16-digit number used to identify an individual
+for health care purposes. As part of the HI Service, every Australian resident
+has a unique IHI.
+
+IHIs provide a way for healthcare providers to match the right records to the
+right person. This helps avoid medical mix-ups or a person’s information
+appearing on another patient’s medical record. A healthcare identifier record
+includes basic information about a person, such as their:
+
+  * name
+  * date of birth
+  * gender.
+
+It may also include a person’s:
+
+  * address
+  * Medicare number
+  * Department of Veterans’ Affairs file number
+  * aliases.
+
+You already have an IHI if any of the following apply:
+
+  * you have a Medicare card
+  * you have a DVA card
+  * you’re enrolled in Medicare.
+
+If you don’t have an IHI, you can [apply for
+one](https://www.servicesaustralia.gov.au/how-to-get-individual-healthcare-
+identifier). Once you have an IHI, you don’t need to do anything further.
+
+### Healthcare Provider Identifier – Individual
+
+A [Healthcare Provider Identifier –
+Individual](https://www.servicesaustralia.gov.au/healthcare-identifiers-
+service-for-health-professionals) (HPI-I) is for healthcare professionals
+involved in providing patient care.
+
+### Healthcare Provider Identifier – Organisation
+
+A [Healthcare Provider Identifier –
+Organisation](https://www.servicesaustralia.gov.au/how-to-apply-for-hi-
+service-for-organisations) (HPI-O) for organisations that deliver health care
+(such as hospitals or general practices).
+
+## How to get a HPI-I or HPI-O
+
+See [how to apply for a healthcare
+identifier](https://www.servicesaustralia.gov.au/apply-to-access-hi-service).
+
+## Healthcare Identifiers Framework Project
+
+Healthcare identifiers allow the secure exchange of health information for
+things like My Health Record and [electronic prescribing](/our-
+work/electronic-prescribing "Electronic prescribing"). However broad adoption
+of the identifiers has been slow.
+
+### Purpose of the project
+
+The Healthcare Identifiers Framework Project aims to increase the use of
+healthcare identifiers.
+
+The main objective of the project is to:
+
+  * ensure the HI Act and HI Service work in a modern healthcare environment
+  * give regulatory support to deliver high-quality healthcare services
+  * meet strategic, policy, program, and operational goals. 
+
+We want to ensure the use of identifiers across:
+
+  * health
+  * aged care
+  * disability care
+  * allied health
+  * other healthcare programs and services.
+
+This will:
+
+  * allow your health information to follow you from service to service ­ – for example, your GP to a specialist
+  * make your Individual Healthcare Identifier the number most (or all) of your healthcare team use to identify you.
+
+### Funding
+
+The Australian Government is funding the project under the Health Delivery
+Modernisation (HDM) program. This program will give new digital health
+services and continue to modernise health payment systems.
+
+### **Public consultation**
+
+Between December 2022 and March 2023, the Healthcare Identifiers Framework
+Project consulted with a broad range of stakeholders through a public
+consultation. The consultation covered possible legislative amendments and
+policy changes to the HI Act and HI Service to increase the use of Healthcare
+Identifiers.
+
+Stakeholders can view the public consultation through [Citizen
+Space](https://consultations.health.gov.au/digital-health/healthcare-
+identifiers-framework-project/).
+
+We also held a series of webinars during this period to support the
+consultation process on the following dates:
+
+  * Thursday 15 December 2022
+  * Wednesday 18 January 2023
+  * Wednesday 8 February
+  * Thursday 23 February 2023.
+
+Learn more about the project and proposed legislation changes by [listening
+our webinar recordings.](https://consultations.health.gov.au/digital-
+health/healthcare-identifiers-framework-project/#related)
+
+The project will continue to engage with stakeholders over the next 12 months
+as we consider proposed changes to the HI Framework.
+
+Contact us for enquiries by emailing
+[HIFrameworkProject@Health.gov.au](mailto:HIFrameworkProject@Health.gov.au).
+
+## **Data use, security and governance**
+
+### **Use and storage**
+
+Individuals via [My Health Record](https://www.myhealthrecord.gov.au/) and
+healthcare providers via various clinical systems, use healthcare identifiers
+to ensure information is accurate and up to date. Healthcare identifier
+information is stored in the [HI
+Service](https://www.servicesaustralia.gov.au/about-healthcare-identifier-
+service), which is administered by Services Australia.
+
+All healthcare identifier information is stored in strict compliance with
+security and privacy controls (see below).
+
+### **Governance**
+
+The [Office of the Australian Information
+Commissioner](https://www.oaic.gov.au/) (OAIC) is the independent regulator of
+the privacy aspects of the [Healthcare Identifiers Act 2010
+](https://www.legislation.gov.au/Details/C2021C00492)(HI Act). It also
+monitors the HI Service and handles complaints.
+
+### **Security and privacy**
+
+The HI Service protects individual privacy through legislation and technical
+security and access controls.
+
+The [Healthcare Identifiers Act
+2010](https://www.legislation.gov.au/Details/C2021C00492) specifies that
+healthcare identifiers can be used for healthcare and related management
+purposes, with penalties in place for misuse.
+
+Find out more about:
+
+  * [how authorised persons can access the HI Service](https://www.servicesaustralia.gov.au/creating-or-updating-authorised-employees-register-healthcare-identifiers-hi-service?context=22876)
+  * [healthcare identifiers and the HI Service](https://www.oaic.gov.au/privacy/other-legislation/healthcare-identifiers)
+  * The OIAC [Privacy guidance regarding Individual Healthcare Identifiers (IHIs) on COVID-19 digital vaccination certificates](https://www.oaic.gov.au/privacy/guidance-and-advice/privacy-guidance-regarding-individual-healthcare-identifiers-ihis-on-covid-19-digital-vaccination-certificates).
+
+## **Reviews**
+
+At the end of each financial year, the HI service operator reports on its:
+
+  * activities
+  * finances
+  * operations.
+
+The Ministerial Council and the Minister for Health review the annual reports,
+which are available from [Services
+Australia](https://www.servicesaustralia.gov.au/healthcare-identifiers-
+service-annual-reports?context=22876).
+
+## Contact
+
+![](/themes/custom/hga/images/contact-default-icon.png)
+
+###  [ Healthcare Identifier Service contact ](/contacts/healthcare-
+identifier-service-contact?language=en)
+
+The Healthcare Identifiers Service (HI Service) allows healthcare providers to
+access a person’s information by using a healthcare identifier. If you have
+any questions, contact the Healthcare Identifier Service team Monday to Friday
+from 8.30 am to 5 pm AEST.
+
+[healthcareidentifiers@servicesaustralia.gov.au](mailto:healthcareidentifiers@servicesaustralia.gov.au)
+
+[1300 361 457](tel:1300 361 457)
+
+Last updated:
+
+10 May 2023
+
+Tags:
+
+  * [Health technologies and digital health](/topics/health-technologies-and-digital-health)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Health technologies and digital health](/topics/health-technologies-and-
+digital-health)
+
+  * [About health technologies and digital health](/topics/health-technologies-and-digital-health/about)
+    * [Healthcare identifiers](/topics/health-technologies-and-digital-health/about/healthcare-identifiers)
+    * [Electronic health records](/topics/health-technologies-and-digital-health/about/electronic-health-records)
+    * [Electronic prescriptions](/topics/health-technologies-and-digital-health/about/electronic-prescriptions)
+    * [Telehealth](/topics/health-technologies-and-digital-health/about/telehealth)
+  * [What we do](/topics/health-technologies-and-digital-health/what-we-do)
+  * [Health technology assessments (HTAs)](/topics/health-technologies-and-digital-health/health-technology-assessments)
+  * [News](/topics/health-technologies-and-digital-health/news)
+  * [Initiatives and programs](/topics/health-technologies-and-digital-health/initiatives-and-programs)
+  * [Resources](/topics/health-technologies-and-digital-health/resources)
+  * [Contacts](/topics/health-technologies-and-digital-health/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

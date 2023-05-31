@@ -1,0 +1,387 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Diagnostic imaging](/topics/diagnostic-imaging)
+
+[Diagnostic imaging](/topics/diagnostic-imaging)
+
+# What we’re doing about diagnostic imaging
+
+We support access to high quality diagnostic imaging services through
+Medicare. Learn about how we provide subsidies and ensure diagnostic imaging
+equipment is up to date.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=What we’re doing about diagnostic imaging&url=https://www.health.gov.au/topics/diagnostic-imaging/what-were-doing-about-diagnostic-imaging?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/diagnostic-imaging/what-were-doing-about-diagnostic-imaging?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation)
+    * [Email](mailto:?subject=What we’re doing about diagnostic imaging&body=https://www.health.gov.au/topics/diagnostic-imaging/what-were-doing-about-diagnostic-imaging?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation)
+
+Loading...
+
+On this page
+
+## Medicare subsidies for diagnostic imaging
+
+For services listed on the Medicare Benefits Schedule (MBS), [Medicare covers
+some or all of the costs](https://www.servicesaustralia.gov.au/screening-
+tests-and-scans-covered-medicare?context=60092#a5) of:
+
+  * CT scans 
+
+  * nuclear medicine scans 
+
+  * MRI scans 
+
+  * ultrasounds 
+
+  * X-rays. 
+
+Only accredited practices can provide Medicare-eligible services.
+
+## Helping people find diagnostic imaging services
+
+We maintain a [list of accredited MRI and PET units](/topics/diagnostic-
+imaging/MRI-and-PET-locations "MRI and PET unit locations in Australia")
+across Australia.
+
+Some MRI units have partial Medicare eligibility and can only perform a small
+set of specific services listed on the MBS.
+
+You can also get help with diagnostic imaging from [Services
+Australia](https://www.servicesaustralia.gov.au/screening-tests-and-scans-
+covered-medicare?context=60092).
+
+## Providing information on costs
+
+Diagnostic imaging providers set their own fees. Before your scan, ask about
+the costs. If the provider chooses to bulk bill you, you won’t pay any out-of-
+pocket costs.
+
+To find the the Medicare subsidy for a diagnostic imaging service, you can
+look up its [Medicare Benefits Schedule (MBS) item
+number](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home).
+Note that some items may have restrictions that can relate to gender, age,
+frequency of services and requestor requirements. These restrictions are based
+on clinical evidence.
+
+Service type
+
+|
+
+MBS item numbers  
+  
+---|---  
+  
+Ultrasound
+
+|
+
+55028–55895  
+  
+Computed tomography (CT)
+
+|
+
+56001–57364  
+  
+Diagnostic radiology (including x-ray)
+
+|
+
+57506–61109  
+  
+Nuclear medicine (including PET)
+
+|
+
+61310–61650  
+  
+MRI (magnetic resonance imaging)
+
+|
+
+63001–63743  
+  
+Management of bulk-billed services
+
+|
+
+64990–64995  
+  
+You can also use the [Medical Costs
+Finder](https://www.health.gov.au/resources/apps-and-tools/medical-costs-
+finder) to search for medical services or MBS items, including some diagnostic
+imaging.
+
+## Ensuring providers update equipment
+
+Service providers need special equipment and training to operate the equipment
+and interpret the diagnostic images created.
+
+Once equipment has reached the [end of its expected
+life](http://www9.health.gov.au/mbs/fullDisplay.cfm?type=note&q=IN.0.5),
+Medicare no longer pays any benefits for imaging taken using that piece of
+equipment. This is called ‘capital sensitivity’. It ensures practices
+regularly upgrade and replace their equipment, so that patients have access to
+the highest possible quality services. Capital sensitivity does not apply to
+PET equipment.
+
+We assign diagnostic imaging equipment (excluding PET scanning equipment) a
+lifespan to ensure equipment is up to date.
+
+If the equipment is new, we calculate its age from the date it was first
+installed.
+
+If the equipment is used, we calculate its age from the date:
+
+  * of first use in Australia (for equipment previously used in Australia) 
+
+  * of manufacture of its oldest component (for equipment previously used outside Australia). 
+
+Service providers can upgrade their equipment to improve its overall
+performance, so it is equal to new equipment supplied in Australia at the
+time. Service providers must keep records such as:
+
+  * suppliers’ technical brochures or quotes 
+
+  * service installation reports 
+
+  * purchase orders
+
+  * invoices confirming that the relevant upgrade(s) have been completed. 
+
+Practices must keep their Location Specific Practice Number (LSPN) record [up
+to date](https://www.servicesaustralia.gov.au/medicare-eligibility-to-provide-
+diagnostic-imaging-and-radiation-oncology-services?utm_id=9#a6).
+
+Equipment
+
+|
+
+Effective lifespan (years)
+
+|
+
+Maximum extended lifespan (years)  
+  
+---|---|---  
+  
+Ultrasound
+
+|
+
+10
+
+|
+
+15  
+  
+Computed tomography (CT)
+
+|
+
+10
+
+|
+
+15  
+  
+Other diagnostic radiology (x-ray)
+
+|
+
+15
+
+|
+
+20  
+  
+Orthopantomogram (OPG)
+
+|
+
+15
+
+|
+
+20  
+  
+Mammography
+
+|
+
+10
+
+|
+
+15  
+  
+Fluoroscopy
+
+|
+
+15
+
+|
+
+20  
+  
+Nuclear medicine (excluding PET)
+
+|
+
+10
+
+|
+
+15  
+  
+Magnetic resonance imaging (MRI)
+
+|
+
+10
+
+|
+
+20  
+  
+Angiography
+
+|
+
+10
+
+|
+
+15  
+  
+We may grant exemptions from capital sensitivity arrangements where:
+
+  * the equipment has not yet reached its effective life age or maximum extended life age; and 
+
+  * due to circumstances beyond the control of the practice, the practice will be unable to replace or upgrade the equipment before it has reached its effective life age or maximum extended life age. 
+
+If this is your first application for consideration of an exemption to a
+machine, then please fill out the initial exemption application form.
+
+Initial applications for an exemption must be submitted using the [application
+form – capital sensitivity – initial
+exemption](/resources/publications/capital-sensitivity-exemption-initial-
+application "Capital sensitivity exemption – Initial application").
+
+If the equipment already has an existing exemption and more time is needed,
+then please fill out the [subsequent exemption application
+form](/resources/publications/capital-sensitivity-exemption-subsequent-
+application "Capital sensitivity exemption – Subsequent application").
+
+Last updated:
+
+21 September 2022
+
+Tags:
+
+  * [Diagnostic imaging](/topics/diagnostic-imaging)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Diagnostic imaging](/topics/diagnostic-imaging)
+
+  * [About](/topics/diagnostic-imaging/about)
+  * [What we’re doing about diagnostic imaging](/topics/diagnostic-imaging/what-were-doing-about-diagnostic-imaging)
+  * [MRI and PET unit locations](/topics/diagnostic-imaging/MRI-and-PET-locations)
+  * [Resources](/topics/diagnostic-imaging/resources)
+  * [Contacts](/topics/diagnostic-imaging/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

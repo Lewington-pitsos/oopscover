@@ -1,0 +1,238 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Pregnancy and birth - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+16400
+
+     ANTENATAL CARE Antenatal service provided by a midwife, nurse or an Aboriginal and Torres Strait Islander health practitionerif: (a) the service is provided on behalf of, and under the supervision of, a medical practitioner; (b) the service is provided at, or from, a practice location in a regional, rural or remote area; (c) the service is not performed in conjunction with another antenatal attendance item (same patient, same practitioner on the same day); (d) the service is not provided for an admitted patient of a hospital; and to a maximum of 10 service per pregnancy [](/dynamic/MBSItems/PregnancyBirth/16400)
+16401
+
+     Professional attendance at consulting rooms or a hospital by a specialist in the practice of his or her specialty of obstetrics, after referral of the patient to him or her - each attendance, other than a second or subsequent attendance in a single course of treatment [](/dynamic/MBSItems/PregnancyBirth/16401)
+16404
+
+     Professional attendance at consulting rooms or a hospital by a specialist in the practice of his or her specialty of obstetrics after referral of the patient to him or her - each attendance SUBSEQUENT to the first attendance in a single course of treatment. [](/dynamic/MBSItems/PregnancyBirth/16404)
+16406
+
+     Antenatal professional attendance, by an obstetrician or general practitioner, as part of a single course of treatment when the patient is referred by a participating midwife. Payable only once for a pregnancy [](/dynamic/MBSItems/PregnancyBirth/16406)
+16407
+
+     Postnatal professional attendance (other than a service to which any other item applies) if the attendance: (a) is by an obstetrician or general practitioner; and (b) is in hospital or at consulting rooms; and (c) is between 4 and 8 weeks after the birth; and (d) lasts at least 20 minutes; and (e) includes a mental health assessment (including screening for drug and alcohol use and domestic violence) of the patient; and (f) is for a pregnancy in relation to which a service to which item 82140 applies is not provided Payable once only for a pregnancy [](/dynamic/MBSItems/PregnancyBirth/16407)
+16408
+
+     Postnatal attendance (other than attendance at consulting rooms, a hospital or a residential aged care facility or a service to which any other item applies) if the attendance: (a) is by: (i) a midwife (on behalf of and under the supervision of the medical practitioner who attended the birth); or (ii) an obstetrician; or (iii) a general practitioner; and (b) is between 1 week and 4 weeks after the birth; and (c) lasts at least 20 minutes; and (d) is for a patient who was privately admitted for the birth; and (e) is for a pregnancy in relation to which a service to which item 82130, 82135 or 82140 applies is not provided Payable once only for a pregnancy [](/dynamic/MBSItems/PregnancyBirth/16408)
+16500
+
+     ANTENATAL ATTENDANCE [](/dynamic/MBSItems/PregnancyBirth/16500)
+16501
+
+     EXTERNAL CEPHALIC VERSION for breech presentation, after 36 weeks where no contraindication exists, in a Unit with facilities for Caesarean Section, including pre- and post version CTG, with or without tocolysis, not being a service to which items 55718 to 55728 and 55768 to 55774 apply - chargeable whether or not the version is successful and limited to a maximum of 2 ECV's per pregnancy [](/dynamic/MBSItems/PregnancyBirth/16501)
+16502
+
+     POLYHYDRAMNIOS, UNSTABLE LIE, MULTIPLE PREGNANCY, PREGNANCY COMPLICATED BY DIABETES OR ANAEMIA, THREATENED PREMATURE LABOUR treated by bed rest only or oral medication, requiring admission to hospitaleach attendance that is not a routine antenatal attendance, to a maximum of 1 visit per day [](/dynamic/MBSItems/PregnancyBirth/16502)
+16505
+
+     THREATENED ABORTION, THREATENED MISCARRIAGE OR HYPEREMESIS GRAVIDARUM, requiring admission to hospital, treatment ofeach attendance that is not a routine antenatal attendance [](/dynamic/MBSItems/PregnancyBirth/16505)
+16508
+
+     Pregnancy complicatedby acute intercurrent infection, fetal growth restriction, threatened premature labour with ruptured membranes or threatened premature labour treated by intravenous therapy, requiring admission to hospital - each professional attendance (other than a service to which item 16533 applies) that is not a routine antenatal attendance, to a maximum of one visit per day [](/dynamic/MBSItems/PregnancyBirth/16508)
+16509
+
+     Pre-eclampsia,eclampsia or antepartum haemorrhage, treatment of- each professional attendance (other than a service to which item 16534 applies) that is not a routine antenatal attendance [](/dynamic/MBSItems/PregnancyBirth/16509)
+16511
+
+     CERVIX, purse string ligation of (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16511)
+16512
+
+     CERVIX, removal of purse string ligature of (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16512)
+16514
+
+     ANTENATAL CARDIOTOCOGRAPHY in the management of high risk pregnancy (not during the course of the confinement) [](/dynamic/MBSItems/PregnancyBirth/16514)
+16515
+
+     Management of vaginal birth as an independent procedure, ifthe patient's care has been transferred by another medical practitioner for management of the birth and the attending medical practitioner has not provided antenatal care to the patient, including all attendances related to the birth (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16515)
+16518
+
+     Management of labour, incomplete, if the patient's care has been transferred to another medical practitioner for completion of the birth (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16518)
+16519
+
+     Management of labourand birth by any means (including Caesarean section) including post-partum care for 5 days (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16519)
+16520
+
+     Caesarean section and post-operative care for 7 days, if the patient’s care has been transferred by another medical practitioner for management of the confinement and the attending medical practitioner has not provided any of the antenatal care (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16520)
+16522
+
+     Management of labour and birth, or birth alone, (including caesarean section), on or after 23 weeks gestation, if in the course of antenatal supervision or intrapartum management one or more of the following conditions is present, including postnatal care for 7 days: (a) fetal loss; (b) multiple pregnancy; (c) antepartum haemorrhage that is: (i) of greater than 200 ml; or (ii) associated with disseminated intravascular coagulation; (d) placenta praevia on ultrasound in the third trimester with the placenta within 2 cm of the internal cervical os; (e) baby with a birth weight less than or equal to 2,500 g; (f) trial of vaginal birth in a patient with uterine scar where there has been a planned vaginal birth after caesarean section; (g) trial of vaginal breech birth where there has been a planned vaginal breech birth; (h) prolonged labour greater than 12 hours with partogram evidence of abnormal cervimetric progress as evidenced by cervical dilatation at less than 1 cm/hr in the active phase of labour (after 3 cm cervical dilatation and effacement until full dilatation of the cervix); (i) acute fetal compromise evidenced by: (i) scalp pH less than 7.15; or (ii) scalp lactate greater than 4.0; (j) acute fetal compromise evidenced by at least one of the following significant cardiotocograph abnormalities: (i) prolonged bradycardia (less than 100 bpm for more than 2 minutes); (ii) absent baseline variability (less than 3 bpm); (iii) sinusoidal pattern; (iv) complicated variable decelerations with reduced (3 to 5 bpm) or absent baseline variability; (v) late decelerations; (k) pregnancy induced hypertension of at least 140/90 mm Hg associated with: (i) at least 2+ proteinuria on urinalysis; or (ii) protein-creatinine ratio greater than 30 mg/mmol; or (iii) platelet count less than 150 x 109/L; or (iv) uric acid greater than 0.36 mmol/L; (l) gestational diabetes mellitus requiring at least daily blood glucose monitoring; (m) mental health disorder (whether arising prior to pregnancy, during pregnancy or postpartum) that is demonstrated by: (i) the patient requiring hospitalisation; or (ii) the patient receiving ongoing care by a psychologist or psychiatrist to treat the symptoms of a mental health disorder; or (iii) the patient having a GP mental health treatment plan; or (iv) the patient having a management plan prepared in accordance with item 291; (n) disclosure or evidence of domestic violence; (o) any of the following conditions either diagnosed pre-pregnancy or evident at the first antenatal visit before 20 weeks gestation: (i) pre-existing hypertension requiring antihypertensive medication prior to pregnancy; (ii) cardiac disease (co-managed with a specialist physician and with echocardiographic evidence of myocardial dysfunction); (iii) previous renal or liver transplant; (iv) renal dialysis; (v) chronic liver disease with documented oesophageal varices; (vi) renal insufficiency in early pregnancy (serum creatinine greater than 110 mmol/L); (vii) neurological disorder that confines the patient to a wheelchair throughout pregnancy; (viii) maternal height of less than 148 cm; (ix) a body mass index greater than or equal to 40; (x) pre-existing diabetes mellitus on medication prior to pregnancy; (xi) thyrotoxicosis requiring medication; (xii) previous thrombosis or thromboembolism requiring anticoagulant therapy through pregnancy and the early puerperium; (xiii) thrombocytopenia with platelet count of less than 100,000 prior to 20 weeks gestation; (xiv) HIV, hepatitis B or hepatitis C carrier status positive; (xv) red cell or platelet iso-immunisation; (xvi) cancer with metastatic disease; (xvii) illicit drug misuse during pregnancy (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16522)
+16527
+
+     Management of vaginal birth, if the patient's care has been transferred by a participating midwife for management of the birth, including all attendances related to the birth.Payable once only for a pregnancy. (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16527)
+16528
+
+     Caesarean section and post-operative care for 7 days, if the patient's care has been transferred by a participating midwife for management of the birth.Payable once only for a pregnancy. (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16528)
+16533
+
+     Pregnancy complicated by acute intercurrent infection, fetal growth restriction, threatened premature labour with ruptured membranes or threatened premature labour treated by intravenous therapy, requiring admission to hospital—each professional attendance lasting at least 40 minutes that is not a routine antenatal attendance, to a maximum of 3 services per pregnancy [](/dynamic/MBSItems/PregnancyBirth/16533)
+16534
+
+     Pre-eclampsia, eclampsia or antepartum haemorrhage, treatment of—each professional attendance lasting at least 40 minutes that is not a routine antenatal attendance, to a maximum of 3 services per pregnancy [](/dynamic/MBSItems/PregnancyBirth/16534)
+16564
+
+     POST-PARTUM CARE EVACUATION OF RETAINED PRODUCTS OF CONCEPTION (placenta, membranes or mole) as a complication of confinement, with or without curettage of the uterus, as an independent procedure (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16564)
+16567
+
+     MANAGEMENT OF POSTPARTUM HAEMORRHAGE by special measures such as packing of uterus, as an independent procedure (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16567)
+16570
+
+     ACUTE INVERSION OF THE UTERUS, vaginal correction of, as an independent procedure (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16570)
+16571
+
+     CERVIX, repair of extensive laceration or lacerations (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16571)
+16573
+
+     THIRD DEGREE TEAR, involving anal sphincter muscles and rectal mucosa, repair of, as an independent procedure (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16573)
+16590
+
+     Planning and management, by a practitioner, of a pregnancy if: (a) the practitioner intends to take primary responsibility for management of the pregnancy and any complications, and to be available for the birth; and (b) the patient intends to be privately admitted for the birth; and (c) the pregnancy has progressed beyond 28 weeks gestation; and (d) the practitioner has maternity privileges at a hospital or birth centre; and (e) the service includes a mental health assessment (including screening for drug and alcohol use and domestic violence) of the patient; and (f) a service to which item 16591 applies is not provided in relation to the same pregnancy Payable once only for a pregnancy [](/dynamic/MBSItems/PregnancyBirth/16590)
+16591
+
+     Planning and management, by a practitioner, of a pregnancy if: (a) the pregnancy has progressed beyond 28 weeks gestation; and (b) the service includes a mental health assessment (including screening for drug and alcohol use and domestic violence) of the patient; and (c) a service to which item 16590 applies is not provided in relation to the same pregnancy Payable once only for a pregnancy [](/dynamic/MBSItems/PregnancyBirth/16591)
+16600
+
+     INTERVENTIONAL TECHNIQUES AMNIOCENTESIS, diagnostic [](/dynamic/MBSItems/PregnancyBirth/16600)
+16603
+
+     CHORIONIC VILLUS SAMPLING, by any route [](/dynamic/MBSItems/PregnancyBirth/16603)
+16606
+
+     Fetal blood sampling, using interventional techniques from umbilical cord or fetus, including fetal neuromuscular blockade and amniocentesis (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16606)
+16609
+
+     FOETAL INTRAVASCULAR BLOOD TRANSFUSION, using blood already collected, including neuromuscular blockade, amniocentesis and foetal blood sampling (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16609)
+16612
+
+     FOETAL INTRAPERITONEAL BLOOD TRANSFUSION, using blood already collected, including neuromuscular blockade, amniocentesis and foetal blood sampling - not performed in conjunction with a service described in item 16609 (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16612)
+16615
+
+     FOETAL INTRAPERITONEAL BLOOD TRANSFUSION, using blood already collected, including neuromuscular blockade, amniocentesis and foetal blood sampling - performed in conjunction with a service described in item 16609 (Anaes.) [](/dynamic/MBSItems/PregnancyBirth/16615)
+16618
+
+     AMNIOCENTESIS, THERAPEUTIC, when indicated because of polyhydramnios with at least 500ml being aspirated [](/dynamic/MBSItems/PregnancyBirth/16618)
+16621
+
+     AMNIOINFUSION, for diagnostic or therapeutic purposes in the presence of severe oligohydramnios [](/dynamic/MBSItems/PregnancyBirth/16621)
+16624
+
+     FOETAL FLUID FILLED CAVITY, drainage of [](/dynamic/MBSItems/PregnancyBirth/16624)
+16627
+
+     FETO-AMNIOTIC SHUNT, insertion of, into fetal fluid filled cavity, including neuromuscular blockade and amniocentesis [](/dynamic/MBSItems/PregnancyBirth/16627)
+82100
+
+     Initial antenatal professional attendance by a participating midwife, lasting at least 40 minutes, including all of the following: (a)taking a detailed patient history; (b)performing a comprehensive examination; (c)performing a risk assessment; (d)based on the risk assessment - arranging referral or transfer of the patient's care to an obstetrician; (e)requesting pathology and diagnostic imaging services, when necessary; (f)discussing with the patient the collaborative arrangements for her maternity care and recording the arrangements in the midwife's written records in accordance with section 6 of the Health Insurance Regulations 2018. Payable once only for any pregnancy. [](/dynamic/MBSItems/PregnancyBirth/82100)
+82105
+
+     Short antenatal professional attendance by a participating midwife, lasting up to 40 minutes. [](/dynamic/MBSItems/PregnancyBirth/82105)
+82110
+
+     Long antenatal professional attendance by a participating midwife, lasting at least 40 minutes. [](/dynamic/MBSItems/PregnancyBirth/82110)
+82115
+
+     Professional attendance by a participating midwife, lasting at least 90 minutes, for assessment and preparation of a maternity care plan for a patient whose pregnancy has progressed beyond 28 weeks, where the participating midwife has had at least 2 antenatal attendances with the patient in the preceding 6 months, if: (a) the patient is not an admitted patient of a hospital; and (b) the participating midwife undertakes a comprehensive assessment of the patient; and (c) the participating midwife develops a written maternity care plan that contains: (i) outcomes of the assessment; and (ii) details of agreed expectations for care during pregnancy, labour and birth; and (iii) details of any health problems or care needs; and (iv) details of collaborative arrangements that apply to the patient; and (v) details of any medication taken by the patient during the pregnancy, and any additional medication that may be required by the patient; and (vi) details of any referrals or requests for pathology services or diagnostic imaging services for the patient during the pregnancy, and any additional referrals or requests that may be required for the patient; and (d) the maternity care plan is explained and agreed with the patient; and (e) the fee does not include any amount for the management of labour and birth; (Includes any antenatal attendance provided on the same occasion) Payable only once for any pregnancy; This item cannot be claimed if items 16590 or 16591 have previously been claimed during a single pregnancy, except in exceptional circumstances [](/dynamic/MBSItems/PregnancyBirth/82115)
+82116
+
+     Management of labour for up to 6 hours, not including birth, at a place other than a hospital if: (a) the attendance is by the participating midwife who: (i) provided the patient's antenatal care or (ii) is a member of a practice that has provided the patient's antenatal care; and (b) the total attendance time is documented in the patient notes; This item does not apply if birth is performed during the attendance; Only claimable once per pregnancy [](/dynamic/MBSItems/PregnancyBirth/82116)
+82118
+
+     Management of labour for up to 6 hours total attendance, including birth where performed or attendance and immediate post-birth care at an elective caesarean section if: (a) the patient is an admitted patient of a hospital; and (b) the attendance is by the first participating midwife who: (i) assisted or provided the patient's antenatal care; or (ii) is a member of a practice that has provided the patient's antenatal care; and (c) the total attendance time is documented in the patient notes. (Includes all hospital attendances related to the labour by the first participating midwife) Only claimable once per pregnancy; Not being a service associated with a service to which item 82120 applies (H) [](/dynamic/MBSItems/PregnancyBirth/82118)
+82120
+
+     Management of labour between 6 and 12 hours total attendance, including birth where performed, if: (a) the patient is an admitted patient of a hospital; and (b) the attendance is by the first participating midwife who: (i) assisted or provided the patient’s antenatal care; or (ii) is a member of a practice that provided the patient’s antenatal care; and (c) the total attendance time is documented in the patient notes; (Includes all hospital attendances related to the labour by the first participating midwife) Only claimable once per pregnancy; Not being a service associated with a service to which item 82118 applies (H) [](/dynamic/MBSItems/PregnancyBirth/82120)
+82123
+
+     Management of labour for up to 6 hours total attendance, including birth where performed if: (a) the patient is an admitted patient of a hospital; and (b) the attendance is by the second participating midwife who either: (i) assisted or provided the patient's antenatal care; or (ii) is a member of a practice that has provided the patient's antenatal care; and (c) the total attendance time is documented in the patient notes; (Includes all hospital attendances related to the labour by the second participating midwife) Only claimable once per pregnancy; Not being a service associated with a service to which item 82125 applies (H) [](/dynamic/MBSItems/PregnancyBirth/82123)
+82125
+
+     Management of labour between 6 and 12 hours total attendance, including birth where performed, if: (a) the patient is an admitted patient of a hospital; and (b) the attendance is by the second participating midwife who either: (i) assisted or provided the patient’s antenatal care; or (ii) is a member of a practice that provided the patient’s antenatal care; and (c) the total attendance time is documented in the patient notes; (Includes all hospital attendances related to the labour by the second participating midwife) Only claimable once per pregnancy; Not being a service associated with a service to which item 82123 or 82127 applies (H) [](/dynamic/MBSItems/PregnancyBirth/82125)
+82127
+
+     Management of labour for up to 6 hours total attendance, including birth where performed if: (a) the patient is an admitted patient of a hospital; and (b) the attendance is by a third participating midwife who either: (i) assisted or provided the patient's antenatal care; or (ii) is a member of a practice that has provided the patient's antenatal care; and (c) an attendance to which item 82123 applies has been provided by a second participating midwife who is a member of a practice that has provided the patient's antenatal care; and (d) the total attendance time is documented in the patient notes; (Includes all hospital attendances related to the labour by the third participating midwife) Only claimable once per pregnancy; Not being a service associated with a service to which item 82125 applies (H) [](/dynamic/MBSItems/PregnancyBirth/82127)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

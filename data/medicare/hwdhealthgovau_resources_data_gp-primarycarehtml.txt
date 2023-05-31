@@ -1,0 +1,84 @@
+Skip to main content Skip to main navigation
+
+[ ![Australia Government Department of Health and Aged Care](
+
+                  ../../images/DoHCrest-white.png
+  ) ![Health Workforce Data](../../images/hwd-icon-light.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [Using our website](../../using-our-website/using.html)
+  * [Contact Us](../../contactus)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](../../)
+  * [Data Tool](../../datatool)
+  * [Resources](../)
+  * [HeaDS UPP](../../headsupp)
+
+# General Practice Workforce providing Primary Care services in Australia
+
+### Downloads
+
+The Department of Health and Aged Care manages workforce data collections
+which describe the characteristics of the general practice workforce providing
+primary care services.
+
+Statistics are presented by State and Territory and Remoteness Area. More
+detailed statistics by patient age group or the sex of the general
+practitioner are available for select statistics.
+
+For background information on how the metrics are calculated, [Method papers
+for counting General Practitioners delivering primary care
+services](../information/methods-gp-workload.html).
+
+### Annual Statistics Coverage
+
+  * Number of GPs providing primary care services
+  * Number of services by GPs providing primary care services
+  * GP Full Time Equivalent
+
+> Please note: As part of the February 2023 updates to the General Practice
+> workforce statistics all historical financial year and calendar year data
+> has been revised. This revision is due to method updates to who is
+> considered a GP in the Medicare dataset, and some updates to the GP FTE
+> calculation to account for temporary COVID related items. The revision has
+> resulted in minor changes to some measure values. If you have previously
+> downloaded the data, we strongly recommend you use the latest version
+> published.
+
+### Resources
+
+  * [Publications](../../resources/index.html?resourcetype=publications)
+  * [Dashboards](../../resources/index.html?resourcetype=dashboards)
+  * [Data](../../resources/index.html?resourcetype=data)
+  * [Information](../../resources/index.html?resourcetype=information)
+
+### Applications
+
+  * [Data Tool](../../datatool/index.html)
+  * [HeaDS UPP](../../headsupp/index.html)
+
+### Contact us
+
+  * [Contact Us](../../contactus/index.html)
+
+### Using our website
+
+  * [Using our website](../../using-our-website/using.html)
+  * [Accessibility](../../using-our-website/accessibility.html)
+  * [Copyright](../../using-our-website/copyright.html)
+  * [Disclaimer](../../using-our-website/disclaimer.html)
+  * [Privacy](../../using-our-website/privacy.html)
+
+Â© Commonwealth of Australia
+
+Back to top
+

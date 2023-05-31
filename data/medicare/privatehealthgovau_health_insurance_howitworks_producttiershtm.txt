@@ -1,0 +1,277 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Private Health Insurance works in Australia.")
+    * [Overview of Health System](/health_insurance/what_is_covered/index.htm "An overview of what is covered by private health insurance and what is covered by Medicare for hospital, medical services \(general treatment\), pharmaceutical benefits and ambulance.")
+    * [Private Health Insurance Basics](/health_insurance/howitworks/index.htm "Describes how health insurance works, the different levels \(categories\) of cover for both hospital and general treatment \(ancillary/extras\).")
+      * [Product tiers](/health_insurance/howitworks/producttiers.htm "Four new tiers of hospital cover will begin rolling out from early 2019 and will become mandatory from 1 April 2020. All hospital insurance policies will be classified as Gold, Silver, Bronze or Basic. All hospital treatments are now listed under clinical categories to describe what is and is not covered under each policy.")
+      * [Clinical categories](/health_insurance/howitworks/clinical_categories.htm "Details of what is and is not covered by the clinical categories, with links to their MBS item numbers.")
+      * [General Treatments](/health_insurance/howitworks/treatments.htm "Definitions of some services covered under General treatment private health insurance in Australia.")
+      * [Registered health insurers](/health_insurance/howitworks/registeredinsurers.htm "Overview of the operation of health insurers registered under the Private Health Insurance Act 2007 in Australia")
+      * [Private Health Information Statements](/health_insurance/howitworks/phis_guide.htm "Private Health Information Statements provide a summary of the services covered under private health insurance policies in Australia.")
+      * [Waiting periods](/health_insurance/howitworks/waiting_periods.htm "Most private health insurance policies will have a waiting period associated with the services it covers, this means that when you take out the insurance you will have to serve the waiting period before you claim especially if you are claiming for treatment for a pre-existing condition.")
+      * [Out of pocket costs](/health_insurance/howitworks/out_of_pocket.htm "Explains what a 'gap' or out of pocket cost is for both hospital and medical treatment and what you can do")
+      * [Managing your policy](/health_insurance/howitworks/managing_your_policy.htm "You may be eligible for a discount on your premium or some insurers offer rate protection policies. You may be able to lower your premiums by choosing to not be covered for certain services \(exclusions\), receive limited benefits \(restricted benefits\), or to pay a set amount towards the costs of treatment \(excess or co-payment\).")
+    * [Government Surcharges & Incentives](/health_insurance/surcharges_incentives/index.htm "Australian government incentives and surcharges for private health insurance.")
+    * [Overseas Visitors & Students ](/health_insurance/overseas/index.htm "Students and visitors from overseas may be required, or should consider, to take out private health cover whilst visiting Australia.")
+    * [Private Health Insurance Changes](/health_insurance/phichanges/index.htm "From 1 April 2019, the Australian Government introduced new rules to help make private health insurance simpler including Gold, Silver, Bronze and Basic hospital tiers, and standard clinical categories to describe what is and is not covered. Further changes were introduced in 2021.")
+  * [Health Insurers](/healthinsurers/index.htm "Policies, contact details & performance.")
+  * [Compare Policies](/comparepolicies/index.htm "Find policies that match your needs.")
+  * [Contact Us](/contactus.htm "Got a question? Contact us today.")
+  * [FAQ](/faq.htm "Frequently asked questions.")
+
+## Product tiers
+
+Four new tiers of hospital cover began rolling out from early 2019 and became
+mandatory from 1 April 2020. All hospital insurance policies are classified as
+Gold, Silver, Bronze or Basic.Â
+
+In order to be classified in a tier, the policy has to meet the minimum
+requirements of that tier - it must include all the required Clinical
+Categories for its tier. Each Clinical Category is a group of hospital
+treatments - for example,Â âbone, joint and muscleâ or âheart and
+vascular systemâ.
+
+more
+
+As part of various [private health insurance
+changes](/health_insurance/phichanges/index.htm "Changes to private health
+insurance"), four new tiers of hospital cover began rolling out from 1 April
+2019 and became mandatory from 1 April 2020. All hospital insurance policies
+are classified as Gold, Silver, Bronze or Basic.Â
+
+### Gold, Silver, Bronze and Basic hospital tiers
+
+In order to be classified in a tier, the policy has to meet the minimum
+requirements of that tier as set out in the table below. All treatments in the
+table below refer to treatment received as part of a hospital admission.
+
+Each of the clinical categories listed below are groups of what hospital
+treatments are, and are not, covered under each policy.
+
+If a policy meets the minimum requirements of a tier, but also includes
+additional coverage, then it can be called a âPlusâ policy â for
+example, Bronze Plus or Silver Plus.
+
+### Clinical categories
+
+Each standard categoryâfor example, âbone, joint and muscleâ category or
+âheart and vascular systemâ categoryâsets out the hospital treatments
+that must be covered by your private health insurer. If a policy covers a
+certain category, then it must cover everything listed in itânot only some
+things.
+
+### Receiving treatment for complications and unplanned hospital treatment  
+
+#### Complications
+
+If you are admitted to hospital for a planned treatment which is included in
+your policy and complications arise which are outside the scope of your
+policy, then your insurer is required to cover the treatment of the
+complication. For example, if a person has surgery for a digestive illness and
+they develop acute arrhythmia during the episode of hospital treatment,
+treatment by a cardiologist and cardioversion would be covered even if the
+personâs policy did not otherwise cover the Heart and vascular system
+clinical category.
+
+#### Unplanned treatment
+
+If you are admitted to hospital for a planned treatment included in your
+policy, and your doctor finds during the admission you have another condition
+requiring urgent treatment, this âassociated unplanned treatmentâ must be
+covered by the insurer regardless of whether treatment is within the scope of
+your policy.Â Insurers are required to cover an associated unplanned treatment
+which is not otherwise included in a policy where the treatment is provided
+within the same episode of care as the original treatment. The associated
+unplanned treatment must be considered medically urgent and necessary in the
+view of the medical practitioner providing the treatment.  
+
+### Two or more procedures where one is excluded from your policy
+
+Insurers are required to cover elective procedures that are covered by your
+policy, and all associated services or complications arising from that
+procedure.
+
+However, your insurer does not have to cover any planned elective procedures
+not covered by your policy, even if it is provided in the same admission.
+
+For example, a patient with a Bronze policy has elective surgery for the
+removal of their tonsils and also elects to have dental surgery in the same
+admission; their policy only covers the tonsillectomy and not the dental
+surgery. Their insurer is only required to cover the tonsillectomy and
+associated services such as post-operative care for the tonsillectomy.
+
+### Hospital treatment product tiers
+
+ _The following table provides a summary of which hospital tiers cover each
+clinical category.Â_ _For detailed information, such as the Medicare Benefit
+Schedule (MBS) item numbers included in each category, please see_[Clinical
+categories](/health_insurance/howitworks/clinical_categories.htm "Clinical
+categories") _._
+
+Clinical Category| Basic| Bronze| Silver| Gold  
+---|---|---|---|---  
+Rehabilitation| Y (R)| Y (R)| Y (R)| Y  
+Hospital psychiatric services| Y (R)| Y (R)| Y (R)| Y  
+Palliative care| Y (R)| Y (R)| Y (R)| Y  
+Brain and nervous system| O (R)| Y| Y| Y  
+Eye (not cataracts)| O (R)| Y| Y| Y  
+Ear, nose and throat| O (R)| Y| Y| Y  
+Tonsils, adenoids and grommets| O (R)| Y| Y| Y  
+Bone, joint and muscle| O (R)| Y| Y| Y  
+Joint reconstructions| O (R)| Y| Y| Y  
+Kidney and bladder| O (R)| Y| Y| Y  
+Male reproductive system| O (R)| Y| Y| Y  
+Digestive system| O (R)| Y| Y| Y  
+Hernia and appendix| O (R)| Y| Y| Y  
+Gastrointestinal endoscopy | O (R)| Y| Y| Y  
+Gynaecology| O (R)| Y| Y| Y  
+Miscarriage and termination of pregnancy| O (R)| Y| Y| Y  
+Chemotherapy, radiotherapy and immunotherapy for cancer| O (R)| Y| Y| Y  
+Pain management| O (R)| Y| Y| Y  
+Skin| O (R)| Y| Y| Y  
+Breast surgery (medically necessary)| O (R)| Y| Y| Y  
+Diabetes management (excluding insulin pumps)| O (R)| Y| Y| Y  
+Heart and vascular system| O (R)| O| Y| Y  
+Lung and chest| O (R)| OÂ | Y| Y  
+Blood| O (R)| O| Y| Y  
+Back, neck and spine| O (R)| O| Y| Y  
+Plastic and reconstructive surgery (medically necessary)| O (R)| O| Y| Y  
+Dental surgery | O (R)| O| Y| Y  
+Podiatric surgeryÂ (provided by a registered podiatric surgeon)| O (R)| O| Y|
+Y  
+Implantation of hearing devices| O (R)| OÂ | Y| Y  
+Cataracts| O (R)| OÂ | OÂ | Y  
+Joint replacements| O (R)| OÂ | OÂ | Y  
+Dialysis for chronic kidney failure| O (R)| OÂ | OÂ | Y  
+Pregnancy and birth| O (R)| OÂ | OÂ | Y  
+Assisted reproductive services | O (R)| OÂ | OÂ | Y  
+Weight loss surgery| O (R)| OÂ | OÂ | Y  
+Insulin pumps| O (R)| OÂ | OÂ | Y  
+Pain management with device| O (R)| OÂ | OÂ | Y  
+Sleep studies| O (R)| OÂ | OÂ | Y  
+Y| Indicates the clinical category is a minimum requirement of the product
+tier.  
+---|---  
+(R)| Restricted cover permitted: insurers are allowed to offer cover for this
+clinical category on a restricted basis. A restricted benefit means you are
+partially covered for hospital costs as a private patient in a public
+hospital. You may incur significant expenses in a private room or private
+hospital so you should check with your insurer and hospital for details. ****
+__ __ ~~~~  
+  
+O **** __ __ ~~~~  
+| Optional for the insurer to include: insurers may choose to offer these as
+additional clinical categories.Â  
+  
+  
+less
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[Rehabilitation]: Physical rehabilitation related to surgery or illness. For example: stroke recovery, cardiac rehabilitation.
+  *[Hospital psychiatric services]: Treatment and care of patients with psychiatric, mental, addiction or behavioural disorders. For example: schizophrenia, depression, eating disorders, addiction therapy, and post-natal depression.
+  *[Palliative care]: Providing quality of life care for a patient with a terminal illness, including treatment to alleviate and manage pain.
+  *[Brain and nervous system]: The investigation and treatment of the brain, brain-related conditions, spinal cord, and peripheral nervous system. For example, stroke, brain or spinal cord tumours, head injuries, epilepsy, and Parkinsonâs disease. This category does not include the treatment of spinal column conditions and chemotherapy or radiotherapy for cancer.
+  *[Eye (not cataracts)]: The investigation and treatment of the eye and contents of the eye socket. For example: retinal detachment, tear duct conditions, eye infections and medically managed trauma to the eye. This category does not include cataracts, eyelid procedures, and chemotherapy and radiotherapy for cancer.
+  *[Ear, nose and throat]: The investigation and treatment of the ear, nose, throat, middle ear, thyroid, parathyroid, larynx, lymph nodes, and related areas of the head and neck. This category does not include tonsils, adenoids, grommets, implantation of hearing devices, orthopaedic neck conditions, sleep studies, and chemotherapy and radiotherapy for cancer.
+  *[Tonsils, adenoids and grommets]: Treatment of the tonsils, adenoids, and insertion or removal of grommets.
+  *[Bone, joint and muscle]: Treatment for the investigation and treatment of diseases, disorders and injuries of the musculoskeletal system. For example: carpal tunnel, fractures, hand surgery, joint fusions, bone spurs, and bone cancer. This category does not include chest surgery, spinal cord conditions, spinal column conditions, joint reconstructions, joint replacements, podiatric surgery, management of back pain, and chemotherapy and radiotherapy for cancer.
+  *[Joint reconstructions]: Treatment for joint reconstructions. For example: torn tendons, rotator cuff tears, and damaged ligaments. This category does not include joint replacements, bone fractures, spinal column procedures, and podiatric surgery.
+  *[Kidney and bladder]: The investigation and treatment of the kidney, adrenal gland and bladder. For example: kidney stones, adrenal gland tumour and incontinence. This category does not include dialysis and chemotherapy and radiotherapy for cancer. 
+  *[Male reproductive system]: The investigation and treatment of the male reproductive system including the prostate. For example: male sterilisation, circumcision and prostate cancer. This category does not include chemotherapy and radiotherapy for cancer.
+  *[Digestive system]: The investigation and treatment of the digestive system, including the oesophagus, stomach, gall bladder, pancreas, spleen, liver and bowel. For example: oesophageal cancer, irritable bowel syndrome, gall stones and haemorrhoids. This category does not include endoscopy, hernia and appendicectomy procedures, bariatric (weight loss) surgery, and chemotherapy and radiotherapy for cancer.
+  *[Hernia and appendix]: The investigation and treatment of a hernia or appendicitis. This category does not include digestive conditions.
+  *[Gastrointestinal endoscopy ]: The diagnosis, investigation and treatment of the internal parts of the gastrointestinal system using an endoscope (an instrument using a camera to look inside the body) For example: colonoscopy and gastroscopy. This category does not include non-endoscopic procedures for the digestive system.
+  *[Gynaecology]: The investigation and treatment of the female reproductive system. For example: endometriosis, polycystic ovaries, female sterilisation and cervical cancer. This category does not include fertility treatments, pregnancy and birth-related conditions, miscarriage or termination of pregnancy, and chemotherapy and radiotherapy for cancer.
+  *[Miscarriage and termination of pregnancy]: The investigation and treatment of a miscarriage or for termination of pregnancy.
+  *[Chemotherapy, radiotherapy and immunotherapy for cancer]: Treatment for chemotherapy, radiotherapy and immunotherapy for the treatment of cancer or benign tumours. This category does not include surgical treatment of cancer, which is listed separately under each body system.
+  *[Pain management]: Treatment for pain management that does not require the insertion or surgical management of a device. For example: treatment of nerve pain and chest pain due to cancer by injection of a nerve block. This category does not include pain management using a device such as an infusion pump or neurostimulator.
+  *[Skin]: The investigation and treatment of skin, skin related conditions and nails. This category includes the removal of foreign bodies, and plastic surgery that is medically necessary and relating to the treatment of a skin related condition. For example: melanoma, minor wound repair and abscesses. This category does not include removal of excess skin due to weight loss, and chemotherapy and radiotherapy for cancer.
+  *[Breast surgery (medically necessary)]: The investigation and treatment of breast disorders and associated lymph nodes, and reconstruction and/or reduction following breast surgery or a preventative mastectomy. For example: breast lesions, breast tumours, asymmetry due to breast cancer surgery, and gynecomastia. This category does not require benefits to be paid for cosmetic breast surgery that is not medically necessary.
+  *[Diabetes management (excluding insulin pumps)]: The investigation and management of diabetes. For example: stabilisation of hypo- or hyper- glycaemia, contour problems due to insulin injections. Treatment for diabetes related conditions is listed separately under each body system affected. This category does not include treatment for ulcers or provision and replacement of insulin pumps.
+  *[Heart and vascular system]: The investigation and treatment of the heart, heart related conditions and vascular system. For example: heart failure and heart attack, monitoring of heart conditions, varicose veins and removal of plaque from arterial walls. Also known as cardiac services. This category does not include chemotherapy and radiotherapy for cancer.
+  *[Lung and chest]: The investigation and treatment of the lungs, lung related conditions, mediastinum and chest. For example: lung cancer, respiratory disorders such as asthma, pneumonia, and treatment of trauma to the chest. This category does not include chemotherapy and radiotherapy for cancer.
+  *[Blood]: The investigation and treatment of blood and blood related conditions. For example: blood clotting disorders and bone marrow transplants. This category does not include treatment for cancers of the blood.
+  *[Back, neck and spine]: The investigation and treatment of the back, neck and spinal column, including spinal fusion. For example: sciatica, prolapsed or herniated disc, and spine curvature disorders such as scoliosis. This category does not include joint replacements, joint fusions, spinal cord conditions, management of back pain, and chemotherapy and radiotherapy for cancer.
+  *[Plastic and reconstructive surgery (medically necessary)]: Treatment which is medically necessary for the investigation and treatment of any physical deformity, whether acquired as a result of illness or accident, or congenital. For example: burns requiring a graft, cleft palate, club foot and angioma. This category does not include treatment of skin-related conditions and chemotherapy and radiotherapy for cancer.
+  *[Dental surgery ]: Hospital treatment for surgery to the teeth and gums. For example: surgery to remove wisdom teeth, and dental implant surgery.
+  *[Podiatric surgeryÂ (provided by a registered podiatric surgeon)]: The investigation and treatment of conditions affecting the foot and/or ankle, provided by a registered podiatric surgeon. This is limited to cover for hospital accommodation and the cost of a prosthesis. Note that insurers are not required to pay for any other benefits for podiatric surgery, such as the surgeonâs fee or medical fees such as the anaesthetist, though they may choose to do so.
+  *[Implantation of hearing devices]: Treatment to correct hearing loss, including implantation of a prosthetic hearing device.
+  *[Cataracts]: Surgery to remove a cataract and replace with an artificial lens.
+  *[Joint replacements]: Surgery for joint replacements, including revisions, resurfacing, partial replacements and removal of prostheses. For example: replacement of shoulder, wrist, finger, hip, knee, ankle, or toe joint, spinal disc replacement. This category does not include joint fusions, spinal fusions, joint reconstructions, and podiatric surgery performed by a registered podiatric surgeon.
+  *[Dialysis for chronic kidney failure]: Dialysis treatment for chronic kidney failure (renal failure). For example: peritoneal dialysis and haemodialysis.
+  *[Pregnancy and birth]: Investigation and treatment of conditions associated with pregnancy and child birth. Also known as obstetrics. This category does not include treatment for the baby (this is covered under the clinical category relevant to their condition), female reproductive conditions, fertility treatments, miscarriage and termination of pregnancy.
+  *[Assisted reproductive services ]: Hospital treatment for fertility treatments or procedures. For example: retrieval of eggs or sperm, In vitro Fertilisation (IVF), and Gamete Intra fallopian Transfer (GIFT). This category does not include treatment of the female reproductive system, and pregnancy and birth-related services.
+  *[Weight loss surgery]: Surgery that is designed to reduce a personâs weight, remove excess skin due to weight loss and reversal of a bariatric procedure. For example: gastric banding, gastric bypass, sleeve gastrectomy.
+  *[Insulin pumps]: The provision and replacement of insulin pumps for treatment of diabetes.
+  *[Pain management with device]: The implantation, replacement or other surgical management of a device required for the treatment of pain. For example: treatment of nerve pain, back pain, and pain caused by coronary heart disease with a device (for example an infusion pump or neurostimulator). This category does not include treatment of pain that does not require a device.
+  *[Sleep studies]: The investigation of sleep patterns and anomalies. For example: sleep apnoea and snoring.
+

@@ -1,0 +1,301 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Hospital psychiatric services - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+170
+
+     Professional attendance for the purpose of group therapy of not less than 1 hour in duration given under the direct continuous supervision of a general practitioner, specialist or consultant physician (other than a consultant physician in the practice of the consultant physician's specialty of psychiatry) involving members of a family and persons with close personal relationships with that family-each group of 2 patients [](/dynamic/MBSItems/HospitalPsychiatric/170)
+171
+
+     Professional attendance for the purpose of group therapy of not less than 1 hour in duration given under the direct continuous supervision of a general practitioner, specialist or consultant physician (other than a consultant physician in the practice of the consultant physician's specialty of psychiatry) involving members of a family and persons with close personal relationships with that family-each group of 3 patients [](/dynamic/MBSItems/HospitalPsychiatric/171)
+172
+
+     Professional attendance for the purpose of group therapy of not less than 1 hour in duration given under the direct continuous supervision of a general practitioner, specialist or consultant physician (other than a consultant physician in the practice of the consultant physician's specialty of psychiatry) involving members of a family and persons with close personal relationships with that family-each group of 4 or more patients [](/dynamic/MBSItems/HospitalPsychiatric/172)
+289
+
+     Professional attendance lasting at least 45 minutes, by a consultant physician in the practice of the consultant physician’s specialty of psychiatry, following referral of the patient to the consultant psychiatrist by areferring practitioner, for a patient aged under 25, if the consultant psychiatrist: (a) undertakes, or has previously undertaken in prior attendances, a comprehensive assessment in relation to which a diagnosis of a complex neurodevelopmental disorder (such as autism spectrum disorder) is made (if appropriate, using information provided by an eligible allied health provider); and (b) develops a treatment and management plan, which must include: (i) documentation of the confirmed diagnosis; and (ii) findings of any assessments performed for the purposes of formulation of the diagnosis or contribution to the treatment and management plan; and (iii) a risk assessment; and (iv) treatment options (which may include biopsychosocial recommendations); and (c) provides a copy of the treatment and management plan to: (i) the referring practitioner; and (ii) one or more allied health providers, if appropriate, for the treatment of the patient; (other than attendance on a patient for whom payment has previously been made under this item or item 135, 137, 139, 92140, 92141, 92142 or 92434) Applicable only once per lifetime [](/dynamic/MBSItems/HospitalPsychiatric/289)
+297
+
+     Professional attendance of more than 45 minutes by a consultant physician in the practice of the consultant physician's speciality of psychiatry following referral of the patient to him or her by a referring practitioner-an attendance at hospital if the patient: (a) is a new patient for this consultant psychiatrist; or (b) has not received a professional attendance from this consultant psychiatrist in the preceding 24 months; other than attendance on a patient in relation to whom this item, or item 296 or 299 or any of items 300 to 308, has applied in the preceding 24 months (H) [](/dynamic/MBSItems/HospitalPsychiatric/297)
+320
+
+     Professional attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry following referral of the patient to the consultant physician by a referring practitioner-an attendance of not more than 15 minutes in duration at hospital [](/dynamic/MBSItems/HospitalPsychiatric/320)
+322
+
+     Professional attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry following referral of the patient to the consultant physician by a referring practitioner-an attendance of more than 15 minutes, but not more than 30 minutes, in duration at hospital [](/dynamic/MBSItems/HospitalPsychiatric/322)
+324
+
+     Professional attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry following referral of the patient to the consultant physician by a referring practitioner-an attendance of more than 30 minutes, but not more than 45 minutes, in duration at hospital [](/dynamic/MBSItems/HospitalPsychiatric/324)
+326
+
+     Professional attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry following referral of the patient to the consultant physician by a referring practitioner-an attendance of more than 45 minutes, but not more than 75 minutes, in duration at hospital [](/dynamic/MBSItems/HospitalPsychiatric/326)
+328
+
+     Professional attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry following referral of the patient to the consultant physician by a referring practitioner-an attendance of more than 75 minutes in duration at hospital [](/dynamic/MBSItems/HospitalPsychiatric/328)
+342
+
+     Group psychotherapy (including any associated consultations with a patient taking place on the same occasion and relating to the condition for which group therapy is conducted) of not less than 1 hour in duration given under the continuous direct supervision of a consultant physician in the practice of the consultant physician's specialty of psychiatry, involving a group of 2 to 9 unrelated patients or a family group of more than 3 patients, each of whom is referred to the consultant physician by a referring practitioner-each patient [](/dynamic/MBSItems/HospitalPsychiatric/342)
+344
+
+     Group psychotherapy (including any associated consultations with a patient taking place on the same occasion and relating to the condition for which group therapy is conducted) of not less than 1 hour in duration given under the continuous direct supervision of a consultant physician in the practice of the consultant physician's specialty of psychiatry, involving a family group of 3 patients, each of whom is referred to the consultant physician by a referring practitioner-each patient [](/dynamic/MBSItems/HospitalPsychiatric/344)
+346
+
+     Group psychotherapy (including any associated consultations with a patient taking place on the same occasion and relating to the condition for which group therapy is conducted) of not less than 1 hour in duration given under the continuous direct supervision of a consultant physician in the practice of the consultant physician's specialty of psychiatry, involving a family group of 2 patients, each of whom is referred to the consultant physician by a referring practitioner-each patient [](/dynamic/MBSItems/HospitalPsychiatric/346)
+348
+
+     Professional attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, following referral of the patient to the consultant physician by a referring practitioner, involving an interview of a person other than the patient of not less than 20 minutes, but less than 45 minutes, in duration, in the course of initial diagnostic evaluation of a patient [](/dynamic/MBSItems/HospitalPsychiatric/348)
+350
+
+     Professional attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, following referral of the patient to the consultant physician by a referring practitioner, involving an interview of a person other than the patient of not less than 45 minutes in duration, in the course of initial diagnostic evaluation of a patient [](/dynamic/MBSItems/HospitalPsychiatric/350)
+352
+
+     Professional attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, following referral of the patient to the consultant physician by a referring practitioner, involving an interview of a person other than the patient of not less than 20 minutes in duration, in the course of continuing management of a patient-if that attendance and another attendance to which this item applies have not exceeded 4 in a calendar year for the patient [](/dynamic/MBSItems/HospitalPsychiatric/352)
+855
+
+     Attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to organise and coordinate a community case conference of at least 15 minutes but less than 30 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/855)
+857
+
+     Attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to organise and coordinate a community case conference of at least 30 minutes but less than 45 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/857)
+858
+
+     Attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to organise and coordinate a community case conference of at least 45 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/858)
+861
+
+     Attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, as a member of a case conference team, to organise and coordinate a discharge case conference of at least 15 minutes but less than 30 minutes, with a multidisciplinary team of at least 2 other formal care providers of different disciplines [](/dynamic/MBSItems/HospitalPsychiatric/861)
+864
+
+     Attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, as a member of a case conference team, to organise and coordinate a discharge case conference of at least 30 minutes but less than 45 minutes, with a multidisciplinary team of at least 2 other formal care providers of different disciplines [](/dynamic/MBSItems/HospitalPsychiatric/864)
+866
+
+     Attendance by a consultant physician in the practice of the consultant physician's specialty of psychiatry, as a member of a case conference team, to organise and coordinate a discharge case conference of at least 45 minutes, with a multidisciplinary team of at least 2 other formal care providers of different disciplines [](/dynamic/MBSItems/HospitalPsychiatric/866)
+2700
+
+     Professional attendance by a general practitioner (including a general practitioner who has not undertaken mental health skills training) of at least 20 minutes but less than 40 minutes in duration for the preparation of a GP mental health treatment plan for a patient [](/dynamic/MBSItems/HospitalPsychiatric/2700)
+2701
+
+     Professional attendance by a general practitioner (including a general practitioner who has not undertaken mental health skills training) of at least 40 minutes in duration for the preparation of a GP mental health treatment plan for a patient [](/dynamic/MBSItems/HospitalPsychiatric/2701)
+2712
+
+     Professional attendance by a general practitioner to review a GP mental health treatment plan which he or she, or an associated general practitioner has prepared, or to review a Psychiatrist Assessment and Management Plan [](/dynamic/MBSItems/HospitalPsychiatric/2712)
+2713
+
+     Professional attendance by a general practitioner in relation to a mental disorder and of at least 20 minutes in duration, involving taking relevant history and identifying the presenting problem (to the extent not previously recorded), providing treatment and advice and, if appropriate, referral for other services or treatments, and documenting the outcomes of the consultation [](/dynamic/MBSItems/HospitalPsychiatric/2713)
+2715
+
+     Professional attendance by a general practitioner (including a general practitioner who has undertaken mental health skills training of at least 20 minutes but less than 40 minutes in duration for the preparation of a GP mental health treatment plan for a patient [](/dynamic/MBSItems/HospitalPsychiatric/2715)
+2717
+
+     Professional attendance by a general practitioner (including a general practitioner who has undertaken mental health skills training) of at least 40 minutes in duration for the preparation of a GP mental health treatment plan for a patient [](/dynamic/MBSItems/HospitalPsychiatric/2717)
+2721
+
+     Professional attendance at consulting rooms by a general practitioner, for providing focussed psychological strategies for assessed mental disorders by a general practitioner registered with the Chief Executive Medicare as meeting the credentialling requirements for provision of this service, and lasting at least 30 minutes, but less than 40 minutes [](/dynamic/MBSItems/HospitalPsychiatric/2721)
+2723
+
+     Professional attendance at a place other than consulting rooms by a general practitioner, for providing focussed psychological strategies for assessed mental disorders by a general practitioner registered with the Chief Executive Medicare as meeting the credentialling requirements for provision of this service, and lasting at least 30 minutes, but less than 40 minutes [](/dynamic/MBSItems/HospitalPsychiatric/2723)
+2725
+
+     Professional attendance at consulting rooms by a general practitioner, for providing focussed psychological strategies for assessed mental disorders by a general practitioner registered with the Chief Executive Medicare as meeting the credentialling requirements for provision of this service, and lasting at least 40 minutes [](/dynamic/MBSItems/HospitalPsychiatric/2725)
+2727
+
+     Professional attendance at a place other than consulting rooms by a general practitioner, for providing focussed psychological strategies for assessed mental disorders by a general practitioner registered with the Chief Executive Medicare as meeting the credentialling requirements for provision of this service, and lasting at least 40 minutes [](/dynamic/MBSItems/HospitalPsychiatric/2727)
+6018
+
+     Professional attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty following referral of the patient to the addiction medicine specialist by a referring practitioner, if the attendance: (a) includes a comprehensive assessment; and (b) is the first or only time in a single course of treatment that a comprehensive assessment is provided [](/dynamic/MBSItems/HospitalPsychiatric/6018)
+6019
+
+     Professional attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty following referral of the patient to the addiction medicine specialist by a referring practitioner, if the attendance is a patient assessment: (a) before or after a comprehensive assessment under item 6018 in a single course of treatment; or (b) that follows an initial assessment under item 6023 in a single course of treatment; or (c) that follows a review under item 6024 in a single course of treatment [](/dynamic/MBSItems/HospitalPsychiatric/6019)
+6023
+
+     Professional attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty of at least 45 minutes for an initial assessment of a patient with at least 2 morbidities, following referral of the patient to the addiction medicine specialist by a referring practitioner, if: (a) an assessment is undertaken that covers: (i) a comprehensive history, including psychosocial history and medication review; and (ii) a comprehensive multi or detailed single organ system assessment; and (iii) the formulation of differential diagnoses; and (b) an addiction medicine specialist treatment and management plan of significant complexity that includes the following is prepared and provided to the referring practitioner: (i) an opinion on diagnosis and risk assessment; (ii) treatment options and decisions; (iii) medication recommendations; and (c) an attendance on the patient to which item 104, 105, 110, 116, 119, 132, 133, 6018 or 6019 applies did not take place on the same day by the same addiction medicine specialist; and (d) neither this item nor item 132 has applied to an attendance on the patient in the preceding 12 months by the same addiction medicine specialist [](/dynamic/MBSItems/HospitalPsychiatric/6023)
+6024
+
+     Professional attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty of at least 20 minutes, after the first attendance in a single course of treatment for a review of a patient with at least 2 morbidities if: (a) a review is undertaken that covers: (i) review of initial presenting problems and results of diagnostic investigations; and (ii) review of responses to treatment and medication plans initiated at time of initial consultation; and (iii) comprehensive multi or detailed single organ system assessment; and (iv) review of original and differential diagnoses; and (b) the modified addiction medicine specialist treatment and management plan is provided to the referring practitioner, which involves, if appropriate: (i) a revised opinion on diagnosis and risk assessment; and (ii) treatment options and decisions; and (iii) revised medication recommendations; and (c) an attendance on the patient to which item 104, 105, 110, 116, 119, 132, 133, 6018 or 6019 applies did not take place on the same day by the same addiction medicine specialist; and (d) item 6023 applied to an attendance claimed in the preceding 12 months; and (e) the attendance under this item is claimed by the same addiction medicine specialist who claimed item 6023 or by a locum tenens; and (f) this item has not applied more than twice in any 12 month period [](/dynamic/MBSItems/HospitalPsychiatric/6024)
+6028
+
+     Group therapy (including any associated consultation with a patient taking place on the same occasion and relating to the condition for which group therapy is conducted) of not less than 1 hour, given under the continuous direct supervision of an addiction medicine specialist in the practice of the addiction medicine specialist's specialty for a group of 2 to 9 unrelated patients, or a family group of more than 2 patients, each of whom is referred to the addiction medicine specialist by a referring practitioner-for each patient [](/dynamic/MBSItems/HospitalPsychiatric/6028)
+6029
+
+     Attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to organise and coordinate a community case conference of less than 15 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/6029)
+6031
+
+     Attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to organise and coordinate a community case conference of at least 15 minutes but less than 30 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/6031)
+6032
+
+     Attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to organise and coordinate a community case conference of at least 30 minutes but less than 45 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/6032)
+6034
+
+     Attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to organise and coordinate the multidisciplinary case conference of at least 45 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/6034)
+6035
+
+     Attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to participate in a community case conference (other than to organise and coordinate the conference) of less than 15 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/6035)
+6037
+
+     Attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to participate in a community case conference (other than to organise and coordinate the conference) of at least 15 minutes but less than 30 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/6037)
+6038
+
+     Attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to participate in a community case conference (other than to organise and coordinate the conference) of at least 30 minutes but less than 45 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/6038)
+6042
+
+     Attendance by an addiction medicine specialist in the practice of the addiction medicine specialist's specialty, as a member of a multidisciplinary case conference team of at least 2 other formal care providers of different disciplines, to participate in a community case conference (other than to organise and coordinate the conference) of at least 45 minutes, with the multidisciplinary case conference team [](/dynamic/MBSItems/HospitalPsychiatric/6042)
+14216
+
+     Professional attendance on a patient by a psychiatrist, who has undertaken training in Repetitive Transcranial Magnetic Stimulation (rTMS), for treatment mapping for rTMS, if the patient: (a) has not previously received any prior transcranial magnetic stimulation therapy in a public or private setting; and (b) is at least 18 years old; and (c) is diagnosed with a major depressive episode; and (d) has failed to receive satisfactory improvement for the major depressive episode despite the adequate trialling of at least 2 different classes of antidepressant medications, unless contraindicated, and all of the following apply: (i) the patient’s adherence to antidepressant treatment has been formally assessed; (ii) the trialling of each antidepressant medication has been at the recommended therapeutic dose for a minimum of 3 weeks; (iii) where clinically appropriate, the treatment has been titrated to the maximum tolerated therapeutic dose; and (e) has undertaken psychological therapy, if clinically appropriate [](/dynamic/MBSItems/HospitalPsychiatric/14216)
+14217
+
+     Repetitive Transcranial Magnetic Stimulation (rTMS) treatment of up to 35 services provided by, or on behalf of, a psychiatrist who has undertaken training in rTMS, if the patient has previously received a service under item 14216—each service up to 35 services [](/dynamic/MBSItems/HospitalPsychiatric/14217)
+14219
+
+     Professional attendance on a patient by a psychiatrist, who has undertaken training in Repetitive Transcranial Magnetic Stimulation (rTMS), for treatment mapping for rTMS, if the patient: (a) is at least 18 years old; and (b) is diagnosed with a major depressive episode; and (c) has failed to receive satisfactory improvement for the major depressive episode despite the adequate trialling of at least 2 different classes of antidepressant medications, unless contraindicated, and all of the following apply: (i) the patient’s adherence to antidepressant treatment has been formally assessed; (ii) the trialling of each antidepressant medication has been at the recommended therapeutic dose for a minimum of 3 weeks; (iii) where clinically appropriate, the treatment has been titrated to the maximum tolerated therapeutic dose; and (d) has undertaken psychological therapy, if clinically appropriate; and (e) has previously received an initial service under item 14217 and the patient: (i) has relapsed after a remission following the initial service; and (ii) has had a satisfactory clinical response to the service under item 14217 (which has been assessed by a validated major depressive disorder tool at least 4 months after receiving that service) [](/dynamic/MBSItems/HospitalPsychiatric/14219)
+14220
+
+     Repetitive Transcranial Magnetic Stimulation (rTMS) treatment of up to 15 services provided by, or on behalf of, a psychiatrist who has undertaken training in rTMS, if the patient has previously received: (a) a service under item 14217 (which was not provided in the previous 4 months); and (b) a service under item 14219 Each service up to 15 services [](/dynamic/MBSItems/HospitalPsychiatric/14220)
+14224
+
+     ELECTROCONVULSIVE THERAPY, with or without the use of stimulus dosing techniques, including any electroencephalographic monitoring and associated consultation (Anaes.) [](/dynamic/MBSItems/HospitalPsychiatric/14224)
+80005
+
+     Professional attendance at a place other than consulting rooms. As per the service requirements outlined for item 80000. [](/dynamic/MBSItems/HospitalPsychiatric/80005)
+80015
+
+     Professional attendance at a place other than consulting rooms As per the service requirements outlined for item 80010. [](/dynamic/MBSItems/HospitalPsychiatric/80015)
+80105
+
+     Professional attendance at a place other than consulting rooms. As per the psychologist service requirements outlined for item 80100. [](/dynamic/MBSItems/HospitalPsychiatric/80105)
+80115
+
+     Professional attendance at a place other than consulting rooms. As per the psychologist service requirements outlined for item 80110. [](/dynamic/MBSItems/HospitalPsychiatric/80115)
+80130
+
+     Professional attendance at a place other than consulting rooms. As per the occupational therapist service requirements outlined for item 80125. [](/dynamic/MBSItems/HospitalPsychiatric/80130)
+80140
+
+     Professional attendance at a place other than consulting rooms. As per the occupational therapist service requirements outlined for item 80135. [](/dynamic/MBSItems/HospitalPsychiatric/80140)
+80155
+
+     Professional attendance at a place other than consulting rooms. As per the social worker service requirements outlined for item 80150. [](/dynamic/MBSItems/HospitalPsychiatric/80155)
+80165
+
+     Professional attendance at a place other than consulting rooms. As per the social worker service requirements outlined for item 80160. [](/dynamic/MBSItems/HospitalPsychiatric/80165)
+90250
+
+     Professional attendance by a general practitioner to prepare an eating disorder treatment and management plan, lasting at least 20 minutes but less than 40 minutes. [](/dynamic/MBSItems/HospitalPsychiatric/90250)
+90251
+
+     Professional attendance by a general practitioner to prepare an eating disorder treatment and management plan, lasting at least 40 minutes [](/dynamic/MBSItems/HospitalPsychiatric/90251)
+90252
+
+     Professional attendance by a general practitioner to prepare an eating disorder treatment and management plan, lasting at least 20 minutes but less than 40 minutes, if the practitioner has successfully completed mental health skills training. [](/dynamic/MBSItems/HospitalPsychiatric/90252)
+90253
+
+     Professional attendance by a general practitioner to prepare an eating disorder treatment and management plan, lasting at least 40 minutes, if the practitioner has successfully completed mental health skills training. [](/dynamic/MBSItems/HospitalPsychiatric/90253)
+90254
+
+     Professional attendance by a medical practitioner (other than a general practitioner, specialist or consultant physician) to prepare an eating disorder treatment and management plant, lasting at least 20 minutes but less than 40 minutes. [](/dynamic/MBSItems/HospitalPsychiatric/90254)
+90255
+
+     Professional attendance by a medical practitioner (other than a general practitioner, specialist or consultant physician) to prepare an eating disorder treatment and management plan, lasting at least 40 minutes. [](/dynamic/MBSItems/HospitalPsychiatric/90255)
+90256
+
+     Professional attendance by a medical practitioner (other than a general practitioner, specialist or consultant physician) to prepare an eating disorder treatment and management plan, lasting at least 20 minutes but less than 40 minutes, if the practitioner has successfully completed mental health skills training. [](/dynamic/MBSItems/HospitalPsychiatric/90256)
+90257
+
+     Professional attendance by a medical practitioner (other than a general practitioner, specialist or consultant physician) to prepare an eating disorder treatment and management plan, lasting at least 40 minutes, if the practitioner has successfully completed mental health skills training. [](/dynamic/MBSItems/HospitalPsychiatric/90257)
+90264
+
+     Professional attendance by a general practitioner to review an eating disorder treatment and management plan. [](/dynamic/MBSItems/HospitalPsychiatric/90264)
+90265
+
+     Professional attendance by a medical practitioner (other than a general practitioner, specialist or consultant physician) to review an eating disorder treatment and management plan. [](/dynamic/MBSItems/HospitalPsychiatric/90265)
+90272
+
+     Professional attendance at a place other than consulting rooms by a general practitioner to provide treatment under an eating disorder treatment and management plan, lasting at least 30 minutes but less than 40 minutes. [](/dynamic/MBSItems/HospitalPsychiatric/90272)
+90274
+
+     Professional attendance at a place other than consulting rooms by a general practitioner to provide treatment under an eating disorder treatment and management plan, lasting at least 40 minutes. [](/dynamic/MBSItems/HospitalPsychiatric/90274)
+90276
+
+     Professional attendance at a place other than consulting rooms by a medical practitioner (other than a general practitioner, specialist or consultant physician) to provide treatment under an eating disorder treatment and management plan, lasting at least 30 minutes but less than 40 minutes. [](/dynamic/MBSItems/HospitalPsychiatric/90276)
+90278
+
+     Professional attendance at a place other than consulting rooms by a medical practitioner (other than a general practitioner, specialist or consultant physician) to provide treatment under an eating disorder treatment and management plan, lasting at least 40 minutes. [](/dynamic/MBSItems/HospitalPsychiatric/90278)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

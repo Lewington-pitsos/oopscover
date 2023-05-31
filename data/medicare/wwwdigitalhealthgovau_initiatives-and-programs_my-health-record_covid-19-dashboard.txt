@@ -1,0 +1,273 @@
+Skip to main content
+
+[ Australian Digital Health Agency ](/) [ Australian Digital Health Agency for
+Healthcare Providers ](/healthcare-providers)
+
+Open Search
+
+Open Menu
+
+  * Open/Close Menu [ COVID-19 ](/covid-19-support)
+    * [ Your COVID-19 information in one place ](/initiatives-and-programs/my-health-record/covid-19-dashboard)
+    * [ Get proof of vaccination from My Health Record ](/initiatives-and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-record)
+    * [ What to do if information is missing ](/initiatives-and-programs/my-health-record/whats-inside/incorrect-or-missing-information)
+    * [ Get a My Health Record without a Medicare or DVA card ](/initiatives-and-programs/my-health-record/getting-started/set-up-a-record-without-medicare-or-dva-benefits)
+    * [ View My Health Record using an app ](/initiatives-and-programs/my-health-record/manage-your-record/view-my-health-record-using-an-app)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+  * Open/Close Menu [ Initiatives ](/initiatives-and-programs#Initiatives)
+    * [ My Health Record ](/initiatives-and-programs/my-health-record)
+    * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+    * [ Telehealth ](/initiatives-and-programs/telehealth)
+    * [ my health app ](/myhealth)
+  * Open/Close Menu [ Programs ](/initiatives-and-programs#Programs)
+    * [ Cyber security ](/initiatives-and-programs/cyber-security)
+    * [ National Digital Health Strategy ](/about-us/strategies-and-plans/national-digital-health-strategy-and-framework-for-action "National Digital Health Strategy")
+  * Open/Close Menu [ Newsroom ](/newsroom)
+    * [ Media releases ](/newsroom/media-releases)
+    * [ Podcasts ](/newsroom/podcasts)
+    * [ Newsletters ](/newsroom/newsletters "Find the latest information, news and insights on digital health in our newsletter series.")
+    * [ Digital Bytes ](/newsroom/digital-bytes "Get the latest insights and news from key healthcare providers, organisations and leaders.")
+    * [ Blogs ](/newsroom/blogs)
+  * Open/Close Menu [ Support ](/support "Support")
+    * [ Contact us ](/support/contact-us)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+    * [ Subscribe ](/support/subscribe)
+    * [ Glossary ](/support/glossary)
+    * [ Reporting fraud ](/support/reporting-fraud)
+  * Open/Close Menu [ About ](/about-us)
+    * [ Strategies and plans ](/about-us/strategies-and-plans)
+    * [ Organisational structure ](/about-us/board-members-and-executive-team)
+    * [ Policies, privacy and reporting ](/about-us/policies-privacy-and-reporting)
+    * [ Annual reports ](/about-us/annual-reports)
+    * [ Our websites ](/about-us/our-websites)
+    * [ Careers ](/careers)
+
+Search
+
+  * [For everyone](/)
+  * [For healthcare providers](/healthcare-providers)
+  * [For mhr everybody](/initiatives-and-programs/my-health-record)
+  * [For mhr hcp](/node/1688)
+  * [For ndhs](/ndhs)
+
+  * [ Careers ](/careers)
+  * [ Contact ](/support/contact-us)
+  * [ My Health Record (myGov) ](https://my.gov.au)
+
+## Breadcrumb
+
+  * [Initiatives and programs](/initiatives-and-programs)
+  * [Home](/initiatives-and-programs/my-health-record)
+  * [What's inside?](/initiatives-and-programs/my-health-record/whats-inside)
+  * Your COVID-19 information in one place 
+
+![Static image of the COVID19 vaccination
+dashboard](/sites/default/files/styles/hero_1_up/public/2022-01/covid-
+dashboard-booster-for-webpage.png?h=908d7663&itok=DnEQHmwy)
+
+#  Your COVID-19 information in one place
+
+Your COVID-19 vaccination dashboard in My Health Record contains information
+about your COVID‑19 vaccinations, boosters, test results and related health
+information.
+
+### Sign in to My Health Record via myGov
+
+You will need to have My Health Record linked to myGov to access it.
+
+[Sign in to myGov](https://my.gov.au/)
+
+### What to do if your immunisation details are incomplete
+
+If the immunisation information in your dashboard is empty or seems
+incomplete:
+
+  1. Check your **Medicare Information Settings** (under the **Profile & Settings** tab). 
+  2. Make sure **Yes** is selected for 'All information about immunisations recorded on the Australian Immunisation Register (AIR).'
+
+Selecting **Yes** will also let your healthcare providers see your
+immunisation information.
+
+[Learn more](/initiatives-and-programs/my-health-record/whats-
+inside/incorrect-or-missing-information "Incorrect or missing information")
+
+### Resources
+
+View your record using an app
+
+If you have a My Health Record and are set up for online access, you have the
+option of using a mobile app. Mobile apps are a secure and simple way to
+access your details.
+
+[Learn more about accessing your record via a mobile app.](/initiatives-and-
+programs/my-health-record/manage-your-record/view-my-health-record-using-an-
+app "https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-
+record/my-health-record-and-apps")
+
+What to do if you think information is missing
+
+If there are documents missing that you think should be there, ask your doctor
+to upload them.
+
+[Find out what to do if immunisation information is missing](/node/1423
+"https://www.digitalhealth.gov.au/what-to-do-if-information-is-missing").
+
+Contact My Health Record Help line: 1800 723 471.  
+The Help line is available 24 hours, 7 days a week.  
+Free call (call charges apply from mobile phones).  
+If you need an interpreter, please call [TIS
+National](https://www.tisnational.gov.au/ "https://www.tisnational.gov.au/")
+on 131 450.  
+For hearing or speech assistance, contact the [National Relay
+Service](https://www.communications.gov.au/what-we-do/phone/services-people-
+disability/accesshub/national-relay-service
+"https://www.communications.gov.au/what-we-do/phone/services-people-
+disability/accesshub/national-relay-service") or call 1300 555 727
+
+### Contact us
+
+#### My Health Record enquiries
+
+Phone: [1800 723 471](tel:1800723471) (select option 1)  
+Available 24 hours a day, 7 days a week
+
+[More information](/support/contact-us "Contact us")
+
+### How do I know if I have My Health Record?
+
+Most Australians have a My Health Record. If you haven’t logged into your
+record yet, you first need to link it to your myGov account.
+
+[Find out how to link My Health Record to myGov](/initiatives-and-programs/my-
+health-record/getting-started/set-up-your-record-online "Set up your record
+online").
+
+### What’s in the COVID-19 vaccination dashboard?
+
+This dashboard shows information from the Australian Immunisation Register and
+My Health Record that may be useful during your vaccination journey. This
+includes proof of vaccination, booster due date, COVID-19 PCR test results (if
+uploaded) and related health information.
+
+You can refer to the dashboard when answering questions or filling in
+paperwork before a vaccination or booster.
+
+[COVID-19 vaccination dashboard example (PDF, 2.27
+MB)](/sites/default/files/2022-06/mhr-covid-dashboard.pdf
+"covid-19-vaccination-dashboard-example.pdf")
+
+From the dashboard you can:
+
+  * check when your second vaccination or booster is due
+  * download proof of past vaccinations 
+  * save your COVID-19 digital certificate to a digital wallet 
+  * see your recent COVID-19 PCR and other respiratory infection test results (if uploaded)
+  * see any history of anaphylaxis, recent medicines, medical conditions and recent vaccinations in your record
+  * link to the COVID-19 vaccine clinic finder and side effect checker
+
+Check out our [frequently asked questions](/support/frequently-asked-questions
+"Frequently asked questions") on linking your My Health Record.
+
+### How do I get to the dashboard?
+
+  1. Sign in to My Health Record:  
+  
+[Sign in to My Health Record via
+myGov](https://my.gov.au/en/myaccount/dashboard)  
+
+  2. Select the COVID-19 Dashboard tab.
+
+### Understanding your dashboard information
+
+### How do I find my booster information in the dashboard?
+
+  1. Sign in to My Health Record:  
+  
+[Sign in to My Health Record via
+myGov](https://my.gov.au/en/myaccount/dashboard)  
+
+  2. Select the COVID-19 Dashboard tab.
+
+### Finding booster information
+
+## Popular links
+
+### Link My Health Record to myGov
+
+my.gov.au
+
+<https://my.gov.au/>
+
+### Frequently asked questions
+
+[Frequently asked questions](/support/frequently-asked-questions)
+
+### Set up My Health Record
+
+[Set up your record online](/initiatives-and-programs/my-health-
+record/getting-started/set-up-your-record-online)
+
+### View My Health Record through mobile apps
+
+[View My Health Record using an app](/initiatives-and-programs/my-health-
+record/manage-your-record/view-my-health-record-using-an-app)
+
+### Did you find this page helpful?
+
+Yes No
+
+Feedback (required)
+
+## Follow
+
+  * [ Twitter ](https://twitter.com/AuDigitalHealth)
+  * [ Facebook ](https://www.facebook.com/AuDigitalHealth)
+  * [ LinkedIn ](https://au.linkedin.com/company/australian-digital-health-agency)
+  * [ YouTube ](https://www.youtube.com/user/eHealthAus)
+
+## Australian Digital Health Agency
+
+  * [ About us ](/about-us)
+  * [ Careers ](/careers)
+  * [ Contact us ](/support/contact-us)
+  * [ Newsroom ](/newsroom)
+  * [ National Provider Portal login ](https://provider.ehealth.gov.au/login.html)
+  * [ Developer Centre ](https://developer.digitalhealth.gov.au/)
+  * [ National Clinical Terminology Service ](https://www.healthterminologies.gov.au/)
+
+## Initiatives and programs
+
+  * [ My Health Record ](/healthcare-providers/my-health-record)
+  * [ Electronic prescribing ](/healthcare-providers/initiatives-and-programs/electronic-prescribing)
+  * [ Telehealth ](/healthcare-providers/initiatives-and-programs/telehealth)
+  * [ More digital health tools ](/healthcare-providers/initiatives-and-programs)
+
+By operation of the _Public Governance, Performance and Accountability
+(Establishing the Australian Digital Health Agency) Rule 2016_ , on 1 July
+2016, all the assets and liabilities of NEHTA will vest in the Australian
+Digital Health Agency. In this website, on and from 1 July 2016, all
+references to "National E-Health Transition Authority" or "NEHTA" will be
+deemed to be references to the Australian Digital Health Agency. PCEHR means
+the My Health Record, formerly the "Personally Controlled Electronic Health
+Record", within the meaning of the _My Health Records Act 2012_ (Cth),
+formerly called the _Personally Controlled Electronic Health Records Act 2012_
+(Cth).
+
+The Australian Digital Health Agency acknowledges the Traditional Owners of
+Country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to Elders past,
+present and emerging.
+
+© 2023 Australian Digital Health Agency
+
+  * [ Sitemap ](/sitemap)
+  * [ Privacy policy ](/about-us/policies-privacy-and-reporting/privacy-policy)
+  * [ Terms of use ](/about-us/policies-privacy-and-reporting/terms-of-use)
+
+![](/themes/custom/adha_theme/src/virtual-assistant/images/va-chat-bubble.svg)
+Chat
+
+Close chat
+
+Your browser does not support iframes.
+

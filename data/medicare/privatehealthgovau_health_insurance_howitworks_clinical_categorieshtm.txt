@@ -1,0 +1,586 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Private Health Insurance works in Australia.")
+    * [Overview of Health System](/health_insurance/what_is_covered/index.htm "An overview of what is covered by private health insurance and what is covered by Medicare for hospital, medical services \(general treatment\), pharmaceutical benefits and ambulance.")
+    * [Private Health Insurance Basics](/health_insurance/howitworks/index.htm "Describes how health insurance works, the different levels \(categories\) of cover for both hospital and general treatment \(ancillary/extras\).")
+      * [Product tiers](/health_insurance/howitworks/producttiers.htm "Four new tiers of hospital cover will begin rolling out from early 2019 and will become mandatory from 1 April 2020. All hospital insurance policies will be classified as Gold, Silver, Bronze or Basic. All hospital treatments are now listed under clinical categories to describe what is and is not covered under each policy.")
+      * [Clinical categories](/health_insurance/howitworks/clinical_categories.htm "Details of what is and is not covered by the clinical categories, with links to their MBS item numbers.")
+      * [General Treatments](/health_insurance/howitworks/treatments.htm "Definitions of some services covered under General treatment private health insurance in Australia.")
+      * [Registered health insurers](/health_insurance/howitworks/registeredinsurers.htm "Overview of the operation of health insurers registered under the Private Health Insurance Act 2007 in Australia")
+      * [Private Health Information Statements](/health_insurance/howitworks/phis_guide.htm "Private Health Information Statements provide a summary of the services covered under private health insurance policies in Australia.")
+      * [Waiting periods](/health_insurance/howitworks/waiting_periods.htm "Most private health insurance policies will have a waiting period associated with the services it covers, this means that when you take out the insurance you will have to serve the waiting period before you claim especially if you are claiming for treatment for a pre-existing condition.")
+      * [Out of pocket costs](/health_insurance/howitworks/out_of_pocket.htm "Explains what a 'gap' or out of pocket cost is for both hospital and medical treatment and what you can do")
+      * [Managing your policy](/health_insurance/howitworks/managing_your_policy.htm "You may be eligible for a discount on your premium or some insurers offer rate protection policies. You may be able to lower your premiums by choosing to not be covered for certain services \(exclusions\), receive limited benefits \(restricted benefits\), or to pay a set amount towards the costs of treatment \(excess or co-payment\).")
+    * [Government Surcharges & Incentives](/health_insurance/surcharges_incentives/index.htm "Australian government incentives and surcharges for private health insurance.")
+    * [Overseas Visitors & Students ](/health_insurance/overseas/index.htm "Students and visitors from overseas may be required, or should consider, to take out private health cover whilst visiting Australia.")
+    * [Private Health Insurance Changes](/health_insurance/phichanges/index.htm "From 1 April 2019, the Australian Government introduced new rules to help make private health insurance simpler including Gold, Silver, Bronze and Basic hospital tiers, and standard clinical categories to describe what is and is not covered. Further changes were introduced in 2021.")
+  * [Health Insurers](/healthinsurers/index.htm "Policies, contact details & performance.")
+  * [Compare Policies](/comparepolicies/index.htm "Find policies that match your needs.")
+  * [Contact Us](/contactus.htm "Got a question? Contact us today.")
+  * [FAQ](/faq.htm "Frequently asked questions.")
+
+## Clinical categories
+
+Four new tiers of hospital cover began rolling out from early 2019 and became
+mandatory from 1 April 2020. All hospital insurance policies are classified as
+Gold, Silver, Bronze or Basic.
+
+What is, and is not, covered in these tiers will be based on new clinical
+categories. Each standard categoryâfor example, âbone, joint and muscleâ
+category or âheart and vascular systemâ categoryâsets out the hospital
+treatments that must be covered by your private health insurer. If a policy
+covers a certain category, then it must cover everything listed in itânot
+only some things.
+
+more
+
+Four new tiers of hospital cover began rolling out from early 2019 and became
+mandatory from 1 April 2020. All hospital insurance policies are classified as
+Gold, Silver, Bronze or Basic.
+
+What is, and is not, covered in these tiers is based on clinical categories.
+Each standard categoryâfor example, âbone, joint and muscleâ category or
+âheart and vascular systemâ categoryâsets out the hospital treatments
+that must be covered by your private health insurer. If a policy covers a
+certain category, then it must cover everything listed in itânot only some
+things.
+
+The list below provides a description of each category and a link to the
+Medicare Benefits Schedule (MBS) item numbers included in each category. For
+more information about which categories are required to be covered under each
+hospital tier, seeÂ [Product
+tiers](/health_insurance/howitworks/producttiers.htm "Product tiers - Gold,
+Silver, Bronze, Basic").Â For other private health insurance terms see theÂ
+[Glossary](/footer/glossary.htm "Glossary").
+
+Assisted reproductive services
+
+    
+
+  * Hospital treatment for fertility treatments or procedures.
+  * For example: retrieval of eggs or sperm, In vitro Fertilisation (IVF), and Gamete Intra-fallopian Transfer (GIFT).
+  * Treatment of the female reproductive system is listed separately under Gynaecology.
+  * Pregnancy and birth-related services are listed separately under Pregnancy and birth.
+
+See a list of [MBS items for assisted reproductive
+services.](/dynamic/MBSItems/AssistedReproductive "MBS items for assisted
+reproductive services")  
+
+Back neck and spine
+
+    
+
+  * Hospital treatment for the investigation and treatment of the back, neck and spinal column, including spinal fusion.
+  * For example: sciatica, prolapsed or herniated disc, spinal disc replacement, and spine curvature disorders such as scoliosis, kyphosis and lordosis.
+  * Joint replacements are listed separately under Joint replacements.
+  * Joint fusions are listed separately under Bone, joint and muscle.
+  * Spinal cord conditions are listed separately under Brain and nervous system.
+  * Management of back pain is listed separately under Pain management.
+  * Pain management that requires a device is listed separately under Pain management with device.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for back neck and
+spine.](/dynamic/MBSItems/BackNeckSpine "MBS items for back neck and spine")
+
+Blood
+
+    
+
+  * Hospital treatment for the investigation and treatment of blood and blood-related conditions.
+  * For example: blood clotting disorders and bone marrow transplants.
+  * Treatment for cancers of the blood is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for blood.](/dynamic/MBSItems/Blood "MBS items for
+blood")
+
+Bone joint and muscle
+
+    
+
+  * Hospital treatment for the investigation and treatment of diseases, disorders and injuries of the musculoskeletal system.
+  * For example: carpal tunnel, fractures, hand surgery, joint fusion, bone spurs, osteomyelitis and bone cancer.
+  * Chest surgery is listed separately under Lung and chest.
+  * Spinal cord conditions are listed separately under Brain and nervous system.
+  * Spinal column conditions are listed separately under Back, neck and spine.
+  * Joint reconstructions are listed separately under Joint reconstructions.
+  * Joint replacements are listed separately under Joint replacements.
+  * Podiatric surgery performed by a registered podiatric surgeon is listed separately under Podiatric surgery (provided by a registered podiatric surgeon).
+  * Management of back pain is listed separately under Pain management. Pain management that requires a device is listed separately under Pain management with device.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for bone joint and
+muscle.](/dynamic/MBSItems/BoneJointMuscle "MBS items for bone joint and
+muscle")
+
+Brain and nervous system
+
+    
+
+  * Hospital treatment for the investigation and treatment of the brain, brain-related conditions, spinal cord and peripheral nervous system.
+  * For example: stroke, brain or spinal cord tumours, head injuries, epilepsy and Parkinsonâs disease.
+  * Treatment of spinal column (back bone) conditions is listed separately under Back, neck and spine.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for brain and nervous
+system.](/dynamic/MBSItems/BrainNervousSystem "MBS items for brain and nervous
+system")
+
+Breast surgery
+
+    
+
+  * Hospital treatment for the investigation and treatment of breast disorders and associated lymph nodes, and reconstruction and/or reduction following breast surgery or a preventative mastectomy.
+  * For example: breast lesions, breast tumours, asymmetry due to breast cancer surgery, and gynecomastia.
+  * This clinical category does not require benefits to be paid for cosmetic breast surgery that is not medically necessary.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for breast surgery.](/dynamic/MBSItems/BreastSurgery
+"MBS items for breast surgery")
+
+Cataracts
+
+    
+
+  * Hospital treatment for surgery to remove a cataract and replace with an artificial lens.
+
+See a list ofÂ [MBS items for cataracts.](/dynamic/MBSItems/Cataracts "MBS
+items for cataracts")
+
+Chemotherapy radiotherapy and immunotherapy for cancer
+
+    
+
+  * Hospital treatment for chemotherapy, radiotherapy and immunotherapy for the treatment of cancer or benign tumours.
+  * Surgical treatment of cancer is listed separately under each body system.
+
+See a list of [MBS items for chemotherapy radiotherapy and immunotherapy for
+cancer](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy "MBS items for
+chemotherapy radiotherapy and immunotherapy for cancer").  
+
+Dental surgery
+
+    
+
+  * Hospital treatment for surgery to the teeth and gums.
+  * For example: surgery to remove wisdom teeth, and dental implant surgery.
+
+See a list ofÂ [MBS items for dental surgery.](/dynamic/MBSItems/DentalSurgery
+"MBS items for dental surgery")
+
+Diabetes management
+
+    
+
+  * Hospital treatment for the investigation and management of diabetes.
+  * For example: stabilisation of hypo- or hyper- glycaemia, contour problems due to insulin injections.
+  * Treatment for diabetes-related conditions is listed separately under each body system affected. For example, treatment for diabetes-related eye conditions is listed separately under Eye.
+  * Treatment for ulcers is listed separately under Skin.
+  * Provision and replacement of insulin pumps is listed separately under Insulin pumps.
+
+See a list ofÂ [MBS items for diabetes management.](/dynamic/MBSItems/Diabetes
+"MBS items for diabetes management")
+
+Dialysis for chronic kidney failure
+
+    
+
+  * Hospital treatment for dialysis treatment for chronic kidney failure.
+  * For example: peritoneal dialysis and haemodialysis.
+
+See a list of [MBS items for chronic kidney
+failure.](/dynamic/MBSItems/Dialysis "MBS items for chronic kidney failure")  
+
+Digestive system
+
+    
+
+  * Hospital treatment for the investigation and treatment of the digestive system, including the oesophagus, stomach, gall bladder, pancreas, spleen, liver and bowel.
+  * For example: oesophageal cancer, irritable bowel syndrome, gall stones and haemorrhoids.
+  * Endoscopy is listed separately under Gastrointestinal endoscopy. Hernia and appendicectomy procedures are listed separately under Hernia and appendix.
+  * Bariatric surgery is listed separately under Weight loss surgery.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for digestive
+system.](/dynamic/MBSItems/DigestiveSystem "MBS items for digestive system")
+
+Ear nose and throat
+
+    
+
+  * Hospital treatment for the investigation and treatment of the ear, nose, throat, middle ear, thyroid, parathyroid, larynx, lymph nodes and related areas of the head and neck.
+  * For example: damaged ear drum, sinus surgery, removal of foreign bodies, stapedectomy and throat cancer.
+  * Tonsils, adenoids and grommets are listed separately under Tonsils, adenoids and grommets.
+  * The implantation of a hearing device is listed separately under Implantation of hearing devices.
+  * Orthopaedic neck conditions are listed separately under Back, neck and spine.
+  * Sleep studies are listed separately under Sleep studies.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list of [MBS items for ear nose and
+throat.](/dynamic/MBSItems/EarNoseThroat "MBS items for ear nose and throat")  
+
+Eye
+
+    
+
+  * Hospital treatment for the investigation and treatment of the eye and the contents of the eye socket.
+  * For example: retinal detachment, tear duct conditions, eye infections and medically managed trauma to the eye.
+  * Cataract procedures are listed separately under Cataracts.
+  * Eyelid procedures are listed separately under Plastic and reconstructive surgery.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for eye.](/dynamic/MBSItems/Eye "MBS items for eye")
+
+Gastrointestinal endoscopy
+
+    
+
+  * Hospital treatment for the diagnosis, investigation and treatment of the internal parts of the gastrointestinal system using an endoscope.
+  * For example: colonoscopy, gastroscopy, endoscopic retrograde cholangiopancreatography (ERCP).
+  * Non-endoscopic procedures for the digestive system are listed separately under Digestive system.
+
+See a list ofÂ [MBS items for gastrointestinal
+endoscopy.](/dynamic/MBSItems/GastrointestinalEndoscopy "MBS items for
+gastrointestinal endoscopy")
+
+Gynaecology
+
+    
+
+  * Hospital treatment for the investigation and treatment of the female reproductive system.
+  * For example: endometriosis, polycystic ovaries, female sterilisation and cervical cancer.
+  * Fertility treatments are listed separately under Assisted reproductive services.
+  * Pregnancy and birth-related conditions are listed separately under Pregnancy and birth.
+  * Miscarriage or termination of pregnancy is listed separately under Miscarriage and termination of pregnancy.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for gynaecology.](/dynamic/MBSItems/Gynaecology "MBS
+items for gynaecology")
+
+Heart and vascular system
+
+    
+
+  * Hospital treatment for the investigation and treatment of the heart, heart-related conditions and vascular system.
+  * For example: heart failure and heart attack, monitoring of heart conditions, varicose veins and removal of plaque from arterial walls.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for heart and vascular
+system.](/dynamic/MBSItems/HeartVascular "MBS items for heart and vascular
+system")
+
+Hernia and appendix
+
+    
+
+  * Hospital treatment for the investigation and treatment of a hernia or appendicitis.
+  * Digestive conditions are listed separately under Digestive system.
+
+See a list ofÂ [MBS items for hernia and
+appendix.](/dynamic/MBSItems/HerniaAppendix "MBS items for hernia and
+appendix")
+
+Hospital psychiatric services
+
+    
+
+  * Hospital treatment for the treatment and care of patients with psychiatric, mental, addiction or behavioural disorders.
+  * For example: psychoses such as schizophrenia, mood disorders such as depression, eating disorders and addiction therapy.
+
+See a list of [MBS items for hospital psychiatric
+services.](/dynamic/MBSItems/HospitalPsychiatric "MBS items for hospital
+psychiatric services")  
+
+Implantation of hearing devices
+
+    
+
+  * Hospital treatment to correct hearing loss, including implantation of a prosthetic hearing device.
+  * Stapedectomy is listed separately under Ear, nose and throat.
+
+See a list ofÂ [MBS items for implantation of hearing
+devices.](/dynamic/MBSItems/ImplantationHearingDevices "MBS items for
+implantation of hearing devices")
+
+Insulin pumps
+
+    
+
+  * Hospital treatment for the provision and replacement of insulin pumps for treatment of diabetes.
+
+There are no specific MBS item numbers associated with Insulin pumps.
+
+Joint reconstructions
+
+    
+
+  * Hospital treatment for surgery for joint reconstructions.
+  * For example: torn tendons, rotator cuff tears and damaged ligaments.
+  * Joint replacements are listed separately under Joint replacements.
+  * Bone fractures are listed separately under Bone, joint and muscle.
+  * Procedures to the spinal column are listed separately under Back, neck and spine.
+  * Podiatric surgery performed by a registered podiatric surgeon is listed separately under Podiatric surgery (provided by a registered podiatric surgeon).
+
+See a list ofÂ [MBS items for joint
+reconstructions.](/dynamic/MBSItems/JointReconstructions "MBS items for joint
+reconstructions")
+
+Joint replacements
+
+    
+
+  * Hospital treatment for surgery for joint replacements, including revisions, resurfacing, partial replacements and removal of prostheses.
+  * For example: replacement of shoulder, wrist, finger, hip, knee, ankle, or toe joint.
+  * Joint fusions are listed separately under Bone, joint and muscle.
+  * Spinal fusions are listed separately under Back, neck and spine.
+  * Joint reconstructions are listed separately under Joint reconstructions.
+  * Podiatric surgery performed by a registered podiatric surgeon is listed separately under Podiatric surgery (provided by a registered podiatric surgeon).
+
+See a list ofÂ [MBS items for joint
+replacements.](/dynamic/MBSItems/JointReplacements "MBS items for joint
+replacements")
+
+Kidney and bladder
+
+    
+
+  * Hospital treatment for the investigation and treatment of the kidney, adrenal gland and bladder.
+  * For example: kidney stones, adrenal gland tumour and incontinence.
+  * Dialysis is listed separately under Dialysis for chronic kidney failure.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for kidney and
+bladder.](/dynamic/MBSItems/KidneyBladder "MBS items for kidney and bladder")
+
+Lung and chest
+
+    
+
+  * Hospital treatment for the investigation and treatment of the lungs, lung-related conditions, mediastinum and chest.
+  * For example: lung cancer, respiratory disorders such as asthma, pneumonia, and treatment of trauma to the chest.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for lung and chest.](/dynamic/MBSItems/LungChest
+"MBS items for lung and chest")
+
+Male reproductive system
+
+    
+
+  * Hospital treatment for the investigation and treatment of the male reproductive system including the prostate.
+  * For example: male sterilisation, circumcision and prostate cancer.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for male reproductive
+system.](/dynamic/MBSItems/MaleReproductive "MBS items for male reproductive
+system")
+
+Miscarriage and termination of pregnancy
+
+    
+
+  * Hospital treatment for the investigation and treatment of a miscarriage or for termination of pregnancy.
+
+See a list ofÂ [MBS items for miscarriage and termination of
+pregnancy.](/dynamic/MBSItems/MiscarriageTerminationOfPregnancy "MBS items for
+miscarriage and termination of pregnancy")
+
+Pain management
+
+    
+
+  * Hospital treatment for pain management that does not require the insertion or surgical management of a device.
+  * For example: treatment of nerve pain and chest pain due to cancer by injection of a nerve block.
+  * Pain management using a device (for example an infusion pump or neurostimulator) is listed separately under Pain management with device.
+
+See a list ofÂ [MBS items for pain
+management.](/dynamic/MBSItems/PainManagement "MBS items for pain management")
+
+Pain management with device
+
+    
+
+  * Hospital treatment for the implantation, replacement or other surgical management of a device required for the treatment of pain.
+  * For example: treatment of nerve pain, back pain, and pain caused by coronary heart disease with a device (for example an infusion pump or neurostimulator).
+  * Treatment of pain that does not require a device is listed separately under Pain management.
+
+See a list ofÂ [MBS items for pain management with
+device.](/dynamic/MBSItems/PainManagementWithDevice "MBS items for pain
+management with device")
+
+Palliative care
+
+    
+
+  * Hospital treatment for care where the intent is primarily providing quality of life for a patient with a terminal illness, including treatment to alleviate and manage pain.
+
+See a list ofÂ [MBS items for palliative
+care.](/dynamic/MBSItems/PalliativeCare "MBS items for palliative care")
+
+Plastic and reconstructive surgery
+
+    
+
+  * Hospital treatment which is medically necessary for the investigation and treatment of any physical deformity, whether acquired as a result of illness or accident, or congenital.
+  * For example: burns requiring a graft, cleft palate, club foot and angioma.
+  * Plastic surgery that is medically necessary relating to the treatment of a skin-related condition is listed separately under Skin.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for plastic and reconstructive
+surgery.](/dynamic/MBSItems/PlasticReconstructiveSurgery "MBS items for
+plastic and reconstructive surgery")
+
+Podiatric surgery
+
+    
+
+  * Hospital treatment for the investigation and treatment of conditions affecting the foot and/or ankle, provided by a registered podiatric surgeon, but limited to cover for:Â· accommodation; andÂ· the cost of a prosthesis as listed in the prostheses list set out in the Private Health Insurance (Prostheses) Rules, as in force from time to time.
+  * Note: Insurers are not required to pay for any other benefits for hospital treatment for this clinical category but may choose to do so.Â 
+
+There are no specificÂ MBSÂ item numbers associated with Podiatric surgery.Â
+
+Pregnancy and birth
+
+    
+
+  * Hospital treatment for investigation and treatment of conditions associated with pregnancy and child birth. Treatment for the baby is covered under the clinical category relevant to their condition. For example, respiratory conditions are covered under Lung and chest.
+  * Female reproductive conditions are listed separately under Gynaecology.
+  * Fertility treatments are listed separately under Assisted reproductive services.
+  * Miscarriage and termination of pregnancy is listed separately under Miscarriage and termination of pregnancy.
+
+See a list ofÂ [MBS items for pregnancy and
+birth.](/dynamic/MBSItems/PregnancyBirth "MBS items for pregnancy and birth")
+
+Rehabilitation
+
+    
+
+  * Hospital treatment for physical rehabilitation for a patient related to surgery or illness.
+  * For example: inpatient and admitted day patient rehabilitation, stroke recovery, cardiac rehabilitation.
+
+There are no specific MBS item numbers associated with Rehabilitation.
+
+Skin
+
+    
+
+  * Hospital treatment for the investigation and treatment of skin, skin-related conditions and nails. The removal of foreign bodies is also included. Plastic surgery that is medically necessary and relating to the treatment of a skin-related condition is also included.
+  * For example: melanoma, minor wound repair and abscesses.
+  * Removal of excess skin due to weight loss is listed separately under Weight loss surgery.
+  * Chemotherapy and radiotherapy for cancer is listed separately under Chemotherapy, radiotherapy and immunotherapy for cancer.
+
+See a list ofÂ [MBS items for skin.](/dynamic/MBSItems/Skin "MBS items for
+skin")
+
+Sleep studies
+
+    
+
+  * Hospital treatment for the investigation of sleep patterns and anomalies.
+  * For example: sleep apnoea and snoring.
+
+See a list ofÂ [MBS items for sleep studies.](/dynamic/MBSItems/SleepStudies
+"MBS items for sleep studies")
+
+Tonsils adenoids and grommets
+
+    
+
+  * Hospital treatment of the tonsils, adenoids and insertion or removal of grommets.
+
+See a list ofÂ [MBS items for tonsils adenoids and
+grommets.](/dynamic/MBSItems/TonsilsAdenoidsGrommets "MBS items for tonsils
+adenoids and grommets")
+
+Weight loss surgery
+
+    
+
+  * Hospital treatment for surgery that is designed to reduce a personâs weight, remove excess skin due to weight loss and reversal of a bariatric procedure.
+  * For example: gastric banding, gastric bypass, sleeve gastrectomy.
+
+See a list ofÂ [MBS items for weight loss
+surgery.](/dynamic/MBSItems/WeightLossSurgery "MBS items for weight loss
+surgery")
+
+* * *
+
+#### External links
+
+  * [Medicare Benefits Schedule](http://www.mbsonline.gov.au/ "Medicare Benefits Schedule")
+  * [Department of Health and Aged Care - Private Health Insurance Reforms](https://www.health.gov.au/health-topics/private-health-insurance/private-health-insurance-reforms "Department of Health and Aged Care - Private Health Insurance Reforms")
+
+less
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Scheme
+  *[MBSÂ ]: Medicare Benefits Scheme
+

@@ -1,7 +1,8 @@
 creds.json
 **/__pycache__/*
 venv
-data
+data/*
+!data/medicare
 .vscode
 cruft
 # Elastic Beanstalk Files

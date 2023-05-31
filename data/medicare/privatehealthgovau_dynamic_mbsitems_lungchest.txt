@@ -1,0 +1,199 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Lung and chest - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+30090
+
+     DIAGNOSTIC BIOPSY OF PLEURA, PERCUTANEOUS 1 or more biopsies on any 1 occasion, where the biopsy is sent for pathological examination (Anaes.) [](/dynamic/MBSItems/LungChest/30090)
+34133
+
+     SCALENOTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/34133)
+34136
+
+     FIRST RIB, resection of portion of (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/34136)
+34139
+
+     CERVICAL RIB, removal of, or other operation for removal of thoracic outlet compression, not being a service to which another item in this Sub-group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/34139)
+38416
+
+     Endoscopic ultrasound guided fine needle aspiration biopsy or biopsies (endoscopy with ultrasound imaging) to obtain one or more specimens from either or both of the following: (a) mediastinal masses; (b) locoregional nodes to stage non-small cell lung carcinoma; other than a service associated with a service to which an item in Subgroup 1 of this Group, or item 38417 or 55054, applies (Anaes.) [](/dynamic/MBSItems/LungChest/38416)
+38417
+
+     Endobronchial ultrasound guided biopsy or biopsies (bronchoscopy with ultrasound imaging, with or without associated fluoroscopic imaging) to obtain one or more specimens by: (a) transbronchial biopsy or biopsies of peripheral lung lesions; or (b) fine needle aspirations of one or more mediastinal masses; or (c) fine needle aspirations of locoregional nodes to stage non-small cell lung carcinoma; other than a service associated with a service to which an item in Subgroup 1 of this Group, item 38416, 38420 or 38423, or an item in Subgroup I5 of Group I3, applies (Anaes.) [](/dynamic/MBSItems/LungChest/38417)
+38429
+
+     Tracheal excision and repair of, without cardiopulmonary bypass (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38429)
+38431
+
+     Tracheal excision and repair of, with cardiopulmonary bypass (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38431)
+38800
+
+     THORACIC CAVITY, aspiration of, for diagnostic purposes, not being a service associated with a service to which item 38803 applies [](/dynamic/MBSItems/LungChest/38800)
+38803
+
+     THORACIC CAVITY, aspiration of, with therapeutic drainage (paracentesis), with or without diagnostic sample [](/dynamic/MBSItems/LungChest/38803)
+38812
+
+     PERCUTANEOUS NEEDLE BIOPSY of lung (Anaes.) [](/dynamic/MBSItems/LungChest/38812)
+38815
+
+     Thoracoscopy, with or without division of pleural adhesions, with or without biopsy, including insertion of intercostal catheter where necessary, other than a service associated with a service to which item 18258, 18260, 38816 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38815)
+38816
+
+     Thoracotomy, exploratory, with or without biopsy, including insertion of an intercostal catheter where necessary, other than a service associated with a service to which item 18258, 18260, 38815 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38816)
+38817
+
+     Thoracotomy, thoracoscopy or sternotomy, by any procedure: (a) including any division of adhesions if the time taken to divide the adhesions exceeds 30 minutes; and (b) other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18258, 18260, 33824, 38815, 38816, 38818, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38817)
+38818
+
+     Thoracotomy, thoracoscopy or median sternotomy for post operative bleeding, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18258, 18260, 33824, 38815, 38816, 38817, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38818)
+38820
+
+     Lung, wedge resection of, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38820, 38821 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38820)
+38821
+
+     Lung, wedge resection of, 2 or more wedges, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38820 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38821)
+38822
+
+     Pneumonectomy, lobectomy, bilobectomy or segmentectomy, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38823, 38824 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38822)
+38823
+
+     Radical lobectomy, pneumonectomy, bilobectomy, segmentectomy or formal mediastinal node dissection (greater than 4 nodes), other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38822, 38824 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38823)
+38824
+
+     Segmentectomy, lobectomy, bilobectomy or pneumonectomy, including resection of chest wall, diaphragm, pericardium, and formal mediastinal node dissection (greater than 4 nodes), other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38822, 38823 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38824)
+38828
+
+     Intercostal drain, insertion of: (a) not involving resection of rib; and (b) excluding aftercare; and (c) other than a service associated with a service to which item 38815, 38816, 38829, 38830, 38831, 38832, 38833 or 38834 applies (Anaes.) [](/dynamic/MBSItems/LungChest/38828)
+38829
+
+     Intercostal drain, insertion of, with pleurodesis: (a) not involving resection of rib; and (b) excluding aftercare; and (c) other than a service associated with a service to which item 38815, 38816, 38828, 38830, 38831, 38832, 38833 or 38834 applies (Anaes.) [](/dynamic/MBSItems/LungChest/38829)
+38830
+
+     Empyema, radical operation for, involving resection of rib, other than a service associated with a service to which item 38828, 38829, 38831, 38832, 38833 or 38834 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38830)
+38831
+
+     Thoracoscopy or thoracotomy and drainage of paraneumonic effusion and empyema, exploratory, with or without biopsy, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828, 38829, 38830, 38832, 38833 or 38834 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38831)
+38832
+
+     Thoracotomy or thoracoscopy, with pulmonary decortication, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828, 38829, 38830, 38831, 38833 or 38834 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38832)
+38833
+
+     Thoracotomy or thoracoscopy, with pleurectomy or pleurodesis, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828, 38829, 38830, 38831, 38832 or 38834 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38833)
+38834
+
+     Thoracotomy and radical extra pleural pneumonectomy or radical lung preserving decortication and pleurectomy for malignancy, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828, 38829, 38830, 38831, 38832 or 38833 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38834)
+38837
+
+     Mediastinum, cervical exploration of, with or without biopsy, other than a service associated with a service to which item 18258, 18260, 38815, 38816 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38837)
+38838
+
+     Thoracotomy or thoracoscopy or sternotomy, for removal of thymus or mediastinal tumour, other than a service associated with a service to which item 18258, 18260, 38815, 38816 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38838)
+38845
+
+     Sternal wire or wires, removal of, other than a service associated with a service to which item 18258, 18260, 38815, 38816 or 38828 applies (H) (Anaes.) [](/dynamic/MBSItems/LungChest/38845)
+38850
+
+     Sternotomy wound, debridement of, not involving reopening of the mediastinum, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828 or 38851 applies (H) (Anaes.) [](/dynamic/MBSItems/LungChest/38850)
+38851
+
+     Sternotomy wound, debridement of, involving curettage of infected bone, with or without removal of wires, but not involving reopening of the mediastinum, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828 or 38850 applies (H) (Anaes.) [](/dynamic/MBSItems/LungChest/38851)
+38852
+
+     Sternum, reoperation on, for dehiscence or infection involving reopening of the mediastinum, with or without rewiring, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828 or 38853 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38852)
+38853
+
+     Sternum and mediastinum, reoperation for infection of, involving muscle advancement flaps and/or greater omentum, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828 or 38852 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38853)
+38859
+
+     Plating of multiple ribs for flail segment, other than a service associated with a service to which item 18258, 18260, 33815, 38816 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/38859)
+43861
+
+     CONGENITAL CYSTADENOMATOID MALFORMATION OR CONGENITAL LOBAR EMPHYSEMA, thoracotomy and lung resection for (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/43861)
+43909
+
+     TRACHEOMALACIA, aortopexy for (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/43909)
+43912
+
+     THORACOTOMY and excision of 1 or more of bronchogenic or enterogenous cyst or mediastinal teratoma (Anaes.) (Assist.) [](/dynamic/MBSItems/LungChest/43912)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

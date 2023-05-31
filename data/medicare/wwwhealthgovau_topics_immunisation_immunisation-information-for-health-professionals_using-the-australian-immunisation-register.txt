@@ -1,0 +1,279 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Immunisation](/topics/immunisation)
+  4. [Immunisation information for health professionals](/topics/immunisation/immunisation-information-for-health-professionals)
+
+[For health professionals](/topics/immunisation/immunisation-information-for-
+health-professionals)
+
+# Using the Australian Immunisation Register
+
+This page provides information to health care professionals about the
+Australian Immunisation Register, and how they can use it to record
+vaccinations and generate reports.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Using the Australian Immunisation Register&url=https://www.health.gov.au/topics/immunisation/immunisation-information-for-health-professionals/using-the-australian-immunisation-register)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/immunisation/immunisation-information-for-health-professionals/using-the-australian-immunisation-register)
+    * [Email](mailto:?subject=Using the Australian Immunisation Register&body=https://www.health.gov.au/topics/immunisation/immunisation-information-for-health-professionals/using-the-australian-immunisation-register)
+
+Loading...
+
+On this page
+
+## What is the Australian Immunisation Register?
+
+The Australian Immunisation Register (AIR) is a national register which
+records vaccines given to all people Australia. This includes:
+
+  * COVID-19 vaccines
+  * vaccines given under the National Immunisation Program (NIP)
+  * vaccines given privately, such as for seasonal influenza or travel.
+
+Recognised vaccination providers should record all vaccines given to patients
+− including through school vaccination programs − on the AIR.
+
+The AIR can also be used to:
+
+  * check which vaccines your patients have had
+  * check if your patients are overdue for any vaccines
+  * report medical contraindications online or natural immunities – eligible vaccination providers only.
+
+## Checking your patient's immunisation history
+
+You can check your patient’s immunisation history before you vaccinate
+through:
+
+  * clinical software, if integrated with the AIR
+  * the [AIR site](https://www.servicesaustralia.gov.au/australian-immunisation-register-for-health-professionals) in [Health Professional Online Services (HPOS)](https://www.servicesaustralia.gov.au/organisations/health-professionals/services/medicare/hpos).
+
+## Identifying people who are overdue for their vaccines
+
+AIR reports that can help you identify children who are overdue for
+immunisation include:
+
+  * AIR010A – AIR Due/Overdue Practice Report
+  * AIR011A – Due/Overdue report by locality
+  * AIR011B – Due/overdue report by vaccination provider
+
+Visit the [AIR site](https://www.servicesaustralia.gov.au/australian-
+immunisation-register-for-health-professionals) in [Health Professional Online
+Services (HPOS)](https://www.servicesaustralia.gov.au/organisations/health-
+professionals/services/medicare/hpos) to see these reports.
+
+## Recording vaccines given to your patients
+
+It’s important to record the vaccines you give to your patients on the AIR at
+the time of vaccination. Information on the AIR needs to be accurate and up to
+date so that:
+
+  * families can receive their appropriate childcare and Family Tax Benefit (FTB) payments on time
+  * children can enrol in school or adults can start certain jobs on time
+  * the AIR can inform public health management and research of vaccine-preventable diseases.
+
+Recognised vaccination providers should report to the AIR all vaccinations
+they give to their patients in Australia. They should also record those given
+overseas if they have appropriate documentation.
+
+If your practice software does not automatically report vaccinations to the
+AIR, you will need to report these vaccinations directly using the AIR
+website.
+
+Information about sending or receiving immunisation data from the AIR is
+available on the [AIR
+site](https://www.servicesaustralia.gov.au/organisations/health-
+professionals/services/medicare/australian-immunisation-register-health-
+professionals).
+
+## Mandatory reporting
+
+Under the _[Australian Immunisation Register Act
+2015](https://www.legislation.gov.au/Details/C2021C00418)_ it is mandatory for
+all vaccination providers to report to the AIR:
+
+  * COVID-19 vaccinations administrated on or after 20 February 2021
+  * Influenza vaccinations administered on or after 1 March 2021
+  * NIP vaccinations administered on or after 1 July 2021, and
+  * Japanese encephalitis virus (JEV) vaccines administered on or after 21 December 2022.
+
+The Australian Immunisation Register Rule 2015 lists the specific vaccines,
+the data elements to report, and how and when to report these. These include:
+
+  * Relevant vaccines: COVID-19, influenza, NIP and JEV vaccines
+  * How to report: electronic, or if this is not reasonably practical then in written form
+  * When to report: within 24 hours, and no more than 10 working days after the vaccination.
+  * personal information: Medicare number (if applicable), name, contact details, date of birth, gender
+  * vaccine information: brand name, dose number and batch number, date given, for COVID19 vaccines - vial serial number (if known)
+  * provider information: provider number, name and contact details.
+
+## Ensuring records are accurate
+
+Encourage your patients to update the personal details they have recorded with
+Medicare (including their address and whether they identify as Aboriginal or
+Torres Strait Islander people). The AIR uses Medicare details in its records,
+so the details need to be right so that the AIR will be accurate.
+
+Patients can update their Medicare details online using the [Medicare online
+account](https://www.servicesaustralia.gov.au/individuals/services/medicare/medicare-
+online-accounts) through [myGov](https://my.gov.au/), or through the [Express
+Plus Medicare mobile
+app](https://www.servicesaustralia.gov.au/individuals/services/medicare/express-
+plus-medicare-mobile-app).
+
+## Vaccination provider information payments
+
+Eligible vaccination providers get an information payment for:
+
+  * completing a [National Immunisation Program (NIP) Schedule](/node/1091) for a child under 7 years old and recording it on the AIR
+  * following up and vaccinating a child under 7 years old, who is more than 2 months overdue for their childhood vaccinations under the NIP Schedule, and recording it on the AIR.
+
+The information payments are:
+
+  * up to $6 per completed immunisation schedule for children under 7 years old
+  * $6 per completed catch-up schedule for children under 7 years old
+  * paid by Electronic Funds Transfer on the second last Tuesday of each month.
+
+To get a payment, you need to provide your bank account details when you:
+
+  * register as a vaccination provider with the AIR
+  * complete the [AIR Bank Account Details for Vaccination Providers form](https://www.servicesaustralia.gov.au/organisations/health-professionals/forms/im005)
+
+To update your bank account details on the AIR:
+
+  * use [Health Professional Online Services (HPOS)](https://www.servicesaustralia.gov.au/organisations/health-professionals/services/medicare/hpos) or
+  * complete the [AIR Bank Account Details for Vaccination Providers form](https://www.servicesaustralia.gov.au/organisations/health-professionals/forms/im005).
+
+You’ll get an immunisation payment statement summary each month. You can
+access the statement on the [AIR
+site](https://www.servicesaustralia.gov.au/organisations/health-
+professionals/services/medicare/australian-immunisation-register-health-
+professionals).
+
+Immunisation details submitted to AIR during the last month will be included
+in the Immunisation Notifications Reconciliation report. This report is
+available on the [AIR
+site](https://www.servicesaustralia.gov.au/organisations/health-
+professionals/services/medicare/australian-immunisation-register-health-
+professionals) on the second last Tuesday of each month.
+
+Last updated:
+
+13 January 2023
+
+Tags:
+
+  * [Immunisation](/topics/immunisation)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Immunisation](/topics/immunisation)
+
+  * [About immunisation](/topics/immunisation/about-immunisation)
+  * [When to get vaccinated](/topics/immunisation/when-to-get-vaccinated)
+  * [Vaccines](/topics/immunisation/vaccines)
+  * [Getting vaccinated](/topics/immunisation/getting-vaccinated)
+  * [For health professionals](/topics/immunisation/immunisation-information-for-health-professionals)
+    * [Catch-up immunisations](/topics/immunisation/immunisation-information-for-health-professionals/catch-up-immunisations)
+    * [Clinical support](/topics/immunisation/immunisation-information-for-health-professionals/immunisation-clinical-support)
+    * [Storing, handling and administering vaccines](/topics/immunisation/immunisation-information-for-health-professionals/storing-handling-and-administering-vaccines)
+    * [Using the Australian Immunisation Register (AIR)](/topics/immunisation/immunisation-information-for-health-professionals/using-the-australian-immunisation-register)
+    * [Reporting and managing adverse events](/topics/immunisation/immunisation-information-for-health-professionals/reporting-and-managing-adverse-vaccination-events)
+    * [Immunisations for health care workers](/topics/immunisation/immunisation-information-for-health-professionals/immunisations-for-health-care-workers)
+  * [Immunisation data](/topics/immunisation/immunisation-data)
+  * [News](/topics/immunisation/immunisation-news)
+  * [Resources](/topics/immunisation/immunisation-resources)
+  * [Contacts](/topics/immunisation/immunisation-contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

@@ -1,0 +1,139 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Palliative care - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+3005
+
+     Professional attendance at consulting rooms or hospital by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine following referral of the patient to the specialist or consultant physician by a referring practitioner-initial attendance in a single course of treatment [](/dynamic/MBSItems/PalliativeCare/3005)
+3010
+
+     Professional attendance at consulting rooms or hospital by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine following referral of the patient to the specialist or consultant physician by a referring practitioner-each attendance (other than a service to which item 3014 applies) after the first in a single course of treatment [](/dynamic/MBSItems/PalliativeCare/3010)
+3014
+
+     Professional attendance at consulting rooms or hospital by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine following referral of the patient to the specialist or consultant physician by a referring practitioner-each minor attendance after the first attendance in a single course of treatment [](/dynamic/MBSItems/PalliativeCare/3014)
+3018
+
+     Professional attendance at a place other than consulting rooms or hospital by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine following referral of the patient to the specialist or consultant physician by a referring practitioner-initial attendance in a single course of treatment [](/dynamic/MBSItems/PalliativeCare/3018)
+3023
+
+     Professional attendance at a place other than consulting rooms or hospital by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine following referral of the patient to the specialist or consultant physician by a referring practitioner-each attendance (other than a service to which item 3028 applies) after the first in a single course of treatment [](/dynamic/MBSItems/PalliativeCare/3023)
+3028
+
+     Professional attendance at a place other than consulting rooms or hospital by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine following referral of the patient to the specialist or consultant physician by a referring practitioner-each minor attendance after the first attendance in a single course of treatment [](/dynamic/MBSItems/PalliativeCare/3028)
+3032
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to organise and coordinate a community case conference of at least 15 minutes but less than 30 minutes [](/dynamic/MBSItems/PalliativeCare/3032)
+3040
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to organise and coordinate a community case conference of at least 30 minutes but less than 45 minutes [](/dynamic/MBSItems/PalliativeCare/3040)
+3044
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to organise and coordinate a community case conference of at least 45 minutes [](/dynamic/MBSItems/PalliativeCare/3044)
+3051
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to participate in a community case conference (other than to organise and coordinate the conference) of at least 15 minutes but less than 30 minutes [](/dynamic/MBSItems/PalliativeCare/3051)
+3055
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to participate in a community case conference (other than to organise and coordinate the conference) of at least 30 minutes but less than 45 minutes, with a multidisciplinary team of at least 2 other formal care providers of different disciplines [](/dynamic/MBSItems/PalliativeCare/3055)
+3062
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to participate in a community case conference (other than to organise and coordinate the conference) of at least 45 minutes [](/dynamic/MBSItems/PalliativeCare/3062)
+3069
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to organise and coordinate a discharge case conference of at least 15 minutes but less than 30 minutes, before the patient is discharged from a hospital (H) [](/dynamic/MBSItems/PalliativeCare/3069)
+3074
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a case conference team, to organise and coordinate a discharge case conference of at least 30 minutes but less than 45 minutes, before the patient is discharged from a hospital (H) [](/dynamic/MBSItems/PalliativeCare/3074)
+3078
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to organise and coordinate a discharge case conference of at least 45 minutes, before the patient is discharged from a hospital (H) [](/dynamic/MBSItems/PalliativeCare/3078)
+3083
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a case conference team, to participate in a discharge case conference (other than to organise and coordinate the conference) of at least 15 minutes but less than 30 minutes, before the patient is discharged from a hospital (H) [](/dynamic/MBSItems/PalliativeCare/3083)
+3088
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to participate in a discharge case conference (other than to organise and coordinate the conference) of at least 30 minutes but less than 45 minutes, before the patient is discharged from a hospital (H) [](/dynamic/MBSItems/PalliativeCare/3088)
+3093
+
+     Attendance by a specialist, or consultant physician, in the practice of the specialist's or consultant physician's specialty of palliative medicine, as a member of a multidisciplinary case conference team, to participate in a discharge case conference (other than to organise and coordinate the conference) of at least 45 minutes, before the patient is discharged from a hospital (H) [](/dynamic/MBSItems/PalliativeCare/3093)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

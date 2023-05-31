@@ -1,0 +1,558 @@
+Skip to main content Skip to main navigation Skip to main content
+
+[ ![Back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH2x.png)
+![Going back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH-
+standard_0.png) ](/ "Home")
+
+### Sub menu
+
+  * [About the Handbook](/contents/about-the-handbook "About the handbook")
+  * [Contact us](/contact-us "Contact us")
+
+Search  
+
+Menu  Search
+
+Close
+
+  * [Home](/home)
+  * [Contents](/contents)
+  * [Diseases](/contents/vaccine-preventable-diseases)
+  * [Vaccines](/vaccines)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Resources](/resources)
+
+## You are here
+
+  1. [Home](/)
+
+[Home](/)
+
+# Glossary of technical terms
+
+Explanation of technical terms used in the Australian Immunisation Handbook.
+
+  * [ Listen ](//app-oc.readspeaker.com/cgi-bin/rsent?customerid=5802&lang=en_au&voice=Jack&readclass=main-content&url=https%3A%2F%2Fimmunisationhandbook.health.gov.au%2Ftechnical-terms "Listen to this page using ReadSpeaker webReader")
+
+  * Print 
+  * Share 
+
+    * [Twitter](https://twitter.com/share?text=Glossary of technical terms&url=https://immunisationhandbook.health.gov.au/technical-terms "Share to Twitter")
+    * [Facebook](https://facebook.com/sharer.php?u=https://immunisationhandbook.health.gov.au/technical-terms "Share to Facebook")
+    * [Email](mailto:?subject= The Australian Immunisation Handbook | Glossary of technical terms&body=https://immunisationhandbook.health.gov.au/technical-terms "Share via email")
+
+Technical term | Explanation  
+---|---  
+acellular vaccine |
+
+A vaccine that contains cellular material but does not contain complete cells  
+  
+adjuvant |
+
+A substance that is added to a vaccine during production to improve the immune
+response to that vaccine  
+  
+adolescent |
+
+A person aged 10–19 years  
+  
+adult |
+
+A person aged over 19 years  
+  
+adverse event following immunisation |
+
+An unwanted medical reaction after administration of a vaccine, which may or
+may not be related to the vaccine. Adverse events may be at the site of
+injection, a general illness or a general allergic reaction.  
+  
+allergy |
+
+An immune response to a foreign substance that is harmless in most people. The
+foreign substance could be a food, medicine or vaccine component  
+  
+anaphylaxis |
+
+A sudden and severe allergic reaction to a substance, which results in a
+serious fall in blood pressure and/or respiratory obstruction. It may cause
+unconsciousness and death if not treated immediately.  
+  
+antigen |
+
+A foreign substance that induces an immune response, usually the production of
+antibodies.  
+  
+asplenia |
+
+A condition in which a person’s spleen has been removed (anatomical asplenia)
+or does not function (functional asplenia).  
+  
+attenuation |
+
+The process of modifying a virus or bacterium to reduce its virulence
+(disease-inducing ability) while retaining its ability to induce a strong
+immune response (immunogenicity).  
+  
+Australian Immunisation Register |
+
+A database that holds records of vaccinations given to people of all ages who
+are registered with Medicare in Australia. Immunisation providers need to
+enter details of the vaccinations they give on the AIR. The AIR is an
+expansion of the previous Australian Childhood Immunisation Register (ACIR),
+which recorded vaccinations given to children under 7 years of age.  
+  
+bacteria |
+
+Microorganisms that are smaller than a blood cell, but bigger than a virus;
+examples of diseases caused by bacteria are diphtheria, tetanus, pertussis,
+_Haemophilus influenzae_ type b (Hib) and tuberculosis  
+  
+brachial neuritis |
+
+Pain in the arm that a vaccine was given in, causing persisting weakness of
+the arm.  
+  
+breakthrough infection |
+
+Development of a disease despite previous vaccination against the infectious
+agent.  
+  
+Carriage |
+
+’Carriage’ means the presence of meningococcal bacteria in the upper
+respiratory tract without any signs or symptoms of infection.  
+  
+catch-up vaccination |
+
+The process of planning and scheduling vaccines for people who have missed 1
+or more doses of scheduled vaccines.  
+  
+child |
+
+A person aged 12 months to <10 years.  
+  
+chronic infection |
+
+An infection that, although not necessarily causing symptoms, may still be
+active and may spread to others. Chronic infection may last for years.
+Examples of diseases that can cause chronic infection are hepatitis B and
+typhoid. People with chronic infections used to be referred to as ‘carriers’.  
+  
+cold chain |
+
+The system of transporting and storing vaccines within the temperature range
+of +2°C to +8°C from the place of manufacture to the point of administration.
+This is essential for maintaining vaccine potency and vaccine effectiveness.  
+  
+combination vaccine |
+
+2 or more vaccines given in a single dose that protects against more than 1
+disease. Examples are DTPa (diphtheria-tetanus-acellular pertussis) and MMR
+(measles-mumps-rubella) vaccines.  
+  
+conjugate vaccine |
+
+A type of bacterial vaccine that is made by chemically linking (conjugating) a
+protein molecule with a tiny amount of the polysaccharide that makes up the
+cell coating of the bacterium. This improves the immune response to the
+vaccine. Examples are Haemophilus influenzae type b (Hib), meningococcal and
+pneumococcal conjugate vaccines.  
+  
+contraindication |
+
+A medical condition or risk factor in a recipient/person that makes receiving
+a specific vaccine potentially harmful.  
+  
+corticosteroid |
+
+A medicine used to reduce inflammation and other immune responses.  
+  
+effectiveness |
+
+A measure of how well a vaccine works in a defined population in
+‘uncontrolled’ or routine circumstances — for example, in a vaccination
+program.  
+  
+efficacy |
+
+A measure of how well a vaccine works in a defined population in controlled or
+ideal circumstances — for example, in a randomised controlled trial.  
+  
+encephalitis |
+
+Inflammation of the brain.  
+  
+encephalopathy |
+
+A general term to describe a variety of illnesses that affect the brain,
+including encephalitis.  
+  
+endemic |
+
+Ongoing, low-level presence of a disease in a community.  
+  
+enzootic |
+
+Occurrence of a disease at a steady rate in animals in a specific geographic
+area.  
+  
+epidemic |
+
+The spread of an infection in a community at a faster rate than is normally
+expected. Measles and influenza viruses are common causes of epidemics in
+Australia. Small epidemics are often called outbreaks.  
+  
+extensive limb swelling |
+
+Swelling of the limb, with or without redness, that:
+
+  * extends from the joint above the injection site to the joint below the injection site, or beyond a joint (above or below the injection site), or
+  * results in the circumference of the limb being twice the normal size
+
+  
+febrile |
+
+Related to a fever — for example, febrile illness and febrile convulsions.  
+  
+Guillain–Barré syndrome |
+
+An autoimmune condition that causes muscle weakness, numbness or paralysis.  
+  
+haematopoietic stem cell transplant (HSCT) |
+
+Transplant of stem cells from blood or bone marrow  
+  
+HALO principle |
+
+Health, Age, Lifestyle, Occupation. This helps assess which vaccines adults
+need based on their risk factors.  
+  
+herd immunity |
+
+A situation in which a large proportion of the population is immune to a
+disease through previous vaccination or illness. As a result, it is highly
+unlikely that the disease will spread from person to person. Non-immune people
+are indirectly protected from the disease.  
+  
+humoral immunity |
+
+The aspect of immunity that involves antibodies and other proteins to fight
+infection.  
+  
+hypotonic-hyporesponsive episode (shock, collapse) |
+
+The sudden onset of:
+
+  * pallor or cyanosis
+  * limpness (muscle hypotonia)
+  * reduced responsiveness or unresponsiveness
+
+This may occur after vaccination when no other cause is evident, such as a
+vasovagal episode or anaphylaxis. The episode usually occurs 1–48 hours after
+vaccination and gets better on its own without treatment.  
+  
+immunisation |
+
+The process of inducing immunity to an infectious agent by giving a vaccine.  
+  
+immunisation provider |
+
+Any person who provides vaccines to people. Immunisation providers can work in
+many settings, including:
+
+  * general practice
+  * local council clinics
+  * community centres
+  * pharmacies
+  * Aboriginal Community Controlled Health Services
+  * school-based immunisation programs
+  * travel medicine clinics
+  * hospitals
+  * staff occupational health clinics
+  * aged care facilities
+
+  
+immunity |
+
+The ability of the body to fight off an infection. Immunity can result from
+natural infections or from vaccination.  
+  
+immunocompromised |
+
+Having an immune system that is weakened and unable to protect the body from
+disease. It can be caused by disease (such as HIV infection or cancer) or some
+medicines (such as those used in chemotherapy).  
+  
+immunogenicity |
+
+The ability of a particular substance, such as a vaccine, to provoke an immune
+response, or the degree of response it provokes.  
+  
+immunoglobulin |
+
+A protein extracted from blood, sometimes called an antibody, that fights
+infection. An injection of immunoglobulins provides temporary immunity against
+certain infections (also known as passive immunisation).  
+  
+immunosuppression |
+
+See [immunocompromised](/technical-terms/immunocompromised
+"immunocompromised").  
+  
+immunosuppressive therapy |
+
+Medicines used to treat certain conditions, but that also weaken the immune
+system. Examples are chemotherapy, radiation therapy and oral corticosteroids.  
+  
+incubation period |
+
+The time between exposure to an infectious agent and development of disease.
+It can take days or weeks for an infection with a virus or bacterium to cause
+an obvious illness.  
+  
+infant |
+
+A person aged under 12 months.  
+  
+infection |
+
+When bacteria or viruses invade the body. If the body cannot fight the
+infection, it may cause disease.  
+  
+intradermal injection |
+
+An injection into the surface layers of the skin. This type of injection is
+used to administer BCG (bacille Calmette–Guérin) vaccine to prevent
+tuberculosis.  
+  
+intramuscular injection |
+
+An injection into the muscle. Vaccines are usually injected into a muscle in
+the upper outer thigh or upper arm.  
+  
+intussusception |
+
+A condition in which one portion of the bowel telescopes into the next portion
+of the bowel, resulting in a blockage.  
+  
+invasive disease |
+
+When bacteria are found in the blood, spinal fluid or another part of the body
+that would normally be sterile. This term is often used in relation to
+pneumococcal or meningococcal disease.  
+  
+IPC |
+
+Institut Pasteur du Cambodge  
+  
+jaundice |
+
+Yellow skin colour that may result from severe hepatitis.  
+  
+live vaccine |
+
+A vaccine containing live viruses or bacteria that are weakened (attenuated)
+to produce an immune response in the recipient without causing the serious
+effects of the disease.  
+  
+MenACWY |
+
+meningococcal ACWY  
+  
+minimum interval |
+
+The shortest amount of time required between 2 doses of a vaccine to provide
+an adequate immune response to the 2nd dose. If the interval between the doses
+is shorter than the minimum interval, the vaccine may not be effective.  
+  
+National Immunisation Program |
+
+A program in Australia that funds free vaccines for eligible people to
+increase immunisation rates and help reduce vaccine-preventable diseases.  
+  
+pandemic influenza |
+
+A global epidemic that results when a new strain of influenza virus appears in
+the human population. It causes more severe disease in the population because
+few people have immunity to the new strain.  
+  
+passive immunity |
+
+Direct transfer or administration of antibodies to a non-immune person.
+Examples are transfer of maternal antibodies to an infant before birth and
+administration of immunoglobulins.  
+  
+polysaccharide vaccine |
+
+A type of bacterial vaccine that contains a group of complex carbohydrates
+(sugars) that make up the cell coating of the bacterium.  
+  
+post-exposure prophylaxis |
+
+Providing immunoglobulin (or sometimes vaccine) to a person who has been
+exposed to an infectious agent, in an effort to prevent them developing the
+disease.  
+  
+pre-exposure prophylaxis |
+
+Providing a medicine or vaccine to a person who may be at risk of a disease
+but who has yet not been exposed to the infectious agent. This will help to
+prevent them developing the disease if they are later exposed to it.  
+  
+precaution |
+
+A medical condition or risk factor in a person that may increase the risk of
+an adverse reaction to a vaccine, or could compromise the ability of the
+vaccine to induce immunity. The benefits and risks should be assessed when
+considering vaccination for a person with a precaution. See also
+[contraindication](/technical-terms/contraindication "contraindication").  
+  
+preterm infant |
+
+An infant born prematurely. Preterm infants are those born at <37 weeks
+gestation. Extremely preterm infants are those born at <28 weeks gestation.  
+  
+reactogenicity |
+
+The ability of a vaccine to cause adverse reactions, or the severity of
+adverse reactions it causes.  
+  
+school-based program |
+
+A method of delivering vaccines to children and adolescents. In Australia, it
+is mostly used for vaccines that are given to adolescents in specific school
+grades.  
+  
+seizure |
+
+A sudden loss of consciousness and generalised, tonic, clonic, tonic–clonic or
+atonic motor manifestations. Types of seizures include:
+
+  * febrile seizures, with fever >38.5°C
+  * afebrile seizures, without fever
+  * syncopal seizures, with fainting (syncope, vasovagal episode) followed by seizure(s)
+
+  
+serological testing |
+
+Testing for specific antibodies, or other markers of infection or immunity,
+usually from a blood sample.  
+  
+solid organ transplant |
+
+Transplant of a solid organ such as kidney, liver, heart or lung. Does not
+include [haematopoietic stem cell transplant](/technical-terms/haematopoietic-
+stem-cell-transplant-hsct "haematopoietic stem cell transplant \(HSCT\)")  
+  
+subcutaneous injection |
+
+An injection into the tissue between the skin and the underlying muscle.  
+  
+syncope |
+
+See [vasovagal episode](/technical-terms/vasovagal-episode-syncope-fainting
+"vasovagal episode \(syncope, fainting\)")  
+  
+thrombocytopenia |
+
+Abnormally low levels of platelets in the blood (<50 × 109/L)  
+  
+TRC |
+
+updated Thai Red Cross  
+  
+vaccination |
+
+The administration of a vaccine. If vaccination is successful, it results in
+immunity.  
+  
+vaccine |
+
+A product often made from extracts of killed viruses or bacteria, or from
+live, weakened strains of viruses or bacteria. A vaccine can stimulate an
+immune response that protects against natural infection.  
+  
+vasovagal episode (syncope, fainting) |
+
+An episode that involves all of the following:
+
+  * pallor and unresponsiveness, reduced responsiveness or feeling light-headed
+  * bradycardia
+  * resolution of symptoms with a change in position (supine position, head between knees or limbs elevated)
+
+A vasovagal episode may occur while vaccine is being administered or shortly
+after (usually within 5 minutes).  
+  
+virus |
+
+A tiny living organism, smaller than a bacterium, that can cause infections.
+Examples of diseases caused by viruses are measles, rubella, mumps, polio,
+influenza and hepatitis B.  
+  
+Printed content may be out of date. For up to date information, always refer
+to the digital version:
+
+https://immunisationhandbook.health.gov.au/technical-terms
+
+## Who's responsible for the Handbook
+
+  * [ATAGI](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi)
+  * [NHMRC](https://www.nhmrc.gov.au/)
+  * [Chief Medical Officer](https://www.health.gov.au/about-us/who-we-are/leadership#chief-medical-officer)
+  * [Department of Health and Aged Care](https://www.health.gov.au/)
+
+## Useful links and tools
+
+  * [Announcements](/contents/about-the-handbook/announcements "Announcements")
+  * [Handbook tables](/resources/tables "Handbook tables")
+  * [Handbook figures](/resources/figures "Handbook figures")
+  * [Technical terms](/technical-terms "Glossary of technical terms")
+  * [Abbreviations](/abbreviations "Abbreviations")
+
+## More about Immunisation
+
+  * [National Immunisation Program](https://www.health.gov.au/initiatives-and-programs/national-immunisation-program)
+  * [NIP Schedule](https://www.health.gov.au/health-topics/immunisation/immunisation-throughout-life/national-immunisation-program-schedule)
+  * [ATAGI statements](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi#statements)
+  * [Immunisation news](https://www.health.gov.au/news?f%5B0%5D=field_related_health_topics%3A1021)
+  * [Immunisation resources](https://www.health.gov.au/resources?f%5B0%5D=field_related_health_topics%3A1021&f%5B1%5D=field_audience%3A446)
+  * [NCIRS Factsheets](http://www.ncirs.org.au/health-professionals/ncirs-fact-sheets-faqs)
+
+## Help us improve
+
+We are always looking for ways to improve our website, the NICC and mobile
+app.
+
+[Provide feedback](/provide-feedback)
+
+## Using the Handbook
+
+  * [Accessibility](https://www.health.gov.au/using-our-websites/accessibility)
+  * [Copyright](https://www.health.gov.au/using-this-website/copyright)
+  * [Disclaimers](https://www.health.gov.au/using-this-website/disclaimers)
+  * [Privacy](https://www.health.gov.au/using-this-website/privacy)
+
+## Mobile apps
+
+[![Download from Apple App
+Store](/sites/default/files/2021-05/App_Store_Badge_v2.svg)](https://apps.apple.com/au/app/immunisationhandbook/id1484584970)
+
+[![Get it on Google
+Play](/sites/default/files/2021-05/Google_Play_Store_badge_EN_v2.svg)](https://play.google.com/store/apps/details?id=au.gov.health.immunisationhandbook.immunisation_handbook&hl=en_AU&gl=AU&utm_source=Website&utm_campaign=AIH)
+
+## Acknowledgement
+
+The Department of Health and Aged Care acknowledges First Nations peoples as
+the Traditional Owners of Country throughout Australia, and their continuing
+connection to land, sea and community. We pay our respects to them and their
+cultures, and to all Elders both past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged
+Care](https://www.health.gov.au/)
+
+Back to top
+
+Link copied
+
+**Link** , **share** or **bookmark** directly to this section of the page.
+

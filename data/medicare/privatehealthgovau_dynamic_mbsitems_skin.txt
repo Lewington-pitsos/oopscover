@@ -1,0 +1,409 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Skin - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+12012
+
+     Epicutaneous patch testing in the investigation of allergic dermatitis using not more than 25 allergens [](/dynamic/MBSItems/Skin/12012)
+12017
+
+     Epicutaneous patch testing in the investigation of allergic dermatitis using more than 25 allergens but not more than 50 allergens [](/dynamic/MBSItems/Skin/12017)
+12021
+
+     Epicutaneous patch testing in the investigation of allergic dermatitis, performed by or on behalf of a specialist, or consultant physician, in the practice of his or her specialty, using more than 50 allergens but not more than 75 allergens [](/dynamic/MBSItems/Skin/12021)
+12022
+
+     Epicutaneous patch testing in the investigation of allergic dermatitis, performed by or on behalf of a specialist, or consultant physician, in the practice of his or her specialty, using more than 75 allergens but not more than 100 allergens [](/dynamic/MBSItems/Skin/12022)
+12024
+
+     Epicutaneous patch testing in the investigation of allergic dermatitis, performed by or on behalf of a specialist, or consultant physician, in the practice of his or her specialty, using more than 100 allergens [](/dynamic/MBSItems/Skin/12024)
+14050
+
+     UVA or UVB phototherapy administered in a whole body cabinet or hand and foot cabinet including associated consultations other than the initial consultation, if treatment is initiated and supervised by a specialist in the specialty of dermatology Applicable not more than 150 times in a 12 month period [](/dynamic/MBSItems/Skin/14050)
+14100
+
+     Laser photocoagulation using laser radiation in the treatment of vascular abnormalities of the head or neck, including any associated consultation, if: (a) the abnormality is visible from 3 metres; and (b) photographic evidence demonstrating the need for this service is documented in the patient notes; to a maximum of 4 sessions (including any sessions to which this item or any of items 14106 to 14118 apply) in any 12 month period (Anaes.) [](/dynamic/MBSItems/Skin/14100)
+14106
+
+     Laser photocoagulation using laser radiation in the treatment of vascular malformations, infantile haemangiomas, café au lait macules and naevi of Ota, other than melanocytic naevi (common moles), if the abnormality is visible from 3 metres, including any associated consultation, up to a maximum of 6 sessions (including any sessions to which this item or any of items 14100 to 14118 apply) in any 12 month period—area of treatment less than 150 cm2 (Anaes.) [](/dynamic/MBSItems/Skin/14106)
+14115
+
+     Laser photocoagulation using laser radiation in the treatment of vascular malformations, infantile haemangiomas, café au lait macules and naevi of Ota, other than melanocytic naevi (common moles), including any associated consultation, up to a maximum of 6 sessions (including any sessions to which this item or any of items 14100 to 14118 apply) in any 12 month period—area of treatment 150 cm2 to 300 cm2 (Anaes.) [](/dynamic/MBSItems/Skin/14115)
+14118
+
+     Laser photocoagulation using laser radiation in the treatment of vascular malformations, infantile haemangiomas, café au lait macules and naevi of Ota, other than melanocytic naevi (common moles), including any associated consultation, up to a maximum of 6 sessions (including any sessions to which this item or any of items 14100 to 14115 apply) in any 12 month period—area of treatment more than 300 cm2 (Anaes.) [](/dynamic/MBSItems/Skin/14118)
+14124
+
+     Laser photocoagulation using laser radiation in the treatment of vascular malformations, infantile haemangiomas, café-au-lait macules and naevi of Ota, other than melanocytic naevi (common moles), including any associated consultation, if: (a) a seventh or subsequent session (including any sessions to which this item or any of items 14100 to 14118 apply) is indicated in a 12 month period commencing on the day of the first session; and (b) photographic evidence demonstrating the need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/Skin/14124)
+18362
+
+     Botulinum Toxin type A Purified Neurotoxin Complex (Botox), injection of, for the treatment of severe primary axillary hyperhidrosis, including all injections on any one day, if: (a)the patient is at least 12 years of age; and (b)the patient has been intolerant of, or has not responded to, topical aluminium chloride hexahydrate; and (c)the patient has not had treatment with botulinum toxin within the immediately preceding 4 months; and (d)if the patient has had treatment with botulinum toxin within the previous 12 months - the patient had treatment on no more than 2 separate occasions (Anaes.) [](/dynamic/MBSItems/Skin/18362)
+30023
+
+     WOUND OF SOFT TISSUE, traumatic, deep or extensively contaminated, debridement of, under general anaesthesia or regional or field nerve block, including suturing of that wound when performed (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/30023)
+30024
+
+     WOUND OF SOFT TISSUE, debridement of extensively infected post-surgical incision or Fournier's Gangrene, under general anaesthesia or regional or field nerve block, including suturing of that wound when performed (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/30024)
+30026
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OFWOUND OF, other than wound closure at time of surgery, not on face or neck, small (NOT MORE THAN 7 CM LONG), superficial, not being a service to which another item in Group T4 applies (Anaes.) [](/dynamic/MBSItems/Skin/30026)
+30029
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OFWOUND OF, other than wound closure at time of surgery, not on face or neck, small (NOT MORE THAN 7 CM LONG), involving deeper tissue, not being a service to which another item in Group T4 applies (Anaes.) [](/dynamic/MBSItems/Skin/30029)
+30032
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OFWOUND OF, other than wound closure at time of surgery, on face or neck, small (NOT MORE THAN 7 CM LONG), superficial (Anaes.) [](/dynamic/MBSItems/Skin/30032)
+30035
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OFWOUND OF, other than wound closure at time of surgery, on face or neck, small (NOT MORE THAN 7 CM LONG), involving deeper tissue (Anaes.) [](/dynamic/MBSItems/Skin/30035)
+30038
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OF WOUND OF, other than wound closure at time of surgery, not on face or neck, large (MORE THAN 7 CM LONG), superficial, not being a service to which another item in Group T4 applies (Anaes.) [](/dynamic/MBSItems/Skin/30038)
+30042
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OFWOUND OF, other than wound closure at time of surgery, other than on face or neck, large (MORE THAN 7 CM LONG), involving deeper tissue, other than a service to which another item in Group T4 applies (Anaes.) [](/dynamic/MBSItems/Skin/30042)
+30045
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OFWOUND OF, other than wound closure at time of surgery, on face or neck, large (MORE THAN 7 CM LONG), superficial (Anaes.) [](/dynamic/MBSItems/Skin/30045)
+30049
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OFWOUND OF, other than wound closure at time of surgery, on face or neck, large (MORE THAN 7 CM LONG), involving deeper tissue (Anaes.) [](/dynamic/MBSItems/Skin/30049)
+30052
+
+     FULL THICKNESS LACERATION OF EAR, EYELID, NOSE OR LIP, repair of, with accurate apposition of each layer of tissue (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/30052)
+30055
+
+     Wounds, dressing of, under general, regional or intravenous sedation, with or without removal of sutures, other than a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/Skin/30055)
+30064
+
+     SUBCUTANEOUS FOREIGN BODY, removal of, requiring incision and exploration, including closure of wound if performed, as an independent procedure (Anaes.) [](/dynamic/MBSItems/Skin/30064)
+30071
+
+     Diagnostic biopsy of skin, as an independent procedure, if the biopsy specimen is sent for pathological examination (Anaes.) [](/dynamic/MBSItems/Skin/30071)
+30099
+
+     SINUS, excision of, involving superficial tissue only (Anaes.) [](/dynamic/MBSItems/Skin/30099)
+30180
+
+     AXILLARY HYPERHIDROSIS, partial excision for (Anaes.) [](/dynamic/MBSItems/Skin/30180)
+30183
+
+     AXILLARY HYPERHIDROSIS, total excision of sweat gland bearing area (Anaes.) [](/dynamic/MBSItems/Skin/30183)
+30187
+
+     PALMAR OR PLANTAR WARTS, removal of, by carbon dioxide laser or erbium laser, requiring admission to a hospital, or when performed by a specialist in the practice of his/her specialty, (5 or more warts) (Anaes.) [](/dynamic/MBSItems/Skin/30187)
+30189
+
+     WARTS or MOLLUSCUM CONTAGIOSUM (one or more), removal of, by any method (other than by chemical means), where undertaken in the operating theatre of a hospital, not being a service associated with a service to which another item in this Group applies (H) (Anaes.) [](/dynamic/MBSItems/Skin/30189)
+30190
+
+     Angiofibromas, trichoepitheliomas or other severely disfiguring tumours of the face or neck (excluding melanocytic naevi, sebaceous hyperplasia, dermatosis papulosa nigra, Campbell De Morgan angiomas and seborrheic or viral warts), suitable for laser ablation as confirmed by the opinion of a specialist in the specialty of dermatology—removal of, by carbon dioxide laser or erbium laser ablation, including associated resurfacing (10 or more tumours) (Anaes.) [](/dynamic/MBSItems/Skin/30190)
+30191
+
+     Angiofibromas, trichoepithelioma, epidermal naevi, xanthelasma, pyogenic granuloma, genital angiokeratomas, hereditary haemorrhagic telangiectasia and other severely disfiguring or recurrently bleeding tumours (excluding melanocytic naevi, sebaceous hyperplasia, dermatosis papulosa nigra, Campbell De Morgan angiomas and seborrheic or viral warts), treatment of, with carbon dioxide/erbium or other appropriate laser (or curettage and fine point diathermy for pyogenic granuloma only), if confirmed by the opinion of a specialist in the specialty of dermatology, one or more lesions. [](/dynamic/MBSItems/Skin/30191)
+30192
+
+     PREMALIGNANT SKIN LESIONS (including solar keratoses), treatment of, by ablative technique (10 or more lesions) (Anaes.) [](/dynamic/MBSItems/Skin/30192)
+30196
+
+     Malignant neoplasm of skin or mucous membrane that has been: (a) proven by histopathology; or (b) confirmed by the opinion of a specialist in the specialty of dermatology or plastic surgerywhere a specimen has been submitted for histologic confirmation; removal of, by serial curettage, or carbon dioxide laser or erbium laser excision-ablation, including any associated cryotherapy or diathermy (Anaes.) [](/dynamic/MBSItems/Skin/30196)
+30202
+
+     Malignant neoplasm of skin or mucous membrane proven by histopathology or confirmed by the opinion of a specialist in the specialty of dermatology or plastic surgery—removal of, by liquid nitrogen cryotherapy using repeat freeze thaw cycles [](/dynamic/MBSItems/Skin/30202)
+30207
+
+     Skin lesions, multiple injections with glucocorticoid preparations (Anaes.) [](/dynamic/MBSItems/Skin/30207)
+30210
+
+     Keloid and other skin lesions, extensive, multiple injections of glucocorticoid preparations, if undertaken in the operating theatre of a hospital (H) (Anaes.) [](/dynamic/MBSItems/Skin/30210)
+30216
+
+     HAEMATOMA, aspiration of (Anaes.) [](/dynamic/MBSItems/Skin/30216)
+30219
+
+     HAEMATOMA, FURUNCLE, SMALL ABSCESS OR SIMILAR LESION not requiring admission to a hospital - INCISION WITH DRAINAGE OF (excluding aftercare) [](/dynamic/MBSItems/Skin/30219)
+30223
+
+     LARGE HAEMATOMA, LARGE ABSCESS, CARBUNCLE, CELLULITIS or similar lesion, requiring admission to a hospital, INCISION WITH DRAINAGE OF (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/Skin/30223)
+30311
+
+     SENTINEL LYMPH NODE BIOPSY or biopsies for cutaneous melanoma, using preoperative lymphoscintigraphy and lymphotropic dye injection, if: (a) the primary lesion is greater than 1.0 mm in depth (or at least 0.8 mm in depth in the presence of ulceration); and (b) appropriate excision of the primary melanoma has occurred; and (c) the service is not associated with a service to which item 30075, 30078, 30299, 30300, 30302, 30303, 30329, 30332, 30618, 30820,31423, 52025 or 52027 applies. Applicable to only one lesion per occasion on which the service is provided (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/30311)
+30676
+
+     Pilonidal sinus or cyst, or sacral sinus or cyst, definitive excision of (Anaes.) [](/dynamic/MBSItems/Skin/30676)
+30679
+
+     PILONIDAL SINUS, injection of sclerosant fluid under anaesthesia (Anaes.) [](/dynamic/MBSItems/Skin/30679)
+31000
+
+     Mohs surgery of skin tumour located on the head, neck, genitalia, hand, digits, leg (below knee) or foot, utilising horizontal frozen sections with mapping of all excised tissue, and histological examination of all excised tissue by the specialist performing the procedure, if the specialist is recognised by the Australasian College of Dermatologists as an approved Mohs surgeon—6 or fewer sections (Anaes.) [](/dynamic/MBSItems/Skin/31000)
+31001
+
+     Mohs surgery of skin tumour located on the head, neck, genitalia, hand, digits, leg (below knee) or foot, utilising horizontal frozen sections with mapping of all excised tissue, and histological examination of all excised tissue by the specialist performing the procedure, if the specialist is recognised by the Australasian College of Dermatologists as an approved Mohs surgeon—7 to 12 sections (inclusive) (Anaes.) [](/dynamic/MBSItems/Skin/31001)
+31002
+
+     Mohs surgery of skin tumour located on the head, neck, genitalia, hand, digits, leg (below knee) or foot, utilising horizontal frozen sections with mapping of all excised tissue, and histological examination of all excised tissue by the specialist performing the procedure, if the specialist is recognised by the Australasian College of Dermatologists as an approved Mohs surgeon—13 or more sections (Anaes.) [](/dynamic/MBSItems/Skin/31002)
+31003
+
+     Mohs surgery of skin tumour utilising horizontal frozen sections with mapping of all excised tissue, and histological examination of all excised tissue by the specialist performing the procedure, if the specialist is recognised by the Australasian College of Dermatologists as an approved Mohs surgeon—6 or fewer sections Not applicable to a service performed in association with a service to which item 31000 applies (Anaes.) [](/dynamic/MBSItems/Skin/31003)
+31004
+
+     Mohs surgery of skin tumour utilising horizontal frozen sections with mapping of all excised tissue, and histological examination of all excised tissue by the specialist performing the procedure, if the specialist is recognised by the Australasian College of Dermatologists as an approved Mohs surgeon—7 to 12 sections (inclusive) Not applicable to a service performed in association with a service to which item 31001 applies (Anaes.) [](/dynamic/MBSItems/Skin/31004)
+31005
+
+     Mohs surgery of skin tumour utilising horizontal frozen sections with mapping of all excised tissue, and histological examination of all excised tissue by the specialist performing the procedure, if the specialist is recognised by the Australasian College of Dermatologists as an approved Mohs surgeon—13 or more sections Not applicable to a service performed in association with a service to which item 31002 applies (Anaes.) [](/dynamic/MBSItems/Skin/31005)
+31206
+
+     Tumour, cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), removal of and suture, if: (a) the lesion size is not more than 10 mm in diameter; and (b) the removal is from a mucous membrane by surgical excision (other than by shave excision); and (c) the specimen excised is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31206)
+31211
+
+     Tumour, cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), removal of and suture, if: (a) the lesion size is more than 10 mm, but not more than 20 mm, in diameter; and (b) the removal is from a mucous membrane by surgical excision (other than by shave excision); and (c) the specimen excised is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31211)
+31216
+
+     Tumour, cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), removal of and suture, if: (a) the lesion size is more than 20 mm in diameter; and (b) the removal is from a mucous membrane by surgical excision (other than by shave excision); and (c) the specimen excised is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31216)
+31220
+
+     Tumours (other than viral verrucae (common warts) and seborrheic keratoses), cysts, ulcers or scars (other than scars removed during the surgical approach at an operation), removal of 4 to 10 lesions and suture, if: (a) the size of each lesion is not more than 10 mm in diameter; and (b) each removal is from cutaneous or subcutaneous tissue by surgical excision (other than by shave excision); and (c) all of the specimens excised are sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31220)
+31221
+
+     Tumours, cysts, ulcers or scars (other than scars removed during the surgical approach at an operation), removal of 4 to 10 lesions, if: (a) the size of each lesion is not more than 10 mm in diameter; and (b) each removal is from a mucous membrane by surgical excision (other than by shave excision); and (c) each site of excision is closed by suture; and (d) all of the specimens excised are sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31221)
+31225
+
+     Tumours (other than viral verrucae (common warts) and seborrheic keratoses), cysts, ulcers or scars (other than scars removed during the surgical approach at an operation), removal of more than 10 lesions, if: (a) the size of each lesion is not more than 10 mm in diameter; and (b) each removal is from cutaneous or subcutaneous tissue or mucous membrane by surgical excision (other than by shave excision); and (c) each site of excision is closed by suture; and (d) all of the specimens excised are sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31225)
+31245
+
+     SKIN AND SUBCUTANEOUS TISSUE, extensive excision of, in the treatment of SUPPURATIVE HIDRADENITIS (excision from axilla, groin or natal cleft) or SYCOSIS BARBAE or NUCHAE (excision from face or neck) (Anaes.) [](/dynamic/MBSItems/Skin/31245)
+31250
+
+     GIANT HAIRY or COMPOUND NAEVUS, excision of an area at least 1 percent of body surface where the specimen excised is sent for histological confirmation of diagnosis (Anaes.) [](/dynamic/MBSItems/Skin/31250)
+31340
+
+     Muscle, bone or cartilage, excision of one or more of, if clinically indicated, and if: (a) the specimen excised is sent for histological confirmation; and (b)a malignant tumour of skin covered by item 31000, 31001, 31002, 31003, 31004, 31005, 31356, 31358, 31359, 31361, 31363, 31365, 31367, 31369, 31371,31372, 31373, 31374, 31375 or 31376 is excised (Anaes.) [](/dynamic/MBSItems/Skin/31340)
+31345
+
+     LIPOMA, removal of by surgical excision or liposuction, where lesion is subcutaneous and 50mm or more in diameter, or is sub-fascial, where the specimen is sent for histological confirmation of diagnosis (Anaes.) [](/dynamic/MBSItems/Skin/31345)
+31356
+
+     Malignant skin lesion (other than a malignant skin lesion covered by item 31371, 31372, 31373, 31374, 31375 or 31376), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from nose, eyelid, eyebrow, lip, ear, digit or genitalia, or from a contiguous area; and (b) the necessary excision diameter is less than 6 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy; not in association with item 45201 (Anaes.) [](/dynamic/MBSItems/Skin/31356)
+31357
+
+     Non-malignant skin lesion (other than viral verrucae (common warts) and seborrheic keratoses), including a cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from nose, eyelid, eyebrow, lip, ear, digit or genitalia, or from a contiguous area; and (b) the necessary excision diameter is less than 6 mm; and (c) the excised specimen is sent for histological examination; not in association with item 45201 (Anaes.) [](/dynamic/MBSItems/Skin/31357)
+31358
+
+     Malignant skin lesion (other than a malignant skin lesion covered by item 31371, 31372, 31373, 31374, 31375 or 31376), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from nose, eyelid, eyebrow, lip, ear, digit or genitalia, or from a contiguous area; and (b) the necessary excision diameter is 6 mm or more; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy (Anaes.) [](/dynamic/MBSItems/Skin/31358)
+31359
+
+     Malignant skin lesion (other than a malignant skin lesion covered by item 31371, 31372, 31373, 31374, 31375 or 31376), surgical excision (other than by shave excision), if: (a) the lesion is excised from nose, eyelid, eyebrow, lip, ear, digit or genitalia (the applicable site); and (b) the necessary excision area is at least one third of the surface area of the applicable site; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy (H) (Anaes.) [](/dynamic/MBSItems/Skin/31359)
+31360
+
+     Non-malignant skin lesion (other than viral verrucae (common warts) and seborrheic keratoses), including a cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from nose, eyelid, eyebrow, lip, ear, digit or genitalia, or from a contiguous area; and (b) the necessary excision diameter is 6 mm or more; and (c) the excised specimen is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31360)
+31361
+
+     Malignant skin lesion (other than a malignant skin lesion covered by item 31371, 31372, 31373, 31374, 31375 or 31376), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from face, neck, scalp, nipple-areola complex, distal lower limb (distal to, and including, the knee) or distal upper limb (distal to, and including, the ulnar styloid); and (b) the necessary excision diameter is less than 14 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy; not in association with item 45201 (Anaes.) [](/dynamic/MBSItems/Skin/31361)
+31362
+
+     Non-malignant skin lesion (other than viral verrucae (common warts) and seborrheic keratoses), including a cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from face, neck, scalp, nipple-areola complex, distal lower limb (distal to, and including, the knee) or distal upper limb (distal to, and including, the ulnar styloid); and (b) the necessary excision diameter is less than 14 mm; and (c) the excised specimen is sent for histological examination; not in association with item 45201 (Anaes.) [](/dynamic/MBSItems/Skin/31362)
+31363
+
+     Malignant skin lesion (other than a malignant skin lesion covered by item 31371, 31372, 31373, 31374, 31375 or 31376), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from face, neck, scalp, nipple-areola complex, distal lower limb (distal to, and including, the knee) or distal upper limb (distal to, and including, the ulnar styloid); and (b) the necessary excision diameter is 14 mm or more; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy (Anaes.) [](/dynamic/MBSItems/Skin/31363)
+31364
+
+     Non-malignant skin lesion (other than viral verrucae (common warts) and seborrheic keratoses), including a cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from face, neck, scalp, nipple-areola complex, distal lower limb (distal to, and including, the knee) or distal upper limb (distal to, and including, the ulnar styloid); and (b) the necessary excision diameter is 14 mm or more; and (c) the excised specimen is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31364)
+31365
+
+     Malignant skin lesion (other than a malignant skin lesion covered by item 31369, 31370, 31371, 31372 or 31373), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31356, 31358, 31359, 31361 or 31363; and (b) the necessary excision diameter is less than 15 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy; not in association with item 45201 (Anaes.) [](/dynamic/MBSItems/Skin/31365)
+31366
+
+     Non-malignant skin lesion (other than viral verrucae (common warts) and seborrheic keratoses), including a cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31357, 31360, 31362 or 31364; and (b) the necessary excision diameter is less than 15 mm; and (c) the excised specimen is sent for histological examination; not in association with item 45201 (Anaes.) [](/dynamic/MBSItems/Skin/31366)
+31367
+
+     Malignant skin lesion (other than a malignant skin lesion covered by item 31371, 31372, 31373, 31374, 31375 or 31376), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31356, 31358, 31359, 31361 or 31363; and (b) the necessary excision diameter is at least 15 mm but not more than 30 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy; not in association with item 45201 (Anaes.) [](/dynamic/MBSItems/Skin/31367)
+31368
+
+     Non-malignant skin lesion (other than viral verrucae (common warts) and seborrheic keratoses), including a cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31357, 31360, 31362 or 31364; and (b) the necessary excision diameter is at least 15 mm but not more than 30mm; and (c) the excised specimen is sent for histological examination; not in association with item 45201 (Anaes.) [](/dynamic/MBSItems/Skin/31368)
+31369
+
+     Malignant skin lesion (other than a malignant skin lesion covered by item 31371, 31372, 31373, 31374, 31375 or 31376), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31356, 31358, 31359, 31361 or 31363; and (b) the necessary excision diameter is more than 30 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy (Anaes.) [](/dynamic/MBSItems/Skin/31369)
+31370
+
+     Non-malignant skin lesion (other than viral verrucae (common warts) and seborrheic keratoses), including a cyst, ulcer or scar (other than a scar removed during the surgical approach at an operation), surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31357, 31360, 31362 or 31364; and (b) the necessary excision diameter is more than 30 mm; and (c) the excised specimen is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31370)
+31371
+
+     Malignant melanoma, appendageal carcinoma, malignant connective tissue tumour of skin or merkel cell carcinoma of skin, definitive surgical excision (other than by shave excision) and repair of, including excision of the primary tumour bed, if: (a) the tumour is excised from nose, eyelid, eyebrow, lip, ear, digit or genitalia, or from a contiguous area; and (b) the necessary excision diameter is 6 mm or more; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy (Anaes.) [](/dynamic/MBSItems/Skin/31371)
+31372
+
+     Malignant melanoma, appendageal carcinoma, malignant connective tissue tumour of skin or merkel cell carcinoma of skin, definitive surgical excision (other than by shave excision) and repair of, including excision of the primary tumour bed, if: (a) the tumour is excised from face, neck, scalp, nipple-areola complex, distal lower limb (distal to, and including, the knee) or distal upper limb (distal to, and including, the ulnar styloid); and (b) the necessary excision diameter is less than 14 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy; not in association with a service to which item 45201 applies (Anaes.) [](/dynamic/MBSItems/Skin/31372)
+31373
+
+     Malignant melanoma, appendageal carcinoma, malignant connective tissue tumour of skin or merkel cell carcinoma of skin, definitive surgical excision (other than by shave excision) and repair of, including excision of the primary tumour bed, if: (a) the tumour is excised from face, neck, scalp, nipple-areola complex, distal lower limb (distal to, and including, the knee) or distal upper limb (distal to, and including, the ulnar styloid); and (b) the necessary excision diameter is 14 mm or more; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy (Anaes.) [](/dynamic/MBSItems/Skin/31373)
+31374
+
+     Malignant melanoma, appendageal carcinoma, malignant connective tissue tumour of skin or merkel cell carcinoma of skin, definitive surgical excision (other than by shave excision) and repair of, including excision of the primary tumour bed, if: (a) the tumour is excised from any part of the body not covered by item 31371, 31372 or 31373; and (b) the necessary excision diameter is less than 15 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy; not in association with a service to which item 45201 applies (Anaes.) [](/dynamic/MBSItems/Skin/31374)
+31375
+
+     Malignant melanoma, appendageal carcinoma, malignant connective tissue tumour of skin or merkel cell carcinoma of skin, definitive surgical excision (other than by shave excision) and repair of, including excision of the primary tumour bed, if: (a) the tumour is excised from any part of the body not covered by item 31371, 31372 or 31373; and (b) the necessary excision diameter is at least 15 mm but not more than 30 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy; not in association with a service to which item 45201 applies (Anaes.) [](/dynamic/MBSItems/Skin/31375)
+31376
+
+     Malignant melanoma, appendageal carcinoma, malignant connective tissue tumour of skin or merkel cell carcinoma of skin, definitive surgical excision (other than by shave excision) and repair of, including excision of the primary tumour bed, if: (a) the tumour is excised from any part of the body not covered by item 31371, 31372 or 31373; and (b) the necessary excision diameter is more than 30 mm; and (c) the excised specimen is sent for histological examination; and (d) malignancy is confirmed from the excised specimen or previous biopsy (Anaes.) [](/dynamic/MBSItems/Skin/31376)
+31377
+
+     Clinically suspected melanoma, surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from nose, eyelid, eyebrow, lip, ear, digit or genitalia, or from a contiguous area; and (b) the necessary excision diameter is less than 6 mm; and (c) the excised specimen is sent for histological examination; not in association with a service to which item 45201 applies (Anaes.) [](/dynamic/MBSItems/Skin/31377)
+31378
+
+     Clinically suspected melanoma, surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from nose, eyelid, eyebrow, lip, ear, digit or genitalia, or from a contiguous area; and (b) the necessary excision diameter is 6 mm or more; and (c) the excised specimen is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31378)
+31379
+
+     Clinically suspected melanoma, surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from face, neck, scalp, nipple-areola complex, distal lower limb (distal to, and including, the knee) or distal upper limb (distal to, and including, the ulnar styloid); and (b) the necessary excision diameter is less than 14 mm; and (c) the excised specimen is sent for histological examination; not in association with a service to which item 45201 applies (Anaes.) [](/dynamic/MBSItems/Skin/31379)
+31380
+
+     Clinically suspected melanoma, surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from face, neck, scalp, nipple-areola complex, distal lower limb (distal to, and including, the knee) or distal upper limb (distal to, and including, the ulnar styloid); and (b) the necessary excision diameter is 14 mm or more; and (c) the excised specimen is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31380)
+31381
+
+     Clinically suspected melanoma, surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31377, 31378, 31379 or 31380; and (b) the necessary excision diameter is less than 15 mm; and (c) the excised specimen is sent for histological examination; not in association with a service to which item 45201 applies (Anaes.) [](/dynamic/MBSItems/Skin/31381)
+31382
+
+     Clinically suspected melanoma, surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31377, 31378, 31379 or 31380; and (b) the necessary excision diameter is at least 15 mm but not more than 30 mm; and (c) the excised specimen is sent for histological examination; not in association with a service to which item 45201 applies (Anaes.) [](/dynamic/MBSItems/Skin/31382)
+31383
+
+     Clinically suspected melanoma, surgical excision (other than by shave excision) and repair of, if: (a) the lesion is excised from any part of the body not covered by item 31377, 31378, 31379 or 31380; and (b) the necessary excision diameter is more than 30 mm; and (c) the excised specimen is sent for histological examination (Anaes.) [](/dynamic/MBSItems/Skin/31383)
+44136
+
+     INGROWN TOE NAIL, operation for, under general anaesthesia (Anaes.) [](/dynamic/MBSItems/Skin/44136)
+46486
+
+     Accurate reconstruction of acute nail bed laceration using magnification (H) (Anaes.) [](/dynamic/MBSItems/Skin/46486)
+46489
+
+     Secondary reconstruction of nail bed deformity using magnification, including removal of nail (if performed), other than a service associated with a service to which item 46513 or 45451 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/46489)
+46513
+
+     Removal of nail of finger or thumb—one nail (Anaes.) [](/dynamic/MBSItems/Skin/46513)
+46528
+
+     Wedge resection for ingrowing nail of finger or thumb: (a) including each of the following: (i) excision and partial ablation of germinal matrix; (ii) removal of segment of nail; (iii) removal of ungual fold; and (b) including phenolisation (if performed) (Anaes.) [](/dynamic/MBSItems/Skin/46528)
+46531
+
+     Partial resection of ingrowing nail of finger or thumb,including phenolisation (Anaes.) [](/dynamic/MBSItems/Skin/46531)
+46534
+
+     Complete ablation of nail germinal matrix (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/46534)
+47904
+
+     Digital nail of toe, removal of, not being a service to which item 47906 applies (Anaes.) [](/dynamic/MBSItems/Skin/47904)
+47906
+
+     Digital nail of toe, removal of, in the operating theatre of a hospital(H) (Anaes.) [](/dynamic/MBSItems/Skin/47906)
+47915
+
+     Wedge resection for ingrowing nail of toe: (a) including each of the following: (i) removal of segment of nail; (ii) removal of ungual fold; (iii) excision and partial ablation of germinal matrix and portion of nail bed; and (b) including phenolisation (if performed) (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/47915)
+47916
+
+     Partial resection for ingrowing nail of toe, including phenolisation (Anaes.) [](/dynamic/MBSItems/Skin/47916)
+47918
+
+     Complete ablation of nail germinal matrix: (a) including each of the following: (i) removal of segment of nail; (ii) removal of ungual fold; (iii) excision and ablation of germinal matrix and portion of nail bed; and (b) including phenolisation (if performed) (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/47918)
+52000
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OF RECENT WOUND OF, on face or neck, small (NOT MORE THAN 7 CM LONG), superficial (Anaes.) [](/dynamic/MBSItems/Skin/52000)
+52003
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OF RECENT WOUND OF, on face or neck, small (NOT MORE THAN 7 CM LONG), involving deeper tissue (Anaes.) [](/dynamic/MBSItems/Skin/52003)
+52006
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OF RECENT WOUND OF, on face or neck, large (MORE THAN 7 CM LONG), superficial (Anaes.) [](/dynamic/MBSItems/Skin/52006)
+52009
+
+     SKIN AND SUBCUTANEOUS TISSUE OR MUCOUS MEMBRANE, REPAIR OF RECENT WOUND OF, on face or neck, large (MORE THAN 7 CM LONG), involving deeper tissue (Anaes.) [](/dynamic/MBSItems/Skin/52009)
+52039
+
+     TUMOURS, CYSTS, ULCERS OR SCARS, (other than a scar removed during the surgical approach at an operation), up to 3 cm in diameter, removal from cutaneous or subcutaneous tissue or from mucous membrane, where the removal is by surgical excision and suture, and the procedure is performed on more than 3 but not more than 10 lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/52039)
+52042
+
+     TUMOUR, CYST, ULCER OR SCAR, (other than a scar removed during the surgical approach at an operation), more than 3 cm in diameter, removal from cutaneous or subcutaneous tissue or from mucous membrane (Anaes.) [](/dynamic/MBSItems/Skin/52042)
+52051
+
+     TUMOUR, removal of, from soft tissue (including muscle, fascia and connective tissue), extensive excision of, without skin or mucosal graft (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/52051)
+52054
+
+     TUMOUR, removal of, from soft tissue (including muscle, fascia and connective tissue), extensive excision of, with skin or mucosal graft (Anaes.) (Assist.) [](/dynamic/MBSItems/Skin/52054)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

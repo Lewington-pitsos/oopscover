@@ -1,0 +1,838 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Digestive system - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+11800
+
+     OESOPHAGEAL MOTILITY TEST, manometric [](/dynamic/MBSItems/DigestiveSystem/11800)
+11801
+
+     CLINICAL ASSESSMENT OF GASTRO-OESOPHAGEAL REFLUX DISEASE that involves 48 hour catheter-free wireless ambulatory oesophageal pH monitoring including administration of the device and associated endoscopy procedure for placement, analysis and interpretation of the data and all attendances for providing the service, if (a)a cathetter-based ambulatory oesophageal pH-mnitoring: (i)has been attempted on the patient but failed due to clinical complications, or (ii)is not clinically appropriate for the patient due to anatomical reasons (nasopharyngeal anatomy) preventing the use of catheter-based pH monitoring; and (b)the services is performed by a specialist or consultant physician with endoscopic training that is recognised by The Conjoint Committee for the Recognition of Training in Gastrointestinal Endoscopy. Not in association with another item in Category 2, sub-group 7 (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/11801)
+11810
+
+     CLINICAL ASSESSMENT of GASTRO-OESOPHAGEAL REFLUX DISEASE involving 24 hour pH monitoring, including analysis, interpretation and report and including any associated consultation [](/dynamic/MBSItems/DigestiveSystem/11810)
+13506
+
+     GASTRO-OESOPHAGEAL balloon intubation, for control of bleeding from gastric oesophageal varices [](/dynamic/MBSItems/DigestiveSystem/13506)
+14212
+
+     INTUSSUSCEPTION, management of fluid or gas reduction for (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/14212)
+30382
+
+     Enterocutaneous fistula, repair of,if dissection and resection of bowel is performed, with or without anastomosis or formation of a stoma (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30382)
+30384
+
+     Open or minimally invasive excision of a retroperitoneal mass, 4 cm or greater in largest dimension, lasting more than 3 hours, other than a service to which another item in this Group applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30384)
+30385
+
+     Unplanned return to theatre for laparotomy or laparoscopy for control or drainage of intra-abdominal haemorrhage following abdominal surgery (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30385)
+30387
+
+     Laparoscopy or laparotomy when an operation is performed on abdominal, retroperitoneal or pelvic viscera, excluding lymph node biopsy, other than a service to which another item in this Group applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30387)
+30388
+
+     Laparotomy for abdominal trauma, including control of haemorrhage (with or without packing) and containment of contamination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30388)
+30390
+
+     Laparoscopy, diagnostic, with or without aspiration of fluid, on a patient 10 years of age or over, if no other intra-abdominal procedure is performed (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30390)
+30392
+
+     RADICAL OR DEBULKING OPERATION for advanced intra-abdominal malignancy, with or without omentectomy, as an independent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30392)
+30396
+
+     Laparotomy or laparoscopy for generalised intra-peritoneal sepsis(also known asperitonitis), with or without removal of foreign material or enteric contents, with lavage of the entire peritoneal cavity, with or without closure of the abdomen when performed by laparotomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30396)
+30397
+
+     Laparostomy, via wound previously made and left open or closed, including change of dressings or packs, with or without drainage of loculated collections (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30397)
+30399
+
+     Laparostomy, final closure of wound made at previous operation, after removal of dressings or packs (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30399)
+30406
+
+     PARACENTESIS ABDOMINIS (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30406)
+30408
+
+     PERITONEOVENOUS shunt, insertion of (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30408)
+30409
+
+     LIVER BIOPSY, percutaneous (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30409)
+30411
+
+     LIVER BIOPSY by wedge excision when performed in conjunction with another intraabdominal procedure (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30411)
+30412
+
+     LIVER BIOPSY by core needle, when performed in conjunction with another intra-abdominal procedure (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30412)
+30414
+
+     LIVER, subsegmental resection of, (local excision), other than for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30414)
+30415
+
+     LIVER, segmental resection of, other than for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30415)
+30416
+
+     Liver cysts, greater than 5 cm in diameter, marsupialisation of 4 or less (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30416)
+30417
+
+     Liver cysts, greater than 5 cm in diameter, marsupialisation of 5 or more (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30417)
+30418
+
+     LIVER, lobectomy of, other than for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30418)
+30419
+
+     Liver tumour, other than a hepatocellular carcinoma, destruction of one or more, by local ablation, other than a service associated with a service to which item 50950 or 50952 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30419)
+30421
+
+     Liver, extended lobectomy of, or central resections of segments 4, 5 and 8, other than for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30421)
+30422
+
+     LIVER, repair of superficial laceration of, for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30422)
+30425
+
+     LIVER, repair of deep multiple lacerations of, or debridement of, for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30425)
+30427
+
+     LIVER, segmental resection of, for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30427)
+30428
+
+     LIVER, lobectomy of, for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30428)
+30430
+
+     Liver, extended lobectomy of, or central resections of segments 4, 5 and 8, for trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30430)
+30431
+
+     Liver abscess, single, open or minimally invasive abdominal drainage of, excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30431)
+30433
+
+     Liver abscess, multiple, open or minimally invasive abdominal drainage of, excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30433)
+30439
+
+     Intraoperative ultrasound of biliary tract, or operative cholangiography, if the service: (a) is performed in association with an intra-abdominal procedure; and (b) is not associated with a service to which item 30442 or 30445 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30439)
+30440
+
+     CHOLANGIOGRAM, percutaneous transhepatic, and insertion of biliary drainage tube, using interventional imaging techniques - but not including imaging, not being a service associated with a service to which item 30451 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30440)
+30441
+
+     Intraoperative ultrasoundfor staging of intra-abdominal tumours (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30441)
+30442
+
+     CHOLEDOCHOSCOPY in conjunction with another procedure (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30442)
+30443
+
+     Cholecystectomy, by any approach, without cholangiogram (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30443)
+30445
+
+     Cholecystectomy, by any approach, with attempted or completed cholangiogram or intraoperative ultrasound of the biliary system, when performed via laparoscopic or open approach or when conversion from laparoscopic to open approach is required (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30445)
+30448
+
+     Cholecystectomy, by any approach, involving removal of common duct calculi via the cystic duct, with or without stent insertion (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30448)
+30449
+
+     Cholecystectomy with removal of common duct calculi via choledochotomy, by any approach, with or without insertion of a stent (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30449)
+30450
+
+     Calculus of biliary tract, extraction of, using interventional imaging techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30450)
+30451
+
+     BILIARY DRAINAGE TUBE, exchange of, using interventional imaging techniques - but not including imaging, not being a service associated with a service to which item 30440 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30451)
+30452
+
+     CHOLEDOCHOSCOPY with balloon dilation of a stricture or passage of stent or extraction of calculi (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30452)
+30454
+
+     Choledochotomy without cholecystectomy, with or without removal of calculi (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30454)
+30455
+
+     Choledochotomy with cholecystectomy, with removal of calculi, including biliary intestinal anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30455)
+30457
+
+     CHOLEDOCHOTOMY, intrahepatic, involving removal of intrahepatic bile duct calculi (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30457)
+30458
+
+     TRANSDUODENAL OPERATION ON SPHINCTER OF ODDI, involving 1 or more of, removal of calculi, sphincterotomy, sphincteroplasty, biopsy, local excision of peri-ampullary or duodenal tumour, sphincteroplasty of the pancreatic duct, pancreatic duct septoplasty, with or without choledochotomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30458)
+30460
+
+     CHOLECYSTODUODENOSTOMY, CHOLECYSTOENTEROSTOMY, CHOLEDOCHOJEJUNOSTOMY or Roux-en-Y as a bypass procedure when no prior biliary surgery performed (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30460)
+30461
+
+     Radical resection of porta hepatis (including associated neuro-lymphatic tissue), for cancer, suspected cancer or choledochal cyst, including bile duct excision and biliary-enteric anastomoses, other than a service associated with a service to which item 30440, 30451 or 31454 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30461)
+30463
+
+     Radical resection of common hepatic duct and right and left hepatic ducts, with 2 duct anastomoses, for cancer, suspected cancer or choledochal cyst (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30463)
+30464
+
+     Radical resection of common hepatic duct and right and left hepatic ducts, for cancer, suspected cancer or choledochal cyst, involving either or both of the following:(a) more than 2 anastomoses;(b) resection of segment (or major portion of segment) of liver; (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30464)
+30469
+
+     BILIARY STRICTURE, repair of, after 1 or more operations on the biliary tree (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30469)
+30472
+
+     Repair of bile duct injury, including immediate reconstruction, other than a service associated with a service to which item 30584 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30472)
+30481
+
+     PERCUTANEOUS GASTROSTOMY (initial procedure): (a) including any associated imaging services; and (b) excluding the insertion of a device for the purpose of facilitating weight loss (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30481)
+30482
+
+     PERCUTANEOUS GASTROSTOMY (repeat procedure): (a) including any associated imaging services; and (b) excluding the insertion of a device for the purpose of facilitating weight loss (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30482)
+30483
+
+     Gastrostomy button, caecostomy antegrade enema device (chait etc.) or stomal indwelling device: (a) non-endoscopic insertion of; or (b) non-endoscopic replacement of; on a patient 10 years of age or over, excluding the insertion of a device for the purpose of facilitating weight loss (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30483)
+30492
+
+     BILE DUCT, PERCUTANEOUS STENTING OF (including dilatation when performed), using interventional imaging techniques - but not including imaging (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30492)
+30495
+
+     PERCUTANEOUS BILIARY DILATATION for biliary stricture, using interventional imaging techniques - but not including imaging (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30495)
+30515
+
+     Gastroenterostomy (including gastroduodenostomy), enterocolostomy or enteroenterostomy, as an independent procedure or in combination with another procedure, only if required for irresectable obstruction, other than a service to which any of items 31569 to 31581 apply (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30515)
+30517
+
+     Revision of gastroenterostomy, pyloroplasty or gastroduodenostomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30517)
+30518
+
+     Partial gastrectomy, not being a service associated with a service to which any of items 31569 to 31581 apply (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30518)
+30520
+
+     Gastric tumour, 2 cm or greater in diameter, removal of, by local excision, by laparoscopic or open approach, including any associated anastomosis, excluding polypectomy, other than a service to which item 30518 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30520)
+30521
+
+     GASTRECTOMY, TOTAL, for benign disease (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30521)
+30526
+
+     Gastrectomy, total, and removal of lower oesophagus, performed by open or minimally invasive approach, with anastomosis in the mediastinum, including any of the following (if performed):(a) distal pancreatectomy;(b) nodal dissection;(c) splenectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30526)
+30529
+
+     ANTIREFLUX operation by fundoplasty, with OESOPHAGOPLASTY for stricture or short oesophagus (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30529)
+30530
+
+     ANTIREFLUX operation by cardiopexy, with or without fundoplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30530)
+30532
+
+     Oesophagogastric myotomy (Heller’s operation) by endoscopic, abdominal or thoracic approach, whether performed by open or minimally invasive approach, including fundoplication when performed laparoscopically (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30532)
+30533
+
+     OESOPHAGOGASTRIC MYOTOMY (Heller's operation) via abdominal or thoracic approach, WITH FUNDOPLASTY, with or without closure of the diaphragmatic hiatus, by laparoscopy or open operation (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30533)
+30559
+
+     OESOPHAGUS, local excision for tumour of (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30559)
+30560
+
+     Oesophageal perforation, repair of, by abdominal or thoracic approach, including thoracic drainage (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30560)
+30562
+
+     Enterostomy or colostomy, closure of (not involving resection of bowel), on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30562)
+30563
+
+     COLOSTOMY OR ILEOSTOMY, refashioning of, on a person 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30563)
+30565
+
+     SMALL INTESTINE, resection of, without anastomosis (including formation of stoma) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30565)
+30577
+
+     Initial pancreatic necrosectomy by open, laparoscopic or endoscopic approach, excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30577)
+30583
+
+     Distal pancreatectomy with splenic preservation, by open or minimally invasive approach (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30583)
+30584
+
+     Pancreatico duodenectomy (Whipple’s procedure), with or without preservation of pylorus, including any of the following (if performed):(a) cholecystectomy;(b) pancreatico-biliary anastomosis;(c) gastro-jejunal anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30584)
+30589
+
+     PANCREATICO-JEJUNOSTOMY for pancreatitis or trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30589)
+30590
+
+     PANCREATICO-JEJUNOSTOMY following previous pancreatic surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30590)
+30593
+
+     PANCREATECTOMY, near total or total (including duodenum), with or without splenectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30593)
+30594
+
+     PANCREATECTOMY for pancreatitis following previously attempted drainage procedure or partial resection (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30594)
+30596
+
+     SPLENORRHAPHY OR PARTIAL SPLENECTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30596)
+30599
+
+     SPLENECTOMY, for massive spleen (weighing more than 1500 grams) or involving thoraco-abdominal incision (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30599)
+30600
+
+     Emergency repair of diaphragmatic laceration or hernia, following recent trauma, by any approach, including when performed in conjunction with another procedure indicated as a result of abdominal or chest trauma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30600)
+30601
+
+     Diaphragmatic hernia, congenital, or delayed presentation of traumatic rupture, repair of, by thoracic or abdominal approach, on a patient 10 years of age or over,other thana service to which any of items 31569 to 31581 apply (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30601)
+30606
+
+     PORTAL HYPERTENSION, oesophageal transection via stapler or oversew of gastric varices with or without devascularisation (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30606)
+30608
+
+     Small intestine, resection of, with anastomosis, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30608)
+30619
+
+     Laparoscopic splenectomy, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30619)
+30621
+
+     Repair of symptomatic umbilical, epigastric or linea alba hernia requiring mesh or other repair, by open or minimally invasive approach, in a patient 10 years of age or over, other than a service to which item 30651 or 30655 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30621)
+30622
+
+     Caecostomy, enterostomy, colostomy, enterotomy, colotomy, cholecystostomy, gastrostomy, gastrotomy, reduction of intussusception, removal of Meckel’s diverticulum, suture of perforated peptic ulcer, simple repair of ruptured viscus, reduction of volvulus, pyloroplasty or drainage of pancreas, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30622)
+30623
+
+     Laparotomy involving division of peritoneal adhesions (if no other intra-abdominal procedure is performed), on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30623)
+30626
+
+     Laparotomy involving division of adhesions in association with another intra-abdominal procedure if the time taken to divide the adhesions is between 45 minutes and 2 hours, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30626)
+30627
+
+     Laparoscopy, diagnostic, if no other intra-abdominal procedure is performed, on a patient under 10 years of age (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30627)
+30636
+
+     Gastrostomy button, caecostomy antegrade enema device (chait etc.) or stomal indwelling device, non-endoscopic insertion of, or non-endoscopic replacement of, on a patient under 10 years of age (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/30636)
+30637
+
+     Enterostomy or colostomy, closure of (not involving resection of bowel), on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30637)
+30639
+
+     Colostomy or ileostomy, refashioning of, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30639)
+30655
+
+     Ventral hernia, repair of,with advancement of the rectus muscles to the midline using a retro-rectus, pre-peritoneal or sublay technique,by open or minimally invasive approach, in a patient 10 years of age or over, other than a service to which item 30621 or 30651 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30655)
+30657
+
+     Unilateral abdominal wall reconstruction with component separation, including transversus abdominus release and external oblique release for abdominal wall closure by mobilising the rectus abdominis muscles to the midline, by open or minimally invasive approach (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30657)
+30721
+
+     Laparotomy or laparoscopy, or laparoscopy converted to laparotomy, with or without associated biopsies, including the division of adhesions (if performed, but only if the time taken to divide adhesions is 45 minutes or less), if no other intra-abdominal procedure is performed (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30721)
+30722
+
+     Laparotomy or laparoscopy, on a patient 10 years of age or over, including any of the following procedures (if performed, and including division of one or more adhesions, but only if the time taken to divide the adhesions is 45 minutes or less): (a) colostomy; (b) colotomy; (c) cholecystostomy; (d) enterostomy; (e) enterotomy; (f) gastrostomy; (g) gastrotomy; (h) caecostomy; (i) gastric fixation by cardiopexy; (j) reduction of intussusception; (k) simple repair of ruptured viscus (including perforated peptic ulcer); (l) reduction of volvulus; (m) drainage of pancreas (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30722)
+30723
+
+     Laparotomy, laparoscopy or extra-peritoneal approach, for drainage of an intra-abdominal, pancreatic or retroperitoneal collection or abscess (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30723)
+30724
+
+     Laparotomy or laparoscopy with division of adhesions, lasting more than 45 minutes but less than 2 hours, performed either:(a) as a primary procedure; or(b) when the division of adhesions is performed in conjunction with another primary procedure—to provide access to a surgical field (but excluding mobilisation or normal anatomical dissection of the organ or structure for which the primary procedure is being carried out) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30724)
+30725
+
+     Laparotomy or laparoscopy for intestinal obstruction or division of extensive, complex adhesions, lasting 2 hours or more, performed either:a) as a primary procedure; orb) when the division of adhesions is performed in conjunction with another procedure—to provide access to a surgical field, but excluding mobilisation or normal anatomical dissection of the organ or structure for which the other procedure is being carried out (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30725)
+30730
+
+     Small intestine, resection of, including either of the following:(a) a small bowel diverticulum (such as Meckel’s procedure) with anastomosis;(b) stricturoplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30730)
+30750
+
+     Oesophagectomy with colon or jejunal interposition graft, by any approach, including:(a) any gastrointestinal anastomoses (except vascular anastomoses); and(b) anastomoses in the chest or neck (if appropriate)One surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30750)
+30751
+
+     Oesophagectomy with colon or jejunal interposition graft, by any approach, including:(a) any gastrointestinal anastomoses (except vascular anastomoses); and(b) anastomoses in the chest or neck (if appropriate)Conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30751)
+30752
+
+     Oesophagectomy with colon or jejunal interposition graft, by any approach, including:(a) any gastrointestinal anastomoses (except vascular anastomoses); and(b) anastomoses in the chest or neck (if appropriate)Conjoint surgery, co-surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30752)
+30753
+
+     Oesophagectomy, by any approach, including:(a) gastric reconstruction by abdominal mobilisation, thoracotomy or thoracoscopy; and(b) anastomosis in the neck or chestOne surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30753)
+30754
+
+     Oesophagectomy, by any approach, including:(a) gastric reconstruction by abdominal mobilisation, thoracotomy or thoracoscopy; and(b) anastomosis in the neck or chestConjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30754)
+30755
+
+     Oesophagectomy by any approach, including:(a) gastric reconstruction by abdominal mobilisation, thoracotomy or thoracoscopy; and(b) anastomosis in the neck or chestConjoint surgery, co-surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30755)
+30756
+
+     Antireflux operation by fundoplasty, with or without cardiopexy, by any approach, with or without closure of the diaphragmatic hiatus, other than a service to which item 30601 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30756)
+30760
+
+     Vagotomy, with or without gastroenterostomy, pyloroplasty or other drainage procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30760)
+30761
+
+     Bleeding peptic ulcer, control of, by laparoscopy or laparotomy, involving suture of bleeding point or wedge excision (with or without gastric resection), including either of the following (if performed):(a) vagotomy and pyloroplasty;(b) gastroenterostomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30761)
+30762
+
+     Gastrectomy, subtotal or total radical, for carcinoma, by open or minimally invasive approach, including all necessary anastomoses, including either or both of the following (if performed):(a) extended lymph node dissection;(b) splenectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30762)
+30763
+
+     Gastric tumour, 2cm or greater in diameter, removal of, by local excision, by endoscopic approach, including any required anastomosis, excluding polypectomy, other than a service to which item 30518 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30763)
+30770
+
+     Hydatid cyst of liver, peritoneum or viscus, complete removal of contents of, with or without suture of biliary radicles, with omentoplasty or myeloplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30770)
+30771
+
+     Portal hypertension, porto-caval, meso-caval or selective spleno-renal shunt for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30771)
+30780
+
+     Intrahepatic biliary bypass of left or right hepatic ductal system by Roux-en-Y loop to peripheral ductal system (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30780)
+30790
+
+     Pancreatic cyst anastomosis to stomach, duodenum or small intestine, by endoscopic, open or minimally invasive approach, with or without the use of endoscopic or intraoperative ultrasound (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30790)
+30791
+
+     Pancreatic necrosectomy, by open, laparoscopic or endoscopic approach, excluding aftercare, subsequent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30791)
+30792
+
+     Distal pancreatectomy with splenectomy, by open or minimally invasive approach (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30792)
+30800
+
+     Splenectomy, by open or minimally invasive approach, other than a service to which item 30792 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30800)
+30810
+
+     Exploration of pancreas or duodenum for endocrine tumour, including associated imaging, either: (a) followed by local excision of tumour; or (b) when, after extensive exploration, no tumour is found (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/30810)
+31454
+
+     Laparoscopy or laparotomy with drainage of bile, as an independent procedure (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/31454)
+31456
+
+     GASTROSCOPY and insertion of nasogastric or nasoenteral feeding tube, where blind insertion of the feeding tube has failed or is inappropriate due to the patient's medical condition (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/31456)
+31458
+
+     GASTROSCOPY and insertion of nasogastric or nasoenteral feeding tube, where blind insertion of the feeding tube has failed or is inappropriate due to the patient's medical condition, and where the use of imaging intensification is clinically indicated (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/31458)
+31460
+
+     PERCUTANEOUS GASTROSTOMY TUBE, jejunal extension to, including any associated imaging services (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/31460)
+31462
+
+     OPERATIVE FEEDING JEJUNOSTOMY performed in conjunction with major upper gastro-intestinal resection (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/31462)
+31466
+
+     ANTIREFLUX OPERATION BY FUNDOPLASTY, via abdominal or thoracic approach, with or without closure of the diaphragmatic hiatus, revision procedure, by laparoscopy or open operation (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/31466)
+31468
+
+     Para-oesophageal hiatus hernia, repair of, with complete reduction of hernia, resection of sac and repair of hiatus, with or without fundoplication, other than a service associated with a service to which item 30756 or 31466 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/31468)
+31472
+
+     Cholecystoduodenostomy, cholecystoenterostomy, choledochojejunostomy or Roux-en-y loop to provide biliary drainage or bypass, other than a service associated with a service to which item 30584 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/31472)
+32000
+
+     LARGE INTESTINE, resection of, without anastomosis, including right hemicolectomy (including formation of stoma) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32000)
+32003
+
+     LARGE INTESTINE, resection of, with anastomosis, including right hemicolectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32003)
+32004
+
+     LARGE INTESTINE, subtotal colectomy (resection of right colon, transverse colon and splenic flexure) without anastomosis, not being a service associated with a service to which item 32000, 32003, 32005, 32006 or 32030 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32004)
+32005
+
+     LARGE INTESTINE, subtotal colectomy (resection of right colon, transverse colon and splenic flexure) with anastomosis, not being a service associated with a service to which item 32000, 32003, 32004, 32006 or 32030 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32005)
+32006
+
+     Left hemicolectomy, including the descending and sigmoid colon (including formation of stoma), other than a service associated with a service to which item 32024, 32025, 32026 or 32028 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32006)
+32009
+
+     TOTAL COLECTOMY AND ILEOSTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32009)
+32012
+
+     TOTAL COLECTOMY AND ILEORECTAL ANASTOMOSIS (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32012)
+32015
+
+     TOTAL COLECTOMY WITH EXCISION OF RECTUM AND ILEOSTOMY1 surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32015)
+32018
+
+     TOTAL COLECTOMY WITH EXCISION OF RECTUM AND ILEOSTOMY, COMBINED SYNCHRONOUS OPERATION; ABDOMINAL RESECTION (including aftercare) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32018)
+32021
+
+     TOTAL COLECTOMY WITH EXCISION OF RECTUM AND ILEOSTOMY, COMBINED SYNCHRONOUS OPERATION; PERINEAL RESECTION (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32021)
+32024
+
+     RECTUM, HIGH RESTORATIVE ANTERIOR RESECTION WITH INTRAPERITONEAL ANASTOMOSIS (of the rectum) greater than 10 centimetres from the anal vergeexcluding resection of sigmoid colon alone not being a service associated with a service to which item 32000, 32030, 32106 or 32232 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32024)
+32025
+
+     RECTUM, LOW RESTORATIVE ANTERIOR RESECTION WITH EXTRAPERITONEAL ANASTOMOSIS (of the rectum) less than 10 centimetres from the anal verge, with or without covering stoma not being a service associated with a service to which item 32000, 32030, 32106 or 32232 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32025)
+32026
+
+     Rectum, ultra-low restorative resection, with or without covering stoma and with or without colonic reservoir, if the anastomosis is sited in the anorectal region and is 6 cm or less from the anal verge, not being a service associated with a service to which item 32000, 32030, 32106, 32117 or 32232 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32026)
+32028
+
+     Rectum, low or ultra-low restorative resection, with per anal sutured coloanal anastomosis, with or without covering stoma and with or without colonic reservoir, not being a service associated with a service to which item 32000, 32030, 32106, 32117 or 32232 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32028)
+32030
+
+     RECTOSIGMOIDECTOMY, including formation of stoma (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32030)
+32033
+
+     RESTORATION OF BOWEL continuity following rectosigmoidectomy or similar operation, including dismantling of the stoma (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32033)
+32039
+
+     RECTUM AND ANUS, ABDOMINOPERINEAL RESECTION OF1 surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32039)
+32042
+
+     RECTUM AND ANUS, ABDOMINOPERINEAL RESECTION OF, COMBINED SYNCHRONOUS OPERATIONabdominal resection (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32042)
+32045
+
+     RECTUM AND ANUS, ABDOMINOPERINEAL RESECTION OF, COMBINED SYNCHRONOUS OPERATIONperineal resection (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32045)
+32046
+
+     RECTUM and ANUS, abdomino-perineal resection of, combined synchronous operation - perineal resection where the perineal surgeon also provides assistance to the abdominal surgeon (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32046)
+32047
+
+     PERINEAL PROCTECTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32047)
+32051
+
+     TOTAL COLECTOMY with excision of rectum and ileoanal anastomosis with formation of ileal reservoir, with or without creation of temporary ileostomy1 surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32051)
+32054
+
+     TOTAL COLECTOMY with excision of rectum and ileoanal anastomosis with formation of ileal reservoir, with or without creation of temporary ileostomyconjoint surgery, abdominal surgeon (including aftercare) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32054)
+32057
+
+     TOTAL COLECTOMY with excision of rectum and ileoanal anastomosis with formation of ileal reservoirconjoint surgery, perineal surgeon (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32057)
+32060
+
+     Restorative proctectomy, involving rectal resection with formation of ileal reservoir and ileoanal anastomosis, including ileostomy mobilisation, with or without mucosectomy or temporary loop ileostomy, 1 surgeon (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32060)
+32063
+
+     ILEOSTOMY CLOSURE with rectal resection and mucosectomy and ileoanal anastomosis with formation of ileal reservoir, with or without temporary loop ileostomyconjoint surgery, abdominal surgeon (including aftercare) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32063)
+32066
+
+     ILEOSTOMY CLOSURE with rectal resection and mucosectomy and ileoanal anastomosis with formation of ileal reservoir, with or without temporary loop ileostomyconjoint surgery, perineal surgeon (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32066)
+32069
+
+     ILEOSTOMY RESERVOIR, continent type, creation of, including conversion of existing ileostomy where appropriate (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32069)
+32096
+
+     RECTAL BIOPSY, full thickness, to diagnose or exclude Hirschsprung's Disease, under general anaesthesia, or under epidural or spinal (intrathecal) nerve block where undertaken in a hospital (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32096)
+32105
+
+     ANORECTAL CARCINOMAper anal full thickness excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32105)
+32106
+
+     Anterolateral intraperitoneal rectal tumour, per anal excision of, using rectoscopy digital viewing system and pneumorectum, if:(a) clinically appropriate; and(b) removal requires dissection within the peritoneal cavity;excluding use of a colonoscope as the operating platform and not being a service associated with a service to which item 32024, 32025 or 32232 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32106)
+32108
+
+     RECTAL TUMOUR, transsphincteric excision of (Kraske or similar operation) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32108)
+32117
+
+     Rectal prolapse, abdominal rectopexy of, excluding ventral mesh rectopexy, not being a service associated with a service to which item 32025 or 32026 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32117)
+32118
+
+     Rectal prolapse, ventral mesh rectopexy of, not being a service associated with a service to which item 32025, 32026 or 32117 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32118)
+32123
+
+     ANAL STRICTURE, anoplasty for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32123)
+32129
+
+     ANAL SPHINCTER, repair (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32129)
+32131
+
+     RECTOCELE, transanal repair of rectocele (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32131)
+32135
+
+     Treatment of haemorrhoids or rectal prolapse, including rubber band ligation or sclerotherapy for, not being a service to which item 32139 applies (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32135)
+32139
+
+     Operative treatment of haemorrhoids involving third-degree or fourth-degree haemorrhoids, including excision of anal skin tags when performed, not being a service associated with a service to which item 32135 or 32233 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32139)
+32147
+
+     PERIANAL THROMBOSIS, incision of (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32147)
+32150
+
+     Operation for anal fissure, including excision, injection of Botulinum toxin or sphincterotomy, excluding dilatation (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32150)
+32156
+
+     Anal fistula, subcutaneous, excision of (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32156)
+32159
+
+     ANAL FISTULA, treatment of, by excision or by insertion of a Seton, or by a combination of both procedures, involving the lower half of the anal sphincter mechanism (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32159)
+32162
+
+     ANAL FISTULA, treatment of, by excision or by insertion of a Seton, or by a combination of both procedures, involving the upper half of the anal sphincter mechanism (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32162)
+32165
+
+     Operative treatment of anal fistula, repair by mucosal advancement flap, including ligation of inter-sphincteric fistula tract (LIFT) or other complex sphincter sparing surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32165)
+32166
+
+     ANAL FISTULA - readjustment of Seton (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32166)
+32171
+
+     Anorectal examination, with or without biopsy, under general anaesthetic, with or without faecal disimpaction,other than a service associated with a service to which another item in this Group applies (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32171)
+32174
+
+     INTR-AANAL, perianal or ischiorectal abscess, drainage of (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32174)
+32175
+
+     INTRA-ANAL, PERIANAL or ISCHIO-RECTAL ABSCESS, draining of, undertaken in the operating theatre of a hospital (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32175)
+32183
+
+     INTESTINAL SLING PROCEDURE prior to radiotherapy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32183)
+32186
+
+     COLONIC LAVAGE, total, intra operative (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32186)
+32212
+
+     ANO-RECTAL APPLICATION OF FORMALIN in the treatment of radiation proctitis, where performed in the operating theatre of a hospital, excluding aftercare (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32212)
+32213
+
+     Sacral nerve lead or leads, placement of, percutaneous or open, including intraoperative test stimulation and programming, for the management of faecal incontinence (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32213)
+32215
+
+     Sacral nerve electrode or electrodes, management, adjustment and electronic programming of the neurostimulator by a medical practitioner, to manage faecal incontinence, not being a service associated with a service to which item 32213, 32216, 32218 or 32237 applies. Applicable once per day for the same patient by the same practitioner [](/dynamic/MBSItems/DigestiveSystem/32215)
+32216
+
+     Sacral nerve lead or leads, inserted for the management of faecal incontinence in a patient with faecal incontinence refractory to conservative non-surgical treatment, either:(a) percutaneous surgical repositioning of the lead or leads, using fluoroscopic guidance; or(b) open surgical repositioning of the lead or leads; to correct displacement or unsatisfactory positioning (including intraoperative test stimulation), not being a service associated with a service to which item 32213 applies (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32216)
+32218
+
+     Sacral nerve lead or leads, removal (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32218)
+32221
+
+     Removal or revision of an artificial bowel sphincter (with or without replacement) for severe faecal incontinence in the treatment of a patient for whom conservative and other less invasive forms of treatment are contraindicated or have failed.Contraindicated in: (a)patients with inflammatory bowel disease, pelvic sepsis, pregnancy, progressive degenerative diseases or a scarred or fragile perineum; and (b)patients who have had an adverse reaction to radiopaque solution; and (c)patients who engage in receptive anal intercourse (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32221)
+32231
+
+     Rectal tumour, per anal excision of (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32231)
+32232
+
+     Rectal tumour, per anal excision of, using a rectoscopy digital viewing system and pneumorectum if clinically appropriate and excluding use of a colonoscope as the operating platform, not being a service associated with a service to which item 32024, 32025 or 32106 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32232)
+32233
+
+     Perineal repair of rectal prolapse, not being a service associated with a service to which item 32139 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32233)
+32234
+
+     Rectal stricture, treatment of (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32234)
+32235
+
+     Anal skin tags or anal polyps, excision of one or more of (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32235)
+32236
+
+     Anal warts, removal of, under general anaesthesia, or under regional or field nerve block (excluding pudendal block), not being a service associated with a service to which item 35507 or 35508 applies (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/32236)
+32237
+
+     Neurostimulator or receiver, subcutaneous placement of, replacement of, or removal of, including programming and placement and connection of an extension wire or wires to sacral nerve electrode(s), for the management of faecal incontinence (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/32237)
+41822
+
+     Oesophagoscopy, with rigid oesophagoscope, with or without biopsy, other than a service associated with a service to which item 30473 or 30478 applies (H) (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/41822)
+41825
+
+     Removal of a foreign body from the pharynx, larynx or oesophagus, by any means, other than a service associated with a service to which item 30478 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/41825)
+41828
+
+     OESOPHAGEAL STRICTURE, dilatation of, without oesophagoscopy (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/41828)
+41831
+
+     Oesophagus, endoscopic pneumatic dilatation of,for treatment of achalasia (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/41831)
+41832
+
+     OESOPHAGUS, balloon dilatation of, using interventional imaging techniques (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/41832)
+43801
+
+     INTESTINAL MALROTATION with or without volvulus, laparotomy for, not involving bowel resection (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43801)
+43804
+
+     INTESTINAL MALROTATION with or without volvulus, laparotomy for, with bowel resection and anastomosis, with or without formation of stoma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43804)
+43807
+
+     DUODENAL ATRESIA or STENOSIS, duodenoduodenostomy or duodenojejunostomy for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43807)
+43810
+
+     JEJUNAL ATRESIA, bowel resection and anastomosis for, with or without tapering (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43810)
+43813
+
+     MECONIUM ILEUS, laparotomy for, complicated by 1 or more of associated volvulus, atresia, intesinal perforation with or without meconium peritonitis (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43813)
+43816
+
+     ILEAL ATRESIA, COLONIC ATRESIA OR MECONIUM ILEUS not being a service associated with a service to which item 43813 applies, laparotomy for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43816)
+43819
+
+     Agangliosis Coli, laparotomy for, with or without frozen section biopsies and formation of stoma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43819)
+43822
+
+     ANORECTAL MALFORMATION, laparotomy and colostomy for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43822)
+43825
+
+     NEONATAL ALIMENTARY OBSTRUCTION, laparotomy for, not being a service to which any other item in this Subgroup applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43825)
+43828
+
+     ACUTE NEONATAL NECROTISING ENTEROCOLITIS, laparotomy for, with resection, including any anastomoses or stoma formation (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43828)
+43831
+
+     ACUTE NEONATAL NECROTISING ENTEROCOLITIS where no definitive procedure is possible, laparotomy for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43831)
+43834
+
+     BOWEL RESECTION for necrotising enterocolitis stricture or strictures, including any anastomoses or stoma formation (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43834)
+43840
+
+     CONGENITAL DIAPHRAGMATIC HERNIA, repair by thoracic or abdominal approach, diagnosed after the first day of life and before 20 days of age (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43840)
+43843
+
+     OESOPHAGEAL ATRESIA (with or without repair of tracheo-oesophageal fistula), complete correction of, not being a service to which item 43846 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43843)
+43846
+
+     OESOPHAGEAL ATRESIA (with or without repair of tracheo-oesophageal fistula), complete correction of, in infant of birth weight less than 1500 grams (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43846)
+43849
+
+     OESOPHAGEAL ATRESIA, gastrostomy for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43849)
+43852
+
+     OESOPHAGEAL ATRESIA, thoracotomy for, and division of tracheo-oesophageal fistula without anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43852)
+43855
+
+     OESOPHAGEAL ATRESIA, delayed primary anastomosis for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43855)
+43858
+
+     OESOPHAGEAL ATRESIA, cervical oesophagostomy for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43858)
+43864
+
+     GASTROSCHISIS, operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43864)
+43867
+
+     GASTROSCHISIS or Exomphalos, secondary operation for, with removal of silo (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43867)
+43870
+
+     EXOMPHALOS containing small bowel only, operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43870)
+43873
+
+     EXOMPHALOS containing small bowel and other viscera, operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43873)
+43900
+
+     TRACHEO-OESOPHAGEAL FISTULA without atresia, division and repair of (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43900)
+43903
+
+     OESOPHAGEAL ATRESIA or CORROSIVE OESOPHAGEAL STRICTURE, oesophageal replacement for, utilizing gastric tube, jejunum or colon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43903)
+43906
+
+     OESOPHAGUS, resection of congenital, anastomic or corrosive stricture and anastomosis, not being a service to which item 43903 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43906)
+43930
+
+     HYPERTROPHIC PYLORIC STENOSIS, pyloromyotomy for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43930)
+43933
+
+     IDIOPATHIC INTUSSUSCEPTION, laparotomy and manipulative reduction of (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43933)
+43936
+
+     INTUSSUSCEPTION, laparotomy and resection with anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43936)
+43942
+
+     ABDOMINAL WALL VITELLO INTESTINAL REMNANT, excision of (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/43942)
+43945
+
+     PATENT VITELLO INTESTINAL DUCT, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43945)
+43948
+
+     UMBILICAL GRANULOMA, excision of, under general anaesthesia (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/43948)
+43951
+
+     GASTRO-OESOPHAGEAL REFLUX with or without hiatus hernia, laparotomy and fundoplication for, without gastrostomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43951)
+43954
+
+     GASTRO-OESOPHAGEAL REFLUX with or without hiatus hernia, laparotomy and fundoplication for, with gastrostomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43954)
+43957
+
+     GASTRO-OESOPHAGEAL REFLUX, LAPAROTOMY AND FUNDOPLICATION for, with or without hiatus hernia, in child with neurological disease, with gastrostomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43957)
+43960
+
+     ANORECTAL MALFORMATION, perineal anoplasty of (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43960)
+43963
+
+     ANORECTAL MALFORMATION, posterior sagittal anorectoplasty of (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43963)
+43966
+
+     ANORECTAL MALFORMATION, posterior sagittal anorectoplasty of, with laparotomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43966)
+43969
+
+     PERSISTENT CLOACA, total correction of, with genital repair using posterior sagittal approach, with or without laparotomy (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43969)
+43972
+
+     CHOLEDOCHAL CYST, resection of, with 1 duct anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43972)
+43975
+
+     CHOLEDOCHAL CYST, resection of, with 2 duct anastomoses (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43975)
+43978
+
+     BILIARY ATRESIA, portoenterostomy for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43978)
+43990
+
+     Aganglionosis Coli, definitive resection with pull-through anastomosis, with or without frozen section biopsies, when aganglionic segment extends to sigmoid colon (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43990)
+43993
+
+     Aganglionosis Coli, definitive resection with pull-through anastomosis, with or without frozen section biopsies, when aganglionic segment extends into descending or transverse colon with or without resiting of stoma (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43993)
+43996
+
+     Aganglionosis Coli, total colectomy for total colonic aganglionosis with ileoanal pull-through, with or without side to side ileocolic anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43996)
+43999
+
+     Aganglionosis Coli, anal sphincterotomy as an independent procedure for (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/43999)
+44101
+
+     RECTUM, examination of, on a patient under 2 years of age, under general anaesthesia with full thickness biopsy or removal of polyp or similar lesion (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/44101)
+44102
+
+     RECTUM, examination of, on a patient 2 years of age or over, under general anaesthesia with full thickness biopsy or removal of polyp or similar lesion (Anaes.) (Assist.) [](/dynamic/MBSItems/DigestiveSystem/44102)
+44104
+
+     RECTAL PROLAPSE, SUBMUCOSAL or perirectal injection for, on a patient under 2 years of age, under general anaesthesia (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/44104)
+44105
+
+     RECTAL PROLAPSE, SUBMUCOSAL or perirectal injection for, on a patient 2 years of age or over, under general anaesthesia (Anaes.) [](/dynamic/MBSItems/DigestiveSystem/44105)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

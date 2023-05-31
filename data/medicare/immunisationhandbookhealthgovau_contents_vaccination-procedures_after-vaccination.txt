@@ -1,0 +1,1269 @@
+Skip to main content Skip to main navigation Skip to main content
+
+[ ![Back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH2x.png)
+![Going back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH-
+standard_0.png) ](/ "Home")
+
+### Sub menu
+
+  * [About the Handbook](/contents/about-the-handbook "About the handbook")
+  * [Contact us](/contact-us "Contact us")
+
+Search  
+
+Menu  Search
+
+Close
+
+  * [Home](/home)
+  * [Contents](/contents)
+  * [Diseases](/contents/vaccine-preventable-diseases)
+  * [Vaccines](/vaccines)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Resources](/resources)
+
+## You are here
+
+  1. [Home](/)
+  2. [Table of contents](/contents)
+  3. [Vaccination procedures](/contents/vaccination-procedures)
+
+[Vaccination procedures](/contents/vaccination-procedures)
+
+# After vaccination
+
+How to manage adverse events following immunisation (AEFI), including
+anaphylaxis. How to document the vaccine given and report it to the
+immunisation register.
+
+  * [ Listen ](//app-oc.readspeaker.com/cgi-bin/rsent?customerid=5802&lang=en_au&voice=Jack&readclass=main-content&url=https%3A%2F%2Fimmunisationhandbook.health.gov.au%2Fcontents%2Fvaccination-procedures%2Fafter-vaccination "Listen to this page using ReadSpeaker webReader")
+
+  * Print 
+  * Share 
+
+    * [Twitter](https://twitter.com/share?text=After vaccination&url=https://immunisationhandbook.health.gov.au/contents/vaccination-procedures/after-vaccination "Share to Twitter")
+    * [Facebook](https://facebook.com/sharer.php?u=https://immunisationhandbook.health.gov.au/contents/vaccination-procedures/after-vaccination "Share to Facebook")
+    * [Email](mailto:?subject= The Australian Immunisation Handbook | After vaccination&body=https://immunisationhandbook.health.gov.au/contents/vaccination-procedures/after-vaccination "Share via email")
+
+Recently added
+
+This page was added on **08 June 2018**.
+
+Updates made
+
+This page was updated on **08 March 2022**. View history of updates
+
+On this page:
+
+On this page
+
+## Immediate after-care
+
+Immediately after vaccine administration:
+
+  1. Dispose of clinical waste, including sharps and vaccine vials, at the point of use. See your state or territory management guidelines for how to safely dispose of clinical waste. Also see the National Health and Medical Research Council’s [Australian Guidelines for the Prevention and Control of Infection in Healthcare](https://www.nhmrc.gov.au/guidelines-publications/cd33).1
+  2. Cover the injection site quickly with a dry cotton ball and tape as needed.
+  3. Gently apply pressure for 1 or 2 minutes. Do not rub the site — rubbing will encourage the vaccine to leak back up the needle track, which can cause pain and local irritation.
+  4. To distract the vaccinated person and reduce distress, immediately change their position after completing the vaccination. For example, ask the parent/carer to put the infant over their shoulder and move around.2
+  5. Remove the cottonwool after a few minutes and leave the injection site exposed to the air.
+  6. Record the relevant details of the vaccines given — see Documenting vaccination.
+  7. Keep the person under observation for at least 15 minutes to ensure that they do not experience an immediate adverse event, and to provide rapid medical care if needed. They should not drive or operate machinery during this time.
+  8. Inform the vaccinated person or their parent/carer, preferably in writing, of any expected adverse events following immunisation, and of the date of the next scheduled vaccination(s).
+
+Take the opportunity to check the vaccination status of other family members
+(as appropriate), and discuss any catch-up vaccination requirements and
+options available. This can also be done earlier in the visit.
+
+Paracetamol may be recommended, as required, for fever or pain after
+vaccination. Paracetamol is not recommended prophylactically, except for MenB
+(meningococcal B) vaccine in infants <2 years of age (see [Meningococcal
+disease](/node/152)). See [Common adverse events following
+immunisation](/contents/vaccination-procedures/after-vaccination#common-aefis-
+and-how-to-manage-them) and how to manage them.
+
+## Documenting vaccination
+
+Immunisation providers must document all vaccinations. This includes:
+
+  * documenting the vaccination in the person’s medical record
+  * [notifying the vaccination to the relevant immunisation register](/contents/vaccination-procedures/after-vaccination#reporting-to-immunisation-registers)
+
+### Children
+
+Document all vaccines administered to children in the child’s clinical file
+and the individual child health record. The parent or carer keeps this record
+and presents it every time the child sees a health professional.
+
+See also Reporting to immunisation registers.
+
+### Adolescents and adults
+
+Record vaccines administered to adolescents and adults in both the vaccinated
+person’s clinical file and the personal health record, or individual record of
+vaccination. Record the following details:
+
+  * the person’s full name and date of birth
+  * Medicare number (if applicable)
+  * details of the vaccine given, including the brand name, batch number and dose number
+  * date and time of vaccination
+  * site of administration
+  * name of the person providing the vaccination
+  * date the next vaccination is due
+
+See also Reporting to immunisation registers.
+
+### Healthcare workers or students
+
+Healthcare workers or healthcare students doing work or clinical placement in
+state or territory health facilities may have specific requirements for
+documenting their vaccinations. Contact your [state or territory health
+department](https://www.health.gov.au/health-topics/immunisation/immunisation-
+contacts) for specific requirements.
+
+See also Reporting to immunisation registers.
+
+## Reporting to immunisation registers
+
+The Australian Immunisation Register (AIR) is a national register that records
+all vaccines given to all people in Australia. This includes vaccines received
+from recognised immunisation providers in general practice, community clinics
+and school programs.
+
+All people of all ages who are enrolled in Medicare are automatically included
+on the AIR. People not enrolled in Medicare are included when an [immunisation
+provider](/technical-terms#immunisation-provider) sends details of a
+vaccination to the register. Immunisation providers other than general
+practitioners need to register with the AIR before they can send data to it.
+
+The _Australian Immunisation Register Act 2015_ came into effect on 1 January
+2016, and provides the legal authority for the expansion and ongoing
+administration and keeping of the immunisation registers. Before 2016,
+Australia had 2 national immunisation registers:
+
+  * The Australian Childhood Immunisation Register (ACIR) started on 1 January 1996 and recorded details of vaccines given to children <7 years of age who live in Australia. The ACIR expanded in 2016 to become the AIR.
+  * The National Human Papillomavirus Vaccination Program Register (HPV Register) started in 2007 to record information about HPV vaccine doses administered in Australia.
+
+As part of the transition of the AIR to a whole of life register, in late 2018
+all HPV vaccination records held in the National HPV Vaccination Program
+Register (HPV Register) were transferred into the AIR. The HPV Register closed
+on 31 December 2018.
+
+### Why report to the register?
+
+The AIR provides an important means of ensuring accountability of, and
+evaluating, Australia’s funded National Immunisation Program. The AIR is the
+primary means of determining vaccination coverage at national, state and
+territory, and local levels.
+
+The AIR provides a central record of the vaccination history of every
+Australian. It is accessible by Australian immunisation providers to assess a
+person’s vaccination history and plan vaccination needs.
+
+AIR data are used to determine a family’s entitlement to government family
+assistance payments.
+
+Immunisation requirements for eligibility for these payments include all
+people up to 20 years of age.
+
+It is therefore important that immunisation providers promptly submit
+vaccination data to the AIR.
+
+The Australian Government Department of Human Services website has [more
+details about immunisation requirements for family assistance
+payments](https://www.humanservices.gov.au/individuals/enablers/immunisation-
+requirements/35396).
+
+### Australian Immunisation Register
+
+Immunisation providers should send details of all National Immunisation
+Program and private vaccinations to the AIR. Vaccination details can be
+submitted to the AIR:
+
+  * using Practice Management Software
+  * through the AIR site
+
+More [details about reporting to the AIR for health
+professionals](https://www.humanservices.gov.au/organisations/health-
+professionals/services/medicare/australian-immunisation-register-health-
+professionals) can be found on the Australian Government Department of Human
+Services website.
+
+When required, exemptions to immunisation can be given for medical
+contraindications or natural immunity to certain diseases. Immunisation
+medical exemptions can only be given by:
+
+  * general practitioners
+  * general practice registrars on an approved training placement
+  * paediatricians
+  * public health physicians
+  * infectious diseases physicians
+  * clinical immunologists
+
+Medical exemptions can be reported using the AIR site.
+
+An individual’s vaccination record can be updated with vaccination details
+where there is documentation that the vaccination was given by another
+[immunisation provider](/technical-terms#immunisation-provider) (including
+vaccines given while the individual was overseas) by taking the record of
+vaccination to a recognised vaccination provider. The vaccination provider can
+check if the immunisations administered match the [National Immunisation
+Program](https://www.health.gov.au/initiatives-and-programs/national-
+immunisation-program), help you to catch up if you’re missing any
+immunisations and add your overseas immunisations to the AIR.
+
+#### Resources on the AIR website
+
+The Australian Government Department of Human Services website has
+[information and resources about the
+AIR](https://www.humanservices.gov.au/individuals/services/medicare/australian-
+immunisation-register). The website has:
+
+  * a general information area for individuals and families
+  * a general information area for health professionals 
+  * a secure area for immunisation providers only
+
+The AIR site, which is accessed via
+[HPOS](https://www.humanservices.gov.au/organisations/health-
+professionals/services/medicare/hpos), allows immunisation providers to obtain
+a range of statistical and identified reports. Depending on the provider’s
+access level, they can view an individual's vaccination details; record
+vaccination information; and access a range of other reports.
+
+All recognised immunisation providers (including general practitioners) are
+automatically given access to the AIR site.
+
+For more details or for assistance on any reporting issues, call the AIR
+Internet Helpline on 1300 650 039.
+
+##### Immunisation History Statement
+
+Immunisation History Statements contain details of vaccines included in the
+National Immunisation Program and most privately purchased vaccines. These
+statements are automatically generated when a child completes the childhood
+vaccination schedule (usually at around 4 years of age). Statements are mailed
+to the address most recently recorded by Medicare for that person.
+
+Parents and carers of children <14 years of age, adolescents ≥14 years of age
+and adults can get a copy of their immunisation history at any time:
+
+  * using their [Medicare online account through myGov](https://my.gov.au/LoginServices/main/login?execution=e2s1)
+  * through the Medicare Express Plus mobile app
+  * by calling 1800 653 809 (free call)
+
+Immunisation History Statements can help people recall vaccination history
+when required, including:
+
+  * for childcare and school enrolment
+  * to determine eligibility for family assistance payments — this requires that children are assessed as fully immunised
+
+##### Recording details of a deceased person
+
+Medicare notifies the AIR of the death of anyone with an AIR record.
+Immunisation providers no longer need to provide this information to the AIR.
+
+##### Individuals who have moved overseas
+
+If an individual has moved overseas, their [immunisation provider](/technical-
+terms#immunisation-provider) can inform the AIR by telephone or secure-site
+email. This prevents their name continuing to appear on AIR reports of overdue
+individuals.
+
+##### People born overseas who have moved to Australia permanently
+
+A person born overseas who has moved permanently to Australia will be
+automatically added to the AIR when they enrol with Medicare. Individuals
+residing temporarily in Australia are not included on the AIR until an
+[immunisation provider](/technical-terms#immunisation-provider) notifies the
+register of a vaccine administered to that person.
+
+### Australian Q Fever Register
+
+The [Australian Q Fever Register](https://www.qfever.org/) records information
+about people who have received Q fever vaccine. Registered users can access
+this information.
+
+See [Q fever](/node/156).
+
+## Adverse events following immunisation
+
+An [adverse event following immunisation](/technical-terms#adverse-event-
+following-immunisation) (AEFI) is any negative reaction that follows
+vaccination. It does not necessarily have a causal relationship with the
+vaccine.
+
+The adverse event may be any:3
+
+  * unfavourable or unintended sign
+  * unfavourable or unintended symptom
+  * disease
+  * abnormal laboratory finding 
+
+These events may be caused by the vaccine(s) or may occur by chance (that is,
+the event would have occurred regardless of vaccination).
+
+### Frequency of AEFIs
+
+The frequency of adverse events is classified by regulatory agencies and often
+reported in clinical trials as:4
+
+  * very common (>10% of people vaccinated)
+  * common (1–10%)
+  * uncommon (0.1 to <1%)
+  * rare (0.01% to <0.1%) 
+  * very rare (<0.01%)
+
+### Minimising the risk of AEFIs
+
+Screen each person to be vaccinated using the [pre-vaccination screening
+checklist](/node/183) in [Preparing for vaccination](/node/181). This helps
+ensure that the person does not have a condition that increases the risk of an
+AEFI or is a [contraindication](/technical-terms#contraindication) to
+vaccination.
+
+Also check:
+
+  * the [disease-specific chapters](/contents/vaccine-preventable-diseases "Vaccine preventable diseases") of this Handbook, including the variations from product information 
+  * any other relevant sources, such as state or territory guidelines 
+
+Always use correct injection procedures to help minimise adverse events. See
+[Administration of vaccines](/node/184).
+
+### Informing the person being vaccinated about possible adverse events
+
+Advise the person, or their parent or carer about what common adverse events
+are likely or expected and what they should do about them. This should be part
+of the consent procedure.
+
+It is preferable to give people written advice, such as [Table. Common side
+effects following immunisation for vaccines used in the National Immunisation
+Program schedule](/node/450).
+
+See also [Preparing for vaccination](/node/181).
+
+### Immediate AEFIs and how to manage them
+
+#### Anaphylaxis
+
+The most serious immediate AEFI is [anaphylaxis](/technical-
+terms#anaphylaxis). Severe anaphylactic reactions usually happen rapidly,
+within 15 minutes of vaccination.
+
+Anaphylaxis after routine vaccination is very rare, but can be fatal.5
+
+All immunisation providers must be able to:
+
+  * recognise all the symptoms and signs of [anaphylaxis](/technical-terms#anaphylaxis)
+  * distinguish between [anaphylaxis](/technical-terms#anaphylaxis), convulsions and fainting 
+
+See:
+
+  * [Table. Clinical features that may help differentiate between a vasovagal episode and anaphylaxis](/node/185)
+  * [Table. Recognition and treatment of anaphylaxis](/node/516)
+  * [Infographic. Managing anaphylaxis after vaccination](/node/488)
+  * [Infographic. Preparing an anaphylaxis response kit](/node/495)
+
+##### Signs and symptoms of anaphylaxis
+
+Anaphylaxis is characterised by sudden respiratory compromise and/or
+circulatory collapse.6
+
+Early signs involve the skin — for example:
+
+  * generalised erythema
+  * urticaria 
+  * angioedema 
+
+Early signs can also involve the gastrointestinal tract — for example:
+
+  * diarrhoea
+  * vomiting 
+
+Severe cases may have:
+
+  * circulatory collapse 
+  * altered level of consciousness
+  * hypotension
+  * weak or absent pulse 
+  * marked respiratory compromise from upper airway oedema or bronchospasm
+
+##### Managing anaphylaxis
+
+Rapid intramuscular administration of adrenaline is the cornerstone of
+[anaphylaxis](/technical-terms#anaphylaxis) treatment. Adrenaline is
+lifesaving and must be used promptly.7
+
+Antihistamines or hydrocortisone are not recommended to manage
+[anaphylaxis](/technical-terms#anaphylaxis) in an emergency.
+
+Every time vaccines are given, these things must be immediately to hand:
+
+  * a protocol for managing [anaphylaxis](/technical-terms#anaphylaxis)
+  * adrenaline
+  * 1 mL syringes
+
+###### Protocol for managing anaphylaxis
+
+  * If the person is unconscious, lie them on their left side and position them to keep the airway clear.
+  * If the person is conscious, lie them on their back in ‘head-down and feet-up’ position, unless this causes breathing difficulties.
+  * If the person has respiratory or cardiovascular symptoms or signs of [anaphylaxis](/technical-terms#anaphylaxis), give adrenaline by [intramuscular injection](/technical-terms#intramuscular-injection) into the anterolateral thigh. See Using adrenaline for dosage.
+  * Call for help. Never leave the patient alone.
+  * If oxygen is available, give it to the person by facemask at a high flow rate.
+  * If the person’s condition does not improve within 5 minutes, give another dose of adrenaline. Keep giving doses every 5 minutes until the person improves.
+  * Check the person’s breathing. If they are not breathing, start basic life support or cardiopulmonary resuscitation (CPR), according to the [Australian Resuscitation Council Guidelines](https://resus.org.au/guidelines/).8
+  * In all cases, transfer the person to hospital for more observation and treatment.
+  * Fully document the event, including the time and dose(s) of adrenaline given.
+
+##### Using adrenaline
+
+Adrenaline 1:1000 is recommended to treat [anaphylaxis](/technical-
+terms#anaphylaxis) because it is universally available. Adrenaline 1:1000
+contains 1 mg of adrenaline per mL of solution in a 1 mL glass vial.
+
+Adrenaline 1:10,000 is **not** recommended to treat [anaphylaxis](/technical-
+terms#anaphylaxis).
+
+Adrenaline is not needed for generalised non-anaphylactic reactions (such as
+skin rash or angioedema). If in doubt, give intramuscular adrenaline. No
+serious or permanent harm is likely to occur from administering adrenaline to
+a person who is not experiencing [anaphylaxis](/technical-terms#anaphylaxis).9
+
+Use a 1 mL syringe to improve measurement accuracy when drawing up small doses
+of adrenaline.
+
+###### Dosage and administration of adrenaline
+
+The recommended dose of 1:1000 adrenaline is:
+
+  * 0.01 mL per kg body weight (equivalent to 0.01 mg per kg or 10 µg per kg)
+  * up to a maximum of 0.5 mL
+  * given by deep [intramuscular injection](/technical-terms#intramuscular-injection), preferably in the anterolateral (upper outer) thigh
+
+Repeat the dose of 1:1000 adrenaline every 5 minutes until there is clinical
+improvement.
+
+Also see [Table. Recognition and treatment of anaphylaxis](/node/516).
+
+The anterolateral thigh is the preferred site because adrenaline disperses
+more predictably from this site.10 This also aligns with recommendations from
+various professional bodies in:11
+
+  * emergency medicine
+  * anaesthetics
+  * immunology
+
+**Do not** give adrenaline 1:1000 intravenously.
+
+[Table. Doses of intramuscular 1:1000 adrenaline for anaphylaxis](/node/186)
+lists the dose of 1:1000 adrenaline to use if you do not know the person’s
+exact weight.
+
+Table. Doses of intramuscular 1:1000 adrenaline for anaphylaxis
+
+Approximate age and weight | Adrenaline dose  
+---|---  
+~ <1 year (<7.5 kg) | 0.10 mL  
+~ 1–2 years (10 kg) | 0.10 mL  
+~ 2–3 years (15 kg) | 0.15 mL  
+~ 4–6 years (20 kg) | 0.20 mL  
+~ 7–10 years (30 kg) | 0.30 mL  
+~ 10–12 years (40 kg) | 0.40 mL  
+>12 years and adults, including pregnant women (over 50 kg) | 0.50 mL  
+Source: Modified from Australasian Society of Clinical Immunology and
+Allergy12  
+  
+###### Using adrenaline autoinjectors
+
+Adrenaline autoinjectors (EpiPen) are devices that administer a single, pre-
+measured dose of adrenaline.
+
+They are designed for use by anyone, whether medically trained or not. Clear
+instructions on correct use are on the device’s barrel and in the packaging.
+
+Autoinjectors are usually recommended or prescribed for:
+
+  * people who are at risk of [anaphylaxis](/technical-terms#anaphylaxis) due to an existing allergy
+  * people for whom skin testing indicates a high risk of an allergic reaction on exposure to an allergen
+
+If a person who carries an autoinjector device develops
+[anaphylaxis](/technical-terms#anaphylaxis) after vaccination, it is
+appropriate to use their autoinjector to administer adrenaline.
+
+Administer autoinjectors in the mid-outer thigh.
+
+Autoinjectors are dose-specific:
+
+  * EpiPen Jr contains 150 µg adrenaline and is recommended for children weighing between 10 kg and 20 kg.
+  * EpiPen contains 300 µg adrenaline and is recommended for children and adults weighing more than 20 kg.
+
+Autoinjectors are not recommended for use in children weighing less than 10
+kg.
+
+Autoinjectors are usually not appropriate to include in first aid kits for
+general use. This is because:
+
+  * they are single use only
+  * they are dose-specific
+  * multiple pens would be needed to allow for repeat dosing and varying ages/weights of patients
+  * shelf-life is 1–2 years maximum
+
+#### Vasovagal episodes
+
+The most common immediate adverse event in adults and older children is a
+vasovagal episode (fainting). This can occur either immediately or soon after
+vaccination.
+
+Fainting after vaccination can be serious. If a person feels giddy or light-
+headed before or after vaccination, advise them to lie down until they feel
+better.
+
+Infants and children rarely faint. Assume that any sudden loss of
+consciousness in young children is [anaphylaxis](/technical-
+terms#anaphylaxis), particularly if there is no strong central pulse.
+
+A key difference between [anaphylaxis](/technical-terms#anaphylaxis) and
+vasovagal episodes is that:
+
+  * a central pulse is weak or absent in [anaphylaxis](/technical-terms#anaphylaxis)
+  * a central pulse is strong in a vasovagal episode or convulsion
+
+If [anaphylaxis](/technical-terms#anaphylaxis) is suspected, give the person
+adrenaline as quickly as possible7 (see Managing [anaphylaxis](/technical-
+terms#anaphylaxis)). Undertreatment of [anaphylaxis](/technical-
+terms#anaphylaxis) is more harmful, and potentially life-threatening, than
+overtreatment of a mild or moderate allergic reaction.11
+
+Table. Clinical features that may help differentiate between a vasovagal
+episode and anaphylaxis
+
+Clinical feature | Vasovagal episode | Anaphylaxis  
+---|---|---  
+Onset |
+
+  * Immediate, usually within minutes of, or during, vaccine administration
+
+|
+
+  * Usually within 15 minutes of vaccine administration, but can occur within hours
+
+  
+Respiratory symptoms or signs |
+
+  * Normal breathing; may be shallow, but not laboured
+
+|
+
+  * Cough
+  * Wheeze
+  * Hoarseness
+  * Stridor
+  * Signs of respiratory distress, such as abnormally rapid breathing (tachypnoea), cyanosis or rib recession
+  * Upper airway swelling (eg lip, tongue, throat, uvula, larynx)
+
+  
+Cardiovascular symptoms or signs |
+
+  * Bradycardia
+  * Weak/absent peripheral pulse
+  * Strong carotid pulse
+  * Hypotension — usually transient and corrects in supine position
+  * Loss of consciousness — improves once supine or in head-down position
+
+|
+
+  * Tachycardia
+  * Weak/absent carotid pulse
+  * Hypotension — sustained and no improvement without specific treatment (Note: In infants and young children, limpness and pallor are signs of hypotension)
+  * Loss of consciousness — no improvement once supine or in head-down position
+
+  
+Skin symptoms or signs |
+
+  * Generalised pallor
+  * Cool, clammy skin
+
+|
+
+  * Pruritus (skin itchiness)
+  * Generalised skin erythema (redness)
+  * Urticaria (weals)
+  * Angioedema (localised or general swelling of the deeper layers of the skin or subcutaneous tissues)
+
+  
+Gastrointestinal symptoms or signs |
+
+  * Nausea or vomiting
+
+|
+
+  * Abdominal cramps
+  * Diarrhoea
+  * Nausea or vomiting
+
+  
+Neurologic symptoms or signs |
+
+  * Person feels faint or light-headed
+
+|
+
+  * Person has a sense of severe anxiety and distress
+
+  
+**Note:** Anaphylaxis features are modified from The Brighton Collaboration
+Case Definition Criteria for Anaphylaxis.5 Neurologic symptoms are not listed
+in this case definition.5 However, symptoms of anxiety and distress, including
+feelings of impending doom, are reported in people experiencing
+[anaphylaxis](/technical-terms#anaphylaxis).6  
+  
+### Common AEFIs and how to manage them
+
+Most vaccine adverse events are minor. The most common adverse events are
+injection site reactions, such as: 13
+
+  * pain
+  * redness
+  * itching
+  * swelling
+  * burning
+
+These are to be expected, are generally mild and usually last for 1–2 days.
+
+Injection site nodules are also fairly common. They are fibrous remnants of
+the body’s interaction with vaccine components (usually an
+[adjuvant](/technical-terms#adjuvant)) in the muscle. Nodules may last for
+many weeks after vaccination and do not need any specific treatment.
+
+Low-grade fever and tiredness (malaise) are also common after many vaccines.
+These responses are usually mild and self-limiting, and generally do not need
+specific treatment.
+
+Commonly occurring AEFIs are described in [Table. Comparison of the effects of
+diseases and the side effects of National Immunisation Program
+vaccines](/node/509).
+
+Details about the adverse events that are known to occur after vaccination are
+in the ‘Adverse events’ section of each [disease-specific chapter](/node/752).
+
+#### Using paracetamol to manage pain or fever
+
+Using paracetamol at the time of, or immediately after, vaccination to reduce
+the risk of fever is not recommended.
+
+An exception is the specific recommendation to give prophylactic paracetamol
+with Men B vaccine in infants <2 years of age (see [Meningococcal
+disease](/node/152)).
+
+Infants, children or adults can receive paracetamol if they have:
+
+  * fever of >38.5°C following vaccination
+  * pain at the injection site
+
+The dose of paracetamol for an infant or child up to 12 years of age is 15 mg
+per kg per dose, up to a maximum dose of 60 mg per kg per day in 4 divided
+doses.
+
+Adults and children aged ≥12 years can receive 500–1000 mg every 4–6 hours.
+The dose must not exceed 4 g in 24 hours.
+
+People should not take paracetamol for more than 48 hours without seeking
+medical advice.14
+
+#### Seeking medical advice for adverse events
+
+People should seek medical advice if they have unexpected, serious or
+prolonged adverse symptoms or signs after vaccination.
+
+The symptoms and signs from illness that is unrelated to vaccination can
+sometimes be attributed to a recent vaccination. These should be investigated
+and managed.
+
+### Uncommon and rare AEFIs
+
+Some vaccines can cause uncommon or rare serious adverse events. The rate of
+vaccine adverse events is usually hundreds to thousands times less than the
+rate of disease complications.
+
+The benefits and risks of immunisation are always taken into account when
+making recommendations for vaccine use.
+
+It is important to advise the person being vaccinated or their parent/carer
+about known, but rare, AEFIs. Place the advice in the context of the benefits
+of vaccination. See [Vaccination for people who have had an adverse event
+following immunisation](/node/437).
+
+If a person has had a serious, uncommon or rare AEFI, it is important that
+they or their [immunisation provider](/technical-terms#immunisation-provider)
+seek advice from a specialist immunisation clinic, or contact their [state or
+territory health authorities](https://www.health.gov.au/health-
+topics/immunisation/immunisation-contacts) for more details. This advice is
+important to:
+
+  * determine the relationship of the adverse event to vaccination
+  * consider the benefits and risks of further vaccination
+  * plan for receiving additional doses of that vaccine or other vaccines, as appropriate
+
+People who have had a serious AEFI can usually still receive vaccines under
+close medical supervision. This does not include people who have a
+[contraindication](/technical-terms#contraindication), such as
+[anaphylaxis](/technical-terms#anaphylaxis) to a vaccine component whose
+identity has been confirmed. For more details, see [Vaccination for people who
+have had an adverse event following immunisation](/node/437).
+
+Examples of uncommon and rare adverse events are below. Although uncommon or
+rare, these events are not necessarily causally related to vaccination, even
+if they occur after vaccination.
+
+#### Febrile convulsions
+
+Febrile convulsions are a fairly common response to fever of any cause in
+young children, particularly in those aged <3 years. Incidence peaks at 14–18
+months of age. Overall, by the age of 5 years, around 3% of all children will
+have had a [febrile](/technical-terms#febrile) convulsion, regardless of
+vaccination.
+
+Febrile convulsions are rare after vaccination. They do occur more commonly
+after some vaccines, but still at a low rate.
+
+For example, MMR (measles-mumps-rubella) and MMRV (measles-mumps-rubella-
+varicella) vaccines are associated with an increased risk of
+[febrile](/technical-terms#febrile) convulsions around 7–12 days after the 1st
+vaccine dose (see [Measles](/node/151) for more details).
+
+Co-administration of inactivated influenza vaccine and 13vPCV (13-valent
+pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine)) may also
+be associated with an increased risk of [febrile](/technical-terms#febrile)
+convulsions. See [Influenza](/node/149) and [Pneumococcal disease](/node/154).
+
+In 2010, 1 brand of seasonal influenza vaccine (bioCSL Fluvax and Fluvax
+Junior) was associated with high fevers and [febrile](/technical-
+terms#febrile) convulsions in children aged <5 years in Australia. Incidence
+was estimated at 4.4 per 1000 doses in Western Australia.15 This vaccine is no
+longer registered for use in this age group. Other influenza vaccines for
+children have not been associated with an excess risk of fever and
+[febrile](/technical-terms#febrile) convulsions.15,16
+
+#### Brachial neuritis
+
+Brachial neuritis is inflammation of a nerve in the arm, causing weakness or
+numbness. It can occur after receiving a tetanus toxoid–containing vaccine.
+The estimated excess risk is around 0.5–1 in 100,000 doses in adults.4,17
+
+Case reports of [brachial neuritis](/technical-terms#brachial-neuritis)
+following administration of other vaccines are rare, and a causal relationship
+has not been established.18 This includes HPV (human papillomavirus)
+vaccines.19
+
+#### Intussusception
+
+Oral rotavirus vaccines are associated with a small increased risk of
+[intussusception](/technical-terms#intussusception). This a rare form of bowel
+blockage caused when the intestine telescopes into itself. The risk appears to
+be particularly in the 7 days following the 1st vaccine dose. However, a
+smaller increased risk in the week after the 2nd dose has also been
+reported.20-22
+
+The increased risk represents around 6 additional cases of
+[intussusception](/technical-terms#intussusception) for every 100,000 infants
+vaccinated, or 14 additional cases per year in Australia.22
+
+Children who have had [intussusception](/technical-terms#intussusception) are
+not recommended to receive rotavirus vaccine (see [Rotavirus](/node/158)).
+
+#### Anaphylaxis
+
+Anaphylaxis after immunisation has been reported, but is very rare.23
+
+For example, the estimated incidence rate of [anaphylaxis](/technical-
+terms#anaphylaxis) after receiving 4vHPV (4-valent HPV) vaccine in Australia
+as at June 2015 was 2.8 [anaphylaxis](/technical-terms#anaphylaxis) episodes
+per million doses of vaccine distributed.24 This is within the same rate range
+as for other vaccines given to children and adolescents in international
+studies, such as hepatitis B vaccine, which is associated with
+[anaphylaxis](/technical-terms#anaphylaxis) in approximately 1 in 1.1 million
+doses distributed.25
+
+See Anaphylaxis.
+
+#### Hypotonic-hyporesponsive episode
+
+A hypotonic-hyporesponsive episode (HHE) is the sudden onset of:
+
+  * pallor or cyanosis
+  * limpness (muscle hypotonia)
+  * reduced responsiveness or unresponsiveness
+
+This can occur after vaccination where no other cause is evident, such as a
+vasovagal episode or [anaphylaxis](/technical-terms#anaphylaxis).
+
+The episode usually occurs 1–48 hours after vaccination and resolves
+spontaneously.
+
+There are no known long-term side effects from an HHE.26,27
+
+In Australia during 2011, 3 HHEs were reported per 100,000 doses of DTPa
+(diphtheria-tetanus-acellular pertussis)–containing vaccine given to children
+<1 year of age.28
+
+#### Guillain–Barré syndrome
+
+Guillain–Barré syndrome (GBS) is a rare autoimmune condition. It involves
+acute onset of flaccid paralysis that is:
+
+  * rapidly progressive
+  * ascending
+  * symmetrical
+
+It may or may not involve sensory loss.
+
+Diagnosis of GBS is complex. Only a physician can diagnose GBS.
+
+A small increased risk of GBS was associated with an influenza vaccine in the
+United States in 1976. Since then, close surveillance has shown that GBS
+occurs at a very low rate of up to 1 in 1 million doses of influenza vaccine,
+if at all.29
+
+#### Complex regional pain syndrome
+
+Complex regional pain syndrome is an uncommon and poorly understood condition.
+It is characterised by chronic pain in one or more of the extremities, along
+with autonomic dysfunction in the affected limb(s). It occurs in response to
+trauma such as: 30
+
+  * injury
+  * stroke
+  * medical procedures
+
+Rare cases of complex regional pain syndrome after vaccination have been
+reported. However, this may be a non-specific reaction to the minor trauma of
+the injection and not specific to the vaccine(s) used.18
+
+#### Generalised (chickenpox-like) rash following varicella (chickenpox) or
+varicella zoster (shingles) vaccine
+
+Chickenpox-like rashes can develop after live attenuated varicella-zoster
+vaccine (with either varicella or zoster vaccine) due to replication of the
+Oka vaccine [virus](/technical-terms#virus). About 5% of varicella vaccine
+recipients develop a papulovesicular (chickenpox-like) rash within 1 to 4
+weeks of vaccination. Most chickenpox-like rashes that occur within the first
+2 weeks after varicella vaccination are the result of [infection](/technical-
+terms#infection) with wild-type varicella-zoster [virus](/technical-
+terms#virus) (VZV) before vaccine immunity has developed. Rashes caused by the
+Oka vaccine strain rashes occur a median of 3 weeks (range 5 days to 6 weeks)
+after varicella vaccination.
+
+Adults who receive the live attenuated zoster vaccine, Zostavax, can
+occasionally develop a disseminated (non-localised) VZV-like rash around 2 to
+4 weeks after vaccination. This occurs very rarely because Zostavax usually
+acts to boost pre-existing immunity to VZV. Inadvertent administration of
+Zostavax to people with severe immunocompromise, in whom the vaccine is
+contraindicated, can result in disseminated severe disease from the Oka
+vaccine [virus](/technical-terms#virus).31,32 VZV-like rash after Zostavax has
+also very rarely been reported to occur in people who are immunocompetent or
+on low-dose [immunosuppressive therapy](/technical-terms#immunosuppressive-
+therapy).
+
+Always conduct careful pre-screening and a risk-based assessment before
+administering Zostavax. If necessary, this should include medical specialist
+consultation. See [Zoster (herpes zoster)](/node/165).
+
+Always advise people who have received Zostavax to:
+
+  * seek immediate medical attention if they develop a generalised VZV-like rash
+  * inform their medical practitioner that they have recently received Zostavax
+
+If the person has suspected disseminated VZV [infection](/technical-
+terms#infection):
+
+  * conduct appropriate diagnostic testing
+  * start empirical antiviral treatment
+  * consult with an infectious diseases specialist
+  * stop [immunosuppressive therapy](/technical-terms#immunosuppressive-therapy), if relevant
+  * notify the relevant state or territory health authority and the Therapeutic Goods Administration (TGA) - see [Reporting AEFIs](/contents/vaccination-procedures/after-vaccination#reporting-aefis)
+
+##### Events where evidence demonstrates no causal link with immunisation
+
+Because vaccines are usually given to healthy people, conditions that occur
+after a vaccine dose may be attributed to vaccination. This is particularly so
+for illnesses that are complex and have an unknown or unclear cause.
+
+Many of these illnesses are rare or manifest months to years after
+vaccination. This means that they are difficult to study in randomised
+controlled clinical trials, which are usually conducted before vaccine
+registration.
+
+However, strong epidemiological evidence indicates that there is no causal
+association between vaccination and many diseases or conditions that were
+suggested to relate to vaccines. This evidence usually comes from multiple
+well-conducted post-marketing studies.
+
+Examples of events unrelated to vaccination include:
+
+  * sudden infant death syndrome (SIDS) and any vaccine33-35
+  * autism and MMR vaccine36-39
+  * multiple sclerosis and hepatitis B vaccine40-43
+  * inflammatory bowel disease and MMR vaccine36
+  * diabetes and Hib ( _Haemophilus influenzae_ type b) vaccine44-46
+  * asthma and any vaccine47
+
+People who want advice about links between vaccination and certain conditions
+can speak to:
+
+  * their [immunisation provider](/technical-terms#immunisation-provider)
+  * a specialist immunisation clinic
+  * their [state or territory health authority](https://health.gov.au/health-topics/immunisation/immunisation-contacts)
+
+### Reporting AEFIs
+
+**Promptly report any serious or unexpected AEFI**
+
+Providers should use clinical judgement to decide which adverse events to
+report.
+
+Parents and carers should be encouraged to notify their [immunisation
+provider](/technical-terms#immunisation-provider) or health authorities of any
+AEFI.
+
+Surveillance for AEFIs is an integral part of Australia’s National
+Immunisation Program. It underpins the safe use of all vaccines in Australia.
+
+Surveillance of AEFIs aims to detect:
+
+  * changes in the rates of known adverse events
+  * any unrecognised or unexpected adverse events
+  * adverse events that result from program errors, such as incorrect vaccine schedule, delivery or storage
+
+Australia has a vaccine safety surveillance initiative called AusVaxSafety.
+AusVaxSafety collects reports of AEFIs directly from the public. Software
+programs installed in sentinel surveillance sites (such as general practices
+and community immunisation clinics) send SMSs after a vaccination asking about
+the person’s experience. The system monitors de-identified information to
+detect possible safety signals for vaccines.
+
+#### What to report
+
+All immunisation providers should report AEFIs, particularly serious or
+unexpected AEFIs. This allows any vaccine safety issues to be identified and
+managed as soon as possible.
+
+Any event that is suspected of being related to vaccination can be reported.
+All identifying information relating to the reporter and patient is kept
+strictly confidential.
+
+For details on how to report AEFIs, see How to report AEFIs.
+
+Notifying an adverse event does not imply a causal association with
+vaccination. Some events may occur coincidentally after vaccination.
+
+#### When to report AEFIs
+
+Timely notification of adverse events — particularly rapid reporting of
+serious events — is important to identify any potential concerns.
+
+However, there is no time limit for reporting AEFIs.
+
+#### Who can report AEFIs
+
+Anyone can report an AEFI, whether they are health professionals or consumers.
+
+An [immunisation provider](/technical-terms#immunisation-provider) who did not
+give the vaccine can report an AEFI. Include as much detail as possible in all
+reports.
+
+Patients and parents should be encouraged to contact their healthcare provider
+if they are concerned about an adverse event occurring after vaccination,
+particularly if the reaction is:
+
+  * unexpected
+  * uncommon
+  * serious
+
+As well as reporting AEFIs, immunisation providers may need to advise the
+person about clinical management and future vaccination. They may need expert
+advice. Information about specialist immunisation clinics, or the contact
+details for paediatricians or medical specialists with experience in managing
+patients with AEFIs, are usually available from [state or territory health
+authorities](https://www.health.gov.au/health-
+topics/immunisation/immunisation-contacts). Also see [Vaccination for people
+who have had an adverse event following immunisation](/node/437).
+
+#### How to report AEFIs
+
+Details of how to report AEFIs in each state and territory are in [Table.
+Contact information for notifying adverse events following
+immunisation](/node/187).
+
+Immunisation providers can also report directly to the Therapeutic Goods
+Administration (TGA) using the [Australian Adverse Drug Reaction Reporting
+System](https://www.ebs.tga.gov.au/ebs/ADRS/ADRSRepo.nsf?OpenDatabase).
+
+Anyone can report adverse events directly to the TGA using the [National
+Adverse Events Following Immunisation (AEFI) reporting
+form](https://www.tga.gov.au/form/national-adverse-events-following-
+immunisation-aefi-reporting-form).
+
+Table. Contact information for notifying adverse events following immunisation
+
+State or territory | Report adverse events to | Contact information  
+---|---|---  
+Australian Capital Territory | ACT Health Department | Complete an [adverse
+event reporting form](https://www.health.act.gov.au/services-and-
+programs/immunisation/babies-and-children/how-do-i-care-my-child-after-
+vaccinations) and contact 02 6205 2300.  
+New South Wales | NSW public health units | Complete an [AEFI reporting
+form](https://www.tga.gov.au/sites/default/files/national-adverse-events-
+following-immunisation-aefi-reporting-form-feb-2021.pdf) and contact your
+local public health unit on 1300 066 055.  
+Northern Territory | NT Department of Health | Complete an [AEFI
+form](https://digitallibrary.health.nt.gov.au/prodjspui/handle/10137/941) and
+contact your local Centre for Disease Control unit:
+
+  * Darwin — 08 8922 8044
+  * Katherine — 08 8973 9049
+  * Tennant Creek — 08 8962 4259
+  * Alice Springs — 08 8951 7540
+  * Nhulunbuy — 08 8987 0357
+
+  
+Queensland | Queensland Health | Complete an [AEFI reporting
+form](https://www.health.qld.gov.au/__data/assets/pdf_file/0033/442968/aefi-
+reporting-form.pdf) and [contact your local public health
+unit](https://www.health.qld.gov.au/system-governance/contact-
+us/contact/public-health-units).  
+South Australia | SA Health | Complete the [online vaccine reaction report
+form](https://extapps.health.sa.gov.au/savss/) or telephone 1300 232 272.  
+Tasmania | TAS Department of Health | Complete an [AEFI Report
+Form](https://www.health.tas.gov.au/sites/default/files/2021-11/AEFI_Report_Form_Public_DoHTasmania2021.pdf)
+and email to [tas.aefi@health.tas.gov.au](mailto:tas.aefi@health.tas.gov.au)  
+[Adverse events following immunisation (AEFI)
+documents](https://www.health.tas.gov.au/publications/adverse-events-
+following-immunisation-aefi-documents) | Tasmanian Department of Health or
+telephone 1800 671 738  
+Victoria | Surveillance of Adverse Events Following Vaccination In the
+Community (SAEFVIC) | Report to [SAEFVIC
+online](https://www.aefican.org.au/Home/Info/VIC) or telephone 1300 882 924
+(choose option 1).  
+Western Australia | Western Australian Vaccine Safety Surveillance System
+(WAVSS) | [Report to WAVSS online](https://www.safevac.org.au/Home/Info/WA) or
+telephone 08 9321 1312.  
+  
+#### What happens to the reports and data
+
+State and territory health departments forward AEFI notifications to the TGA.
+The TGA enters the notification into the Adverse Drug Reactions System
+database. This database includes all adverse reaction reports related to
+medicines and vaccines.
+
+The TGA forwards copies of AEFI reports it receives from other channels to
+state and territory health departments.
+
+The TGA aggregates vaccine AEFI reports from all sources. Details on rates and
+trends in AEFIs are published in the journal [Communicable Diseases
+Intelligence](http://www.health.gov.au/internet/main/publishing.nsf/Content/cda-
+aefi-anrep.htm).48
+
+The TGA also transfers reports of adverse events to all medicines, including
+vaccines, to a publicly accessible search facility, the [Database of Adverse
+Event Notifications](https://www.tga.gov.au/database-adverse-event-
+notifications-daen).
+
+## References
+
+  1. National Health and Medical Research Council (NHMRC). [Australian guidelines for the prevention and control of infection in healthcare](https://nhmrc.gov.au/about-us/publications/australian-guidelines-prevention-and-control-infection-healthcare-2010). Canberra: NHMRC; 2010. 
+  2. Sparks L. Taking the "ouch" out of injections for children: using distraction to decrease pain. MCN The American Journal of Maternal/Child Nursing 2001;26:72-8.
+  3. [Definition and application of terms for vaccine pharmacovigilance](https://www.who.int/vaccine_safety/initiative/tools/CIOMS_report_WG_vaccine.pdf). Report of CIOMS/WHO Working Group on Vaccine Pharmacovigilance. Geneva: Council for International Organizations of Medical Sciences, World Health Organization; 2012. 
+  4. Institute of Medicine. Stratton KR, Howe CJ, Johnston RB, Jr., eds. Adverse events associated with childhood vaccines: evidence bearing on causality. Washington, DC: National Academy Press; 1994.
+  5. Rüggeberg JU, Gold MS, Bayas JM, et al. Anaphylaxis: case definition and guidelines for data collection, analysis, and presentation of immunization safety data. Vaccine 2007;25:5675-84.
+  6. Ewan PW. Anaphylaxis. BMJ 1998;316:1442-5.
+  7. Sheikh A, Shehata YA, Brown SG, Simons FE. Adrenaline (epinephrine) for the treatment of [anaphylaxis](/technical-terms#anaphylaxis) with and without shock. Cochrane Database of Systematic Reviews 2008;(4):CD006312. doi:10.1002/14651858.CD006312.pub2.
+  8. Australian Resuscitation Council, New Zealand Resuscitation Council. [Guideline 8. Cardiopulmonary resuscitation](https://resus.org.au/guidelines/). 2016 (accessed Apr 2018). 
+  9. Australasian Society of Clinical Immunology and Allergy (ASCIA). [Anaphylaxis emergency medication (adrenaline [epinephrine] autoinjectors) for general use](https://allergy.org.au/hp/anaphylaxis/adrenaline-autoinjectors-for-general-use/). 2017 (accessed Apr 2018). 
+  10. Simons FE, Gu X, Simons KJ. Epinephrine absorption in adults: intramuscular versus [subcutaneous injection](/technical-terms#subcutaneous-injection). Journal of Allergy and Clinical Immunology 2001;108:871-3.
+  11. Australasian Society of Clinical Immunology and Allergy (ASCIA). [Adrenaline (epinephrine) autoinjectors FAQ](https://allergy.org.au/hp/anaphylaxis/adrenaline-autoinjectors-faqs/). 2018 (accessed Apr 2018). 
+  12. Australasian Society of Clinical Immunology and Allergy (ASCIA). [Guidelines: acute management of anaphylaxis](https://allergy.org.au/hp/papers/acute-management-of-anaphylaxis-guidelines/). Sydney: ASCIA; 2017. 
+  13. Kroger AT, Duchin J, Vázquez M. [General best practice guidelines for immunization](https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/index.html). Best practices guidance of the Advisory Committee on Immunization Practices (ACIP). Atlanta, GA: Centers for Disease Control and Prevention; 2017. 
+  14. Australian Government Department of Health, Therapeutic Goods Administration (TGA). [Paracetamol: practitioner fact sheet](https://www.tga.gov.au/alert/paracetamol-practitioner-fact-sheet). 2003 (accessed Apr 2018). 
+  15. Armstrong PK, Dowse GK, Effler PV, et al. Epidemiological study of severe [febrile](/technical-terms#febrile) reactions in young children in Western Australia caused by a 2010 trivalent inactivated influenza vaccine. BMJ Open 2011;1:e000016.
+  16. Australian Government Department of Health, Therapeutic Goods Administration. [Seasonal flu vaccine: investigation into febrile reactions in young children following 2010 seasonal trivalent influenza vaccination](https://www.tga.gov.au/alert/seasonal-flu-vaccine-investigation-febrile-reactions-young-children-following-2010-seasonal-trivalent-influenza-vaccination). Status report as at 2 July 2010 (updated 24 September 2010) (accessed Apr 2018). 
+  17. Hamati-Haddad A, Fenichel GM. Brachial neuritis following routine childhood immunization for diphtheria, tetanus, and pertussis (DTP): report of two cases and review of the literature. Pediatrics 1997;99:602-3.
+  18. Institute of Medicine. Stratton K, Ford A, Rusch E, Wright Clayton E, eds. Adverse effects of vaccines: evidence and causality. Washington, DC: The National Academies Press; 2012.
+  19. Debeer P, De Munter P, Bruyninckx F, Devlieger R. Brachial plexus neuritis following HPV vaccination. Vaccine 2008;26:4417-9.
+  20. Buttery JP, Danchin MH, Lee KJ, et al. Intussusception following rotavirus vaccine administration: post-marketing surveillance in the National Immunization Program in Australia. Vaccine 2011;29:3061-6.
+  21. Patel MM, López-Collada VR, Bulhões MM, et al. Intussusception risk and health benefits of rotavirus vaccination in Mexico and Brazil. New England Journal of Medicine 2011;364:2283-92.
+  22. Carlin JB, Macartney KK, Lee KJ, et al. Intussusception risk and disease prevention associated with rotavirus vaccines in Australia's national immunization program. Clinical Infectious Diseases 2013;57:1427-34.
+  23. Mahajan D, Cook J, McIntyre PB, Macartney K, Menzies RI. Annual report: surveillance of adverse events following immunisation in Australia, 2010. Communicable Diseases Intelligence 2011;35:263-80.
+  24. Australian Government Department of Health, Therapeutic Goods Administration. [Gardasil (quadrivalent human papillomavirus vaccine), update 2](https://www.tga.gov.au/alert/gardasil-quadrivalent-human-papillomavirus-vaccine-update-2). Update – adverse event monitoring: 13 May 2015 (accessed May 2018). 
+  25. Bohlke K, Davis RL, Marcy SM, et al. Risk of [anaphylaxis](/technical-terms#anaphylaxis) after vaccination of children and adolescents. Pediatrics 2003;112:815-20.
+  26. Goodwin H, Nash M, Gold M, Heath TC, Burgess MA. Vaccination of children following a previous hypotonic–hyporesponsive episode. Journal of Paediatrics and Child Health 1999;35:549-52.
+  27. Baraff LJ, Shields WD, Beckwith L, et al. Infants and children with convulsions and hypotonic-hyporesponsive episodes following diphtheria-tetanus-pertussis immunization: follow-up evaluation. Pediatrics 1988;81:789-94.
+  28. Mahajan D, Cook J, McIntyre P, Macartney K, Menzies R. [Supplementary report: surveillance of adverse events following immunisation among children aged less than seven years in Australia, 1 January to 30 June 2011](http://health.gov.au/internet/main/publishing.nsf/Content/cda-cdi3601-pdf-cnt.htm/%24FILE/cdi3601g.pdf). Communicable Diseases Intelligence 2012;36:114-9.
+  29. Nelson KE. Invited commentary: influenza vaccine and Guillain-Barré syndrome – is there a risk? American Journal of Epidemiology 2012;175:1129-32.
+  30. Harden RN, Bruehl S, Stanton-Hicks M, Wilson PR. Proposed new diagnostic criteria for complex regional pain syndrome. Pain Medicine 2007;8:326-31.
+  31. Alexander KE, Tong PL, Macartney K, et al. Live zoster vaccination in an immunocompromised patient leading to death secondary to disseminated varicella zoster [virus](/technical-terms#virus) [infection](/technical-terms#infection). Vaccine 2018;36:3890-3.
+  32. Costa E, Buxton J, Brown J, et al. Fatal disseminated varicella zoster [infection](/technical-terms#infection) following zoster vaccination in an immunocompromised patient. BMJ Case Reports 2016; May 4: doi:10.1136/bcr-2015-212688.
+  33. Jonville-Bera AP, Autret E, Laugier J. Sudden infant death syndrome and diphtheria-tetanus-pertussis-poliomyelitis vaccination status. Fundamental and Clinical Pharmacology 1995;9:263-70.
+  34. Mitchell EA, Stewart AW, Clements M, Ford RP, New Zealand Cot Death Study Group. Immunisation and the sudden infant death syndrome. Archives of Disease in Childhood 1995;73:498-501.
+  35. Fleming PJ, Blair PS, Platt MW, et al. The UK accelerated immunisation programme and sudden unexpected death in infancy: case-control study. BMJ 2001;322:822-5.
+  36. MacIntyre CR, McIntyre PB. MMR, autism and inflammatory bowel disease: responding to patient concerns using an evidence-based framework [editorial]. Medical Journal of Australia 2001;175:127-8.
+  37. Madsen KM, Hviid A, Vestergaard M, et al. A population-based study of measles, mumps, and rubella vaccination and autism. New England Journal of Medicine 2002;347:1477-82.
+  38. Taylor B, Miller E, Lingam R, et al. Measles, mumps, and rubella vaccination and bowel problems or developmental regression in children with autism: population study. BMJ 2002;324:393-6.
+  39. Peltola H, Patja A, Leinikki P, et al. No evidence for measles, mumps, and rubella vaccine-associated inflammatory bowel disease or autism in a 14-year prospective study. The Lancet 1998;351:1327-8.
+  40. Monteyne P, André FE. Is there a causal link between hepatitis B vaccination and multiple sclerosis? Vaccine 2000;18:1994-2001.
+  41. Ascherio A, Zhang SM, Hernán MA, et al. Hepatitis B vaccination and the risk of multiple sclerosis. New England Journal of Medicine 2001;344:327-32.
+  42. Demicheli V, Rivetti A, Di Pietrantonj C, Clements CJ, Jefferson T. Hepatitis B vaccination and multiple sclerosis: evidence from a systematic review. Journal of Viral Hepatitis 2003;10:343-4.
+  43. World Health Organization (WHO). [The Global Advisory Committee on Vaccine Safety rejects association between hepatitis B vaccination and multiple sclerosis (MS)](https://www.who.int/vaccine_safety/committee/topics/hepatitisb/ms/en/). 2002 (accessed Apr 2018). 
+  44. DeStefano F, Mullooly JP, Okoro CA, et al. Childhood vaccinations, vaccination timing, and risk of type 1 diabetes mellitus. Pediatrics 2001;108:e112.
+  45. Classen JB, Classen DC. Clustering of cases of insulin dependent diabetes (IDDM) occurring three years after Hemophilus influenza B (HiB) immunization support causal relationship between immunization and IDDM. Autoimmunity 2002;35:247-53.
+  46. Karvonen M, Cepaitis Z, Tuomilehto J. Association between type 1 diabetes and _Haemophilus influenzae_ type b vaccination: birth cohort study. BMJ 1999;318:1169-72.
+  47. Anderson HR, Poloniecki JD, Strachan DP, et al. Immunization and symptoms of atopic disease in children: results from the International Study of Asthma and Allergies in Childhood. American Journal of Public Health 2001;91:1126-9.
+  48. Dey A, Wang H, Quinn H, Cook J, Macartney K. Surveillance of adverse events following immunisation in Australia annual report, 2015. Communicable Diseases Intelligence 2017;41:E264-78.
+
+## Page history
+
+Last updated
+
+8 March 2022
+
+Last reviewed
+
+8 March 2022
+
+Show all page updates (2)
+
+8 March 2022
+
+Updates to the 'Doses of intramuscular 1:1000 adrenaline for anaphylaxis'
+table to reflect changes to ASCIA's clinical guidelines on acute management of
+anaphylaxis (June 2021)
+
+13 January 2021
+
+Editorial changes to content to reflect closure of National HPV Vaccination
+Program Register.
+
+Section on reporting to immunisation registers updated to reflect closure of
+National HPV Vaccination Program Register.
+
+8 March 2022
+
+Updates to the 'Doses of intramuscular 1:1000 adrenaline for anaphylaxis'
+table to reflect changes to ASCIA's clinical guidelines on acute management of
+anaphylaxis (June 2021)
+
+13 January 2021
+
+Editorial changes to content to reflect closure of National HPV Vaccination
+Program Register.
+
+Section on reporting to immunisation registers updated to reflect closure of
+National HPV Vaccination Program Register.
+
+[ Previous Administration of vaccines ](/contents/vaccination-
+procedures/administration-of-vaccines "Go to previous page")
+
+[ Next Catch-up vaccination ](/contents/catch-up-vaccination "Go to next
+page")
+
+## In this section
+
+##  [Table of contents](/contents)
+
+  * [About the handbook](/contents/about-the-handbook)
+  * [Fundamentals of immunisation](/contents/fundamentals-of-immunisation)
+  * [Vaccination procedures](/contents/vaccination-procedures)
+    * [Preparing for vaccination](/contents/vaccination-procedures/preparing-for-vaccination)
+    * [Administration of vaccines](/contents/vaccination-procedures/administration-of-vaccines)
+    * After vaccination
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Vaccination for special risk groups](/contents/vaccination-for-special-risk-groups)
+  * [Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+
+Is there anything wrong with this page?
+
+## Help us improve the Australian Immunisation Handbook
+
+What you were doing? (required)
+
+What went wrong? (required)
+
+Leave this field blank
+
+Printed content may be out of date. For up to date information, always refer
+to the digital version:
+
+https://immunisationhandbook.health.gov.au/contents/vaccination-
+procedures/after-vaccination
+
+## Who's responsible for the Handbook
+
+  * [ATAGI](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi)
+  * [NHMRC](https://www.nhmrc.gov.au/)
+  * [Chief Medical Officer](https://www.health.gov.au/about-us/who-we-are/leadership#chief-medical-officer)
+  * [Department of Health and Aged Care](https://www.health.gov.au/)
+
+## Useful links and tools
+
+  * [Announcements](/contents/about-the-handbook/announcements "Announcements")
+  * [Handbook tables](/resources/tables "Handbook tables")
+  * [Handbook figures](/resources/figures "Handbook figures")
+  * [Technical terms](/technical-terms "Glossary of technical terms")
+  * [Abbreviations](/abbreviations "Abbreviations")
+
+## More about Immunisation
+
+  * [National Immunisation Program](https://www.health.gov.au/initiatives-and-programs/national-immunisation-program)
+  * [NIP Schedule](https://www.health.gov.au/health-topics/immunisation/immunisation-throughout-life/national-immunisation-program-schedule)
+  * [ATAGI statements](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi#statements)
+  * [Immunisation news](https://www.health.gov.au/news?f%5B0%5D=field_related_health_topics%3A1021)
+  * [Immunisation resources](https://www.health.gov.au/resources?f%5B0%5D=field_related_health_topics%3A1021&f%5B1%5D=field_audience%3A446)
+  * [NCIRS Factsheets](http://www.ncirs.org.au/health-professionals/ncirs-fact-sheets-faqs)
+
+## Help us improve
+
+We are always looking for ways to improve our website, the NICC and mobile
+app.
+
+[Provide feedback](/provide-feedback)
+
+## Using the Handbook
+
+  * [Accessibility](https://www.health.gov.au/using-our-websites/accessibility)
+  * [Copyright](https://www.health.gov.au/using-this-website/copyright)
+  * [Disclaimers](https://www.health.gov.au/using-this-website/disclaimers)
+  * [Privacy](https://www.health.gov.au/using-this-website/privacy)
+
+## Mobile apps
+
+[![Download from Apple App
+Store](/sites/default/files/2021-05/App_Store_Badge_v2.svg)](https://apps.apple.com/au/app/immunisationhandbook/id1484584970)
+
+[![Get it on Google
+Play](/sites/default/files/2021-05/Google_Play_Store_badge_EN_v2.svg)](https://play.google.com/store/apps/details?id=au.gov.health.immunisationhandbook.immunisation_handbook&hl=en_AU&gl=AU&utm_source=Website&utm_campaign=AIH)
+
+## Acknowledgement
+
+The Department of Health and Aged Care acknowledges First Nations peoples as
+the Traditional Owners of Country throughout Australia, and their continuing
+connection to land, sea and community. We pay our respects to them and their
+cultures, and to all Elders both past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged
+Care](https://www.health.gov.au/)
+
+Back to top
+
+Link copied
+
+**Link** , **share** or **bookmark** directly to this section of the page.
+
+  *[MMR]: measles-mumps-rubella
+  *[MMRV]: measles-mumps-rubella-varicella
+  *[13vPCV]: 13-valent pneumococcal conjugate vaccine.
+  *[4vHPV]: quadrivalent HPV vaccine
+  *[DTPa]: diphtheria-tetanus-acellular pertussis vaccine
+  *[GBS]: Guillain-Barré syndrome
+  *[SIDS]: sudden infant death syndrome
+  *[ACT]: Australian Capital Territory
+  *[NHMRC]: National Health and Medical Research Council
+  *[WHO]: World Health Organization
+  *[ASCIA]: Australasian Society of Clinical Immunology and Allergy
+

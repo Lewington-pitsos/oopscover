@@ -1,0 +1,446 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Private Health Insurance works in Australia.")
+    * [Overview of Health System](/health_insurance/what_is_covered/index.htm "An overview of what is covered by private health insurance and what is covered by Medicare for hospital, medical services \(general treatment\), pharmaceutical benefits and ambulance.")
+    * [Private Health Insurance Basics](/health_insurance/howitworks/index.htm "Describes how health insurance works, the different levels \(categories\) of cover for both hospital and general treatment \(ancillary/extras\).")
+      * [Product tiers](/health_insurance/howitworks/producttiers.htm "Four new tiers of hospital cover will begin rolling out from early 2019 and will become mandatory from 1 April 2020. All hospital insurance policies will be classified as Gold, Silver, Bronze or Basic. All hospital treatments are now listed under clinical categories to describe what is and is not covered under each policy.")
+      * [Clinical categories](/health_insurance/howitworks/clinical_categories.htm "Details of what is and is not covered by the clinical categories, with links to their MBS item numbers.")
+      * [General Treatments](/health_insurance/howitworks/treatments.htm "Definitions of some services covered under General treatment private health insurance in Australia.")
+      * [Registered health insurers](/health_insurance/howitworks/registeredinsurers.htm "Overview of the operation of health insurers registered under the Private Health Insurance Act 2007 in Australia")
+      * [Private Health Information Statements](/health_insurance/howitworks/phis_guide.htm "Private Health Information Statements provide a summary of the services covered under private health insurance policies in Australia.")
+      * [Waiting periods](/health_insurance/howitworks/waiting_periods.htm "Most private health insurance policies will have a waiting period associated with the services it covers, this means that when you take out the insurance you will have to serve the waiting period before you claim especially if you are claiming for treatment for a pre-existing condition.")
+      * [Out of pocket costs](/health_insurance/howitworks/out_of_pocket.htm "Explains what a 'gap' or out of pocket cost is for both hospital and medical treatment and what you can do")
+      * [Managing your policy](/health_insurance/howitworks/managing_your_policy.htm "You may be eligible for a discount on your premium or some insurers offer rate protection policies. You may be able to lower your premiums by choosing to not be covered for certain services \(exclusions\), receive limited benefits \(restricted benefits\), or to pay a set amount towards the costs of treatment \(excess or co-payment\).")
+    * [Government Surcharges & Incentives](/health_insurance/surcharges_incentives/index.htm "Australian government incentives and surcharges for private health insurance.")
+    * [Overseas Visitors & Students ](/health_insurance/overseas/index.htm "Students and visitors from overseas may be required, or should consider, to take out private health cover whilst visiting Australia.")
+    * [Private Health Insurance Changes](/health_insurance/phichanges/index.htm "From 1 April 2019, the Australian Government introduced new rules to help make private health insurance simpler including Gold, Silver, Bronze and Basic hospital tiers, and standard clinical categories to describe what is and is not covered. Further changes were introduced in 2021.")
+  * [Health Insurers](/healthinsurers/index.htm "Policies, contact details & performance.")
+  * [Compare Policies](/comparepolicies/index.htm "Find policies that match your needs.")
+  * [Contact Us](/contactus.htm "Got a question? Contact us today.")
+  * [FAQ](/faq.htm "Frequently asked questions.")
+
+## Out of pocket costs
+
+When being admitted to hospital as a private patient, you may have to
+contribute toward the cost of your treatment. In most cases, these out of
+pocket costs relate to medical fees charged by your treating doctors and
+health care providers. You may also incur out of pocket costs for hospital
+fees and prostheses.
+
+Before you go to hospital, whenever practicable, you should ask the hospital,
+your doctors and your health insurer to find out exactly what is covered on
+your policy and what you will need to pay for yourself.
+
+more
+
+When being admitted to hospital as a private patient, you may have to
+contribute toward the cost of your treatment. In most cases, these out of
+pocket costs relate to medical fees charged by your treating doctors and
+health care providers. You may also incur out of pocket costs for hospital
+fees and prostheses.
+
+In Australia, doctors and health care providers decide how much to charge for
+their services. Before you receive your treatment you are entitled to ask your
+doctor or health care provider, your health insurer and your hospital about
+any costs you may have to pay out of your own pocket, commonly known as a
+âgapâ payment.
+
+### Medical gaps
+
+If you decide to be treated as a private patient, in a public or private
+hospital, each of the doctors andÂ health care providers involved in your care
+may charge a fee. This can include medical specialists, surgeons, assistant
+surgeons, anaesthetists, physiotherapists, pathologists and radiologists.
+These fees are referred to as your medical fees, which are separate to the
+fees the hospital may charge for accommodation, time in theatre and other
+hospital services.
+
+  
+
+When you are admitted to hospital as a private patient, Medicare will pay 75
+per cent of the Medicare Benefit Schedule (MBS) fee for each MBS item. Your
+health insurer will pay the additional 25 per cent (if you are eligible for
+benefits for those items under your health insurance policy).Â
+
+  
+
+However, doctors and health care providers are free to charge more than the
+MBS fee and many do.Â In Australia, doctors and health care providers take
+into account their particular costs in delivering services and may have
+differing views about what represents a reasonable return for their time and
+skill. This means that there is no cap on the amount a doctor or health care
+provider can charge for their services.
+
+  
+
+If your doctor charges above the MBS fee, you may have to pay the extra
+amount. This extra amount is sometimes known as a 'gap'. If you do not do
+check with your doctors and insurer what this amount is, you may be faced with
+significant out of pocket costs for your treatment.
+
+ **Medical gaps**
+
+Kumar* was admitted to hospital as a private patient. His doctor charged
+$1,000 for their service.
+
+The MBS fee for the service was $700, of which $525 (75 per cent of $700) was
+paid by Medicare. A further $175 (25 per cent of $700) was paid by Kumarâs
+private health insurer.
+
+This left a $300 'gap' for Kumar to pay out of his own pocket to the doctor.
+
+ _*identifying details have been changed for privacy reasons_
+
+Before you go to hospital, you should ask your doctor for the MBS item numbers
+for the services they will perform and an estimate of your out of pocket
+costs. You should also ask the doctor if there will be other doctors or health
+care providers involved in your care (for example, anaesthetist or an
+assistant surgeon) and how you can get an estimate of their fees. Estimates
+should preferably be provided in writing. For more information, see the
+Ombudsman's [factsheet on Informed Financial
+Consent](https://www.ombudsman.gov.au/publications-and-news-pages/publication-
+pages/brochures-and-factsheets/factsheets/private-health-insurance/informed-
+financial-consent "Factsheet - Informed Financial Consent").
+
+Once you have your MBS item numbers, you should then check with your health
+insurer to find out exactly how much is covered on your hospital policy for
+that procedure.
+
+ **Out-of-pocket medical costs and Informed Financial Consent (IFC)**
+
+Rebecca* had a planned surgery to have her adenoids removed as a private
+patient. Prior to her admission, Rebeccaâs treating doctor quoted a fee of
+$1,200.
+
+Rebecca contacted her health insurer to confirm her hospital cover and the
+benefit amount she could claim towards the doctorâs fee. The health insurer
+advised the total benefit payable between Medicare and the insurer would be
+$500 towards the doctorâs fee - leaving out of pocket costs of $700.
+
+Although Rebecca had an out of pocket expense she had to pay, Rebecca was able
+to make an informed decision about whether to go ahead with the surgery.
+
+ _*identifying details have been changed for privacy reasons_
+
+Not all medical services are listed in the MBS. You should check with your
+doctor or health care provider and your insurer whether your medical treatment
+is listed in the MBS. If it is not listed your health insurer may not pay
+benefits and you may face significant out-of-pocket costs for your treatment.
+
+If you do not have hospital cover for a particular condition or medical
+service, you cannot claim, from your health insurer, the fees associated with
+your hospital stay for that treatment.
+
+If you are not an admitted hospital patient, then your fees may only be
+claimable with Medicare.
+
+#### Medical gap cover schemes
+
+Some health insurers have [gap cover agreements](/footer/gapcoverdoctors.htm
+"Gap cover doctors") made with particular doctors or health care providers.
+The agreement allows health insurers to provide benefits to cover some or all
+of the gap fees for your in-patient hospital treatment. If you receive
+treatment from a doctor or health care provider who charges above the MBS fee
+and who does not have a gap cover agreement with your health insurer, you may
+face significant out-of-pocket expenses for your treatment.
+
+  
+
+There is no requirement for any doctor to participate in an insurerâs gap
+cover agreement. Doctors and health care providers are free to decide on a
+case-by-case basis whether to use an insurer's gap cover arrangement. You
+should check with your doctor or health care provider and insurer whether you
+can be treated under this agreement. If you cannot be treated under a gap
+cover arrangement, you will have to contribute towards the medical fee out of
+your own pocket, for the amount that is billed over and above the MBS fee.
+
+#### Medical costs finder
+
+To help you find out more about the cost of specialist medical services, the
+Department of Health and Aged Care has introduced the [Medical Costs
+Finder](https://www.health.gov.au/medical-costs-finder "Link - Medical Costs
+Finder").
+
+  
+
+The Medical Costs Finder is an online tool that you can use to:
+
+  * see how much people have paid out of pocket for a procedure
+  * compare the costs estimated by your specialists and other health providers for a hospital procedure with the typical costs for the procedure in your area.
+
+This helps you better understand what is typically paid and whether your
+likely out of pocket costs are high or low, compared with what others have
+paid for the treatment.
+
+### Hospital gaps
+
+The benefits paid for hospital services such as accommodation, time in theatre
+and labour ward fees will depend on the type of cover you purchase and whether
+your insurer has an agreement in place with the hospital in which you are
+treated.
+
+  
+
+When there is an agreement between your insurer and your private hospital, you
+will have either no out-of-pocket expenses or you will be provided with
+details of your out-of-pocket expenses. Public hospitals don't have agreements
+with specific insurers but are generally treated as though they are agreement
+hospitals.
+
+  
+
+If you are treated in a hospital that does not have an agreement with your
+health insurer, you may face significant out of pocket costs for your
+treatment.
+
+  
+
+Find private hospitals that have an agreement with your insurer using the
+[Agreement hospitals](/footer/agreementhospitals.htm "Agreement hospitals")
+tool.
+
+  
+
+You are entitled to and should always ask your hospital or health insurer for
+an estimate in advance of the costs of your treatment, in both private and
+public hospitals.Â
+
+  
+
+If your hospital policy has an excess or co-payment, you have to pay the
+agreed excess or co-payment amount for hospital treatment out of your own
+pocket, even if your hospital has an agreement with your insurer.Â
+
+  * An excess is the set amount that you are obliged to pay towards the cost of hospital treatment. You, and anyone else listed on your hospital policy, may be required to pay an excess every time you go to hospital, or less often, depending on your policy.Â 
+  * A co-payment is the set amount you are obliged to pay for each day you are in hospital. For example, you, and anyone else listed on your hospital policy, may be required to pay the first $50 per day in hospital, depending on your policy.
+
+### Prostheses  
+
+A prosthesis is an artificial substitute or replacement for a body part
+attached or applied to the body to replace a missing part. Surgically
+implanted prostheses are sometimes required, such as a replacement cornea, a
+hip joint replacement device, a pacemaker, or a heart valve.
+
+  * If you are having surgery to implant or apply a prosthesis, your private health insurer must pay a benefit if you have the correct hospital cover and the product is on the [[Prostheses List](https://www.health.gov.au/health-topics/private-health-insurance/what-private-health-insurance-covers/prostheses-cover-under-private-health-insurance "Link - Department of Health - Prostheses List")](https://www.health.gov.au/health-topics/private-health-insurance/what-private-health-insurance-covers/prostheses-cover-under-private-health-insurance "Link - Department of Health - Prostheses List"). If you are covered, your health insurer will pay at least the minimum benefit listed on the Protheses List.
+  * If the minimum benefit does not cover the cost of the prosthesis, you might need to pay all or part of the gap to the hospital.
+  * Before you have surgery, you should ask your health insurer if you are covered, how much your policy will pay for a particular prosthesis, and whether you will have any 'gap' to pay for the prosthesis.
+  * Before you have surgery, you should also ask your doctor if the prosthesis is on the Prostheses List. If it is not on the list, you should ask your doctor if there is a prosthesis on the list that can be used instead. You should ask your doctor if you will have any 'gap' to pay for the prosthesis.
+  * Before you have surgery, you should ask your hospital if you will have any 'gap' to pay for the prosthesis.
+
+### How can I avoid unexpected out of pocket costs?
+
+We recommend that you ask about fees as soon as possible when consulting with
+a doctor or health care provider ahead of a hospital admission, or as soon as
+practicable if you need to be admitted to hospital urgently.
+
+  
+
+If your doctor arranges for your admission to a hospital or day surgery as a
+private patient, we recommend that you ask your doctor or your doctorâs
+office staff the following questions:
+
+  
+
+  * What are the MBS item numbers for the services the doctor is going to perform and what will be the charge for each of these services?
+
+  * Does the doctor participate in my health insurerâs gap cover scheme and will the doctor treat me under this arrangement?Â 
+
+  * Will I incur any personal out of pocket expenses and, if so, how much? (You should confirm this with your health insurer.)
+
+  * Who are the other doctors treating me during the admission (e.g. anaesthetist, assistant surgeon) and how can I get an estimate of their fees?
+
+  * Will the doctor provide me with a written estimate of any costs Iâll have to pay so I can consider this when agreeing to the treatment?
+
+  * How will the doctor bill me?
+
+  * Which hospital will be admitted to and does this hospital have an agreement with my insurer?
+
+  * When will I have to pay?
+
+If you canât afford the treatment, discuss alternative treatment options
+with your specialist or GP. You may also consider shopping around to see what
+other specialists charge or consider being treated as a public patient at a
+public hospital.
+
+  
+
+You should contact your health insurer to ask about benefits for your
+hospitalisation and your medical bills.
+
+  
+
+Medicare can confirm the amount they will pay for the medical services
+provided if necessary. You can visit your local Medicare Office, contact them
+on 132 011 or online at [](https://www.servicesaustralia.gov.au/ "Link -
+Services Australia")[Services
+Australia](https://www.servicesaustralia.gov.au/individuals/contact-us "Link -
+Services Australia - Contact Us").
+
+#### What can I do if my bill is much higher than expected?
+
+In the first instance, we suggest you contact your doctorâs or health care
+providerâs office to checkÂ whether you agreed to these charges before
+treatment, and discuss the reasons for the various charges.
+
+  
+
+If you still consider that the charge is unfair or significantly more than you
+were advised, we suggest that you pay at least part of the bill. For instance,
+pay the amount that you were expecting to pay or find out what the MBS fee is
+for the procedure(s) and pay that amount.
+
+  
+
+When you make that payment, provide a letter to your doctor or health care
+provider. This letter could include the following points:
+
+  
+
+  * State the amount you are paying and explain why you are paying that amount, for now.
+  * Indicate what amount you were expecting to pay and why you expected to pay that amount.Â 
+  * Ask if any procedures have been performed other that the ones you were expecting or if a case can be made for the unexpected charge.
+  * Indicate any personal circumstances that affect your ability to pay the higher fee.
+  * Suggest what further amount you would be prepared to pay (if any) and what payment arrangements you would like to make.Â 
+  * Ask for a written response to your letter.
+
+#### Where can I seek further assistance?
+
+If you canât resolve your issue directly with your doctor or health care
+provider, you can seek assistance from another organisation:
+
+ **Type of issue**|  **Who to contact**  
+---|---  
+A private health insurance-related matter, such as a dispute over the fee
+charged by a doctor or health care provider for in-patient treatment or a
+private patient hospital gap fee| [Private Health Insurance
+Ombudsman](http://www.ombudsman.gov.au "Private Health Insurance Ombudsman")  
+A competition or fair trade issue| [ Australian Competition and Consumer
+Commission](https://www.accc.gov.au/ "Link - Australian Competition and
+Consumer Commission \(ACCC\)")  
+A health practitioner standards complaint| [Australian Health Practitioner
+Regulation Agency](https://www.ahpra.gov.au/ "Link - Australian Health
+Practitioner Regulation Agency \(AHPRA\)")  
+A complaint about the provision of healthcare, in a public or private setting,
+including disputes about medical bills| State and territory healthcare
+complaint bodies:Â  
+  
+ACT:Â [Health Services Complaints Commissioner](http://www.hrc.act.gov.au/
+"Links - ACT Health Services Complaints Commissioner")  
+  
+NSW:Â [Health Care Complaints Commission](http://www.hccc.nsw.gov.au/ "Links -
+NSW Health Care Complaints Commission")  
+  
+NT:Â [Health and Community Services Complaints
+Commissioner](http://www.hcscc.nt.gov.au/ "Links - NT Health and Community
+Services Complaints Commissioner")  
+  
+QLD:Â [Office of the Health Ombudsman](http://www.oho.qld.gov.au "Link - QLD
+Office of the Health Ombudsman")  
+  
+SA:Â [Health and Community Services Complaints
+Commissioner](http://www.hcscc.sa.gov.au/ "Link - SA Health and Community
+Services Complaints Commissioner")  
+  
+TAS:Â [Health Care Complaints
+Commissioner](http://www.healthcomplaints.tas.gov.au/ "Links - TAS Health Care
+Complaints Commissioner")  
+  
+VIC:Â [Health Complaints Commissioner](https://hcc.vic.gov.au/ "Links - VIC
+Health Complaints Commissioner")  
+  
+WA:Â [Health and Disability Services Complaints
+Office](https://www.hadsco.wa.gov.au/home/ "Links - WA Health and Disability
+Services Complaints Office")  
+  
+* * *
+
+#### Tools
+
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Use the Agreement Hospitals Tool to find hospitals that have agreements your health insurer")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Use the Gap Cover Doctors tool to find links to your insurer's gap cover arrangements, if available")
+
+#### Brochures
+
+  * [Informed Financial Consent](https://www.ombudsman.gov.au/publications-and-news-pages/publication-pages/brochures-and-factsheets/factsheets/private-health-insurance/informed-financial-consent "A factsheet from the Private Health Insurance Ombudsman on Informed Financial Consent.")
+  * [Doctors' Bills](http://www.ombudsman.gov.au/__data/assets/pdf_file/0016/35611/Doctors-Bill-DL-Fyler-Web.pdf "A brochure from the Private Health Insurance Ombudsman with information about doctors' bills and out-of-pocket expenses")
+  * [Ten Golden Rules of Private Health Insurance](https://www.ombudsman.gov.au/publications-and-news-pages/publication-pages/brochures-and-factsheets/factsheets/private-health-insurance/ten-golden-rules-of-private-health-insurance "A fact sheet from the Private Health Insurance Ombudsman with ten tips to help avoid problems with private health insurance")
+  * [Private Health Insurance and Hospital Agreements](https://www.ombudsman.gov.au/__data/assets/pdf_file/0017/115208/Fact-Sheet-Private-Health-Insurance-and-Hospital-Agreements.pdf "Private health insurance and hospital agreements - your options if your insurer and hospital terminate an agreement")
+
+#### External Links
+
+  * [Medical Costs Finder](https://www.health.gov.au/medical-costs-finder "To help you find out more about the cost of specialist medical services, the Department of Health has introduced the Medical Costs Finder.")
+  * [Prostheses List](https://www.health.gov.au/health-topics/private-health-insurance/what-private-health-insurance-covers/prostheses-cover-under-private-health-insurance "The Department of Health provides useful information about the Prostheses List and the benefit to be paid by health funds")
+  * [Medicare Benefits Schedule (MBS) Online](http://www.mbsonline.gov.au/ "The Medicare Benefits Schedule website lists the medical services that are subsidised by the Australian Government. It gives the MBS fee and Medicare benefit for each item.")
+
+less
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+

@@ -1,0 +1,227 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Private Health Insurance works in Australia.")
+    * [Overview of Health System](/health_insurance/what_is_covered/index.htm "An overview of what is covered by private health insurance and what is covered by Medicare for hospital, medical services \(general treatment\), pharmaceutical benefits and ambulance.")
+    * [Private Health Insurance Basics](/health_insurance/howitworks/index.htm "Describes how health insurance works, the different levels \(categories\) of cover for both hospital and general treatment \(ancillary/extras\).")
+      * [Product tiers](/health_insurance/howitworks/producttiers.htm "Four new tiers of hospital cover will begin rolling out from early 2019 and will become mandatory from 1 April 2020. All hospital insurance policies will be classified as Gold, Silver, Bronze or Basic. All hospital treatments are now listed under clinical categories to describe what is and is not covered under each policy.")
+      * [Clinical categories](/health_insurance/howitworks/clinical_categories.htm "Details of what is and is not covered by the clinical categories, with links to their MBS item numbers.")
+      * [General Treatments](/health_insurance/howitworks/treatments.htm "Definitions of some services covered under General treatment private health insurance in Australia.")
+      * [Registered health insurers](/health_insurance/howitworks/registeredinsurers.htm "Overview of the operation of health insurers registered under the Private Health Insurance Act 2007 in Australia")
+      * [Private Health Information Statements](/health_insurance/howitworks/phis_guide.htm "Private Health Information Statements provide a summary of the services covered under private health insurance policies in Australia.")
+      * [Waiting periods](/health_insurance/howitworks/waiting_periods.htm "Most private health insurance policies will have a waiting period associated with the services it covers, this means that when you take out the insurance you will have to serve the waiting period before you claim especially if you are claiming for treatment for a pre-existing condition.")
+      * [Out of pocket costs](/health_insurance/howitworks/out_of_pocket.htm "Explains what a 'gap' or out of pocket cost is for both hospital and medical treatment and what you can do")
+      * [Managing your policy](/health_insurance/howitworks/managing_your_policy.htm "You may be eligible for a discount on your premium or some insurers offer rate protection policies. You may be able to lower your premiums by choosing to not be covered for certain services \(exclusions\), receive limited benefits \(restricted benefits\), or to pay a set amount towards the costs of treatment \(excess or co-payment\).")
+    * [Government Surcharges & Incentives](/health_insurance/surcharges_incentives/index.htm "Australian government incentives and surcharges for private health insurance.")
+    * [Overseas Visitors & Students ](/health_insurance/overseas/index.htm "Students and visitors from overseas may be required, or should consider, to take out private health cover whilst visiting Australia.")
+    * [Private Health Insurance Changes](/health_insurance/phichanges/index.htm "From 1 April 2019, the Australian Government introduced new rules to help make private health insurance simpler including Gold, Silver, Bronze and Basic hospital tiers, and standard clinical categories to describe what is and is not covered. Further changes were introduced in 2021.")
+  * [Health Insurers](/healthinsurers/index.htm "Policies, contact details & performance.")
+  * [Compare Policies](/comparepolicies/index.htm "Find policies that match your needs.")
+  * [Contact Us](/contactus.htm "Got a question? Contact us today.")
+  * [FAQ](/faq.htm "Frequently asked questions.")
+
+## Waiting periods
+
+When youÂ start aÂ new private health insurance policyÂ or increase your level
+of cover, you have to complete waiting periods before you can claim benefits
+under your new level of cover.Â
+
+The maximum hospital waiting periods are 12 months for pre-existing conditions
+and pregnancy, 2 months for psychiatric care, rehabilitation or palliative
+care (even for a pre-existing condition), and 2 months for all other
+circumstances.Â
+
+more
+
+When youÂ start aÂ new private health insurance policyÂ or increase your level
+of cover, you have to complete waiting periods before you can claim benefits
+under your new level of cover. A waiting period protects members of the
+insurer by ensuring that individuals are not able to make a large claim
+shortly after joining and then cancelling their membership. This kind of
+behaviour would result in increased premiums for all policy holders.
+
+When purchasing health insurance, make sure you are fully aware of any waiting
+period you may have to serve. There is usually no waiting period if you need
+hospital or medical treatment because of an accident that happens after you
+start your policy.
+
+#### Hospital treatment waiting periods
+
+The government sets the maximum waiting periods that insurers can impose for
+hospital treatment:
+
+  * 12 months for pre-existing conditions, 
+  * 12 months for pregnancy and birth (obstetrics), 
+  * two months for psychiatric treatments, rehabilitation or palliative care, even for a pre-existing condition, 
+  * two months in all other circumstances.  
+
+In some cases, you can upgrade to receive mental health treatment in hospital
+without a waiting period - see below.
+
+  
+
+#### Pre-existing conditions
+
+Under the _Private Health Insurance Act 2007_ , a health insurer may impose a
+12 month waiting period on benefits for hospital treatment for a pre-existing
+condition. Some important facts to remember about this rule:
+
+  * A pre-existing condition is defined by law as any ailment, illness, or condition that you had signs or symptoms of during the six months before you joined a hospital cover or upgraded to a higher hospital policy.Â 
+  * It is not necessary that you or your doctor knew what your condition was or that the condition had been diagnosed. A condition can still be classed as pre-existing even if you hadnât seen your doctor about it before starting the hospital cover or upgrading to a higher hospital policy.
+  * The decision is made by a medical practitioner appointed by your insurer.  
+
+  * In forming an opinion about whether or not an illness was pre-existing, the medical practitioner must take into account information provided by your own doctor.
+  * Your health insurer will need time to advise you if your condition is pre-existing, so check with your insurer well before you go to hospital to make sure you are covered.
+  * Even if you have a pre-existing condition, health insurer must allow you to purchase any type of cover, at the same price as any other person. Once you have served any waiting periods, you will be entitled to claim.
+
+The exceptions to the 12 month waiting period for pre-existing conditions are
+psychiatric treatment, rehabilitation and palliative care. These services have
+a two month waiting period, even if the condition pre-existing.Â
+
+In some cases, you may be able to access an exemption to the two month waiting
+period for upgrading psychiatric benefits - see Mental health - waiting period
+exemption.
+
+For more information, see the Ombudsman's [factsheet on the pre-existing
+conditions rule](https://www.ombudsman.gov.au/publications-and-news-
+pages/publication-pages/brochures-and-factsheets/factsheets/private-health-
+insurance/the-pre-existing-conditions-rule "Factsheet - The Pre-Existing
+Conditions Rule").
+
+### Pregnancy and birth (obstetrics)
+
+The maximum waiting period for pregnancy and birth benefits is 12 months - if
+you are planning to become pregnant and wish to be covered, you will need to
+organise appropriate health insurance for both yourself and your newborn child
+well in advance (before you become pregnant). Some important facts to
+remember:Â
+
+  * If you have a single membership or you are a dependent on a family policy and you are expecting a child, you will need to transfer to a family membership or single parent membership if you would like your newborn child to be covered. If you would like your child to be insured from the time of birth, without waiting periods, you may have to transfer to the new policy several months before your child is born.Â Health insurers have different rules about how far in advance you need to make changes to your cover to insure your newborn baby, soÂ you should contact your insurer for more details.
+  * The entitlement to pregnancy benefits rests with the mother. She needs to have served the full waiting period before being admitted to hospital to be able to claim benefits.
+  * Many less expensive hospital covers do not include obstetrics, or pay restricted benefits that only cover you for obstetrics as a private patient in a public hospital, not in a private hospital.Â 
+
+For more information, see the Ombudsman's [factsheet on pregnancy and
+obstetrics](https://www.ombudsman.gov.au/publications-and-news-
+pages/publication-pages/brochures-and-factsheets/factsheets/private-health-
+insurance/obstetrics-and-pregnancy "Factsheet - Obstetrics and Pregnancy").
+
+### Mental Health â waiting period exemption for higher benefits
+
+If you are on a hospital policy which provides restricted benefits for
+psychiatric care, then to access higher benefits you usually upgrade and
+complete a two month waiting period.
+
+However, from 1 April 2018, you can upgrade without having to serve this
+waiting period to access higher benefits for psychiatric care in a hospital or
+hospital substitute treatment.
+
+This exemption applies only once per lifetime and can only be accessed if you
+have already completed an initial two months of membership on any level of
+hospital cover. For more information about accessing the exemption, please
+contact your health insurer.
+
+For general information about the exemption, see the Department of Health and
+Aged Care website:Â [](https://www.health.gov.au/topics/private-health-
+insurance/what-private-health-insurance-covers/waiting-periods-and-exemptions
+"Link - Department of Health - waiting periods and exemptions")[[waiting
+periods and exemptions](https://www.health.gov.au/topics/private-health-
+insurance/what-private-health-insurance-covers/waiting-periods-and-exemptions
+"Link - Department of Health - waiting periods and
+exemptions")](https://www.health.gov.au/topics/private-health-insurance/what-
+private-health-insurance-covers/waiting-periods-and-exemptions "Link -
+Department of Health - waiting periods and exemptions").
+
+#### General treatment waiting periods
+
+The waiting periods for general treatment (ancillary or extras) cover are set
+by individual health insurers.Â
+
+Generally, waiting periods vary from two to six months for items such as
+general dental, optical and physiotherapy, and up to 12 months or more for
+major items such as orthodontics or hearing aids.
+
+* * *
+
+#### Brochures
+
+  * [Waiting Periods](https://www.ombudsman.gov.au/__data/assets/pdf_file/0020/290423/PHIO-New-Waiting-Periods-Brochure_v7.pdf "The Private Health Insurance Ombudsman provides a Waiting Period brochure that outlines the waiting periods that apply to private health insurance in Australia")
+  * [Factsheet: The Pre-Existing Conditions Rule](https://www.ombudsman.gov.au/publications-and-news-pages/publication-pages/brochures-and-factsheets/factsheets/private-health-insurance/the-pre-existing-conditions-rule "How the Rule applies when you start a new policy or upgrade your existing policy.")
+  * [Factsheet: Obstetrics and Private Health Insurance](https://www.ombudsman.gov.au/publications-and-news-pages/publication-pages/brochures-and-factsheets/factsheets/private-health-insurance/obstetrics-and-pregnancy "The Private Health Insurance Ombudsman's factsheet on pregnancy and private health insurance.")
+  * [Factsheet: Mental Health Treatment and Private Health Insurance](https://www.ombudsman.gov.au/publications-and-news-pages/publication-pages/brochures-and-factsheets/factsheets/private-health-insurance/mental-health-treatment-and-private-health-insurance "Factsheet: Mental Health Treatment and Private Health Insurance")
+
+#### External Links
+
+  * [Private Health Insurance Act 2007](https://www.legislation.gov.au/Details/C2021C00291 "www.comlaw.gov.au")
+  * [Department of Health and Aged Care - waiting periods and exemptions](https://www.health.gov.au/topics/private-health-insurance/what-private-health-insurance-covers/waiting-periods-and-exemptions "Department of Health and Aged Care - waiting periods and exemptions")
+
+less
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+

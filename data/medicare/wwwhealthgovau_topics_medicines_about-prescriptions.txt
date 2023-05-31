@@ -1,0 +1,309 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Medicines](/topics/medicines)
+
+[Medicines](/topics/medicines)
+
+# About prescriptions
+
+Some medicines are only available from a pharmacist with a prescription from
+an authorised health practitioner. This ensures that your health practitioner
+can first assess your condition, determine which medicine you need and give
+you advice before you take it.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=About prescriptions&url=https://www.health.gov.au/topics/medicines/about-prescriptions)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/medicines/about-prescriptions)
+    * [Email](mailto:?subject=About prescriptions&body=https://www.health.gov.au/topics/medicines/about-prescriptions)
+
+Loading...
+
+On this page
+
+## **What a prescription is**
+
+A prescription is a legal document that health practitioners write for a
+pharmacist to dispense a specific medicine.
+
+You can’t legally obtain prescription-only medicines without that document.
+
+## **Which medicines need a prescription**
+
+You need a prescription for medicines that have higher risks, such as:
+
+  * potentially serious side effects
+  * more complicated ways of taking them (such as injections)
+  * the potential for addiction or misuse.
+
+The need for a prescription ensures that, before you take a medicine, your
+health practitioner can:
+
+  * assess your needs and condition
+  * consider any other medicine you take to avoid negative interactions
+  * determine the most appropriate medicine for you
+  * explain how to take your medicine and any potential risks or side effects.
+
+These medicines include, for example:
+
+  * [antibiotics](https://www.healthdirect.gov.au/antibiotics) – as they are effective only for certain conditions, which a health practitioner needs to assess, and it’s important [not to overuse antibiotics](/node/37293#when-antibiotics-may-or-may-not-be-prescribed)
+  * medicines that need regular assessment to make sure their ongoing effectiveness – such as those that treat blood pressure, glucose levels, cancer, mental health conditions and others
+  * injectable medicines, such as insulin – so that your health practitioner can explain how to administer it
+  * ‘controlled medicines’ – such as [opioids](https://www.healthdirect.gov.au/opioid-medicines), which are critical to managing severe acute pain, but carry significant risk of addiction.
+
+Generally, prescription medicines are [registered
+medicines](https://www.tga.gov.au/how-we-regulate-medicines) in the
+[Australian Register of Therapeutic Goods](https://www.tga.gov.au/australian-
+register-therapeutic-goods).
+
+State and territory laws govern the use of some prescription medicines in each
+jurisdiction.
+
+The Australian Government subsidises the cost of many prescription medicines
+under the:
+
+  * [Pharmaceutical Benefits Scheme](https://www.pbs.gov.au/info/about-the-pbs) (PBS), which is available to Australians with a [Medicare card](https://www.servicesaustralia.gov.au/medicare-card)
+  * [Repatriation PBS](https://www.dva.gov.au/health-and-treatment/help-cover-healthcare-costs/manage-medicine-and-keep-costs-down/concessional) (RPBS), which subsidises the cost of some medicines for eligible veterans.
+
+This makes medicines [more affordable](/topics/medicines/cost "Cost of
+medicines").
+
+All PBS-subsidised medicines are prescription medicines, but the PBS doesn’t
+subsidise all prescription medicines. It covers about 80% of all prescription
+medicines.
+
+For some PBS-subsidised medicines, your prescriber might need [written
+authority approval](https://www.servicesaustralia.gov.au/written-authority-
+required-drugs) before they can prescribe them.
+
+Read more about [prescription medicines](https://www.tga.gov.au/prescription-
+medicines-overview).
+
+## **Private prescriptions**
+
+Private prescriptions are those for medicines not subsidised under the
+[PBS](https://www.pbs.gov.au/info/about-the-pbs) or
+[RPBS](https://www.dva.gov.au/health-and-treatment/help-cover-healthcare-
+costs/manage-medicine-and-keep-costs-down/concessional). This means the cost
+can vary between pharmacies and you pay the full price for your medicine.
+
+You might be able to claim a portion of the cost of a private prescription
+back from your private health insurance. The level of cover provided depends
+on your health fund and policy.
+
+## **Who can prescribe medicines**
+
+Only authorised health practitioners – such as doctors, dentists,
+optometrists, nurse practitioners and midwife practitioners – can prescribe
+medicines.
+
+To prescribe medicines, health practitioners must:
+
+  * have completed accredited prescribing education and training that is consistent with their scope of practice
+  * be registered with the [national board](https://www.ahpra.gov.au/national-boards.aspx) for their specialty
+  * be approved under the [National Health Act 1953](https://www.legislation.gov.au/Details/C2021C00460) for prescriptions of PBS or RPBS medicines
+
+  * be approved under relevant state and territory legislation and regulation.
+
+Read more about [prescription medicines
+regulation](https://www.tga.gov.au/prescription-medicines) and [PBS
+prescriptions](https://www.pbs.gov.au/info/healthpro/explanatory-
+notes/section1/Section_1_2_Explanatory_Notes).
+
+## **Who can dispense prescription medicines**
+
+Only authorised health practitioners – such as pharmacists, doctors, dentists,
+optometrists, nurse practitioners and midwife practitioners – can dispense
+prescription-only medicines. This includes prescription medicines in
+hospitals.
+
+Pharmacists need a valid prescription before they can dispense a prescription-
+only medicine. There are some exceptions for those who are in [immediate need
+of a medicine](https://www.pbs.gov.au/pbs/news/2020/03/continued-dispensing-
+arrangements-covid-19) but have no way of obtaining a prescription, or as
+allowed by state or territory rules for emergency supply.
+
+## **What prescriptions look like**
+
+Your health practitioner can provide you with either:
+
+  * a handwritten prescription
+  * a printed prescription
+  * an [electronic prescription](/topics/health-technologies-and-digital-health/about/electronic-prescriptions "Electronic prescriptions") to your phone or direct to your preferred pharmacy.
+
+Prescriptions must all include some [mandatory
+information](https://www.servicesaustralia.gov.au/education-guide-writing-pbs-
+and-rpbs-prescriptions?context=23411), including:
+
+  * the prescriber's name, phone number and address (and prescriber number, where relevant)
+  * your name and address
+  * whether you are a concession or general patient
+  * whether the prescription is under the [PBS](https://www.pbs.gov.au/info/about-the-pbs) or [RPBS](https://www.dva.gov.au/health-and-treatment/help-cover-healthcare-costs/manage-medicine-and-keep-costs-down/concessional), if relevant
+  * the item, dose, form, strength, quantity and instructions for use
+  * the prescriber’s signature and date
+  * the maximum number of repeats (how many times you can get the medicine on the same prescription before needing to see your prescriber again).
+
+Your prescriptions can be included in [My Health Record](/node/31843#my-
+health-record) to help your health practitioners make more informed decisions
+about your health care.
+
+## **Active ingredient prescribing**
+
+For most PBS prescriptions, prescribers use the [active ingredient rather than
+the brand name](https://www.pbs.gov.au/info/general/active-ingredient-
+prescribing). This makes it easier for you to:
+
+  * choose a cheaper [generic or biosimilar medicine](/node/36863#medicine-types-), if available.
+  * check whether you are taking the same active ingredient in another medicine, to prevent double dosing
+  * check that you’re not allergic to any active ingredients
+  * check for potential negative interactions with other medicines you are taking
+  * find the right medicine when overseas, even if brands differ.
+
+In some cases, your health practitioner will prescribe a specific brand, and
+tick the ‘brand substitution not permitted’ box on the prescription. This
+could be because you might have a negative reaction to other brands.
+
+Your health practitioner might also prescribe a specific brand, without
+ticking the ‘brand substitution not permitted’ box if:
+
+  * the medicine contains 4 or more active ingredients
+  * it is impractical to prescribe by active ingredient for any other reason.
+
+Read more about [active ingredient
+prescribing](https://www.safetyandquality.gov.au/our-work/medication-
+safety/active-ingredient-prescribing).
+
+## **Prescription monitoring**
+
+While critical to helping patients, some medicines are more likely to be
+misused – for example, because they can become addictive. They include
+opioids, benzodiazepines, barbiturates and amphetamines.
+
+To ensure patients who need them can access these medicines, while reducing
+potential misuse, we monitor their use through the [National Real Time
+Prescription Monitoring](/our-work/national-real-time-prescription-monitoring-
+rtpm "National Real Time Prescription Monitoring \(RTPM\)").
+
+## **More information**
+
+Find more information about:
+
+  * [accessing medicines](/topics/medicines/access "Access to medicines")
+  * [managing your medicines safely](/topics/medicines/safe-use "Safe use of medicines").
+
+Last updated:
+
+23 June 2022
+
+Tags:
+
+  * [Medicines](/topics/medicines)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Medicines](/topics/medicines)
+
+  * [About medicines](/topics/medicines/about-medicines)
+  * [About prescriptions](/topics/medicines/about-prescriptions)
+  * [Access to medicines](/topics/medicines/access)
+  * [Cost of medicines](/topics/medicines/cost)
+  * [Safe use of medicines](/topics/medicines/safe-use)
+  * [Medication management for health practitioners](/topics/medicines/medication-management-for-health-practitioners)
+  * [What we do](/topics/medicines/what-we-do)
+  * [Initiatives and programs](/topics/medicines/programs)
+  * [News](/topics/medicines/news)
+  * [Resources](/topics/medicines/resources)
+  * [Contacts](/topics/medicines/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

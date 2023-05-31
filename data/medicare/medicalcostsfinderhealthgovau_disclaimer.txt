@@ -1,0 +1,258 @@
+Skip to main contentSkip to main navigation
+
+The information on the Medical Costs Finder is a guide only and should not be
+used as a quote or medical diagnosis.
+
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27720%27%20height=%27140%27/%3e)![Australian
+Government Department of
+Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![Australian
+Government Department of Health](https://gblmcfprod-static-
+gwb2haftfsevewa7.z01.azurefd.net/_next/static/media/doh-
+logo.43ff08e4.png?w=1920)![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27268%27%20height=%27140%27/%3e)![Medical
+Costs
+Finder](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![Medical
+Costs Finder](https://gblmcfprod-static-
+gwb2haftfsevewa7.z01.azurefd.net/_next/static/media/mcf-
+wordmark.a96e5bc9.png?w=640)](/ "Home")
+
+  * [For medical specialists](/medical-specialists)
+
+Menu
+
+Close
+
+  * [Home](/)
+  * [Search now](/search)
+  * [Features](/features)
+  * [Guide to costs](/guide-to-costs)
+  * [How it works](/how-it-works)
+  * [About](/about-mcf)
+  * [Resources](/resources)
+  * [For medical specialists](/medical-specialists)
+  * [Disclaimer](/disclaimer)
+
+  1. [Home](/)
+  2. [Disclaimer](/disclaimer)
+
+# Medical Costs Finder disclaimer
+
+The information on the Medical Costs Finder is a guide only and should not be
+used as a quote or medical diagnosis.
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://gblmcfprod-
+static-
+gwb2haftfsevewa7.z01.azurefd.net/_next/static/media/hero.62efc7ff.png?w=3840)
+
+ **The Medical Costs Finder uses data from the most recently publicly
+available financial year as stated on the results page.**
+
+The data used in this tool relies on data that may not be complete and, where
+appropriate, the data has been rounded to present whole numbers.
+
+This disclaimer is for the Medical Costs Finder. It is in addition to our
+broader site [ disclaimer(opens in new tab)](https://www.health.gov.au/using-
+our-websites/disclaimer).
+
+## Data for in-hospital services
+
+The Medical Costs Finder presents in-hospital results based on [Hospital
+Casemix Protocol (HCP1) data(opens in new
+tab)](https://www1.health.gov.au/internet/main/publishing.nsf/Content/health-
+casemix-data-collections-about-HCP) we collect from private health insurers.
+Insurers receive HCP1 data from declared hospitals following a private
+admitted episode of hospital treatment.
+
+The HCP1 data used in the Medical Costs Finder reflects:
+
+  * fees charged for treatments provided in private hospitals to patients with private health insurance
+  * what Medicare and insurers paid for these services.
+
+## Data for out-of-hospital services
+
+The Medical Costs Finder presents results for the cost of out-of-hospital
+treatments, these are services that do not involve a hospital admission.
+
+Each service is allocated a Medicare Benefits Schedule (MBS) item number and
+medical specialty as part of the MBS data collected by Services Australia
+(Medicare). This allows information to be presented showing which specialties
+use each item and the associated typical costs.
+
+The focus of the Medical Costs Finder is medical specialists’ costs. However,
+the MBS items may also be used by other health providers such as GPs, dentists
+or pathologists. The results presented includes details of all providers
+unless otherwise specified.
+
+The following MBS items have been excluded and are not included in results:
+
+  * items that are solely used by GPs, or other allied health professionals
+  * ‘hospital admitted only’ items
+  * pathology items (99% of out-of-hospital pathology is bulk billed).
+
+We also publish other Medicare statistics on a quarterly and annual basis.
+
+## Medicare Safety Nets and Multiple Services Rules
+
+The ‘Government pays’ amount shown in MBS item costs details is the usual
+basic Medicare payment for patients not admitted to hospital. Sometimes the
+actual Medicare benefit is different to the usual basic benefit amount due to
+[Medicare Safety Nets(opens in new
+tab)](https://www.servicesaustralia.gov.au/medicare-safety-nets) or the
+[Multiple Services Rules(opens in new
+tab)](http://www9.health.gov.au/mbs/fullDisplay.cfm?type=note&q=IN.0.11&qt=noteID).
+
+If the patient is eligible for the Medicare Safety Nets, the amount paid by
+Government will be higher for that patient.
+
+When more than one MBS item is provided at the same time, the Medicare benefit
+may be lower than usual due to the [multiple operation rule(opens in new
+tab)](https://www.servicesaustralia.gov.au/billing-multiple-mbs-items#mor)
+(MOR). Medicare benefits affected by the MOR are not excluded from the overall
+dataset.
+
+A lower Medicare benefit for additional items reflects the efficiencies to the
+provider when multiple services are performed at the same time.
+
+The median patient payment shown on the tool for out-of-hospital services
+takes into account all benefits paid across the year, excluding Medicare
+Safety Nets benefits.
+
+## Terms we use
+
+We’ve simplified the description for some MBS items within the Medical Cost
+Finder. These abbreviated descriptions provide you with an easier to
+understand description of the treatment. The full description of each MBS item
+can be found at [MBS Online(opens in new
+tab)](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home)
+by searching for the MBS item number.
+
+The Medical Costs Finder also refers to ‘clinical categories’. Clinical
+categories were created as part of the recent private health insurance reforms
+and are hospital treatments described in a standard way that allow for the
+grouping of medical services.
+
+## Geographical data presentation
+
+The Medical Costs Finder uses the Department of Health’s database of [declared
+hospitals(opens in new
+tab)](https://www1.health.gov.au/internet/main/publishing.nsf/Content/hospitals2.htm)
+to determine a hospital’s location.
+
+The tool can provide results locally, by state or territory, or nationally.
+
+When you search the tool, it collates data from all relevant admissions.
+However, it will only show you a result if there is enough combined available
+data to ensure a person, hospital or provider cannot be identified.
+
+The smallest region the tool can display results for is a [Primary Health
+Network (PHN)(opens in new
+tab)](https://www1.health.gov.au/internet/main/publishing.nsf/Content/PHN-
+Home). The tool uses PHNs to identify geographic areas smaller than a state
+other than for Tasmania, the Northern Territory and the Australian Capital
+Territory which are categorised as a single PHN.
+
+If the tool can’t show you a result for a PHN because those results might make
+it possible to identify a person, hospital or provider, it will show you
+results for the state or across all of Australia instead.
+
+## Admissions
+
+We refer to hospital admissions in this disclaimer and in the Medical Costs
+Finder to help explain the results.
+
+To do this the tool uses data related to what’s called a ‘hospital
+separation’.
+
+A hospital separation occurs when:
+
+  * a patient leaves the hospital
+  * a patient stays in hospital but their admission status changes – for example, they were admitted to hospital as an acute surgical patient but stay in hospital and become a rehabilitation patient.
+
+Effectively, the tool treats each hospital separation as a distinct admission
+even if the patient doesn’t actually leave the hospital and enter again.
+
+The tool will show you fees, Medicare and insurance payments, and out-of-
+pocket costs for hospital admissions where any gap was paid for the admission
+as a whole. This includes costs for all MBS subsidised medical services
+provided by a specialist or other health provider during the admission. Health
+providers could include surgeons, assistant surgeons and anaesthetists.
+Medical services could include diagnostic imaging and pathology.
+
+For example, a patient is admitted for surgical grommet insertion. The MBS
+item for grommet insertion is 41632 and it incurs an out-of-pocket cost of
+$425. The patient also has anaesthesia (MBS items 17610, 20120 and 23031),
+which costs a total of $210 out-of-pocket. The tool will therefore show a
+total medical out-of-pocket cost of $635 for this admission.
+
+Hospital admissions in the data for each of the included services are those
+where any of a set of identified MBS items was the main or principal item for
+the admission. Hospitals identify a main or principal item for each admission
+as part of the HCP1 dataset. The tool will show you the MBS items used to
+identify relevant admissions for the procedure you have searched.
+
+The tool doesn’t show what patients paid for hospital charges such as
+accommodation or theatre costs, or the cost of medical devices. However, it
+does show how much insurers typically paid for these costs.
+
+In most cases we apply further criteria before including an admission in the
+dataset to make the results more useful. For example, we exclude admissions
+that last longer than is considered typical for a particular course of
+treatment.
+
+## Pregnancy and birth
+
+The admitting hospital allocates a Diagnostic Related Grouping, or DRG, to
+every admission.
+
+The HCP1 data we are sent identifies both:
+
+  * the main MBS treatment item for each admission
+  * the admission’s DRG
+
+The DRG assigned to pregnancy and birth procedures tells us the kind of
+delivery and how complicated it was. We use it to divide admissions for
+pregnancy and birth procedures into:
+
+  * caesarean sections and vaginal deliveries
+  * minor or moderately complex procedures and very complex procedures
+
+Although you might not know what kind of delivery you will have, presenting
+the results like this can help you understand the costs associated with
+different kinds of deliveries.
+
+ **Using the Medical Costs Finder**
+
+  * [About](/about-mcf)
+  * [Terms of use](/terms-of-use)
+  * [Medical Costs Finder disclaimer](/disclaimer)
+
+ **About the Department of Health and Aged Care**
+
+  * [About the department](https://www.health.gov.au/about-us)
+  * [Accessibility](https://www.health.gov.au/using-our-websites/accessibility)
+  * [Copyright](https://www.health.gov.au/using-our-websites/copyright)
+  * [Department of Health and Aged Care disclaimer](https://www.health.gov.au/using-our-websites/disclaimer)
+  * [Privacy](https://www.health.gov.au/using-our-websites/website-privacy-policy)
+  * [Social media](https://www.health.gov.au/using-our-websites/social-media)
+
+ **For medical specialists**
+
+  * [Information for medical specialists](/medical-specialists)
+  * [Access the MCF Portal](https://medicalcostsfinderportal.health.gov.au/)
+  * [Portal help guide](https://medicalcostsfinderportal.health.gov.au/Signin?HelpGuide=1)
+
+ **Help us improve**
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](https://www.health.gov.au/help-us-improve-
+healthgovau?referrer=https://medicalcostsfinder.health.gov.au)
+
+  * [Contact us](https://www.health.gov.au/about-us/contact-us)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | Department of Health and Aged Care
+

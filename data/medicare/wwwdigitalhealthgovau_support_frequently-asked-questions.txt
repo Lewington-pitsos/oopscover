@@ -1,0 +1,902 @@
+Skip to main content
+
+[ Australian Digital Health Agency ](/) [ Australian Digital Health Agency for
+Healthcare Providers ](/healthcare-providers)
+
+Open Search
+
+Open Menu
+
+  * Open/Close Menu [ COVID-19 ](/covid-19-support)
+    * [ Your COVID-19 information in one place ](/initiatives-and-programs/my-health-record/covid-19-dashboard)
+    * [ Get proof of vaccination from My Health Record ](/initiatives-and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-record)
+    * [ What to do if information is missing ](/initiatives-and-programs/my-health-record/whats-inside/incorrect-or-missing-information)
+    * [ Get a My Health Record without a Medicare or DVA card ](/initiatives-and-programs/my-health-record/getting-started/set-up-a-record-without-medicare-or-dva-benefits)
+    * [ View My Health Record using an app ](/initiatives-and-programs/my-health-record/manage-your-record/view-my-health-record-using-an-app)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+  * Open/Close Menu [ Initiatives ](/initiatives-and-programs#Initiatives)
+    * [ My Health Record ](/initiatives-and-programs/my-health-record)
+    * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+    * [ Telehealth ](/initiatives-and-programs/telehealth)
+    * [ my health app ](/myhealth)
+  * Open/Close Menu [ Programs ](/initiatives-and-programs#Programs)
+    * [ Cyber security ](/initiatives-and-programs/cyber-security)
+    * [ National Digital Health Strategy ](/about-us/strategies-and-plans/national-digital-health-strategy-and-framework-for-action "National Digital Health Strategy")
+  * Open/Close Menu [ Newsroom ](/newsroom)
+    * [ Media releases ](/newsroom/media-releases)
+    * [ Podcasts ](/newsroom/podcasts)
+    * [ Newsletters ](/newsroom/newsletters "Find the latest information, news and insights on digital health in our newsletter series.")
+    * [ Digital Bytes ](/newsroom/digital-bytes "Get the latest insights and news from key healthcare providers, organisations and leaders.")
+    * [ Blogs ](/newsroom/blogs)
+  * Open/Close Menu [ Support ](/support "Support")
+    * [ Contact us ](/support/contact-us)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+    * [ Subscribe ](/support/subscribe)
+    * [ Glossary ](/support/glossary)
+    * [ Reporting fraud ](/support/reporting-fraud)
+  * Open/Close Menu [ About ](/about-us)
+    * [ Strategies and plans ](/about-us/strategies-and-plans)
+    * [ Organisational structure ](/about-us/board-members-and-executive-team)
+    * [ Policies, privacy and reporting ](/about-us/policies-privacy-and-reporting)
+    * [ Annual reports ](/about-us/annual-reports)
+    * [ Our websites ](/about-us/our-websites)
+    * [ Careers ](/careers)
+
+Search
+
+  * [For everyone](/)
+  * [For healthcare providers](/healthcare-providers)
+  * [For mhr everybody](/initiatives-and-programs/my-health-record)
+  * [For mhr hcp](/node/1688)
+  * [For ndhs](/ndhs)
+
+  * [ Careers ](/careers)
+  * [ Contact ](/support/contact-us)
+  * [ My Health Record (myGov) ](https://my.gov.au)
+
+## Breadcrumb
+
+  * [Home](/)
+  * [Support](/support)
+  * Frequently asked questions 
+
+![Photo: patient showing doctor
+phone](/sites/default/files/styles/hero_1_up/public/2021-06/My%20Apps%20Day%201-00353.jpg?h=a8efb6d2&itok=Mfv-
+kd1l)
+
+#  Frequently asked questions
+
+Find the answers to commonly asked questions about My Health Record and more.
+
+### I'm looking for information about:
+
+  * Linking My Health Record in myGov
+  * Recognising and avoiding fake vaccine certificates
+  * Getting proof of my COVID-19 vaccinations
+  * Set up and access My Health Record
+  * View and edit documents in My Health Record
+  * Electronic prescriptions
+
+## Linking My Health Record in myGov
+
+#### I can't link My Health Record from myGov. What should I do?
+
+We use details from Medicare to verify your identity when you link My Health
+Record.  
+If you have a Medicare online account already linked in myGov, it’s easier to
+then link to My Health Record.
+
+#### I have a Medicare online account linked in myGov
+
+If you have a Medicare online account and it is already linked in myGov, you
+don’t need to answer any further identity questions when you link to My Health
+Record.
+
+Tick 'Use my Medicare identity' when linking your record.
+
+![Medicare online identity
+new](/sites/default/files/styles/large/public/2021-10/medicare-
+new.png?itok=6MXE1lLv)
+
+#### I don’t have a Medicare online account or don’t want to link it
+
+If you don’t have a Medicare online account or don’t want to link it in myGov,
+we will ask about your Medicare details when you link your record. This helps
+us verify your identity.
+
+**__** We may ask questions about:
+
+  * your Medicare card
+  * bank account details registered with Medicare
+  * Medicare claiming history (details of your last visit to your doctor, such as date of visit, location of medical practice, name of your doctor)
+
+**Your answers must match the details stored by Medicare.**
+
+If you’re not sure of these details, you can phone ** __** Medicare on [132
+011](tel:132011) (7 days a week, 24 hours a day) before you link to ** __** My
+Health Record ** _._**
+
+Medicare can also help you register for a Medicare online account and give you
+a linking code to link your myGov account to Medicare.
+
+#### I want to set up a Medicare online account or link it in myGov
+
+If you set up a Medicare online account and link it in myGov first, it will be
+easier to then link to My Health Record.
+
+  * [Find out how to set up your Medicare online account](https://www.servicesaustralia.gov.au/individuals/subjects/how-enrol-and-get-started-medicare/setting-your-medicare-online-account)
+  * [Find out how to link your Medicare online account in myGov ](https://www.servicesaustralia.gov.au/individuals/online-help/medicare/link-medicare-mygov-your-medicare-card)
+
+#### How do I link My Health Record if I am not eligible for Medicare?
+
+If you applied for a My Health Record and have received your identity
+verification code, you need to link your record to your myGov account to
+access your record online.
+
+[See step 3 on this page](/initiatives-and-programs/my-health-record/getting-
+started/set-up-a-record-without-medicare-or-dva-benefits "Set up a record
+without Medicare or DVA benefits") to find out how to link your record in
+myGov. ​​​​​​
+
+#### How do I set up and access My Health Record?
+
+You need to link My Health Record in myGov and then verify your identity.
+[Find out more.](/initiatives-and-programs/my-health-record/getting-
+started/set-up-your-record-online "Set up your record online")
+
+Tip: My Health Record uses details from Medicare to verify your identify. If
+you haven’t yet linked Medicare, you can do that first. It will then be easier
+to link and access My Health Record.
+
+## Recognising and avoiding fake vaccine certificates
+
+#### What to look for when getting a vaccination certificate
+
+Legitimate vaccine certificates are available free of charge from the
+Australian Immunisation Register (AIR), and can be accessed via myGov, My
+Health Record or Medicare.
+
+Vaccine certificates from other sources should be treated with suspicion. Be
+wary of scammers offering to create fake online vaccination certificates.
+Please note that creating or using fake vaccination certificates is a criminal
+offence and may attract penalties.
+
+#### Why are vaccination certificates targeted?
+
+Using an online fake vaccination certificate generator carries a significant
+risk of sharing private personal information with cyber criminals, who can use
+that information for fraud and identity theft. Remember, once you’ve lost
+control of your personal information, it is extremely difficult to regain.
+
+#### I now have my digital vaccination certificate, how do I ensure that it
+stays secure?
+
+Be sure to use officially sanctioned apps or services to store your digital
+vaccination certificate. Your mobile contains valuable personal information,
+so be sure to secure it by keeping your operating system and apps up to date.
+Run anti-virus scans regularly. Use strong passwords and multi-factor
+authentication to prevent unauthorised access.
+
+#### What should I do if I've been scammed?
+
+The Australian Competition and Consumer Commission’s Scamwatch service can
+help if you are concerned that you might have been scammed. Promptly
+[reporting your concerns to Scamwatch](https://www.scamwatch.gov.au/report-a-
+scam) may help to limit the damage, protect yourself from further loss, and
+may help other people as well.
+
+## Getting proof of my COVID-19 vaccinations
+
+[Printable download: Getting proof of your COVID-19 vaccination (PDF, 485.11
+KB)](/sites/default/files/documents/getting-proof-of-your-
+covid-19-vaccination.pdf "Getting proof of your COVID-19 vaccination")
+
+#### What proof of vaccination documents can I get from My Health Record?
+
+There are two documents available from My Health Record that provide proof of
+vaccination:
+
+  * An **immunisation history statement** shows all the immunisations you’ve had that are on the Australian Immunisation Register (AIR), including COVID-19 vaccinations.
+  * A **COVID-19 digital certificate** shows only your COVID-19 vaccinations. You can get your digital certificate after you’ve had at least one dose of a vaccine approved for use in Australia.
+
+Your vaccination provider must report your vaccination information to the
+Australian Immunisation Register before it will show on your immunisation
+history statement or COVID-19 digital certificate.
+
+#### How do I get proof of vaccination for someone else?
+
+You can get proof of vaccination for someone else through My Health Record if
+you are their [authorised representative](/initiatives-and-programs/my-health-
+record/getting-started/authorised-representatives/manage-a-dependants-my-
+health-record "Follow link") or [nominated representative](/initiatives-and-
+programs/my-health-record/manage-your-record/privacy-and-access/nominated-
+representatives "Follow link").
+
+#### What proof of vaccination do I need to travel overseas?
+
+You may need an International COVID-19 Vaccination Certificate to travel
+overseas.
+
+You can get your international certificate online when you’re getting ready to
+travel if both of these apply:
+
+  * you have a current Australian passport or foreign passport with an Australian visa
+  * you’ve had at least one dose of an [approved COVID-19 vaccine](https://www.servicesaustralia.gov.au/how-to-get-your-covid-19-vaccinations?context=60091#a1).
+
+This international certificate is not available from My Health Record. [Find
+out how to get your international
+certificate](https://www.servicesaustralia.gov.au/individuals/subjects/getting-
+help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-
+are/international-covid-19-vaccination-certificate-proof
+)[.](https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-
+during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-
+are/international-covid-19-vaccination-certificate-proof )
+
+#### How do I get my COVID-19 digital certificate or immunisation history
+statement?
+
+You can get a COVID-19 digital certificate after you’ve had at least one dose
+of a vaccine approved for use in Australia, and the details have been uploaded
+to the Australian Immunisation Register (AIR). The digital certificate only
+shows COVID-19 vaccines approved for use in Australia.
+
+Your vaccination provider must report your vaccination information to the
+Australian Immunisation Register before you can get a COVID-19 digital
+certificate.
+
+#### I have a My Health Record
+
+If you already have a My Health Record, you can get your COVID-19 digital
+certificate or immunisation history statement from your record.
+
+Find out how to [get proof of vaccination from My Health Record](/initiatives-
+and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-
+from-my-health-record "Getting proof of your vaccinations from My Health
+Record").
+
+#### I have Medicare online or the Medicare Express Plus app
+
+If you have a Medicare card, or get a DVA pension or benefit, you can get your
+COVID-19 digital certificate or immunisation history statement through
+Medicare online (if you have an account) or the Express Plus Medicare mobile
+app (to use this app, you need to first link Medicare in your myGov account).
+
+[Find out more about getting proof of vaccination on Services Australia
+website](https://www.servicesaustralia.gov.au/individuals/subjects/getting-
+help-during-coronavirus-covid-19/covid-19-vaccinations/how-get-proof-your-
+covid-19-vaccinations ).
+
+#### I’m not eligible for Medicare
+
+If you don’t have a Medicare card, and don’t receive a DVA pension or benefit,
+you’ll need to get an individual healthcare identifier (IHI) before you can
+get proof of vaccination online. [Find out how to apply for an IHI
+online](https://www.servicesaustralia.gov.au/individuals/services/medicare/individual-
+healthcare-identifiers/how-get-ihi).
+
+Once you have your IHI, you can get your COVID-19 digital certificate or
+immunisation history statement through the Individual Healthcare Identifier
+service in myGov.
+
+[Find out more about how to get your proof of
+vaccination](https://www.servicesaustralia.gov.au/individuals/subjects/getting-
+help-during-coronavirus-covid-19/covid-19-vaccinations/how-get-proof-your-
+covid-19-vaccinations  ).
+
+#### I can’t get proof of my COVID-19 vaccination online
+
+If you can’t get proof of your COVID-19 vaccinations online, you can call the
+Australian Immunisation Register on [1800 653 809](tel:1800 653 809) (Monday
+to Friday 8 am to 5 pm) and ask them to send your immunisation history
+statement or your digital certificate. It can take up to 14 days to arrive in
+the post.
+
+#### I’ve had a COVID-19 vaccination. Why isn't it on my immunisation history
+statement?
+
+It can take a few days for new vaccinations to show on your immunisation
+history statement. If you've recently had a COVID-19 vaccination and it's not
+showing on your statement, please check again in a few days.
+
+If it's still not showing after a few days and your vaccination provider has
+sent the details to the Australian Immunisation Register (AIR), call the
+Australian Immunisation Register general enquiries line on [1800 653
+809](tel:1800 653 809) (Monday to Friday 8 am to 5 pm).
+
+Your COVID-19 digital certification will be available after you’ve had at
+least one dose of a vaccine approved for use in Australia, and the details
+have been reported to the AIR.
+
+#### How do I know when my booster is due?
+
+If you are eligible for a COVID-19 booster, you can check the recommended due
+date on your COVID-19 vaccination dashboard in My Health Record.
+
+[Find out about booster doses for COVID-19 vaccines, who they are recommended
+for, when you need one and how to get it.
+](https://www.health.gov.au/initiatives-and-
+programs/covid-19-vaccines/getting-your-vaccination/booster-doses)
+
+#### Will my booster dose show in My Health Record?
+
+If you’ve had a booster dose of a COVID-19 vaccine, your vaccination provider
+must report the details to the Australian Immunisation Register before it will
+show in My Health Record. It will also show on your immunisation history
+statement and COVID-19 digital certificate (both available from My Health
+Record).
+
+The booster dose details will also show on your COVID-19 vaccination
+dashboard, record home and immunisations page in My Health Record.
+
+[Find out about booster doses for COVID-19 vaccines, who they are recommended
+for, when you need one and how to get
+it.](https://www.health.gov.au/initiatives-and-
+programs/covid-19-vaccines/getting-your-vaccination/booster-doses)
+
+#### How do I add my COVID-19 digital certificate to my digital wallet?
+
+You can add your COVID-19 digital certificate to your digital wallet from:
+
+  * My Health Record through myGov
+  * Express Plus Medicare mobile app (to use this app, you need to first link Medicare in your myGov account)
+  * Medicare online account through myGov 
+  * Individual Healthcare Identifiers service (IHI service) through myGov.
+
+Find out how to [add your COVID-19 digital certificate to a digital
+wallet.](https://www.servicesaustralia.gov.au/individuals/subjects/getting-
+help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-
+are/covid-19-digital-certificate-proof)
+
+#### I've had both COVID-19 vaccinations but can’t get my COVID-19 digital
+certificate. What can I do?
+
+You can get your digital certificate after you’ve had at least one dose of a
+vaccine approved for use in Australia.
+
+Your vaccination provider needs to add all your doses to the Australian
+Immunisation Register before you can see your certificate.
+
+Your digital certificate is issued by the Australian Immunisation Register and
+made available through various online channels, including your My Health
+Record.
+
+If you can’t access your COVID-19 digital certificate, contact the Australian
+Immunisation Register general enquiries line on [1800 653 809](tel:1800 653
+809).  
+  
+For more information, see [how to get proof of your COVID-19 vaccinations](how
+to get proof of your COVID-19 vaccinations)
+
+#### How do I get proof of all my vaccinations?
+
+You can get an immunisation history statement that shows **all** the
+vaccinations you’ve had that are recorded on the Australian Immunisation
+Register (AIR). It also shows your immunisation status for any COVID-19
+vaccinations you’ve had.
+
+Your vaccination provider needs to report your vaccination information to the
+AIR before it will appear on your statement.
+
+#### I have a My Health Record
+
+If you have a My Health Record, you can get your immunisation history
+statement by logging into your record. See [Getting proof of your vaccinations
+from My Health Record](/initiatives-and-programs/my-health-record/whats-
+inside/getting-proof-of-your-vaccinations-from-my-health-record "Getting proof
+of your vaccinations from My Health Record") for more information.
+
+#### I don’t have a My Health Record
+
+See [how to get proof of your covid-19
+vaccinations](https://www.servicesaustralia.gov.au/individuals/subjects/getting-
+help-during-coronavirus-covid-19/covid-19-vaccinations/how-get-proof-your-
+covid-19-vaccinations) for more information on how to get your immunisation
+history statement.
+
+#### I can’t get proof of my COVID-19 vaccination online
+
+If you can’t get proof of your COVID-19 vaccinations online, you can call the
+Australian Immunisation Register on [1800 653 809](tel:1800 653 809) (Monday
+to Friday 8 am to 5 pm) and ask them to send your immunisation history
+statement or your digital certificate. It can take up to 14 days to arrive in
+the post.
+
+#### How do I get a paper copy of my proof of vaccinations? I don't have a
+smart phone or computer.
+
+You can call the Australian Immunisation Register on [1800 653
+809](tel:1800%20653%20809) (Monday to Friday 8 am to 5 pm) and ask them to
+send you a paper copy of your immunisation history statement or COVID-19
+digital certificate. It can take up to 14 days to arrive in the post.
+
+#### What do I do if a COVID-19 vaccination or other immunisation information
+is incomplete or missing from My Health Record?
+
+If you’ve had a vaccination and it’s not appearing in your My Health Record,
+first check your Medicare Information Settings.
+
+From the **Profile & Settings** tab, select **Medicare Information Settings**.
+
+Make sure ‘Yes’ is selected for ‘All information about immunisations recorded
+on the Australian Immunisation Register (AIR)’. See [Getting proof of your
+vaccinations from My Health Record](/initiatives-and-programs/my-health-
+record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-record
+"Getting proof of your vaccinations from My Health Record") for help on how to
+do this.
+
+If your AIR setting is set to ‘Yes’, your vaccination provider may not yet
+have sent the information to AIR. Your vaccination provider needs to report
+your vaccination information to the AIR before it will appear in your My
+Health Record. This can take a few days.
+
+If your vaccination provider has sent your vaccination information to AIR and
+this information is not appearing in your My Health Record, call the
+Australian Immunisation Register general enquiries line on [1800 653
+809](tel:1800 653 809) (Monday to Friday 8 am to 5 pm).
+
+If the information is appearing in your Medicare Online account but not in
+your My Health Record, and your Medicare Information Settings for AIR are set
+to ‘Yes’, call the My Health Record helpline on [1800 723 471](tel:1800 723
+471) (24 hours, 7 days a week).
+
+#### Why aren’t my COVID-19 pathology test reports showing in my record?
+
+Your pathology providers may not have had enough information to upload your
+test results to My Health Record.
+
+Next time you have a COVID-19 test, ask the provider to record your Medicare,
+DVA number or IHI number so that the test can be uploaded to your My Health
+Record. If you don’t have any of these numbers, ask them to record your full
+address.
+
+#### I’m not eligible for Medicare. Do I need a My Health Record to get proof
+of my COVID-19 vaccinations?
+
+If you’re not eligible for Medicare, you can get proof of your vaccinations
+online in a couple of ways. You need to have an Individual Healthcare
+Identifier (IHI) to get proof online.
+
+#### I have an Individual Healthcare Identifier (IHI)
+
+If you have an Individual Healthcare Identifier (IHI), the easiest way to get
+proof of your vaccinations online is by creating a myGov account and linking
+to the Individual Healthcare Identifier service.
+
+See [how to get proof of your
+vaccination](https://www.servicesaustralia.gov.au/individuals/subjects/getting-
+help-during-coronavirus-covid-19/covid-19-vaccinations/how-get-proof-your-
+covid-19-vaccinations).
+
+#### I don’t have an Individual Healthcare Identifier (IHI)
+
+If you don’t have an Individual Healthcare Identifier, you can apply for one
+online. See [How to get an
+IHI​](https://www.servicesaustralia.gov.au/individuals/services/medicare/individual-
+healthcare-identifiers/how-get-ihi) for more information.
+
+Once you have your IHI, the easiest way to get proof of your vaccinations
+online is by creating a myGov account and linking to the Individual Healthcare
+Identifier service.
+
+See [how to get proof of your
+vaccination](https://www.servicesaustralia.gov.au/individuals/subjects/getting-
+help-during-coronavirus-covid-19/covid-19-vaccinations/how-get-proof-your-
+covid-19-vaccinations).
+
+#### I want to get proof of my vaccination from My Health Record
+
+If you have an IHI you can [register for a My Health Record](/initiatives-and-
+programs/my-health-record/getting-started/set-up-a-record-without-medicare-or-
+dva-benefits "Set up a record without Medicare or DVA benefits"). This can
+take up to 10 days after you have submitted the forms (or longer, in times of
+high demand). You can then get proof of your vaccinations from your record.
+
+See [Getting proof of your vaccinations from My Health Record](/initiatives-
+and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-
+from-my-health-record "Getting proof of your vaccinations from My Health
+Record") or for more information on how to find this information once you have
+a record.
+
+#### I can’t get proof of my COVID-19 vaccination online
+
+If you can’t get proof of your COVID-19 vaccinations online, you can call the
+Australian Immunisation Register on [1800 653 809](tel:1800 653 809) (Monday
+to Friday 8 am to 5 pm) and ask them to send your immunisation history
+statement or you digital certificate. It can take up to 14 days to arrive in
+the post.
+
+#### I am a DVA cardholder and don’t use Medicare. How can I get proof of my
+vaccinations from My Health Record?
+
+If you haven’t accessed your My Health Record before, you need an access code
+to link your [myGov](https://my.gov.au/) account to your My Health Record.
+
+Call the Help line on [1800 723 471](tel:1800 723 471) (24 hours, 7 days a
+week) who will verify your identity and give you an access code (also called
+an Identity Verification Code).
+
+Once you have linked your myGov account to your My Health Record, you can [get
+your proof of vaccination from your record.](/initiatives-and-programs/my-
+health-record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-
+record "Getting proof of your vaccinations from My Health Record")
+
+#### I can’t get proof of vaccinations online because my name or date of birth
+in my Australian Immunisation Register record are wrong. How can I update
+this?
+
+The Australian Immunisation Register uses details from your Medicare record.
+If these details are wrong, you can contact Medicare to get them updated.
+[Find out how to update personal details with
+Medicare.](https://www.servicesaustralia.gov.au/individuals/services/medicare/australian-
+immunisation-register/update-your-details-air) If you’re not eligible for
+Medicare and need to update your details, you can call the Australian
+Immunisation Register on [1800 653809](tel:1800653809).
+
+#### I received vaccinations overseas. Will they show up in My Health Record?
+
+The Therapeutic Goods Administration (TGA) and Department of Health decide
+which COVID-19 vaccine brands given overseas are recognised in Australia and
+can be recorded on the Australian Immunisation Register (AIR).
+
+[Find out which COVID-19 vaccines are approved for use in Australia
+](https://www.servicesaustralia.gov.au/how-to-get-your-
+covid-19-vaccinations?context=60091#a1)
+
+[Find out how to get a COVID-19 vaccination received overseas added to the
+AIR.](https://www.servicesaustralia.gov.au/help-adding-overseas-
+covid-19-vaccinations-to-australian-immunisation-register-air?context=60091)
+
+If you’ve received other immunisations overseas, you may also be able to have
+these vaccinations added to the AIR.
+
+[Find out how to add immunisations you’ve had overseas to the
+AIR](https://www.servicesaustralia.gov.au/overseas-
+immunisations?context=22436)
+
+#### Why do I get a ‘Blocked plug in’ error when I try to download proof of
+vaccinations from My Health Record?
+
+Check that you are using a device and browser compatible with the My Health
+Record system.  
+See the [list of devices, operating systems and/or web browsers that are
+supported by My Health Record.](/initiatives-and-programs/my-health-
+record/whats-inside/compatible-browsers "Compatible browsers")
+
+#### Sharing your COVID-19 proof of vaccination with others
+
+With My Health Record your essential #COVID-19 information including proof of
+vaccination and test results, as well as other important health information is
+secure and available to you whenever you need it.
+
+Apart from you, the only people who can directly view or access information in
+your My Health Record, including your immunisation information, are your
+healthcare providers, people you invite to help you manage your record, and
+people who manage your record for you if you are not able to.
+
+You can choose to share information stored in your My Health Record with other
+people or organisations, but this is entirely up to you.
+
+There are two proof of vaccination documents available in My Health Record.
+Your immunisation history statement shows all your vaccinations recorded on
+the Australian Immunisation Register (including COVID-19 vaccinations) and
+your COVID-19 digital certificate shows only your COVID-19 vaccinations. You
+can download your COVID-19 digital certificate to your digital wallet to use
+as you choose.
+
+If you have questions about whether you are required to provide proof of
+vaccination, please contact your state or territory health department.
+
+If you are concerned that someone has looked at your My Health Record when
+they shouldn't have, call us on 1800 723 471 and we will investigate.
+
+## Set up and access My Health Record
+
+#### I wa **nt to manage a My Health Rec** ord for someone else. How do I do
+this?
+
+An authorised representative can be appointed to manage the My Health Record
+of someone who is not able to make decisions for themselves. This could be a
+child under 14 years or someone 14 years and over, who lacks capacity to make
+their own decisions.
+
+You will need to provide supporting evidence of your authority to act on
+behalf of your dependant.
+
+[More information about authorised representatives and applying to become an
+authorised representative](/initiatives-and-programs/my-health-record/getting-
+started/authorised-representatives/manage-a-dependants-my-health-record
+"Manage a dependant’s My Health Record")
+
+If the person is over 14 and has capacity to make their own decisions, but
+needs help to manage their My Health Record, they can choose to appoint
+someone to be a nominated representative for their record. A nominated
+representative might be a family member, close friend, or carer.
+
+[More information about nominated representatives](/initiatives-and-
+programs/my-health-record/manage-your-record/privacy-and-access/nominated-
+representatives "Nominated representatives")
+
+#### I’ve applied for a My Health Record and want to find out the progress of
+my application.
+
+We are currently receiving a high volume of applications and it is taking
+longer than usual to process them.
+
+Once a My Health Record application form has been processed you will be sent a
+letter to the address you have registered with Medicare (or the Healthcare
+Identifiers Service) advising your registration has been successful. The
+letter will contain an Identity Verification Code which you need to access
+your record online.
+
+If you need proof of your vaccinations, there are other ways to get this
+information, which may be quicker.
+
+[More information on how to get proof of your
+vaccinations](https://www.servicesaustralia.gov.au/individuals/subjects/getting-
+help-during-coronavirus-covid-19/covid-19-vaccinations/how-get-proof-your-
+covid-19-vaccinations).
+
+#### My name, date of birth, sex or address details are wrong in My Health
+Record. How do I update them?
+
+These details in My Health Record come from Medicare. If they are wrong,
+you’ll need to update them in your Medicare record. These updated details will
+then show in My Health Record.  
+If you have a Medicare online account, you can update some of your details
+online.  
+[Find out how to update personal details with
+Medicare.](https://www.servicesaustralia.gov.au/individuals/subjects/how-your-
+medicare-card-and-account-work/update-your-personal-details-
+medicare#updatingname )
+
+#### How can I cancel my My Health Record?
+
+If you have a My Health Record and decide you no longer want it, you can
+cancel it at any time. You can cancel My Health Record online or by completing
+a cancellation form.
+
+When you cancel your record, the information in your record, including any
+backups, is permanently deleted from the system.
+
+Before cancelling your record, you should consider the many benefits of having
+a My Health Record, including giving participating doctors, hospitals and
+other healthcare providers access to information such as allergies, medicines
+you’re taking, medical conditions and pathology tests to help them give you
+the best possible care.
+
+[Find out about the benefits of My Health Record and how to cancel your
+record](/initiatives-and-programs/my-health-record/manage-your-record/profile-
+and-settings/cancelling-a-record "Cancelling a record")​​​​​​
+
+#### Where can I find a list of healthcare providers who are participating in
+My Health Record?
+
+You can refer to this [list of pathology and diagnostic imaging providers, and
+public and private hospitals who are using My Health Record](/initiatives-and-
+programs/my-health-record/pathology-and-diagnostic-imaging-providers-
+uploading-to-my-health-record "Pathology and diagnostic imaging providers
+uploading to My Health Record").
+
+#### Can I add an advance care planning to my record?
+
+Advance care planning documents can be added to your record so your wishes can
+be safely and securely accessed if they were ever needed in a medical
+emergency.
+
+You, your nominated and authorised representatives can add an advance care
+planning document to your record.
+
+[Learn more](/initiatives-and-programs/my-health-record/whats-inside/advance-
+care-planning "Advance care planning")
+
+## View and edit documents in My Health Record
+
+#### I’ve logged in to My Health Record for the first time. Where is my
+historical medical information?
+
+The first time you log into My Health Record there may be little or no
+information in it. Your medical history won’t be automatically included in
+your record.
+
+The next time you visit your GP, ask them to prepare a shared health summary
+and upload it to your record. This summary can capture any of your important
+health information, such as previous medical conditions or diagnoses,
+treatments, medications and allergies and adverse reactions, and results from
+tests or scans that can then be shared with your other treating healthcare
+providers including specialists and hospital staff.
+
+The shared health summary can be prepared from your GP's computer if they have
+compatible software and are registered to connect to the My Health Record
+system.
+
+You can choose to include up to two years of Medicare information such as
+medicines dispensed and immunisations you’ve received. [Find out what types of
+Medicare information you can include](/initiatives-and-programs/my-health-
+record/whats-inside/medicare-information "Medicare information")
+
+You can add emergency contacts, a personal health summary, personal health
+notes, and advance care planning information to your record. [More information
+about adding and managing information in your record](/initiatives-and-
+programs/my-health-record/getting-started/set-up-your-record-online "Set up
+your record online")
+
+#### I’ve recently had blood tests or diagnostic images such as X-rays. Will
+these be uploaded to My Health Record?
+
+When you have a pathology test or diagnostic image taken, you can ask the
+provider if they are connected to My Health Record. See a [list of
+participating pathology and diagnostic imaging providers](/initiatives-and-
+programs/my-health-record/pathology-and-diagnostic-imaging-providers-
+uploading-to-my-health-record "Pathology and diagnostic imaging providers
+uploading to My Health Record").
+
+You can ask the provider to record your Medicare, DVA number or IHI number so
+that the results can be uploaded to your record. If you don’t have any of
+these numbers, ask them to record your full address.
+
+Some pathology labs will only upload to My Health Record if the request was
+sent from your healthcare provider using an e-request that contains your
+Individual Healthcare Identifier (IHI). Speak to the healthcare provider
+ordering your tests and ask them if they are using e-requesting. [Find out
+more about e-requesting](https://www.myhealthrecord.gov.au/about/who-is-using-
+digital-health/diagnostic-imaging-and-pathology-providers-uploading-my-health-
+record)
+
+#### Is it mandatory for healthcare providers to participate in the My Health
+Record system?
+
+It is not mandatory for healthcare providers to participate in the My Health
+Record system. However, most GPs, hospitals and an increasing number of
+pathology and diagnostic imaging providers are now connected, and healthcare
+providers’ use of the system continues to grow.
+
+The Australian Digital Health Agency and our delivery partners are currently
+providing targeted education sessions and registration assistance to
+specialists and allied health providers. We continue to work across the health
+sector to support increased participation.
+
+We encourage you to talk to your GP and other treating healthcare providers
+and ask them to upload any new and important information to your record.
+
+#### Why can’t my healthcare provider see my immunisations information in my
+My Health Record?
+
+If your healthcare provider can’t see your immunisations information in your
+record, first check your Medicare Information Settings (under Profile &
+Settings). Make sure ‘Yes’ is selected for ‘All information about
+immunisations recorded on the Australian Immunisation Register (AIR). See
+[Getting proof of your vaccinations from My Health Record](/initiatives-and-
+programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-
+from-my-health-record "Getting proof of your vaccinations from My Health
+Record") for help on how to do this.
+
+If your AIR setting is set to ‘Yes’, you may have restricted who can access
+your immunisation information. Only healthcare providers and representatives
+with ‘Restricted Access’ can view restricted documents.
+
+To check what level of access is set for your immunisations information, from
+the **Privacy & Access** tab select **Manage My Document Access**. Check the
+access level and change if needed. [More information about managing access to
+your documents](/initiatives-and-programs/my-health-record/manage-your-
+record/privacy-and-access/hide-or-remove-documents-from-a-record "Hide or
+remove documents from a record").
+
+You can manage your healthcare providers organisations’ access levels by
+selecting ‘My Healthcare Organisations’ (under Privacy & Access).
+
+#### Can I add my own medical reports to My Health Record for my healthcare
+providers to see?
+
+The My Health Record system does not allow users to upload their own documents
+to their My Health Record, other than advance care planning documents.
+
+You can add some of your own information to keep track of your personal health
+details.
+
+Personal health summaries allow you to share important information such as
+allergies, medications, and adverse reactions with your healthcare providers.
+
+Personal health notes can act as a diary capturing personal observations about
+your own health, or over the counter medicines you have been taking. Personal
+health notes are private and cannot be seen by your healthcare providers.
+
+Find out how to [add a personal health summary or a personal health
+note](/initiatives-and-programs/my-health-record/whats-inside/information-you-
+can-add/personal-health-summaries "Personal health summaries")  
+
+## Electronic prescriptions
+
+#### I accidentally deleted the SMS with my token. How can I get access to my
+electronic prescription?
+
+If you accidentally deleted the SMS or email with your electronic prescription
+token, you can ask for it to be resent. For original prescriptions, contact
+the prescriber. For repeats, contact the pharmacy that issued the repeat.
+
+You may be able to manage your electronic prescriptions through a [mobile
+app](/about-us/policies-privacy-and-reporting/registers "Registers"). Ask your
+pharmacy if they are connected to any of these apps or recommend one.
+
+You can also register for an active script list. This lets your chosen
+provider access your active electronic prescriptions, even if you don’t have a
+token. [Find out more about active script ](/newsroom/podcasts/electronic-
+prescriptions-active-script-list#active-script-list-as "Electronic
+prescriptions: Active Script List")
+
+## Popular links
+
+### Getting proof of your vaccinations from My Health Record
+
+[Getting proof of your vaccinations from My Health Record](/initiatives-and-
+programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-
+from-my-health-record)
+
+### Set up your record online
+
+[Set up your record online](/initiatives-and-programs/my-health-
+record/getting-started/set-up-your-record-online)
+
+### Access or view My Health Record information
+
+[View My Health Record using an app](/initiatives-and-programs/my-health-
+record/manage-your-record/view-my-health-record-using-an-app)
+
+### Did you find this page helpful?
+
+Yes No
+
+Feedback (required)
+
+## Follow
+
+  * [ Twitter ](https://twitter.com/AuDigitalHealth)
+  * [ Facebook ](https://www.facebook.com/AuDigitalHealth)
+  * [ LinkedIn ](https://au.linkedin.com/company/australian-digital-health-agency)
+  * [ YouTube ](https://www.youtube.com/user/eHealthAus)
+
+## Australian Digital Health Agency
+
+  * [ About us ](/about-us)
+  * [ Careers ](/careers)
+  * [ Contact us ](/support/contact-us)
+  * [ Newsroom ](/newsroom)
+  * [ Digital health for healthcare providers ](/healthcare-providers?ln=3)
+  * [ Developer Centre ](https://developer.digitalhealth.gov.au/)
+  * [ National Clinical Terminology Service ](https://www.healthterminologies.gov.au/)
+
+## Initiatives and programs
+
+  * [ My Health Record ](/initiatives-and-programs/my-health-record)
+  * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+  * [ Telehealth ](/initiatives-and-programs/telehealth)
+  * [ More digital health tools ](/initiatives-and-programs)
+
+By operation of the _Public Governance, Performance and Accountability
+(Establishing the Australian Digital Health Agency) Rule 2016_ , on 1 July
+2016, all the assets and liabilities of NEHTA will vest in the Australian
+Digital Health Agency. In this website, on and from 1 July 2016, all
+references to "National E-Health Transition Authority" or "NEHTA" will be
+deemed to be references to the Australian Digital Health Agency. PCEHR means
+the My Health Record, formerly the "Personally Controlled Electronic Health
+Record", within the meaning of the _My Health Records Act 2012_ (Cth),
+formerly called the _Personally Controlled Electronic Health Records Act 2012_
+(Cth).
+
+The Australian Digital Health Agency acknowledges the Traditional Owners of
+Country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to Elders past,
+present and emerging.
+
+© 2023 Australian Digital Health Agency
+
+  * [ Sitemap ](/sitemap)
+  * [ Privacy policy ](/about-us/policies-privacy-and-reporting/privacy-policy)
+  * [ Terms of use ](/about-us/policies-privacy-and-reporting/terms-of-use)
+
+![](/themes/custom/adha_theme/src/virtual-assistant/images/va-chat-bubble.svg)
+Chat
+
+Close chat
+
+Your browser does not support iframes.
+

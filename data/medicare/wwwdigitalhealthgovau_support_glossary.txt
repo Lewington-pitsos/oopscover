@@ -1,0 +1,897 @@
+Skip to main content
+
+[ Australian Digital Health Agency ](/) [ Australian Digital Health Agency for
+Healthcare Providers ](/healthcare-providers)
+
+Open Search
+
+Open Menu
+
+  * Open/Close Menu [ COVID-19 ](/covid-19-support)
+    * [ Your COVID-19 information in one place ](/initiatives-and-programs/my-health-record/covid-19-dashboard)
+    * [ Get proof of vaccination from My Health Record ](/initiatives-and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-record)
+    * [ What to do if information is missing ](/initiatives-and-programs/my-health-record/whats-inside/incorrect-or-missing-information)
+    * [ Get a My Health Record without a Medicare or DVA card ](/initiatives-and-programs/my-health-record/getting-started/set-up-a-record-without-medicare-or-dva-benefits)
+    * [ View My Health Record using an app ](/initiatives-and-programs/my-health-record/manage-your-record/view-my-health-record-using-an-app)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+  * Open/Close Menu [ Initiatives ](/initiatives-and-programs#Initiatives)
+    * [ My Health Record ](/initiatives-and-programs/my-health-record)
+    * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+    * [ Telehealth ](/initiatives-and-programs/telehealth)
+    * [ my health app ](/myhealth)
+  * Open/Close Menu [ Programs ](/initiatives-and-programs#Programs)
+    * [ Cyber security ](/initiatives-and-programs/cyber-security)
+    * [ National Digital Health Strategy ](/about-us/strategies-and-plans/national-digital-health-strategy-and-framework-for-action "National Digital Health Strategy")
+  * Open/Close Menu [ Newsroom ](/newsroom)
+    * [ Media releases ](/newsroom/media-releases)
+    * [ Podcasts ](/newsroom/podcasts)
+    * [ Newsletters ](/newsroom/newsletters "Find the latest information, news and insights on digital health in our newsletter series.")
+    * [ Digital Bytes ](/newsroom/digital-bytes "Get the latest insights and news from key healthcare providers, organisations and leaders.")
+    * [ Blogs ](/newsroom/blogs)
+  * Open/Close Menu [ Support ](/support "Support")
+    * [ Contact us ](/support/contact-us)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+    * [ Subscribe ](/support/subscribe)
+    * [ Glossary ](/support/glossary)
+    * [ Reporting fraud ](/support/reporting-fraud)
+  * Open/Close Menu [ About ](/about-us)
+    * [ Strategies and plans ](/about-us/strategies-and-plans)
+    * [ Organisational structure ](/about-us/board-members-and-executive-team)
+    * [ Policies, privacy and reporting ](/about-us/policies-privacy-and-reporting)
+    * [ Annual reports ](/about-us/annual-reports)
+    * [ Our websites ](/about-us/our-websites)
+    * [ Careers ](/careers)
+
+Search
+
+  * [For everyone](/)
+  * [For healthcare providers](/healthcare-providers)
+  * [For mhr everybody](/initiatives-and-programs/my-health-record)
+  * [For mhr hcp](/node/1688)
+  * [For ndhs](/ndhs)
+
+  * [ Careers ](/careers)
+  * [ Contact ](/support/contact-us)
+  * [ My Health Record (myGov) ](https://my.gov.au)
+
+## Breadcrumb
+
+  * [Home](/)
+  * [Support](/support)
+  * Glossary 
+
+#  Glossary
+
+## A
+
+### access code
+
+See personal access code (PAC)
+
+### access history
+
+A record of all activity related to an individual’s My Health Record. Every
+time My Health Record is accessed, changed or a user removes information from
+the record, an automatic audit trail is created and can be viewed.
+
+### access list
+
+A list associated with an individual’s My Health Record that specifies the
+registered healthcare provider organisations permitted to, or blocked from,
+accessing an individual’s My Health Record. The access list will show the
+healthcare provider organisations who have previously accessed the record.
+
+### accessing organisation
+
+The healthcare organisation that accesses the My Health Record system.
+
+### achievement diary
+
+Developmental milestones throughout childhood, such as first words spoken or
+the first day of primary school, can be recorded in the achievement diary by
+an individual or their authorised representatives, such as a parent.
+Healthcare provider organistations cannot view these.
+
+### administration portal
+
+An online tool used by the System Operator for administrative actions on
+individual My Health Records, for example when assisting an individual with an
+enquiry.
+
+### advance care document custodian
+
+An advance care document custodian is someone who holds a copy of an
+individual’s advance care planning document. An individual can add their
+advance care document custodian’s name and contact details in their My Health
+Record so that doctors will be able to contact the custodian should the need
+arise.
+
+### advance care planning documents
+
+A document that is a type of written statement regarding a person’s wishes for
+their future medical or healthcare treatment and may formally appoint a
+substitute decision-maker. Advance care planning documents detail your future
+medical care preferences. It provides guidance to your family, close friends
+and medical professionals if you are unable to communicate due to illness or
+injury. Advance care planning documents (and goals of care documents) can be
+uploaded to and stored on your My Health Record by a healthcare provider with
+your consent. Also refer to goals of care document.
+
+### advanced access controls
+
+The access controls that enable a registered individual to set controls on the
+registered healthcare provider organisations and nominated representatives who
+may access the individual’s My Health Record or documents within it.
+
+### assisted registration
+
+The process that enables healthcare providers to assist their patients to
+register for a My Health Record.
+
+### Assisted Registration Tool (ART)
+
+Purpose-built software to enable an HPI-O to assert a patient’s identity and
+then submit their details to the My Health Record system for registration.
+
+### Australian Health Practitioner Regulation Agency (Ahpra)
+
+The organisation responsible for the implementation of the [National
+Registration and Accreditation
+Scheme](https://www.ahpra.gov.au/~/link.aspx?_id=D4E5EF420D3C4EAB8B247FDB72CA6E0A&_z=z
+"External link opens new browser tab") across Australia. The Ahpra currently
+regulates 15 health professions.
+
+### authoring organisation
+
+The healthcare provider organisation that created the content of a document.
+
+### authorisation link
+
+A link that connects a healthcare provider to a healthcare provider
+organisation so the healthcare provider can access the My Health Record system
+via the National Provider Portal on behalf of their organisation.
+
+### authorised employee
+
+An employee of a registered healthcare provider organisation who has been
+authorised by the organisation to use the My Health Record system and access
+an individual's My Health Record on behalf of the organisation.
+
+### authorised representative
+
+Someone who can apply for and manage a My Health Record on behalf of another
+person. For the purposes of the My Health Record system someone can be an
+authorised representative if they:
+
+  * have parental responsibility for a person under 14; or
+  * have legal authority to act on behalf of a person who is at least 14 and who is not capable of making his or her own decisions.
+
+If there is no one with parental responsibility or legal authority, a person
+who is otherwise appropriate to act on behalf of the individual can be an
+authorised representative. An individual can have more than one authorised
+representative.
+
+## B
+
+### Business to Business Gateway (B2B Gateway)
+
+An access channel by which external systems, such as clinical information
+systems and registered repositories, interact with the My Health Record
+system.
+
+## C
+
+### channel
+
+A means of entry into the My Health Record system to enable reading and
+updating My Health Records. For example, individuals can use the National
+Consumer Portal or providers may use the system via B2B.
+
+### child development
+
+The section of the My Health Record that contains information about childhood
+growth and development.
+
+### Clinical Document Architecture (CDA)
+
+An HL7 standard intended to specify the encoding, structure and semantics of
+clinical documents for exchange.
+
+### clinical information system (CIS)
+
+A system that is used by a healthcare provider to manage patient and practice
+records. It may include a software component connected to the My Health Record
+system.
+
+### clinical synopsis
+
+A short summary of a healthcare event (e.g. reason for visit, diagnosis etc)
+included in an event summary.
+
+### conformant digital certificate (for the My Health Record system)
+
+An electronic credential used to secure access in the My Health Record system.
+
+### Consumer Portal
+
+The portal that is used by an individual who has set up access to their My
+Health Record online.
+
+### consumer-shared documents
+
+Documents that have been authored by an individual, authorised representative
+or full access nominated representative. These documents, such as personal
+health summary, are available to provider organisations and other
+representatives.
+
+### Contracted Service Provider (CSP)
+
+See registered contracted service provider
+
+### contracted service provider (CSP) officer
+
+The officer who acts as the liaison between a registered contracted service
+provider and the System Operator. There must be at least one CSP officer and
+there can be up to three at one time.
+
+## D
+
+### default access controls
+
+The access controls that apply where a registered individual has not set
+controls on the registered healthcare provider organisations or nominated
+representatives who may access the individual’s My Health Record. This means
+that any registered healthcare provider organisation involved in your
+healthcare can access your record.
+
+### diagnostic imaging report
+
+A diagnostic imaging (or radiology) report is primarily a written
+communication between the radiologist interpreting the imaging study (eg
+X-ray, MRI) and the clinician who requested the examination.
+
+## E
+
+### emergency access
+
+Access by a registered healthcare provider organisation to an individual’s My
+Health Record to lessen or prevent a serious threat to a person’s life, health
+or safety and where it is unreasonable or impracticable to obtain the
+individual’s consent. If a participant asserts that these circumstances exist,
+the access controls of the individual’s My Health Record are overridden.
+Emergency access can also occur where it is necessary to lessen or prevent a
+serious threat to public health or public safety. Emergency access expires
+five days after the assertion of the emergency is made.
+
+### eReferral
+
+eReferral specification supports the seamless exchange of significant patient
+information from one treating healthcare provider to another via a national
+system of creating, storing and sharing referral reports.
+
+### event summary
+
+A clinical document that may be uploaded to an individual’s My Health Record
+summarising one or more episodes of care.
+
+## F
+
+### full access nominated representative (FANR)
+
+A representative can perform all the functions of an authorised representative
+in respect of an individual’s My Health Record. They cannot give another
+person access to your record, make changes to your other representatives, make
+changes to your Medicare information or cancel your record. A full access
+nominated representative must verify their identity to the System Operator.
+
+## G
+
+### general access (applied to a clinical document)
+
+Document access setting which can be set from the _Manage Document Access_
+screen of the National Consumer Portal. A general access document is available
+to be viewed by all healthcare organisations that have access to the My Health
+Record. By default, all documents are set to general in My Health Record.
+
+### general access (applied to a healthcare provider organisation)
+
+An access level that can be given to an organisation accessing an individual’s
+My Health Record. General access for a healthcare provider organisation allows
+any authorised employee within that organisation to access the My Health
+Record and read (view) those documents marked as general access. It also
+classifies all documents this organisation writes (adds) to the record as
+general access. An alternative access level that can be applied to healthcare
+provider organisations is restricted access.
+
+### general access (applied to a nominated representative)
+
+The setting for a nominated representative that can be set in the _Manage
+Access to this Record_ screen of the National Consumer Portal. The general
+access setting allows a nominated representative to access the individual’s My
+Health Record and view those documents classified as general access.
+
+### goals of care document
+
+Outlines the aims of a patient’s medical treatment, as agreed in consultation
+between the patient, family, carers and healthcare team, including substitute
+decision makers. Making this information available in My Health Record will
+support end-of-life care that is consistent with a person’s goals, values,
+beliefs and preferences. Goals of care documents can be uploaded into your My
+Health Record by your healthcare provider with your consent, and will appear
+in the Advance Care Planning section.
+
+### growth charts
+
+Charts in the child development section that can be used to graph the
+measurement information recorded for a child over a certain time period,
+including height, weight, and head circumference.
+
+## H
+
+### health check assessment schedule
+
+The schedule in the child development section which displays a list of
+questions for parents within a child’s current selected state or territory
+that can be completed by the individual, or representatives, for different
+childhood age brackets.
+
+### Health Check Assessment Schedule
+
+The schedule in the child development section which displays a list of
+questions for parents within a child’s current selected state or territory
+that can be completed by the individual, or representatives, for different
+childhood age brackets.
+
+### health check questionnaires
+
+A list of available questions about a child’s health and development is
+available from the Health Check Assessment Schedule in a My Health Record and
+can be completed by parents or the alternate authorised representatives
+involved in a child’s healthcare.
+
+### health information
+
+The information that relates to the individual’s physical or psychological
+health, and includes the dispensing of medicines and the provision of aged
+care, palliative care, and care for a person with a disability.
+
+### Health Professional Online Services (HPOS)
+
+The service that provides Services Australia services to health professionals
+through a secure online channel. Services accessed through HPOS include
+application for My Health Record registration and the ability for a HPI-O to
+link to a CSP.
+
+### health service
+
+The Privacy Act 1988, defines healthcare as an activity performed in relation
+to an individual which is intended or claimed (expressly or otherwise) by the
+individual or the person performing it:
+
+(a) to assess, maintain or improve the individual's health; or  
+(b) where the individual's health cannot be maintained or improved--to manage
+the individual's health; or  
+(c) to diagnose the individual's illness, disability or injury; or  
+(d) to treat the individual's illness, disability or injury or suspected
+illness, disability or injury; or  
+(e) to record the individual's health for the purposes of assessing,
+maintaining, improving or managing the individual's health.
+
+### Healthcare Identifiers Act (HI Act)
+
+The _Healthcare Identifiers Act 2010_ , which establishes the Healthcare
+Identifiers Service and regulates related matters.
+
+### Healthcare Identifiers Service (HI Service)
+
+A national system for uniquely identifying healthcare providers and
+individuals, which makes sure the right health information is associated with
+the right individual – see IHI, HPI-I and HPI-O.
+
+### healthcare professional
+
+See healthcare provider.
+
+### healthcare provider
+
+A person who is involved in or associated with healthcare delivery. For the
+purposes of the My Health Record system, a healthcare provider is a person who
+has an HPI-I and is authorised by a registered healthcare provider
+organisation to access the My Health Record system on their behalf.
+
+Note: this was previously referred to as ‘individual healthcare provider’
+
+### Healthcare Provider Directory (HPD)
+
+A voluntary provider directory service established and maintained by the
+Healthcare Identifiers Service Operator.
+
+### Healthcare Provider Identifier – Individual (HPI-I)
+
+A unique 16-digit number used to identify individual healthcare providers who
+deliver healthcare in the Australian healthcare setting.
+
+### Healthcare Provider Identifier – Organisation (HPI-O)
+
+A unique 16-digit number used to identify organisations that deliver
+healthcare in the Australian healthcare setting.
+
+### healthcare provider organisation
+
+An organisation, or a part of an organisation, that has conducted, conducts,
+or will conduct, healthcare.
+
+### healthcare provider organisation access
+
+The level of access that a healthcare provider organisation has to an
+individual’s My Health Record. See also _general access (healthcare provider
+organisation)_ and _restricted access (healthcare provider organisation)_.
+
+## I
+
+### identity verification code (IVC)
+
+A code that is generated during the registration process for individuals on
+the Assisted Registration Tool, or via phone or face to face channels. The IVC
+proves that their identity has been verified by the My Health Record system.
+The IVC is used to access the individual’s My Health Record online for the
+first time.
+
+### indigenous status
+
+A status indicator that is stored within the My Health Record for individuals
+who wish to indicate whether they are of Aboriginal or Torres Strait Islander
+origin. This indicator is voluntary.
+
+### Individual Healthcare Identifier (IHI)
+
+A 16-digit unique number used to identify individuals who receive or may
+receive healthcare in the Australian health system.
+
+### individual or patient
+
+A person who has received, receives or may receive healthcare in Australia.
+
+### individual reference number (IRN)
+
+A number that represents the position of a person's name on a Medicare card.
+For example, a person who is listed second on a Medicare card has an IRN of 2.
+The IRN appears to the left of the patient’s name on their Medicare card. This
+is not a unique identifier.
+
+### inheriting organisation
+
+A healthcare provider organisation that inherits access levels in relation to
+My Health Records from an accessing organisation.
+
+## L
+
+### lack capacity
+
+Mental capacity means being able to make your own decisions. Someone lacking
+capacity - because of an illness or disability such as a mental health
+problem, dementia or a learning disability - cannot do one or more of the
+following four things:
+
+  1. Understand information given to them about a particular decision,
+  2. Retain that information long enough to be able to make the decision,
+  3. Weigh up the information available to make the decision,
+  4. Communicate their decision.
+
+### limited document access code (LDAC)
+
+A code (4-8 alphanumeric characters) that an individual can provide to
+healthcare providers so that they can access documents marked as _Restricted_
+in the individual’s My Health Record.
+
+### local system identifier (LSI)
+
+An identifier that is used by healthcare provider organisations to identify
+authorised employees who have read and upload (but not write) access to the My
+Health Record system on their behalf.
+
+## M
+
+### Medicare information preferences
+
+Preferences that allow an individual to decide whether certain information
+(Medicare Benefits Schedule, Pharmaceutical Benefits Scheme, Australian Organ
+Donor Register, Australian Immunisation Register, Repatriation Pharmaceutical
+Benefits Scheme and Department of Veterans’ Affairs data) is included in their
+My Health Record.
+
+### Medicare overview
+
+The screen that provides a consolidation, or overview, of the Medicare
+information in the My Health Record. This can include Medicare Benefits
+Schedule, Pharmaceutical Benefits Scheme, and Australian Organ Donor Register.
+The Medicare overview is accessed via the Documents menu.
+
+### medicine record
+
+A summary of prescription and dispense information for the My Health Record.
+It delivers a list of medications that have been prescribed and dispensed to
+the individual.
+
+Note: this was previously referred to as _medications view._
+
+### medicines information
+
+The view that quickly sorts and displays the most recent and available
+medicines information and documents in the individual’s My Health Record. It
+can include the individual’s latest shared health summary or discharge
+summary, up to two years of prescription and dispense records, and any allergy
+or adverse reactions. The _medicines information_ view can be found under the
+_Documents_ tab in an individual’s My Health Record.
+
+### mobile gateway
+
+A mechanism for mobile applications to securely integrate and interact with
+the My Health Record system and allow individuals and authorised
+representatives access to My Health Records. The mobile gateway does not
+authenticate healthcare providers.
+
+### My Health Record
+
+The record of information created and maintained by the System Operator in
+relation to the individual, and information that can be obtained by means of
+that record, including the following:
+
+  * information that relates to the individual in the record relating to the individual’s registration;
+  * health information connected in the My Health Record system to the individual, including information included in a record accessible through the index service;
+  * other information connected in the My Health Record system to the individual, such as information relating to auditing access to the record; and
+  * back-up records of such information.
+
+### My Health Record system
+
+The system that is used for the operation of functions under the _My Health
+Records Act_ by the System Operator. The My Health Record system was launched
+on 1 July 2012 and provides a system of managing health information online
+that will make it more accessible to Australians who choose to sign up with
+the system, and healthcare providers. The My Health Record system is supported
+by a legislative framework consisting of the _My Health Records Act 2012_ ,
+_Healthcare Identifiers Act 2010_ , _My Health Records Regulation 2012_ ,
+_Healthcare Identifiers Regulations 2010_ and _My Health Records Rule 2016_.
+Note: this was previously referred to as the _personally controlled electronic
+health record_ or _PCEHR_.
+
+### My Health Records Act 2012
+
+The _My Health Records Act 2012_ commenced on 29 June 2012 and provides the
+critical components of the My Health Record system, while the operational
+detail is contained in the _My Health Records Rule 2016_. The _My Health
+Records Act_ establishes the role of the My Health Record System Operator, a
+registration framework for consumers and participants, a privacy and security
+framework, penalty provisions and common mechanisms associated with the
+transparency and scrutiny of the Act.
+
+### My Health Records Regulation 2012
+
+The regulation that supports the effective operation of the My Health Record
+system by identifying the System Operator and providing additional detail in
+respect of various definitions, the collection of important information and
+the interaction of state and territory laws.
+
+### My Health Records Rules 2012
+
+The My Health Records Rules (currently consisting of the My Health Records
+Rule 2016, My Health Records (National Application) Rules 2017 and the My
+Health Records (Assisted Registration) Rule 2015) contain requirements
+regarding the day to day operation of the My Health Record system.
+
+### myGov
+
+A secure myGov account gives individuals access to a range of Australian
+Government services.
+
+## N
+
+### NASH organisation PKI certificate
+
+A digital certificate that authenticates a healthcare provider organisation to
+access the My Health Record system, using conformant clinical software.
+
+### National Authentication Service for Health (NASH)
+
+A system for verifying the authenticity of patients and professionals for the
+purpose of ensuring the privacy of a person’s electronic health data, while
+enabling secure access to the data by the person’s authorised health
+providers.
+
+### National E-Health Transition Authority (NEHTA)
+
+The organisation established by the Australian, state and territory
+governments to develop better ways of electronically collecting and securely
+exchanging health information. NEHTA ceased to operate on 30 June 2016.
+
+### National Infrastructure Operator (NIO)
+
+The business area responsible for providing and managing the My Health Record
+system on behalf of the System Operator.
+
+### National Repositories Service (NRS)
+
+The service that ensures that there is capacity to store a minimum critical
+set of health information about registered individuals, including shared
+health summaries, event summaries, discharge summaries, specialist letters,
+prescribed and dispensed medications and healthcare recipient-only notes. The
+System Operator operates the NRS.
+
+### network hierarchy
+
+A hierarchy that is made up of a seed organisation (the lead healthcare
+provider organisation of the network hierarchy) and may include one or more
+network organisations.
+
+### network organisation
+
+A healthcare provider organisation with an HPI-O that is part of a network
+hierarchy and is subordinate to a seed organisation. Network organisations can
+be used to represent different departments, sections or divisions within an
+organisation (e.g. departments within a hospital) or can be separate legal
+entities from the seed organisation.
+
+### nominated healthcare provider
+
+The author of a shared health summary. Under the My Health Records Act 2012, a
+nominated healthcare provider must be a medical practitioner, a registered
+nurse or an Aboriginal and/or Torres Strait Islander health practitioner (with
+Certificate IV in Primary Health Care). The healthcare provider and the
+individual must agree that, for the purposes of the My Health Record system,
+the healthcare provider is the individual’s nominated healthcare provider.
+
+### nominated representative
+
+A representative who is provided access to a My Health Record by the
+individual or the individual’s authorised representative. A nominated
+representative can view your health information. A nominated representative
+with read-only access is not required to provide any evidence of identity to
+the System Operator.
+
+### notification settings
+
+This is an area in the My Health Record where an individual can set
+preferences for when and how to receive notification when someone accesses
+their My Health Record, or when a new document is uploaded to their record.
+
+## O
+
+### organisation maintenance officer (OMO)
+
+An employee of a healthcare provider organisation who has authority to act on
+behalf of the healthcare organisation with respect to the HI Service and My
+Health Record system.
+
+## P
+
+### participant
+
+A participant in the My Health Record system is the System Operator, a
+registered healthcare provider organisation, a registered repository operator,
+a registered portal operator, a registered contracted service provider and the
+operator of the National Repositories Service.
+
+### participation agreements
+
+Prior to 2016, healthcare provider organisations, contracted service
+providers, repository operators and portal operators were required to enter
+into, and remain a party to, a participation agreement with the System
+Operator to be registered to participate in the My Health Record system. The
+agreement included rights and obligations for both the organisation and the
+System Operator relating to the uploading of records to the My Health Record
+system, the allocation of liability between the parties, and the processes for
+notifying key events and changes. In 2016, the requirement to enter into a
+participation agreement was removed and the rights and obligations in it were
+transferred into the [My Health Records Act
+2012](https://www.legislation.gov.au/Details/C2020C00372 "External link opens
+new browser tab") and [My Health Records Regulation
+2012](https://www.legislation.gov.au/Details/C2020C00372 "External link opens
+new browser tab").
+
+### pathology report
+
+A pathology report contains the findings of test results on samples of body
+fluid/waste or tissue material. Doctors and other healthcare providers use
+this information to for diagnosis and treatment of diseases and other
+conditions.
+
+### pending nominated representatives
+
+Representatives who have been appointed as an individual’s nominated
+representative and have had an access code generated, but who are yet to log
+into the My Health Record system using the access code.
+
+### personal access code (PAC)
+
+A code generated by the individual to provide a nominated representative with
+access to the individual’s My Health Record.
+
+Note: this was previously referred to as the _access code_
+
+### personal controls
+
+The controls that provide a single point within an individual’s My Health
+Record to view information about their personal settings.
+
+### personal health notes
+
+Personal notes added by a consumer to their My Health Record. This can be
+considered their private health diary and is not visible to healthcare
+providers.
+
+Note: this is a ‘healthcare recipient-only note’ as referred to in the _My
+Health Records Act_.
+
+### personal health summary
+
+A document created by the individual that includes medications, allergies and
+adverse reactions. This document of the My Health Record is accessible by
+healthcare providers (unlike the personal health notes).
+
+Note: this was previously referred to as _consumer entered health summary_
+
+### personal observations
+
+Now called achievement diary
+
+### personally controlled electronic health record (PCEHR)
+
+Former name of the My Health Record.
+
+### prescription and dispense records
+
+Records that incorporate prescription and dispense information to provide a
+consolidated record of medications – which are available as two clinical
+documents (My Health Record Prescription Record and My Health Record Dispense
+Record) available in consumer, B2B and provider portals.
+
+### proof of record ownership (PORO)
+
+Method of identification used by Services Australia to verify someone's
+identity.
+
+### Provider Digital Access (PRODA)
+
+Services Australia service that allows a healthcare provider with an HPI-I to
+access the My Health Record National Provider Portal for read-only purposes.
+
+### provider portal
+
+The interface through which healthcare provider organisations can access the
+My Health Record system and view an individual’s My Health Record without
+having to use a clinical information system. The National Provider Portal is a
+view only service.
+
+## R
+
+### record access code (RAC)
+
+A code which can be used to restrict access to an individual’s My Health
+Record. The code is provided to a healthcare provider so that the healthcare
+organisation is granted access to an individual’s My Health Record.
+
+### registered contracted service provider (CSP)
+
+An entity that provides information technology services, or health information
+management services, relating to the My Health Record system to a healthcare
+provider organisation under contract with that organisation, and has
+registered to participate in the My Health Record system.
+
+### registered individual
+
+An individual who is registered in the My Health Record system and has a My
+Health Record.
+
+### registered portal operator (RPO)
+
+A person who is the operator of an electronic interface that facilitates
+access to the My Health Record system, and is registered to participate in the
+My Health Record system.
+
+### responsible officer (RO)
+
+A person with authority to act on behalf of a healthcare organisation with
+respect to the HI Service.
+
+### restricted access (healthcare provider organisation)
+
+An access level that can be applied to healthcare provider organisations by an
+individual. This allows an organisation to have restricted access to an
+individual’s clinical documents.
+
+### restricted access settings
+
+Settings that allow an individual to choose restrict documents or your record,
+you can change this to allow specific healthcare provider organisations
+access.
+
+Note: this was previously referred to in the Concept of Operations as _limited
+access_
+
+## S
+
+### seed organisation
+
+A healthcare provider organisation with an HPI-O that is the head of a network
+hierarchy which may or may not include subordinate network organisations.
+
+### shared health summary (SHS)
+
+A clinical document summarising an individual’s health status and includes
+important information such as allergies/adverse reactions, medicines, medical
+history and immunisations. Only a nominated healthcare provider can create or
+update the shared health summary.
+
+### specialist letter
+
+The document used by a treating specialist to respond to a GP about a referred
+patient. It is based on the usual practice where a specialist writes back to
+the GP.
+
+### System Operator
+
+The participant with responsibility for establishing and operating the My
+Health Record system. The System Operator is presently the Australian Digital
+Health Agency.
+
+## V
+
+### Veteran and Australian Defence Force (ADF) status indicator
+
+The Veteran and ADF status indicator is stored within the My Health Record for
+individuals who wish to indicate whether they are a current or former serving
+ADF member. This indicator is voluntary.
+
+## Follow
+
+  * [ Twitter ](https://twitter.com/AuDigitalHealth)
+  * [ Facebook ](https://www.facebook.com/AuDigitalHealth)
+  * [ LinkedIn ](https://au.linkedin.com/company/australian-digital-health-agency)
+  * [ YouTube ](https://www.youtube.com/user/eHealthAus)
+
+## Australian Digital Health Agency
+
+  * [ About us ](/about-us)
+  * [ Careers ](/careers)
+  * [ Contact us ](/support/contact-us)
+  * [ Newsroom ](/newsroom)
+  * [ Digital health for healthcare providers ](/healthcare-providers?ln=3)
+  * [ Developer Centre ](https://developer.digitalhealth.gov.au/)
+  * [ National Clinical Terminology Service ](https://www.healthterminologies.gov.au/)
+
+## Initiatives and programs
+
+  * [ My Health Record ](/initiatives-and-programs/my-health-record)
+  * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+  * [ Telehealth ](/initiatives-and-programs/telehealth)
+  * [ More digital health tools ](/initiatives-and-programs)
+
+By operation of the _Public Governance, Performance and Accountability
+(Establishing the Australian Digital Health Agency) Rule 2016_ , on 1 July
+2016, all the assets and liabilities of NEHTA will vest in the Australian
+Digital Health Agency. In this website, on and from 1 July 2016, all
+references to "National E-Health Transition Authority" or "NEHTA" will be
+deemed to be references to the Australian Digital Health Agency. PCEHR means
+the My Health Record, formerly the "Personally Controlled Electronic Health
+Record", within the meaning of the _My Health Records Act 2012_ (Cth),
+formerly called the _Personally Controlled Electronic Health Records Act 2012_
+(Cth).
+
+The Australian Digital Health Agency acknowledges the Traditional Owners of
+Country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to Elders past,
+present and emerging.
+
+© 2023 Australian Digital Health Agency
+
+  * [ Sitemap ](/sitemap)
+  * [ Privacy policy ](/about-us/policies-privacy-and-reporting/privacy-policy)
+  * [ Terms of use ](/about-us/policies-privacy-and-reporting/terms-of-use)
+
+![](/themes/custom/adha_theme/src/virtual-assistant/images/va-chat-bubble.svg)
+Chat
+
+Close chat
+
+Your browser does not support iframes.
+

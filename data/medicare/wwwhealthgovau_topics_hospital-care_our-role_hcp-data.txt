@@ -1,0 +1,240 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Hospital care](/topics/hospital-care)
+  4. [Our role in hospital care](/topics/hospital-care/our-role)
+
+[Our role](/topics/hospital-care/our-role)
+
+# Hospital Casemix Protocol (HCP) data
+
+All hospitals must submit HCP data to health insurers, who then submit it to
+us. Find out what HCP data is, what its uses are, who collects the data and
+has access to it and how hospitals submit the data.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Hospital Casemix Protocol \(HCP\) data&url=https://www.health.gov.au/topics/hospital-care/our-role/hcp-data)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/hospital-care/our-role/hcp-data)
+    * [Email](mailto:?subject=Hospital Casemix Protocol \(HCP\) data&body=https://www.health.gov.au/topics/hospital-care/our-role/hcp-data)
+
+Loading...
+
+On this page
+
+## What HCP data is
+
+Under the [Private Health Insurance Act
+2007](https://www.legislation.gov.au/Latest/C2021C00291), all hospitals must
+submit Hospital Casemix Protocol (HCP) data to health insurers.
+
+Both public and private hospitals submit data for each episode of admitted
+hospital treatment for which health insurers have paid a benefit.
+
+HCP data covers privately insured admitted patients and includes de-
+identified:
+
+  * clinical information, using a [patient care classification system](https://www.ihacpa.gov.au/health-care/classifications/icd-10-amachiacs)
+  * demographic information
+  * financial information, such as 
+    * hospital charges
+    * medical services and charges
+    * prosthetic items and charges
+    * private health insurance and Medicare benefits
+    * consumer out-of-pocket expenses.
+
+We have been collecting this data since 1995.
+
+## Uses of HCP data
+
+We use HCP data:
+
+  * to develop policy
+  * in the [Medical Costs Finder app](/resources/apps-and-tools/medical-costs-finder "Medical Costs Finder").
+
+The Independent Health and Aged Care Pricing Authority uses HCP data when it
+calculates the [national efficient
+price](https://www.ihacpa.gov.au/pricing/national-efficient-price-
+determination) (NEP) for hospital services. The NEP informs the amount of
+Australian Government funding for public hospitals in Australia.
+
+HCP data is also a valuable tool for:
+
+  * research
+  * evaluating services.
+
+## Who can collect and access HCP data
+
+Private health insurers collect HCP data. They then supply it to us.
+
+We provide researchers with access to data according to our [data
+strategy](/topics/health-data-and-medical-research/data-strategy "Our data
+strategy").
+
+## How hospitals submit HCP data
+
+New hospitals must contact us to get an account created.
+
+Hospitals, including day facilities, initially upload their HCP data to our
+Data Submission Portal (DSP) for data validation.
+
+Once the files are validated, hospitals upload them to individual health
+insurer portals. They must submit data every month, within 6 weeks of a
+patient being discharged.
+
+Health insurers then submit the data to our DSP within 20 weeks of the end of
+the reporting month.
+
+We store it in our [Enterprise Data Warehouse](/topics/health-data-and-
+medical-research/our-data-collections "Our data collections").
+
+Data specifications for the various files you need to upload are included in
+our hospital data collection.
+
+## Resources
+
+### Hospital data collection
+
+![Hospital data
+resources](/sites/default/files/styles/h_thumbnail_max_width/public/images/collections/2022/10/hospital-
+data-resources.jpg?itok=idsrJhqH)
+
+###  [Hospital data resources ](/resources/collections/hospital-data-
+resources?language=en)
+
+This collection contains resources to help hospitals meeting their data
+reporting requirements. It includes data specifications, a user guide and
+annual reports.
+
+### PHI circulars
+
+See our PHI circulars for any [updates about HCP data](/news/phi-
+circulars?search_api_views_fulltext=hcp).
+
+## Contact
+
+![](/themes/custom/hga/images/contact-aus-gov.png)
+
+###  [ Hospital data management contact ](/contacts/hospital-data-management-
+contact?language=en)
+
+Contact us for account creation (for new hospitals) and help with submitting
+Hospital Casemix Protocol (HCP) and Private Health Data Bureau (PHDB) data.
+
+[hcp@health.gov.au](mailto:hcp@health.gov.au)
+
+[02 6289 8058](tel:02 6289 8058)
+
+Last updated:
+
+8 December 2022
+
+Tags:
+
+  * [Hospital care](/topics/hospital-care)
+  * [Private health insurance](/topics/private-health-insurance)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Hospital care](/topics/hospital-care)
+
+  * [About hospital care](/topics/hospital-care/about)
+  * [Our role](/topics/hospital-care/our-role)
+    * [Hospital declarations](/topics/hospital-care/our-role/hospital-declarations)
+    * [HCP data](/topics/hospital-care/our-role/hcp-data)
+    * [PHDB data](/topics/hospital-care/our-role/phdb-data)
+  * [News](/topics/hospital-care/news)
+  * [Resources](/topics/hospital-care/resources)
+  * [Contacts](/topics/hospital-care/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

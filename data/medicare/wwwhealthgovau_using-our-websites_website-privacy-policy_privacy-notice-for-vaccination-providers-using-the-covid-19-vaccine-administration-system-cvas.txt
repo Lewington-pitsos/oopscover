@@ -1,0 +1,349 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Using our websites](/using-our-websites)
+  3. [Website privacy policy](/using-our-websites/website-privacy-policy)
+
+[Privacy](/using-our-websites/website-privacy-policy)
+
+# Privacy notice for vaccination providers using the COVID-19 Vaccine
+Administration System (CVAS)
+
+Find out how we manage any personal information we collect in relation to the
+COVID-19 Vaccine Administration System (CVAS).
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Privacy notice for vaccination providers using the COVID-19 Vaccine Administration System \(CVAS\)&url=https://www.health.gov.au/using-our-websites/website-privacy-policy/privacy-notice-for-vaccination-providers-using-the-covid-19-vaccine-administration-system-cvas)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/using-our-websites/website-privacy-policy/privacy-notice-for-vaccination-providers-using-the-covid-19-vaccine-administration-system-cvas)
+    * [Email](mailto:?subject=Privacy notice for vaccination providers using the COVID-19 Vaccine Administration System \(CVAS\)&body=https://www.health.gov.au/using-our-websites/website-privacy-policy/privacy-notice-for-vaccination-providers-using-the-covid-19-vaccine-administration-system-cvas)
+
+Loading...
+
+On this page
+
+This privacy notice explains how we (the Australian Government Department of
+Health and Aged Care) manage your personal information, consistent with our
+obligations under the [Privacy Act
+1988](https://www.legislation.gov.au/Latest/C2021C00452) (the Privacy Act), in
+relation to the COVID-19 Vaccine Administration System (CVAS).
+
+The CVAS is a digital ordering and inventory management system that
+vaccination providers can use to order COVID-19 vaccines and related products,
+as well as report delivery acceptance, stock on hand and wastage.
+
+The CVAS will collect some personal information about the legal entities for
+the business and the individuals who are nominated by the vaccination provider
+as contacts to facilitate the delivery of the vaccines and other products to
+the vaccination provider (Distribution Contacts). If a vaccination provider
+operates as a sole trader, information about the provider collected by the
+CVAS may also be personal information of the individual operator of that
+business.
+
+## **Information we collect and store in the CVAS**
+
+Vaccination providers who have been onboarded to the Australian COVID 19
+Vaccine Roll out Program by the Department of Health and Aged Care are able to
+use the CVAS. We will use the existing information in your Expression of
+Interest (EOI) to be a COVID-19 vaccination provider application so you do not
+have to provide it twice. We may collect some of it directly from you where it
+has not already been provided. This will include:
+
+  * the name and address of the provider’s site
+  * the legal name of the provider entity
+  * contact details of the provider’s Distribution Contacts (that is, the individuals who have been nominated as the primary and secondary contacts for the delivery of vaccines and related products to the provider)
+  * relevant business details to verify your site (including the provider’s Australian Business Number (ABN) and Australian Company Number (ACN) (if relevant)).
+
+If you are nominated as a Distribution Contact for the vaccination provider,
+we will collect your name and contact details.
+
+General Practices will be assigned a Site Identifier for the CVAS linked to
+the ‘Practice Incentives Program’ (PIP) number that we hold for the provider
+in our existing Enterprise Data Warehouse. For other providers, we will use
+the provider’s ‘AIR provider number’ as the Site Identifier. This is the
+number that is provided for the vaccination provider organisation for the
+purposes of the [Australian Immunisation
+Register](https://www.servicesaustralia.gov.au/individuals/services/medicare/australian-
+immunisation-register). The AIR provider number will be stored in the CVAS.
+
+We will also collect information in the CVAS about vaccine vials and batches,
+consumables and stock used or wasted.
+
+### Why we collect and store this information
+
+We collect information in the CVAS, including the non-personal information, to
+help us effectively manage the rollout of the COVID-19 vaccination program
+across Australia. This includes monitoring service capacity, stock levels of
+COVID‑19 vaccines, and other components of the COVID‑19 vaccine rollout, and
+includes undertaking analysis and reporting of these matters.
+
+We collect the personal information about Distribution Contacts to facilitate
+the delivery of the vaccines and related products that have been ordered by
+the vaccination provider.
+
+## **How we use and disclose information from the CVAS**
+
+We will use the information collected from the vaccination provider’s EOI to:
+
+  * create and populate an account for the vaccination provider in the CVAS
+  * verify the type of Site Identifier that is required, and to generate the Site Identifier for the vaccination provider (this will include using the provider’s ABN provided to obtain relevant the PIP number or AIR provider number from our other systems)
+  * generate and send on-boarding materials and access codes to the provider, to allow the provider to register its Users and use the CVAS
+  * operate the CVAS, including storing and displaying information about the vaccination provider, and its Users and Distribution Contacts, so that the information does not need to be provided a second time.
+
+We will disclose logistics (including site details and details about orders
+for vaccine and related products) and the contact details for Distribution
+Contacts, to our Logistics and Distribution Partners, who will deliver the
+vaccines and related products to the vaccination provider’s site.
+
+We may disclose provider (site) information to other entities, such as State
+or Territory governments, for the purposes of facilitating or monitoring the
+vaccine rollout.
+
+Site information and clinic contact details are provided to the Australian
+Digital Health Agency (ADHA) to maintain clinic data and assist with setting
+up providers in Provider Connect Australia (PCA). In addition, site
+information and clinic contact details are used to provide updates to
+Healthdirect Service Finder solution operated by Healthdirect Australia. Site
+information data (excluding any personal information) is stored by
+Healthdirect Australia in the National Health Services Directory (NHSD), which
+may be disclosed for non-commercial uses to other entities in the healthcare
+sector, such as Primary Health Networks or State and Territory governments.
+Use of the NHSD is governed by the [NHSD Terms of
+Use](https://about.healthdirect.gov.au/nhsd-terms-of-use).
+
+In order to monitor the COVID-19 vaccine rollout, we intend to transfer site-
+related information such as the site type (ie, General Practice) and site
+location, vaccine and vaccine product information, from the CVAS into a
+Vaccine Data Solution (Data Solution). However, personal information about
+Users and Distribution Contacts (including contact details) that are stored in
+the CVAS will not be transferred to the Data Solution. The Data Solution is a
+software solution hosted in Australia that we use to monitor coverage and
+logistics for COVID-19 Vaccines. The Data Solution generates reports and
+statistics that do not contain any personal information.
+
+In future, we may also transfer some information from the CVAS into other
+systems, to support the vaccine rollout or meet our obligations under the
+Archive Act. If this happens, we will update this Privacy Notice, and may take
+other steps as reasonable to notify vaccination providers, Users, and
+Distribution Contacts.
+
+## **How information in the CVAS is stored**
+
+The information collected in the CVAS is stored in a secure cloud service
+using a Salesforce platform and hosted on Amazon Web Services. The information
+is stored in Australia.
+
+Our ICT service providers responsible for managing and operating the CVAS may
+also have access to information stored in the CVAS for system maintenance and
+upgrades, but they must meet our strict requirements for privacy,
+confidentiality and security.
+
+Our data partner who manages the cloud service must meet our requirements for
+privacy, confidentiality, and data security. This includes complying with the
+Privacy Act and protecting data from misuse, loss, corruption and unauthorised
+access or disclosure.
+
+## **How you can access or correct your information**
+
+If you need to correct information that you have inputted into the CVAS and
+you have access to the CVAS, you can make amendments directly in the CVAS. If
+you need further assistance, you can contact the Vaccine Operations Centre
+(VOC) at 1800 318 208 (7 am – 10 pm AEST).
+
+We will retain your data in the CVAS in accordance with any requirements under
+the [Archives Act](https://www.legislation.gov.au/Latest/C2021C00366).
+
+## **Concerns and complaints**
+
+Our [privacy policy](/using-our-websites/website-privacy-policy "Website
+privacy policy") explains how you can make a complaint if you think we have
+breached:
+
+  * the Australian Privacy Principles
+  * the Australian Government Agencies Privacy Code
+
+The [privacy policy](/using-our-websites/website-privacy-policy "Website
+privacy policy") also explains how we will manage your complaint.
+
+## **More on privacy**
+
+We have taken steps to ensure that the implementation of the the [COVID-19
+Vaccine and Treatment Strategy](/covid-19-vaccine-and-treatment-strategy
+"COVID-19 Vaccine and Treatment Strategy") is compliant with the [Privacy Act
+1988](https://www.legislation.gov.au/Latest/C2021C00452) and any other
+legislation that is relevant to the rollout.
+
+Read more about privacy matters relating to the COVID‑19 vaccine rollout on
+our [COVID-19 Privacy Page](/our-work/covid-19-vaccines/covid-19-vaccines-
+privacy-and-security-information "COVID-19 vaccines privacy and security
+information").
+
+For general privacy matters, see our [privacy page ](/using-our-
+websites/website-privacy-policy "Website privacy policy")and our [full privacy
+policy](/resources/publications/privacy-policy "Privacy policy").
+
+![](/themes/custom/hga/images/contact-aus-gov.png)
+
+###  [ Departmental privacy enquiries ](/contacts/departmental-privacy-
+enquiries?language=en)
+
+Contact to find out more about privacy within the department, or to make a
+privacy enquiry or complaint.
+
+Privacy officer:
+
+[privacy@health.gov.au](mailto:privacy@health.gov.au)
+
+Phone:
+
+[02 6289 1555](tel:02 6289 1555)
+
+Freecall:
+
+[1800 020 103](tel:1800 020 103)
+
+Last updated:
+
+25 January 2023
+
+Tags:
+
+  * [Communicable diseases](/topics/communicable-diseases)
+  * [Emergency health management](/topics/emergency-health-management)
+  * [COVID-19 vaccines](/our-work/covid-19-vaccines)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Using our websites](/using-our-websites)
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+    * [Privacy impact assessment register](/using-our-websites/website-privacy-policy/privacy-impact-assessment-register)
+    * [Privacy notice for aged care reform webinars](/using-our-websites/website-privacy-policy/privacy-notice-for-aged-care-reform-webinars)
+    * [Privacy notice for aged care announcements and newsletters](/using-our-websites/website-privacy-policy/privacy-notice-for-the-aged-care-sector-newsletters-and-alerts)
+    * [Privacy notice for consumers using the booking platform for COVID 19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-consumers-using-the-commonwealth-procured-booking-platform-for-covid-19-vaccinations)
+    * [Privacy notice for COVID-19 training](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-training)
+    * [Privacy notice for COVID-19 mental health updates](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-mental-health-updates)
+    * [Privacy notice for COVID-19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-vaccinations)
+    * [Privacy notice for COVID-19 vaccines update](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-vaccines-update)
+    * [Privacy notice for COVID-19 weekly updates](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-updates-for-gps)
+    * [Privacy notice for Health Portfolio Federal Budget Information](/using-our-websites/website-privacy-policy/privacy-notice-for-health-portfolio-federal-budget-information)
+    * [Privacy notice for MRFF newsletter](/using-our-websites/website-privacy-policy/privacy-notice-for-mrff-newsletter)
+    * [Privacy notice for National Immunisation Program (NIP) updates](/using-our-websites/website-privacy-policy/privacy-notice-for-national-immunisation-program-nip-updates)
+    * [Privacy notice for the Bonded Medical Program – BRoSS](/using-our-websites/website-privacy-policy/privacy-notice-for-the-bonded-medical-program-bross)
+    * [Privacy notice for the Bonded Medical Program – BRoSS – participants and family members](/using-our-websites/website-privacy-policy/privacy-notice-for-the-bonded-medical-program-bross-participants-and-family-members)
+    * [Collection notice for the Clinician Vaccine Integration Platform (CVIP)](/using-our-websites/website-privacy-policy/collection-notice-for-the-clinician-vaccine-integrated-platform-cvip)
+    * [Privacy notice for the contact a minister form](/using-our-websites/website-privacy-policy/privacy-notice-for-the-contact-a-minister-form)
+    * [Privacy policy for the COVIDSafe app](https://covidsafe.gov.au/privacy-policy.html)
+    * [Privacy notice for the Inborn Errors of Metabolism program – healthcare professionals](/using-our-websites/website-privacy-policy/privacy-notice-for-the-inborn-errors-of-metabolism-program-health-care-professionals)
+    * [Privacy notice for the Inborn Errors of Metabolism program – patients](/using-our-websites/website-privacy-policy/privacy-notice-for-the-inborn-errors-of-metabolism-program-patients)
+    * [Privacy notice for the National Epidermolysis Bullosa Dressing Scheme – healthcare professionals](/using-our-websites/website-privacy-policy/privacy-notice-for-the-national-epidermolysis-bullosa-dressing-scheme-health-care-professionals)
+    * [Privacy notice for the National Epidermolysis Bullosa Dressing Scheme – patients](/using-our-websites/website-privacy-policy/privacy-notice-for-the-national-epidermolysis-bullosa-dressing-scheme-patients)
+    * [Privacy Notice for Australian Immunisation Handbook updates](/using-our-websites/website-privacy-policy/privacy-notice-for-australian-immunisation-handbook-updates)
+    * [Privacy Notice for the Register of Interest for COVID-19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-the-register-of-interest-for-covid-19-vaccinations)
+    * [Privacy Policy for the Australian Immunisation Register](/using-our-websites/website-privacy-policy/privacy-policy-for-the-australian-immunisation-register)
+    * [Privacy notice for COVID-19 and COVID-19 vaccines updates for multicultural communities](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-and-covid-19-vaccines-updates-for-multicultural-communities)
+    * [Privacy notice for My Aged Care Learning Management System (MAClearning)](/using-our-websites/website-privacy-policy/privacy-notice-for-my-aged-care-learning-management-system-maclearning)
+    * [Privacy notice for the COVID-19 pandemic response workforce expression of interest form](/using-our-websites/website-privacy-policy/privacy-notice-for-the-covid-19-pandemic-response-workforce-expression-of-interest-form)
+    * [Privacy notice for the Government Provider Management System](/using-our-websites/website-privacy-policy/privacy-notice-for-gpms)
+    * [Privacy notice for the MBS Review newsletter](/using-our-websites/website-privacy-policy/privacy-notice-for-the-mbs-review-newsletter)
+    * [Privacy notice for the MRAC communique](/using-our-websites/website-privacy-policy/privacy-notice-for-the-mbs-review-advisory-committee-communique)
+    * [Privacy notice for the Re-engaging Volunteers into Residential Aged Care Facilities program](/using-our-websites/website-privacy-policy/privacy-notice-for-the-re-engaging-volunteers-into-residential-aged-care-facilities-program)
+    * [Privacy notice for vaccination providers using the COVID-19 Vaccine Administration System (CVAS)](/using-our-websites/website-privacy-policy/privacy-notice-for-vaccination-providers-using-the-covid-19-vaccine-administration-system-cvas)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

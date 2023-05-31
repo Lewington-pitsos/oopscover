@@ -1,0 +1,267 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Private Health Insurance works in Australia.")
+    * [Overview of Health System](/health_insurance/what_is_covered/index.htm "An overview of what is covered by private health insurance and what is covered by Medicare for hospital, medical services \(general treatment\), pharmaceutical benefits and ambulance.")
+      * [Medicare](/health_insurance/what_is_covered/medicare.htm "Describes what is and what is not covered by medicare for hospital, medical and pharmaceutical benefits.")
+      * [Private health insurance](/health_insurance/what_is_covered/privatehealth.htm "Describes what is covered by private health insurance for ambulance, hospital and general treatment \(also known as ancillary or extras\) cover. Also covers what may not be covered owing to exclusions, restrictions or benefit limitation periods on your policy.")
+      * [Ambulance](/health_insurance/what_is_covered/ambulance.htm "Depending on which state you live you may need to organise ambulance cover to cover the costs of using an ambulance.")
+    * [Private Health Insurance Basics](/health_insurance/howitworks/index.htm "Describes how health insurance works, the different levels \(categories\) of cover for both hospital and general treatment \(ancillary/extras\).")
+    * [Government Surcharges & Incentives](/health_insurance/surcharges_incentives/index.htm "Australian government incentives and surcharges for private health insurance.")
+    * [Overseas Visitors & Students ](/health_insurance/overseas/index.htm "Students and visitors from overseas may be required, or should consider, to take out private health cover whilst visiting Australia.")
+    * [Private Health Insurance Changes](/health_insurance/phichanges/index.htm "From 1 April 2019, the Australian Government introduced new rules to help make private health insurance simpler including Gold, Silver, Bronze and Basic hospital tiers, and standard clinical categories to describe what is and is not covered. Further changes were introduced in 2021.")
+  * [Health Insurers](/healthinsurers/index.htm "Policies, contact details & performance.")
+  * [Compare Policies](/comparepolicies/index.htm "Find policies that match your needs.")
+  * [Contact Us](/contactus.htm "Got a question? Contact us today.")
+  * [FAQ](/faq.htm "Frequently asked questions.")
+
+## What is covered by private health insurance?
+
+Private health insurance cover is generally divided into hospital cover,
+general treatment cover (also known as ancillary or extras cover) and
+ambulance cover.
+
+Private hospital policies give you a choice of doctor and cover to be a
+private patient in a public or private hospital. General treatment policies
+cover treatments outside of hospital such as dental, optical, physiotherapy or
+pharmacy. Not all policies cover all services - check with your insurer to
+find out what is included on your policy and what you may need to pay for
+yourself.
+
+You can purchase these policies separately, or as a 'combined' policy.
+
+more
+
+Private health insurance cover is generally divided into hospital cover,
+general treatment cover (also known as ancillary or extras cover) and
+ambulance cover. Ambulance cover may be available separately, combined with
+other policies, orÂ in some casesÂ isÂ covered by your state government.
+
+In Australia, private health insurance is 'community-rated', rather than
+'risk-rated' like most forms of insurance. Private health insurers cannot
+refuse to insure any person, and must charge everyone the same premium for the
+same level of cover, despite their risk profile and likelihood of using health
+services.
+
+There are [different types of cover](/health_insurance/howitworks/index.htm
+"How it works") that offer different benefits. Check with your health insurer
+to be sure of exactly what you are covered for.
+
+### Hospital Cover
+
+With hospital cover you have the right to choose your own doctor, and decide
+whether you will be treated at a public or a private hospital that your doctor
+attends. If you are a private patient at a private hospital, you may also have
+more choice as to when you are admitted to hospital. If you are a private
+patient in a public hospital, public hospital waiting lists still apply.
+
+When you are admitted to hospital, you have the following treatment options:
+
+Accommodation Type| Choice of hospital| Choice of doctor  
+---|---|---  
+Public patient, public hospital| No| No  
+Private patient, public hospital| No| Yes  
+Private patient, private hospital| Yes| Yes  
+  
+Generally, any medical services which Medicare covers and are listed under the
+Medicare Benefits Schedule (MBS) can also be covered to some extent by private
+hospital insurance. Services which are not listed on the MBS, such as elective
+cosmetic surgery or laser eye surgery, are only covered by private hospital
+insurance to a limited extent or may not be covered at all, depending on the
+policy.
+
+#### What is covered by private hospital policies?
+
+Every health insurer offers policies with different levels of cover.
+Generally, the more expensive policies cover a wider range of services, while
+the lower cost policies will limit what services will be covered in a private
+hospital.
+
+Four new tiers of hospital cover began rolling out from 1 April 2019 and
+became mandatory from 1 April 2020. All hospital insurance policies are
+classified as Gold, Silver, Bronze or Basic. For more information about the
+new tiers, see [Product tiers](/health_insurance/howitworks/producttiers.htm
+"Product tiers") & [Clinical
+categories](/health_insurance/howitworks/clinical_categories.htm "Clinical
+categories").
+
+As with any other insurance policy, you can [manage your
+cover](/health_insurance/howitworks/managing_your_policy.htm "Managing your
+policy") by choosing comprehensive cover with higher premiums, or pay lower
+premiums for reduced cover. You can also reduce your premiums by opting to pay
+some of the costs through an excess or co-payment.
+
+For more information about hospital cover, seeÂ [Private Health Insurance
+Basics](/health_insurance/howitworks/index.htm "Private Health Insurance
+Basics").
+
+#### What may not be covered?
+
+The health insurance policy you buy will have some limitations on hospital
+treatment, whichÂ might include:
+
+  *  **Exclusions** \- specific services that are not covered at all. 
+  * **Restrictions** \- services that are covered to a limited extent, which means you will have greater out-of-pocket expenses. Restricted benefits are not sufficient to cover the full hospital cost of a private hospital admission and you will need to pay for the difference in cost.
+  *  **Surgery or hospital treatment that Medicare does not pay a benefit for** \- Medicare pays a benefit on all medical services necessary to maintain your health, but does not cover optional treatments such as elective cosmetic surgery.
+  *  **Long stay patients** \- If you are in hospital for more than 35 days in succession, you will be regarded as a long stay or nursing home type patient, unless your doctor specifies otherwise. This means you will have to pay more for the cost of hospital accommodation after the initial period. Health insurance regulations doÂ not allow health insurers to insure for this cost.
+  *  **Single vs shared rooms** â some hospital policies cover the full cost of a shared room, but not a single room. Depending on your policy, this limitation can apply in a private hospital, or a public hospital, or both. If you are admitted to a single room and your policy does not fully cover the cost, the hospital should inform you that you will need to pay the difference between the insurerâs benefit and the hospitalâs charge. Your health insurer can also provide more information about your cover.  
+
+For more advice about exclusions and restrictions, see the [Ombudsman's
+factsheet](https://www.ombudsman.gov.au/publications-and-news-
+pages/publication-pages/brochures-and-factsheets/factsheets/private-health-
+insurance/policy-exclusions-and-restrictions "Factsheet - Policy Exclusions
+and Restrictions"). For information about other expenses you may have to pay,
+see [Out of pocket expenses (gap
+cover)](/health_insurance/howitworks/out_of_pocket.htm "Out of pocket expenses
+\(gap cover\)").  
+  
+
+### General Treatment Cover
+
+General treatment cover (also called ancillary cover or extras cover) provides
+insurance against some or all costs of treatment by ancillary health service
+providers. The extent of your cover depends on the type of policy you select
+and may include services such as:
+
+  * dental treatment;
+  * chiropractic treatment;
+  * home nursing;
+  * podiatry;
+  * physiotherapy, occupational therapy, speech therapy and eye therapy;
+  * glasses and contact lenses; and
+  * prostheses (e.g. hearing aids).
+
+For more about General treatment cover, seeÂ [Private Health Insurance
+Basics](/health_insurance/howitworks/index.htm "Private Health Insurance
+Basics").
+
+  
+
+#### What may not be covered?
+
+Nearly all services covered under general treatment are only covered to a
+limited extent. There are various limits that may apply,Â for example a limit
+per service, per year, or lifetime limits. Some services may not be covered at
+all.
+
+You should check the [Private Health Information
+Statement](/health_insurance/howitworks/phis_guide.htm "Private Health
+Information Statements") about any policy you are interested in, and seek
+information from your insurer for details of these limitations.
+
+### Ambulance
+
+Medicare does not cover the cost of emergency or other ambulance services. You
+can organise cover for this service as part of your hospital or general
+treatment cover, or as a stand-alone cover.
+
+The options for ambulance cover vary depending on what state or territory you
+live in. For further information please see the
+[Ambulance](/health_insurance/what_is_covered/ambulance.htm "Ambulance")
+section of the website.
+
+### Broader Health Cover
+
+Private health insurers can cover a wide variety of clinically appropriate
+alternatives to hospital treatment. This can include treatment provided in
+your own home or in community healthcare clinics (known as hospital substitute
+treatment), as well as programs to manage or prevent chronic disease.Â
+
+It is not mandatory for health insurers to offer cover for these services.
+Participation in these programs may be subject to your level of cover and
+eligibility criteria, so check with your insurer for more information.
+
+Common examples of hospital substitute treatment include:
+
+  * wound care;
+  * IV therapy; and
+  * early discharge.Â 
+
+Common examples of chronic disease management include:
+
+  * heart/cardiovascular health;Â 
+  * risk factors for chronic disease; andÂ 
+  * diabetes management/education.
+
+* * *
+
+#### Brochures and Factsheets
+
+  * [Private Patients Hospital Charter - What you can expect from your insurer](https://www.health.gov.au/resources/publications/private-patients-hospital-charter "The Department of Health provides the Private Patient's Hospital Charter brochure which helps you to know what you can expect from your health insurer when you go to hospital")
+
+#### External Links
+
+  * [Medicare Benefits Schedule (MBS) Online](http://www.mbsonline.gov.au/ "The Medicare Benefits Schedule website \(MBS Online\) contains a listing of the Medicare services subsidised by the Australian Government")
+  * [Factsheets from the Private Health Insurance Ombudsman](/footer/brochures.htm "Factsheets from the Ombudsman about topics such as obstetrics and assisted reproductive services, premium increases, mental health treatment, plastic and reconstructive surgery, diabetic insulin pumps and more.")
+
+less
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+

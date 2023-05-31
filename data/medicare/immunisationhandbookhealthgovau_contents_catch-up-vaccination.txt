@@ -1,0 +1,2302 @@
+Skip to main content Skip to main navigation Skip to main content
+
+[ ![Back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH2x.png)
+![Going back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH-
+standard_0.png) ](/ "Home")
+
+### Sub menu
+
+  * [About the Handbook](/contents/about-the-handbook "About the handbook")
+  * [Contact us](/contact-us "Contact us")
+
+Search  
+
+Menu  Search
+
+Close
+
+  * [Home](/home)
+  * [Contents](/contents)
+  * [Diseases](/contents/vaccine-preventable-diseases)
+  * [Vaccines](/vaccines)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Resources](/resources)
+
+## You are here
+
+  1. [Home](/)
+  2. [Table of contents](/contents)
+
+[Table of contents](/contents)
+
+# Catch-up vaccination
+
+Catch-up vaccination aims to provide optimal protection against disease as
+quickly as possible by completing a person’s recommended vaccination schedule
+in the shortest but most effective time frame.
+
+  * [ Listen ](//app-oc.readspeaker.com/cgi-bin/rsent?customerid=5802&lang=en_au&voice=Jack&readclass=main-content&url=https%3A%2F%2Fimmunisationhandbook.health.gov.au%2Fcontents%2Fcatch-up-vaccination "Listen to this page using ReadSpeaker webReader")
+
+  * Print 
+  * Share 
+
+    * [Twitter](https://twitter.com/share?text=Catch-up vaccination&url=https://immunisationhandbook.health.gov.au/contents/catch-up-vaccination "Share to Twitter")
+    * [Facebook](https://facebook.com/sharer.php?u=https://immunisationhandbook.health.gov.au/contents/catch-up-vaccination "Share to Facebook")
+    * [Email](mailto:?subject= The Australian Immunisation Handbook | Catch-up vaccination&body=https://immunisationhandbook.health.gov.au/contents/catch-up-vaccination "Share via email")
+
+Recently added
+
+This page was added on **08 June 2018**.
+
+Updates made
+
+This page was updated on **30 January 2023**. View history of updates
+
+On this page:
+
+On this page
+
+## Overview
+
+Catch-up vaccination aims to provide optimal protection against disease as
+quickly as possible by completing a person’s recommended vaccination schedule
+in the shortest but most effective time frame.
+
+Take every opportunity to review a person’s vaccination history and give them
+appropriate catch-up vaccines, as needed. If a person has not received the
+vaccines scheduled in the National Immunisation Program appropriate for their
+age:
+
+  * plan and document a catch-up schedule
+  * discuss this planned schedule with the person who needs the vaccine or their parent/carer
+
+Assess vaccination status based on the schedule for the National Immunisation
+Program, as well as for the state or territory that the person lives in.
+
+See [Infographic. Catch-up vaccination for children <10 years
+old](/resources/publications/catch-up-vaccination-for-children "Catch-up
+vaccination for children <10 years old") and [Infographic. Catch-up
+vaccination for adolescents and adults](/resources/publications/catch-up-
+vaccination-for-adolescents-and-adults "Catch-up vaccination for adolescents
+and adults").
+
+## Assessing immunisation status
+
+### Confirming a person’s vaccination history
+
+Written documentation of vaccination is important to assess a person’s
+vaccination status. Make every effort to confirm previous vaccination and
+obtain documentation.
+
+How immunisation service providers manage inadequate records should be based
+on:
+
+  * the age of the person being vaccinated
+  * whether they received previous vaccines in Australia or overseas 
+  * the vaccines being considered for catch-up
+
+#### Immunisation registers
+
+[Details of a person’s immunisation
+history](https://www.humanservices.gov.au/organisations/health-
+professionals/services/medicare/hpos) (an Immunisation History Statement) can
+be obtained from the Australian Immunisation Register (AIR) site within Health
+Professional Online Services (HPOS) or the AIR enquiries line ( **1800 653
+809** ). If it is possible that a vaccine may have been given but not recorded
+on the AIR, every effort should be made to contact the relevant [immunisation
+provider](/technical-terms#immunisation-provider) for that vaccine.
+
+If the nominated provider or the AIR cannot confirm the vaccination, and no
+written records are available, the vaccine should be considered as not
+received, and the person should be offered catch-up vaccination appropriate
+for their age.
+
+Certain vaccines received during adolescence may be recorded by registers
+other than the AIR. Some states and territories also maintain records of
+vaccines delivered through school-based programs. [State and territory
+government health authorities](https://www.health.gov.au/health-
+topics/immunisation/immunisation-contacts) can advise on how to obtain these
+records.
+
+For adults ≥20 years of age, historical records of vaccines received before
+September 2016 are not automatically captured on the AIR. Information for
+certain vaccines may be available from other sources, such as states and
+territories, and the Australian Q Fever Register.
+
+[Reporting to immunisation registers](/contents/vaccination-procedures/after-
+vaccination#reporting-to-immunisation-registers) in [After
+vaccination](/node/188) has more details on the immunisation registers used in
+Australia and how to obtain vaccination records.
+
+### Incomplete documentation of previous vaccination
+
+If previous vaccination cannot be confirmed, assume that the person has not
+received the vaccine(s) they need.
+
+For most vaccines (except Q fever), there are no adverse events associated
+with additional doses in people who are already immune.
+
+Injection site reactions may increase after frequent additional doses of:
+
+  * [diphtheria-containing vaccines](/contents/vaccine-preventable-diseases/diphtheria#vaccines-dosage-and-administration)
+  * [pertussis-containing vaccines](/contents/vaccine-preventable-diseases/pertussis-whooping-cough#vaccines-dosage-and-administration)
+  * [tetanus-containing vaccines](/contents/vaccine-preventable-diseases/tetanus#vaccines-dosage-and-administration)
+  * [pneumococcal polysaccharide vaccines](/contents/vaccine-preventable-diseases/pneumococcal-disease#vaccines-dosage-and-administration)
+
+However, in most cases, the benefits of protection from the vaccine will
+outweigh the risk of an adverse reaction.
+
+Significant adverse events are rarely associated with additional (potentially
+repeated) doses of:
+
+  * MMR (measles-mumps-rubella) vaccine
+  * VV (varicella vaccine)
+  * IPV (inactivated poliovirus) vaccine
+  * hepatitis B vaccine
+
+### Laboratory testing to guide catch-up vaccination
+
+In some cases, laboratory testing can determine whether the person has
+immunity from previous vaccination or [infection](/technical-terms#infection),
+and may be useful to guide the need for catch-up vaccination.
+
+Laboratory testing can include:
+
+  * serology — used to detect antibodies from recent or past [infection](/technical-terms#infection) for certain diseases, or vaccination
+  * [antigen](/technical-terms#antigen) detection 
+  * PCR — used to detect current or recent [infection](/technical-terms#infection) for certain diseases (or, in some cases, recent vaccination with live vaccines)
+
+Laboratory testing to determine immunity as a result of previous vaccination
+or [infection](/technical-terms#infection) is only reliable for certain
+diseases:
+
+  * hepatitis A
+  * hepatitis B
+  * measles
+  * mumps
+  * rubella 
+  * varicella (but does not always detect vaccine-induced immunity)
+
+For other diseases, laboratory testing is **not** routinely recommended to
+guide the need for catch-up vaccination. This is either because it is not
+reliable or because previous [infection](/technical-terms#infection) does not
+protect against subsequent disease. For example, for pneumococcal disease or
+influenza, [infection](/technical-terms#infection) with 1 serotype or strain
+does not protect against disease from the multiple other serotypes or strains
+that are in the vaccine.
+
+See recommendations about [serological testing](/technical-terms#serological-
+testing) before and after vaccination in relevant [disease-specific
+chapters](/node/752).
+
+If [serological testing](/technical-terms#serological-testing) is performed,
+it may be helpful to discuss the results with the laboratory that did the test
+to help interpret the results and ensure that relevant clinical information
+has been included.
+
+Previous [infection](/technical-terms#infection) is not a
+[contraindication](/technical-terms#contraindication) to vaccination against
+the same disease, in most circumstances and for most vaccines. This means that
+it is more practical to offer vaccination than laboratory testing. However,
+the national due and overdue rules state natural immunity to a disease as a
+valid exemption to vaccination for certain antigens. More [details about
+reporting to the AIR for health
+professionals](https://www.humanservices.gov.au/organisations/health-
+professionals/services/medicare/australian-immunisation-register-health-
+professionals) can be found on the Australian Government Department of Human
+Services website.
+
+### Determining when a vaccine dose is valid according to age and interval
+since last dose
+
+A ‘valid’ vaccine dose is one that is considered immunogenic (and safe) given
+the age and health status of the recipient, and the interval since the
+recipient’s last dose of the same vaccine.
+
+Children may have received the 1st dose of a vaccine at a younger age than
+routinely recommended. See [Table. Minimum acceptable age for the 1st dose of
+scheduled vaccines in infants](/node/459) to determine whether their vaccine
+was valid, and whether they need additional doses or catch-up.
+
+For children and adults in whom the interval between vaccine doses is shorter
+than recommended, use the [Catch-up resources](/contents/catch-up-
+vaccination#catchup-resources) that list the minimum acceptable intervals
+between vaccine doses to determine whether they need additional doses or
+catch-up. In some cases, minimum ages apply for subsequent doses in the
+schedule, as well as the 1st dose.
+
+## Principles of catch-up vaccination
+
+Apply these principles when planning catch-up vaccination:
+
+  * The scheduled interval between doses may be shorter or longer than the standard interval, and the number of doses needed may decrease with age at starting vaccination. For example, if starting vaccination against _Haemophilus influenzae_ type b at 15 months of age, children need only 1 dose of (any) Hib ( _Haemophilus influenzae_ type b) vaccine.
+  * As a child gets older, the recommended number of vaccine doses may change, or the child may not need any doses. This is because they become less vulnerable to specific diseases as they get older.
+  * For incomplete or overdue vaccinations, always build a catch-up schedule based on the previous documented doses the person has received. In almost all cases, do not start the schedule again, regardless of the interval since the last dose. Count previous doses as part of the schedule. One exception to this rule is for oral cholera vaccine (see [Cholera](/node/143)).
+  * If more than 1 vaccine is overdue, give 1 dose of each due or overdue vaccine at the first catch-up visit. Do not defer due or overdue vaccines (see [Giving multiple vaccine injections at the same visit](/contents/vaccination-procedures/administration-of-vaccines#giving-multiple-vaccine-injections-at-the-same-visit) in [Administration of vaccines](/node/184)). Schedule further required doses after the appropriate [minimum interval](/technical-terms#minimum-interval) (see [Table. Minimum acceptable dose intervals for children <10 years of age](/node/510)).
+  * Use the standard intervals and ages recommended in the National Immunisation Program schedule once the child or adult is up to date with the schedule.
+  * As a general rule, healthy individuals can receive inactivated vaccines at any time before or after, or at the same time as, all other vaccines registered in Australia. Please refer to [disease-specific chapters](/node/752) for exceptions. People can receive multiple live parenteral vaccines either at the same time or at least 4 weeks apart.1,2
+  * Co-administration of 2 combination vaccines containing the same [antigen](/technical-terms#antigen) is not routinely recommended. But this may be acceptable if no alternative vaccines or schedules are available. 
+  * Some people need further doses of antigens that are only available in combination vaccines. In general, it is acceptable to use combination vaccines, even if this means that the number of doses of another [antigen](/technical-terms#antigen) exceeds the number required in a schedule.
+  * For some vaccines, catch-up vaccination is not recommended. For example, rotavirus vaccination is not recommended if the child cannot receive the 1st (and subsequent) vaccine doses within the prescribed upper age limits (see [Catch-up guidelines for individual vaccines for children <10 years of age](/contents/catch-up-vaccination#catchup-guidelines-for-individual-vaccines-for-children-aged-10-years)).
+
+## Catch-up resources
+
+Use these resources to help plan a catch-up schedule:
+
+  * [online catch-up calculator](/node/121)
+  * [World Health Organization online list of overseas immunisation schedules](https://immunizationdata.who.int/listing.html?topic=vaccine-schedule&location=)
+  * [Catch-up worksheet for children <10 years of age for National Immunisation Program vaccines](/resources/tables/resource-catch-up-worksheet-for-children "Resource. Catch-up worksheet for children <10 years of age for National Immunisation Program vaccines")
+  * [Table. Minimum acceptable age for the 1st dose of scheduled vaccines in infants](/node/459)
+  * [Table. Number of vaccine doses the child should have received by their current age](/node/512)
+  * [Table. Minimum acceptable dose intervals for children <10 years of age](/node/510)
+  * [Table. Catch-up schedule for _Haemophilus influenzae_ type b (Hib) vaccination for children <5 years of age](/node/447)
+  * [Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NT, Qld, SA or WA ONLY, and children from all states/territories with any medical condition(s) associated with an increased risk of invasive pneumococcal disease, aged <5 years](/node/51)
+  * [Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NSW, Vic, Tas or ACT, and children from all states/territories who do not have medical condition(s) associated with an increased risk of invasive pneumococcal disease, aged <5 years](/resources/tables/table-catch-up-schedule-for-13vpcv-for-aboriginal-and-torres-strait-islander-children-living-in-nsw-vic-tas-or-act-and-children-from-all-statesterritories-who-do-not-have-risk-conditions-for-pneumococcal-disease-aged "Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NSW, Vic, Tas or ACT, and children from all states/territories who do not have risk condition\(s\) for pneumococcal disease, aged <5 years")
+  * [Table. Catch-up schedule for people ≥10 years of age (for vaccines recommended on a population level)](/node/448)
+
+If you are not sure how to plan the catch-up schedule, or if the catch-up is
+complicated, seek further advice from your [state or territory health
+authority](https://www.health.gov.au/health-topics/immunisation/immunisation-
+contacts).
+
+See [Infographic. Catch-up vaccination for children <10 years
+old](/resources/publications/catch-up-vaccination-for-children "Catch-up
+vaccination for children <10 years old").
+
+### Catch-up calculator
+
+Health hosts an [online catch-up calculator](/catch-up-calculator/calculator)
+for vaccines on the National Immunisation Program. This helps immunisation
+providers plan appropriate catch-up schedules for children <10 years of age
+across Australia.
+
+When using the calculator, check the accuracy of information by referring to:
+
+  * your current state or territory immunisation schedule
+  * the current online edition of this Handbook
+
+### Overseas immunisation schedules
+
+The World Health Organization website lists [immunisation schedules in other
+countries](https://immunizationdata.who.int/listing.html?topic=vaccine-
+schedule&location=). Use this to help interpret documentation from overseas
+vaccination to confirm which vaccines a person arriving from overseas may have
+received. Note that vaccines received overseas may have different brand names,
+contain different antigens in combination or be given in a different schedule.
+Also see [Vaccination of migrants, refugees and people seeking asylum in
+Australia](/contents/vaccination-for-special-risk-groups/vaccination-for-
+migrants-refugees-and-people-seeking-asylum-in-australia "Vaccination for
+migrants, refugees and people seeking asylum in Australia").
+
+### Catch-up worksheet for children aged <10 years
+
+[Resource: Catch-up worksheet for children <10 years of age for National
+Immunisation Program vaccines](/resources/tables/resource-catch-up-worksheet-
+for-children "Resource. Catch-up worksheet for children <10 years of age for
+National Immunisation Program vaccines") is a worksheet for calculating and
+recording:
+
+  * which vaccines are required in children aged <10 years
+  * the number of doses outstanding
+  * the timing of these doses
+
+See Using the catch-up worksheet for children <10 years of age.
+
+### Minimum age for 1st dose
+
+[Table. Minimum acceptable age for the 1st dose of scheduled vaccines in
+infants](/node/459) lists the minimum acceptable ages for the 1st dose of
+scheduled vaccines in infants.
+
+### Number of doses a child should have received
+
+Use [Table. Number of vaccine doses the child should have received by their
+current age](/node/512) to assess the number of doses a child should have
+received if they were on a standard schedule.
+
+Check under the child’s current age to find how many doses they should have
+already received. Use that number of doses as the starting point for
+calculating a catch-up schedule.
+
+For example, a child who is 18 months old now should have received 3 doses of
+DTPa (diphtheria-tetanus-acellular pertussis), 3 doses of IPV vaccine, and so
+on.
+
+### Minimum intervals
+
+[Table. Minimum acceptable dose intervals for children <10 years of
+age](/node/510) lists the minimum acceptable interval between doses under
+special circumstances, such as catch-up vaccination. Children should not
+receive vaccine doses at less than the minimum acceptable interval.1
+
+In most cases, doses received earlier than the minimum acceptable interval
+should not be considered as valid doses and should be repeated, as
+appropriate, using [Table. Number of vaccine doses the child should have
+received by their current age](/node/512).
+
+### Catch-up for Hib vaccine in children aged <5 years
+
+[Table. Catch-up schedule for _Haemophilus influenzae_ type b (Hib)
+vaccination for children <5 years of age](/node/447) can help calculate the
+number and timing of doses needed for catch-up for Hib vaccination of
+children.
+
+### Catch-up for pneumococcal vaccine in children
+
+Resources to plan pneumococcal vaccine catch-up include:
+
+  * [Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NT, Qld, SA or WA ONLY, and children from all states/territories with any medical condition(s) associated with an increased risk of invasive pneumococcal disease, aged <5 years](/resources/tables/table-catch-up-schedule-for-13vpcv-for-aboriginal-and-torres-strait-islander-children-living-in-nt-qld-sa-or-wa-only-and-children-from-all-statesterritories-with-any-medical-conditions-for-pneumococcal-disease-aged "Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NT, Qld, SA or WA ONLY, and children from all states/territories with any medical condition\(s\) for pneumococcal disease, aged <5 years")
+  * [Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NSW, Vic, Tas or ACT, and children from all states/territories who do not have medical condition(s) associated with an increased risk of invasive pneumococcal disease, aged <5 years](/resources/tables/table-catch-up-schedule-for-13vpcv-for-aboriginal-and-torres-strait-islander-children-living-in-nsw-vic-tas-or-act-and-children-from-all-statesterritories-who-do-not-have-risk-conditions-for-pneumococcal-disease-aged "Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NSW, Vic, Tas or ACT, and children from all states/territories who do not have risk condition\(s\) for pneumococcal disease, aged <5 years")
+
+### Catch-up for people aged ≥10 years
+
+Use [Table. Catch-up schedule for people ≥10 years of age (for vaccines
+recommended on a population level)](/node/448) to calculate a catch-up
+schedule for people aged ≥10 years.
+
+## Using the catch-up worksheet for children aged <10 years
+
+Use the [catch-up resources](/contents/catch-up-vaccination#catchup-resources)
+to plan a catch-up schedule for a child <10 years of age. The [catch-up
+worksheet](/node/442) can help record these steps.
+
+To use the catch-up worksheet:
+
+  1. Record the child’s details, including date of birth and current age, at the top of the worksheet.
+  2. For each vaccine, determine how many doses the child has received and the date of the last dose. Record this in the ‘Last dose given’ column of the worksheet. Include previous vaccinations given in another country if documentation is adequate, and enter overseas vaccination onto the [Australian Immunisation Register](https://www.humanservices.gov.au/individuals/services/medicare/australian-immunisation-register) (see Immunisation registers in [Assessing immunisation status](/catch-up-vaccination#assessing-immunisation-status)).
+  3. Check how many doses of each vaccine are required for the child’s current age in [Table. Number of vaccine doses the child should have received by their current age](/node/512). Enter this number in the ‘Number of doses needed at current age’ column of the worksheet.
+  4. Assess other factors identified during [pre-vaccination screening](/node/183) that may affect the type or number of vaccines needed. Record any factors that affect the schedule in the ‘Comments’ column beside the relevant vaccine. These may include 
+    * [anaphylaxis](/technical-terms#anaphylaxis) to any vaccine or one of its components (this is a [contraindication](/technical-terms#contraindication) to vaccination)
+    * immunocompromising condition(s) due to disease or treatment (see [Vaccination for people who are immunocompromised](/node/436))
+    * children identifying as Aboriginal or Torres Strait Islander people (see [Vaccination for Aboriginal and Torres Strait Islander people](/node/432))
+    * children with an underlying medical condition(s) that predisposes them to invasive pneumococcal disease (see [Pneumococcal disease](/node/154)) or meningococcal disease (see [Meningococcal disease](/node/152)) 
+    * preterm infants born at <32 weeks gestation (see [Hepatitis B vaccine](/contents/vaccine-preventable-diseases/hepatitis-b#vaccines-dosage-and-administration) and [Pneumococcal vaccines](/contents/vaccine-preventable-diseases/pneumococcal-disease#vaccines-dosage-and-administration).
+  5. If the schedule needs to vary because of recorded factors (for example, a child who is immunocompromised may need different vaccines), adjust the ‘number of doses required’ accordingly.
+  6. For each vaccine, compare the number of doses received (as recorded in the ‘Last dose given’ column) with the number of doses required for the child’s current age.
+  7. If the child has already received all valid vaccine doses for protection against that disease, cross through the relevant ‘Dose number due now’ and ‘Further doses’ columns. Ensure that the minimum acceptable interval has been met for all previous doses, particularly if the child started their vaccination program overseas.
+  8. If the number of doses received (as recorded in the ‘Last dose given’ column) is less than the number of doses needed, give the child a dose of the relevant vaccine now, and record this in the ‘Dose number due now’ column. If this dose still does not complete the required doses, enter the further doses number in the ‘Further doses’ column.
+  9. Schedule the next dose at the most appropriate time (usually at the earliest opportunity), referring to [Table. Minimum acceptable dose intervals for children <10 years of age](/node/510). Record when the next dose is due in the ‘Further doses’ column.
+  10. Convert this information into a list of proposed appointment dates, with details of the vaccines and dose numbers needed at each visit, in the ‘Catch-up appointments’ section of the worksheet.
+  11. Record this catch-up schedule in your provider records and give a copy to the child’s parent or carer.
+  12. Once a child has received relevant catch-up vaccines, give the remaining scheduled vaccines according to the recommended National Immunisation Program schedule. For example, a 12-month-old child who is brought up to date with all vaccines, including the 12-month vaccination, should receive the 2nd dose of MMR-containing vaccine at 18 months of age, not 4 weeks after the last dose.
+
+See also [Infographic. Catch-up vaccination for children <10 years
+old](/resources/publications/catch-up-vaccination-for-children "Catch-up
+vaccination for children <10 years old").
+
+Resource. Catch-up worksheet for children <10 years of age for National
+Immunisation Program vaccines
+
+Use this worksheet alongside other [catch-up resources](/node/136#catchup-
+resources) in this Handbook.
+
+Catch-up worksheet  
+---  
+**Name:** |  
+**Date of this assessment:** |  
+**Date of birth:** |  
+**Age at this assessment:** |  
+  
+**Vaccine**
+
+|
+
+**Last dose given (dose number and date)**
+
+|
+
+**Number of doses needed at current age**
+
+|
+
+**Dose number due now**
+
+|
+
+**Further doses (interval or date)**
+
+|
+
+**Comments**  
+  
+DTPa
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+Poliovirus (IPV)
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+Hepatitis A
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+Hepatitis B
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+Hib
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+Pneumococcal (13vPCV)
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+Pneumococcal (23vPPV)
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+[MenACWY](/technical-terms#menacwy)
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+MMR
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+Rotavirus
+
+|
+
+|
+
+|
+
+|
+
+|
+
+DO NOT give after upper age limits for each dose. See [Rotavirus](/node/158).  
+  
+Varicella
+
+|
+
+|
+
+|
+
+|
+
+|  
+  
+**Catch up appointments**
+
+Date | Vaccines and dose numbers | Interval to next dose (if needed) |
+Comments  
+---|---|---|---  
+|  |  |  
+|  |  |  
+|  |  |  
+|  |  |  
+|  |  |  
+|  |  |  
+|  |  |  
+|  |  |  
+|  |  |  
+|  |  |  
+  
+Table. Minimum acceptable age for the 1st dose of scheduled vaccines in
+infants
+
+See [Catch-up guidelines for individual vaccines for children <10 years of
+age](/node/136#catchup-guidelines-for-individual-vaccines-for-children-
+aged-10-years) for **important details**.
+
+Vaccine
+
+|
+
+Minimum age for 1st dose
+
+|
+
+Action if a vaccine dose is inadvertently given before the recommended minimum
+age3  
+  
+---|---|---  
+  
+DTPa
+
+|
+
+6 weeks
+
+|
+
+  * If a child received their 1st dose of DTPa-containing vaccine between >28 days and <42 days (6 weeks) of age, it does not necessarily need to be repeated. Limited data suggest that receiving the vaccine at this age will still be safe and immunogenic. Follow the National Immunisation Program schedule for future doses, with the next dose of DTPa-containing vaccine given at 4 months of age.
+  * If a child received their 1st dose of DTPa-containing vaccine at ≤28 days of age, it is recommended that the dose is repeated. This repeat dose should ideally be given at 2 months of age. Follow the National Immunisation Program schedule for future doses, with the next dose of DTPa-containing vaccine given at 4 months of age.
+
+  
+  
+Hepatitis A (Aboriginal and Torres Strait Islander children in NT, Qld, SA and
+WA only)
+
+|
+
+12 months
+
+|
+
+  * If a child receives their 1st dose of hepatitis A vaccine at <12 months of age, and they need ongoing protection against hepatitis A, repeat the 1st dose.
+
+  
+  
+Hepatitis B
+
+|
+
+6 weeks (this does not include the birth dose, which should be given at <7
+days of age)
+
+|
+
+  * As for DTPa
+
+  
+  
+Hib
+
+|
+
+6 weeks
+
+|
+
+  * As for DTPa
+
+  
+  
+Meningococcal ([MenACWY](/technical-terms#menacwy) and MenB vaccines)
+
+|
+
+6 weeks
+
+|
+
+  * If a child receives their 1st dose of either [MenACWY](/technical-terms#menacwy) or MenB vaccine between >28 days and <42 days (6 weeks) of age, the dose does not necessarily need to be repeated. Seek expert advice.
+  * The person’s age when they start the meningococcal vaccination course determines the number of doses required. See [Meningococcal disease](/node/152).
+  * Children should receive a dose of [MenACWY](/technical-terms#menacwy) vaccine at 12 months of age, even if they have received doses earlier in infancy. The Australian Immunisation Register will record a [MenACWY](/technical-terms#menacwy) vaccine given at ≥11 months of age as a valid dose to calculate immunisation status. A dose provided at ≥11 months (but before 12 months) of age may be sufficiently immunogenic. It is not necessary to repeat a dose if it was given at between ≥11 months and <12 months of age.
+
+  
+  
+MMR
+
+|
+
+12 months
+
+|
+
+  * Children can receive MMR vaccine from 6 months of age in certain circumstances, such as for [post-exposure prophylaxis](/technical-terms#post-exposure-prophylaxis) for measles (see [Measles](/node/151)). It is recommended that the 1st dose be repeated if it was given at <11 months of age.
+  * It is not always necessary to repeat the first dose of MMR vaccine if it was given between 11 months and <12 months. The Australian Immunisation Register will record MMR vaccine given at ≥11 months of age as a valid dose to calculate immunisation status. A dose provided at ≥11 months (but before 12 months) of age may be sufficiently immunogenic, especially in infants born to mothers with measles antibody derived from vaccination rather than natural [infection](/technical-terms#infection).
+  * MMRV vaccine is recommended as the **2nd** (not 1st) dose of MMR-containing vaccine in children <18 months of age.  
+  
+If a child is inadvertently given MMRV vaccine as the 1st dose of MMR-
+containing vaccine, that MMR-containing dose does not need to be repeated,
+unless it was given at <11 months of age.
+
+  
+  
+Pneumococcal (13vPCV)
+
+|
+
+6 weeks
+
+|
+
+  * If a child receives their 1st dose of PCV between >28 days and <42 days (6 weeks) of age, it does not necessarily need to be repeated. Limited data suggest that administration at this age will still be safe and immunogenic. Follow the National Immunisation Program schedule for future doses, with the next dose of PCV given at 4 months of age.
+  * If a child received their 1st dose of PCV at ≤28 days of age, it is recommended that the dose is repeated. This repeat dose should be given at 2 months of age. Follow the National Immunisation Program schedule for future doses, with the next dose of PCV given at 4 months of age.
+
+  
+  
+Poliovirus (IPV)
+
+|
+
+6 weeks
+
+|
+
+  * As for DTPa
+
+  
+  
+Rotavirus
+
+|
+
+6 weeks
+
+|
+
+  * If a child receives their 1st dose of rotavirus vaccine between >28 days and <42 days (6 weeks) of age, it does not necessarily need to be repeated. Limited data suggest that administration at this age will still be safe and immunogenic. Follow the National Immunisation Program schedule for future doses, with the next dose of rotavirus vaccine given at 4 months of age.
+  * If a child receives their 1st dose of rotavirus vaccine at ≤28 days of age, it is recommended that the dose is repeated. This repeat dose should be given at 2 months of age. Follow the National Immunisation Program schedule for future doses, with the next dose of rotavirus vaccine given at 4 months of age.
+  * For all doses of rotavirus vaccine, do not exceed the upper age limits for dose administration. See [Rotavirus](/node/158).
+
+  
+  
+Varicella
+
+|
+
+12 months
+
+|
+
+  * 1 monovalent varicella vaccine, Varilrix, is registered for use from 9 months of age. Children can receive Varilrix from ≥9 months of age in special circumstances, such as before travel.
+  * If the 1st dose of any varicella-containing vaccine is received at <12 months of age, the dose should be repeated, preferably at the scheduled age of 18 months.
+  * MMRV vaccine is recommended as the 2nd (not 1st) dose of MMR-containing vaccine in children <18 months of age. If a child is inadvertently given MMRV vaccine as the 1st dose of MMR-containing vaccine, that MMR-containing dose does not need to be repeated, unless it was given at <11 months of age.
+
+  
+  
+**Acronyms used:**
+
+  * 13vPCV = 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine);
+  * DTPa = diphtheria-tetanus-acellular pertussis;
+  * Hib = Haemophilus influenzae type b;
+  * IPV = inactivated poliovirus;
+  * [MenACWY](/technical-terms#menacwy) = meningococcal ACWY;
+  * MenB = meningococcal B;
+  * MMR = measles-mumps-rubella;
+  * MMRV = measles-mumps-rubella-varicella
+
+  
+  
+Table. Number of vaccine doses the child should have received by their current
+age
+
+See [Catch-up guidelines for individual vaccines for children <10 years of
+age](/contents/catch-up-vaccination#catchup-guidelines-for-individual-
+vaccines-for-children-aged-10-years) for **important details** , including for
+**Hib and pneumococcal vaccines**.
+
+**Vaccine**
+
+|
+
+**Child aged 0 to <2 months**
+
+|
+
+**Child aged 2 to <4 months**
+
+|
+
+**Child aged 4 to <6 months**
+
+|
+
+**Child aged 6 to <12 months**
+
+|
+
+**Child aged 12–18 months**
+
+|
+
+**Child aged >18 months to <4 years**
+
+|
+
+**Child aged 4 years to <10 years**  
+  
+---|---|---|---|---|---|---|---  
+  
+DTPa
+
+|
+
+0
+
+|
+
+1
+
+|
+
+2
+
+|
+
+3
+
+|
+
+3
+
+|
+
+4
+
+|
+
+5 (unless dose 4 received at >3.5 years of age, then dose 5 is not needed)  
+  
+Hepatitis A (Aboriginal and Torres Strait Islander children living in NT, Qld,
+SA and WA only)
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1 (contact [state or territory health
+authorities](https://www.health.gov.au/health-
+topics/immunisation/immunisation-contacts) for advice about catch-up in
+children >2 years of age)
+
+|
+
+2 (contact [state or territory health
+authorities](https://www.health.gov.au/health-
+topics/immunisation/immunisation-contacts) for advice about catch-up in
+children >2 years of age)  
+  
+Hepatitis B
+
+|
+
+0 (birth dose is recommended but no need to catch up if missed)
+
+|
+
+1
+
+|
+
+2
+
+|
+
+3
+
+|
+
+3
+
+|
+
+3
+
+|
+
+3  
+  
+[MenACWY](/technical-terms#menacwy) (Nimenrix and MenQuadfi) (infants with
+certain immunocompromising conditions need extra doses — see [Meningococcal
+disease](/node/152))
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1 (2 doses required if Menveo used)
+
+|
+
+1 (2 doses required if Menveo used)
+
+|
+
+1 (2 doses required if Menveo used)  
+  
+MMR
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+2 (can be given as MMRV)
+
+|
+
+2 (can be given as MMRV)  
+  
+Pneumococcal disease (Aboriginal and Torres Strait Islander children living in
+NT, Qld, SA and WA and those with a risk condition need extra doses — see
+[Pneumococcal disease](/node/154)) | 0 | 1 | 2 | 2 | 3 | 3 | 3  
+  
+Poliovirus (IPV)
+
+|
+
+0
+
+|
+
+1
+
+|
+
+2
+
+|
+
+3
+
+|
+
+3
+
+|
+
+3
+
+|
+
+4  
+  
+Rotavirus (specific age limits — see [Rotavirus](/node/158))
+
+|
+
+0
+
+|
+
+1 (Rotarix) or 1 (RotaTeq)
+
+|
+
+2 (Rotarix) or 2 (RotaTeq)
+
+|
+
+No catch-up (Rotarix), 3 (RotaTeq)
+
+|
+
+No catch-up
+
+|
+
+No catch-up
+
+|
+
+No catch-up  
+  
+Varicella
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1 (can be given as MMRV)
+
+|
+
+1 (can be given as MMRV)  
+  
+**Acronyms used:**
+
+  * IPV = inactivated poliovirus;
+  * [MenACWY](/technical-terms#menacwy) = meningococcal ACWY;
+  * MMR = measles-mumps-rubella;
+  * MMRV = measles-mumps-rubella-varicella
+
+  
+  
+Table. Minimum acceptable dose intervals for children <10 years of age
+
+See [Catch-up guidelines for individual vaccines for children <10 years of
+age](/contents/catch-up-vaccination#catchup-guidelines-for-individual-
+vaccines-for-children-aged-10-years) for important details, including for
+**Hib** , MenB ( **meningococcal B** ) and **pneumococcal** vaccines.
+
+These are not the routinely recommended intervals between vaccine doses. These
+minimum intervals are only to be used for catch-up vaccination. Catch-up using
+a [combination vaccine](/technical-terms#combination-vaccine) **must** meet
+the minimum intervals for all antigens.
+
+Vaccine | Minimum interval between doses 1 and 2 | Minimum interval between
+doses 2 and 3 | Minimum interval between doses 3 and 4 | Minimum interval
+between doses 4 and 5  
+---|---|---|---|---  
+DTPa | 4 weeks | 4 weeks | 6 months | 6 months (unless dose 4 received at >3.5
+years of age, then dose 5 is not needed)  
+Hepatitis A (Aboriginal and Torres Strait Islander children living in NT, Qld,
+SA and WA only) | 6 months | na | na | na  
+Hepatitis B (excluding birth dose) | 1 month | 2 months ([minimum
+interval](/technical-terms#minimum-interval) between dose 1 and 3 is 4 months)
+| na | na  
+MMR | 4 weeks | na | na | na  
+Poliovirus (IPV) | 4 weeks | 4 weeks | 4 weeks (unless dose 3 received at >4
+years of age, then dose 4 is not needed) | na  
+Pneumococcal (Aboriginal and Torres Strait Islander children living in NT,
+Qld, SA or WA and those with a risk condition need extra doses — see
+[Pneumococcal disease](/node/154)) | 1 month | 2 months (must be ≥12 months of
+age) | na | na  
+[MenACWY](/technical-terms#menacwy) (at 12 months of age) (infants with
+certain immunocompromising conditions need extra doses — see [Meningococcal
+disease](/node/152)) | 8 weeks (Menveo only; Nimenrix and MenQuadfi are given
+as a single dose) | na | na | na  
+Rotavirus | 4 weeks (must be within upper age limit) | 4 weeks (for RotaTeq
+3rd dose in schedule) | na | na  
+Varicella | 4 weeks | na | na | na  
+  
+_**Acronyms used**_
+
+  * DTPa = diphtheria-tetanus-acellular pertussis;
+  * IPV = inactivated poliovirus;
+  * [MenACWY](/technical-terms#menacwy) = meningococcal ACWY;
+  * MMR = measles-mumps-rubella;
+  * na = not applicable
+
+  
+  
+## Catch-up guidelines for individual vaccines for children aged <10 years
+
+Consider this advice on catch-up for individual vaccines alongside the
+[general principles of catch-up vaccination](/contents/catch-up-
+vaccination#principles-of-catchup-vaccination).
+
+For each vaccine in this section, the minimum acceptable age is listed for the
+1st dose of scheduled vaccines in infants. However, there may be special
+circumstances where children may need to be vaccinated earlier than routinely
+recommended. Special circumstances may include infants or children being
+vaccinated:
+
+  * during an outbreak of a certain disease or after exposure to someone with the disease
+  * before overseas travel
+  * opportunistically if they see a provider early 
+
+The ages for vaccination in these circumstances can differ from routinely
+recommended ages for vaccination under the National Immunisation Program
+schedule.
+
+In some cases, these ages will also result in the dose not being considered by
+the Australian Immunisation Register as ‘valid’ for calculating immunisation
+status. This is noted under the relevant vaccines in this section.
+
+See also:
+
+  * [Table. Minimum acceptable age for the 1st dose of scheduled vaccines in infants](/node/459)
+  * [Table. Minimum acceptable dose intervals for children <10 years of age](/node/510)
+
+### DTPa vaccine
+
+#### Recommended doses
+
+Monovalent pertussis vaccine is not available in Australia.
+
+DTPa-containing vaccines can be used for catch-up of primary or booster doses
+in children aged <10 years.
+
+Children <10 years of age should receive a total of 5 doses of DTPa-containing
+vaccine:
+
+  * 3 doses as part of the primary schedule for infants (recommended at 2, 4 and 6 months of age)
+  * 2 booster doses (recommended at 18 months and 4 years of age)
+
+However, if the child received dose 4 of DTPa-containing vaccine (1st booster
+dose, routinely recommended at 18 months of age) after the age of 3.5 years,
+they do not need a 5th dose of DTPa-containing vaccine (2nd booster dose,
+routinely recommended at 4 years of age) to be given before 10 years of age.
+In this case, the next vaccine dose would be recommended at 12–13 years of age
+(the scheduled early adolescent booster dose).
+
+In children aged <10 years, the number of doses administered is influenced by:
+
+  * the age at which they start catch-up vaccination
+  * the number of doses needed
+  * the minimum intervals between doses
+
+For complex catch-up schedule advice, contact your [state or territory health
+department](https://www.health.gov.au/health-topics/immunisation/immunisation-
+contacts).
+
+See [Diphtheria](/node/144), [Tetanus](/node/160) and [Pertussis](/node/35).
+
+#### Minimum age for 1st dose
+
+6 weeks
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If a child receives their 1st dose of DTPa-containing vaccine at ≤28 days of
+age, it is recommended that the dose is repeated. This repeat dose should be
+given at 2 months of age. Follow the National Immunisation Program schedule
+for future doses, with the next dose of DTPa-containing vaccine given at 4
+months of age.
+
+If a child receives their 1st dose of DTPa-containing vaccine between >28 days
+and <42 days (6 weeks) of age, it does not necessarily need to be repeated.
+Limited data suggest that receiving the vaccine at this age will still be safe
+and immunogenic. Follow the National Immunisation Program schedule for future
+doses, with the next dose of DTPa-containing vaccine given at 4 months of age.
+
+The need to repeat the 1st dose of vaccine may not be recognised until the
+infant is older. For example, a 4-month-old infant may present for vaccination
+and has only previously received 1 dose of DTPa-hepB (hepatitis B)-IPV-Hib at
+age ≤28 days. In this case:
+
+  * repeat the dose now (and count this as dose 1) 
+  * proceed with the schedule as per the National Immunisation Program or catch-up recommendations
+
+#### Minimum interval between doses
+
+Minimum intervals between:
+
+  * doses 1 and 2 — 4 weeks
+  * doses 2 and 3 — 4 weeks
+  * doses 3 and 4 — 6 months
+  * doses 4 and 5 — 6 months (unless the child received dose 4 at >3.5 years of age, then dose 5 is not needed)
+
+#### Children who did not receive an 18-month booster dose
+
+The 18-month booster dose was not routinely recommended between 2003 and 2015.
+This means that some children will have only had 3 primary doses of DTPa-
+containing vaccine and a booster dose at 4 years of age.
+
+If the child received their 4th dose of DTPa-containing vaccine after 3.5
+years of age, they do not need another childhood dose. Their next dose will be
+the booster dose recommended during adolescence.
+
+If the child is aged ≥18 months to ≤3.5 years and did not receive a booster
+dose of DTPa-containing vaccine at 18 months of age, they should receive:
+
+  * their 1st booster dose (dose 4) now
+  * a 2nd booster dose at 4 years of age (with a [minimum interval](/technical-terms#minimum-interval) of 6 months between these doses)
+  * their next booster dose during adolescence, as routinely recommended
+
+See [Pertussis](/node/35) for more details.
+
+### Hepatitis A vaccine for Aboriginal and Torres Strait Islander children in
+the Northern Territory, Queensland, South Australia and Western Australia only
+
+#### Recommended doses
+
+Aboriginal and Torres Strait Islander children in the Northern Territory,
+Queensland, South Australia and Western Australia are recommended to receive 2
+doses of hepatitis A vaccine:
+
+  * dose 1 at 18 months of age 
+  * dose 2 at 4 years of age
+
+Contact your [state or territory health
+authority](https://www.health.gov.au/health-topics/immunisation/immunisation-
+contacts) for advice about catch-up vaccination in children ≥5 years of age.
+
+See [Hepatitis A](/node/146).
+
+#### Minimum age for 1st dose
+
+12 months
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If a child receives their 1st dose of hepatitis A vaccine at <12 months of
+age, and they need ongoing protection against hepatitis A, repeat the 1st
+dose.
+
+#### Minimum interval between doses
+
+Minimum interval between doses 1 and 2 is 6 months.
+
+### Hepatitis B vaccine
+
+#### Recommended doses
+
+Australian-born infants typically receive:
+
+  * a monovalent hepatitis B vaccine dose at birth
+  * a 3-dose primary course of hepatitis B–containing vaccine at 2, 4 and 6 months of age (usually given as DTPa-hepB-IPV-Hib)
+
+See [Hepatitis B](/node/147).
+
+#### Minimum age for 1st dose
+
+6 weeks (excluding the birth dose of hepatitis B vaccine)
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If a hepatitis B–containing [combination vaccine](/technical-
+terms#combination-vaccine) is inadvertently given before 6 weeks of age,
+follow the recommended action for DTPa-containing vaccines.
+
+See [DTPa vaccine](/catch-up-vaccination#dtpa-vaccine).
+
+#### Minimum interval between doses
+
+Minimum intervals between:
+
+  * doses 1 and 2 — 1 month
+  * doses 2 and 3 — 2 months
+
+In addition, the minimum recommended interval between dose 1 and dose 3 is 4
+months (see [Hepatitis B](/node/147)).
+
+The Australian Immunisation Register accepts a [minimum interval](/technical-
+terms#minimum-interval) of 4 weeks between any hepatitis B vaccine dose. This
+allows children who have been immunised using 3-dose schedules (typically
+provided overseas) to be considered as fully immunised.3
+
+#### Birth dose
+
+The birth dose of hepatitis B vaccine is only scheduled for infants up to 7
+days of age. If the child did not receive this dose, they do not need a catch-
+up birth dose. They should receive their primary 3-dose course of a hepatitis
+B–containing [combination vaccine](/technical-terms#combination-vaccine) as
+scheduled at 2, 4 and 6 months of age.
+
+#### Final dose of primary course
+
+All infants should receive the final dose of the primary hepatitis B vaccine
+course (with or without a birth dose) at ≥24 weeks of age. If the final dose
+is given at <24 weeks but ≥16 weeks (approximately 4 months) of age, the dose
+does not need to be repeated.
+
+#### Catch-up using monovalent hepatitis B vaccine
+
+If a child needs catch-up vaccination for hepatitis B only, and not any other
+antigens in the hepatitis B–containing combination vaccines, they can receive
+the standard schedule of monovalent hepatitis B vaccine (0, 1, 6 months) for
+the remaining dose(s), if needed. Check the minimum intervals specified in
+[Table. Minimum acceptable dose intervals for children <10 years of
+age](/node/510).
+
+#### Preterm infants
+
+Preterm (<32 weeks gestation) or low-birthweight infants (<2000 g birth
+weight) are recommended to receive:
+
+  * doses of hepatitis B vaccine at birth, and at 2, 4 and 6 months of age
+  * either [serological testing](/technical-terms#serological-testing) for antibody to hepatitis B surface [antigen](/technical-terms#antigen) or a hepatitis B booster dose at 12 months of age
+
+For details, see [Vaccination for preterm infants](/node/440) and [Hepatitis
+B](/node/147).
+
+### Hib vaccine
+
+#### Recommended doses
+
+Hib-containing vaccine is routinely recommended in a 4-dose schedule for
+infants at 2, 4, 6 and 18 months of age.
+
+See [_Haemophilus influenzae_ type b](/node/145).
+
+#### Minimum age for 1st dose
+
+6 weeks
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If a Hib-containing [combination vaccine](/technical-terms#combination-
+vaccine) is inadvertently given before 6 weeks of age, follow the recommended
+action for DTPa-containing vaccines. See [DTPa vaccine](/catch-up-
+vaccination#dtpa-vaccine).
+
+#### Doses and intervals for catch-up
+
+The recommended number of doses and intervals for catch-up Hib vaccines vary
+with the child’s age.
+
+See [Table. Catch-up schedule for _Haemophilus influenzae_ type b (Hib)
+vaccination for children <5 years of age](/node/447). See also [_Haemophilus
+influenzae_ type b](/node/145).
+
+The recommended [minimum interval](/technical-terms#minimum-interval) between
+primary doses for catch-up is 4 weeks.
+
+Children should receive booster doses at 18 months of age, or 2 months after
+the last dose of Hib vaccine, whichever is later. Children do not need a
+booster dose if they received their previous dose at ≥18 months of age.
+
+##### Hib vaccine schedule in children given PRP-OMP vaccines
+
+If a child has received PRP-OMP (polyribosylribitol phosphate-outer membrane
+protein conjugate) Hib vaccine for both the 1st and 2nd (primary) doses in
+infancy, a 3rd Hib vaccine dose in infancy is not needed. The booster dose in
+the 2nd year of life is still required.
+
+If a child has only received a single PRP-OMP dose, a full 3-dose primary
+course will be required, followed by the booster dose in the 2nd year of life.
+
+Note that this is only likely to apply to children vaccinated overseas,
+because PRP-OMP Hib vaccine is not currently used in Australia.
+
+Table. Catch-up schedule for Haemophilus influenzae type b (Hib) vaccination
+for children <5 years of age
+
+This schedule does not apply to people who have had a haematopoietic stem cell
+transplant. See [Table. Recommendations for revaccination following
+haematopoietic stem cell transplant (HSCT) in children and adults](/node/666)
+in [Vaccination for people who are immunocompromised](/node/436).
+
+This table assumes that the [minimum interval](/technical-terms#minimum-
+interval) between doses has been met. See also [Catch-up guidelines for
+individual vaccines for children < 10 years of age](/node/136#catchup-
+guidelines-for-individual-vaccines-for-children-aged-10-years) for more
+details.
+
+Number of Hib doses received previously | Current age | Age at 1st dose of Hib
+vaccine | Age at 2nd dose of Hib vaccine | Age at 3rd dose of Hib vaccine |
+Number of further primary dose(s) needed | Number of booster doses needed at
+age ≥ 18 months, or 2 months after the last dose (whichever is later)  
+---|---|---|---|---|---|---  
+None | <7 months | na | na | na | 3 | 1  
+7–11 months | na | na | na | 2 | 1  
+12–17 months | na | na | na | 1 | 1  
+18–59 months | na | na | na | 1 | Not needed  
+1 | <12 months | <7 Months | na | na | 2 | 1  
+<12 months | 7– 11 months | na | na | 1 | 1  
+12– 17 months | <12 months | na | na | 1 | 1  
+12– 17 months | ≥12 months | na | na | Not needed | 1  
+18– 59 months | <12 months | na | na | na | 1  
+18– 59 months | ≥12 months– <18 months | na | na | na | 1  
+18– 59 months | ≥18 months | na | na | Not needed | Not needed  
+2 | <12 months | <7 months | <12 months | na | 1 | 1  
+<12 months | 7-11 months | 7– 11 months | na | Not needed | 1  
+12– 17 months | <12 months | Any age | na | Not needed | 1  
+12– 17 months | ≥12 months | ≥12 months | na | Not needed | na  
+18-59 months | <12 months | <12 months | na | Not needed | 1  
+18– 59 months | <12 months | 12-17 months | na | Not needed | 1  
+18– 59 months | >12 months | 18– 59 months | na | Not needed | Not needed  
+3 | <17 months | <12 months | <12 months | <12 months | Not needed | 1  
+<17 months | At least 1 dose (most likely 3rd dose) at 12– 17 months | At
+least 1 dose (most likely 3rd dose) at 12– 17 months | At least 1 dose (most
+likely 3rd dose) at 12– 17 months | Not needed | Not needed  
+18– 59 months | <12 months | <12 months | <12 months | Not needed | 1  
+18– 59 months | At least 1 dose at ≥12 months | At least 1 dose at ≥12 months
+| At least 1 dose at ≥12 months | Not needed | Not needed  
+  
+**Footnotes:**
+
+na=not applicable  
+  
+### MMR and MMRV vaccines
+
+#### Recommended doses
+
+All children aged ≥12 months are recommended to receive 2 doses of MMR-
+containing vaccine:
+
+  * the 1st dose at 12 months of age as MMR vaccine
+  * the 2nd dose at 18 months of age as MMRV vaccine
+
+See [Measles](/node/151), [Mumps](/node/153) and [Rubella](/node/159).
+
+#### Minimum age for 1st dose
+
+12 months
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+Children can receive MMR vaccine from 6 months of age in certain
+circumstances, such as for [post-exposure prophylaxis](/technical-terms#post-
+exposure-prophylaxis) for measles (see [Measles](/node/151)). It is
+recommended that the 1st dose be repeated if it was given at <11 months of
+age.
+
+The Australian Immunisation Register will record MMR vaccine given at ≥11
+months of age as a valid dose to calculate immunisation status. A dose
+provided at ≥11 months (but before 12 months) of age may be sufficiently
+immunogenic, especially in infants born to mothers with measles antibody
+derived from vaccination rather than natural [infection](/technical-
+terms#infection). As such, doses given at ≥11 months but <12 months may not
+need to be repeated.3
+
+MMRV vaccine is recommended as the 2nd (not 1st) dose of MMR-containing
+vaccine in children <4 years of age. If a child was inadvertently given MMRV
+as the 1st dose of MMR-containing vaccine, that MMR-containing dose does not
+need to be repeated, unless it was given at <12 months of age.
+
+#### Minimum interval between doses
+
+The [minimum interval](/technical-terms#minimum-interval) between doses 1 and
+2 is 4 weeks.
+
+#### Catch-up recommendations
+
+MMR is recommended as the 1st dose of MMR-containing vaccine in children <4
+years of age.
+
+If a child has not received any documented doses of MMR vaccine, the catch-up
+schedule is 2 doses of MMR-containing vaccine, given at least 4 weeks apart.
+See [Measles](/node/151). Children aged >12 months to <4 years can receive the
+1st dose as MMR vaccine, and the 2nd dose as MMRV vaccine.
+
+If a child receives varicella vaccine at <12 months of age, they should
+receive a further dose at 18 months of age. If the 2nd dose of MMR vaccine and
+a dose of varicella vaccine are both needed, the child can receive MMRV
+vaccine. See [Varicella](/node/163).
+
+Only give MMRV vaccine as the 2nd dose of MMR-containing vaccine in children
+<4 years of age.
+
+Children aged ≥4 years to 14 years can receive MMRV as their 1st dose of MMR-
+containing vaccine. See [Measles](/node/151) and [Varicella](/node/163).
+
+### Meningococcal vaccines
+
+#### Recommended doses
+
+The recommended schedule for meningococcal vaccines varies for different
+formulations (see [Meningococcal disease](/node/152)). Generally, the earlier
+the vaccination schedule starts, the more doses are needed.
+
+People with medical conditions that increase their risk of invasive
+meningococcal disease need extra doses.
+
+Children aged 12-23 months are recommended to receive a single dose (Nimenrix
+or MenQuadfi) or 2 doses (Menveo) of [MenACWY](/technical-terms#menacwy)
+vaccine.
+
+#### Minimum age for 1st dose
+
+6 weeks for either [MenACWY](/technical-terms#menacwy) or MenB vaccine
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If a child receives their 1st dose of [MenACWY](/technical-terms#menacwy)
+vaccine between >28 days and <42 days (6 weeks) of age, the dose does not
+necessarily need to be repeated. Seek expert advice.
+
+The Australian Immunisation Register will record [MenACWY](/technical-
+terms#menacwy) given at ≥11 months of age as a valid dose to calculate
+immunisation status.
+
+#### Minimum intervals between doses
+
+The minimum acceptable interval between [MenACWY](/technical-terms#menacwy)
+vaccines is 8 weeks. There are no clinical trial data in older children for
+minimum intervals less than the routinely recommended interval of 8 weeks.
+
+The minimum acceptable interval between primary doses of MenB vaccine is 6
+weeks for infants aged <6 months, for a 2+1 schedule. The minimum acceptable
+interval between doses of MenB vaccine is 8 weeks for infants and children
+aged 6–23 months. The minimum acceptable interval between primary doses of
+MenB vaccine is 4 weeks for children aged ≥2 years and adults.
+
+In circumstances where MenB and [MenACWY](/technical-terms#menacwy) vaccines
+are indicated, the vaccines can be administered concurrently based on first
+principles. See [Meningococcal disease](/node/152).
+
+#### Catch-up recommendations
+
+If a child aged ≥12 months has not received a dose, they are recommended to
+receive a single dose (Nimenrix or MenQuadfi) or 2 doses (Menveo) of
+[MenACWY](/technical-terms#menacwy) vaccine. See [Meningococcal
+disease](/node/152).
+
+### Pneumococcal vaccines (13vPCV and 23 vPPV)
+
+#### Recommended doses
+
+All infants are routinely recommended to receive 3 doses of 13vPCV at 2, 4 and
+12 months of age.
+
+An additional dose of 13 vPCV at 6 months of age is recommended for:
+
+  * Aboriginal and Torres Strait Islander children living in the Northern Territory, Queensland, South Australia and Western Australia
+  * children with risk conditions for pneumococcal disease
+
+These children are also recommended to receive 2 doses of 23vPPV:
+
+  * 1st dose at 4 years of age
+  * 2nd dose at least 5 years later
+
+See [Pneumococcal disease](/node/154).
+
+#### Minimum age for 1st dose
+
+6 weeks
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If a child receives their 1st dose of PCV at ≤28 days of age, it is
+recommended that the dose is repeated. This repeat dose should be given at 2
+months of age. Follow the National Immunisation Program schedule for future
+doses, with the next dose of PCV given at 4 months of age.
+
+If a child receives their 1st dose of PCV between >28 days and <42 days (6
+weeks) of age, it does not necessarily need to be repeated. Limited data
+suggest that administration at this age will still be safe and immunogenic.
+Follow the National Immunisation Program schedule for future doses, with the
+next dose of PCV given at 4 months of age.
+
+The need to repeat the 1st dose of vaccine may not be recognised until the
+infant is older. For example, a 4-month-old infant may present for vaccination
+and has only previously received 1 dose of 13vPCV vaccine at age ≤28 days. In
+this case:
+
+  * repeat the dose now (and count this as dose 1)
+  * proceed with the schedule as per the National Immunisation Program or catch-up recommendations
+
+#### Doses and intervals for catch-up
+
+The number of doses and recommended intervals of 13vPCV needed for catch-up
+vaccination depend on:
+
+  * the child’s age
+  * their health status
+  * their Aboriginal and Torres Strait Islander status
+  * the state or territory they live in
+
+See:
+
+  * [Pneumococcal disease](/node/154)
+  * [Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NSW, Vic, Tas or ACT, and children from all states/territories who do not have risk condition(s) for pneumococcal disease, aged <5 years](/resources/tables/table-catch-up-schedule-for-13vpcv-for-aboriginal-and-torres-strait-islander-children-living-in-nsw-vic-tas-or-act-and-children-from-all-statesterritories-who-do-not-have-risk-conditions-for-pneumococcal-disease-aged "Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NSW, Vic, Tas or ACT, and children from all states/territories who do not have risk condition\(s\) for pneumococcal disease, aged <5 years")
+  * [Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NT, Qld, SA or WA ONLY, and children from all states/territories with risk condition(s) for pneumococcal disease, aged <5 years](/resources/tables/table-catch-up-schedule-for-13vpcv-for-aboriginal-and-torres-strait-islander-children-living-in-nt-qld-sa-or-wa-only-and-children-from-all-statesterritories-with-any-medical-conditions-for-pneumococcal-disease-aged "Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander children living in NT, Qld, SA or WA ONLY, and children from all states/territories with any medical condition\(s\) for pneumococcal disease, aged <5 years")
+
+Children may have received previous PCV doses as 7vPCV (for example, if they
+received vaccines overseas), 10vPCV or 13vPCV.
+
+Healthy children **do not** need catch up doses of 13vPCV after age ≥5 years.
+
+Preterm infants born at <28 weeks gestation should receive extra doses of
+pneumococcal vaccines, in accordance with the schedule for children at
+increased risk of pneumococcal disease. See [Pneumococcal disease](/node/154)
+and [Vaccination for preterm infants](/node/440).
+
+Where possible, align catch-up doses with the standard schedule points for
+infants (2 and 4 months of age, and 6 months of age for Aboriginal and Torres
+Strait Islander children and children with risk conditions for pneumococcal
+disease).
+
+The [minimum interval](/technical-terms#minimum-interval) between doses of PCV
+is 1 month if aged <12 months, and 2 months if aged ≥12 months. In any 13vPCV
+catch-up schedule, children should receive their last dose after they reach 12
+months of age (as a booster dose), with a [minimum interval](/technical-
+terms#minimum-interval) of 2 months after the previous dose.
+
+The [minimum interval](/technical-terms#minimum-interval) between a dose of
+23vPPV that follows a dose of PCV is 2 months.
+
+The [minimum interval](/technical-terms#minimum-interval) between doses of
+23vPPV is 5 years.
+
+Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander
+children living in NSW, Vic, Tas or ACT, and children from all
+states/territories who do not have risk condition(s) for pneumococcal disease,
+aged <5 years
+
+Number of doses received previously | Age at presentation | Age at 1st dose of
+PCV | Age at 2nd dose of PCV | Age at 3rd dose of PCV | Number of further
+primary dose(s) needed | Number of booster dose(s) at age ≥12 months  
+---|---|---|---|---|---|---  
+None | <12 months | na | na | na | 2 | 1  
+12–59 months | na | na | na | 1 | None  
+1 | <12 months | <12 months | na | na | 1 | 1  
+12–59 months | <12 months | na | na | None | 1  
+12–59 months | ≥12 months | na | na | None | None  
+2 | <12 months | <12 months | <12 months | na | None | 1  
+12–59 months | <12 months | <12 months | na | None | 1  
+12–59 months | <12 months | ≥12 months | na | None | None  
+3 | <12 months | <12 months | <12 months | <12 months | None | 1  
+12–59 months | <12 months | <12 months | <12 months | None | None (not
+routinely recommended but may be given to maximise individual protection)  
+na = not applicable  
+  
+Table. Catch-up schedule for 13vPCV for Aboriginal and Torres Strait Islander
+children living in NT, Qld, SA or WA ONLY, and children from all
+states/territories with any medical condition(s) for pneumococcal disease,
+aged <5 years
+
+These children are also recommended to receive 2 doses of 23vPPV:
+
+  * 1st dose at 4 years of age and at a minimum of 2 months after a 13vPCV dose
+  * 2nd dose at least 5 years after the 1st 23vPPV dose
+
+This schedule **does not** apply to people who have had a haematopoietic stem
+cell transplant. See [Table. Recommendations for revaccination after
+haematopoietic stem cell transplant in children and adults](/node/666).
+
+Number of 13vPCV doses received previously | Age at presentation | Age at 1st
+dose of PCV | Age at 2nd dose of PCV | Age at 3rd dose of PCV | Number of
+further primary PCV dose(s) required | Number of PCV booster doses needed at
+age ≥12 months  
+---|---|---|---|---|---|---  
+None | <12 months | na | na | na | 3 | 1  
+12–59 months | na | na | na | 1 | 1  
+1 | <12 months | Any age | na | na | 2 | 1  
+12–59 months | <12 months | na | na | 1 | 1  
+≥12 months | na | na | None | 1  
+2 | <12 months | Any age | Any age | na | 1 | 1  
+12–59 months | <12 months | <12 months | na | 1 | 1  
+12–59 months | <12 months | ≥12 months | na | None | 1  
+12–59 months | ≥12 months | ≥12 months | na | None | None  
+3 | <12 months | Any age | Any age | Any age | None | 1  
+12–59 months | <12 months | <12 months | Any age | None | 1  
+12–59 months | <12 months | ≥12 months | ≥12 months | None | None  
+na = not applicable  
+  
+### Polio vaccine
+
+#### Recommended doses
+
+If a child has not received any doses of polio vaccine, give 3 doses of IPV or
+IPV-containing vaccines at least 4 weeks apart (see
+[Poliomyelitis](/contents/vaccine-preventable-diseases/poliomyelitis
+"Poliomyelitis")).
+
+Previous doses of oral polio vaccine are interchangeable with IPV.
+
+If a child receives their 3rd dose of IPV at ≤3.5 years of age, give the 4th
+(booster) dose at the 4th birthday.
+
+#### Minimum age for 1st dose
+
+6 weeks
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If an IPV-containing [combination vaccine](/technical-terms#combination-
+vaccine) is inadvertently given before 6 weeks of age, follow the recommended
+action for DTPa-containing vaccines. See [DTPa vaccine](/catch-up-
+vaccination#dtpa-vaccine).
+
+#### Minimum interval between doses
+
+Minimum intervals between:
+
+  * doses 1 and 2 — 4 weeks
+  * doses 2 and 3 — 4 weeks
+  * doses 3 and 4 — 4 weeks (unless the child received dose 3 at >3.5 years of age, then dose 4 is not needed)
+
+### Rotavirus vaccine
+
+#### Recommended doses
+
+Catch-up rotavirus vaccination of older infants or children is **not**
+recommended.
+
+Infants should start the course of rotavirus vaccination within the
+recommended age limits for the 1st dose:
+
+  * the 1st dose of RotaTeq should be given between 6 and 12 weeks of age (before turning 13 weeks old)
+  * the 1st dose of Rotarix should be given between 6 and 14 weeks of age (before turning 15 weeks old)
+
+Children should not receive vaccine doses beyond the upper age limits
+specified [Table. Upper age limits for dosing of oral rotavirus
+vaccines](/resources/tables/table-upper-age-limits-for-dosing-of-oral-
+rotavirus-vaccines "Table. Upper age limits for dosing of oral rotavirus
+vaccines") in [Rotavirus](/contents/vaccine-preventable-diseases/rotavirus
+"Rotavirus").
+
+See [Rotavirus](/node/158).
+
+#### Minimum age for 1st dose
+
+6 weeks
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If a child received their 1st dose of rotavirus vaccine at ≤28 days of age, it
+is recommended that the dose is repeated. This repeat dose should be given at
+2 months of age. Follow the National Immunisation Program schedule for future
+doses, with the next dose of rotavirus vaccine given at 4 months of age.
+
+If a child received their 1st dose of rotavirus vaccine between >28 days and
+<42 days (6 weeks) of age, it does not necessarily need to be repeated.
+Limited data suggest that administration at this age will still be safe and
+immunogenic. Follow the National Immunisation Program schedule for future
+doses, with the next dose of rotavirus vaccine given at 4 months of age.
+
+#### Minimum interval between doses
+
+For all doses of rotavirus vaccine, do not exceed the upper age limits for
+dose administration. See [Rotavirus](/node/158).
+
+The [minimum interval](/technical-terms#minimum-interval) between each dose of
+rotavirus vaccine is 4 weeks.
+
+### Varicella vaccine
+
+#### Recommended doses
+
+1 dose of varicella-containing vaccine is routinely recommended in children
+<10 years of age, with a preference for 2 doses (see
+[Varicella](/contents/vaccine-preventable-diseases/varicella-chickenpox
+"Varicella \(chickenpox\)")).
+
+#### Minimum age for 1st dose
+
+9 months for Varilrix monovalent varicella vaccine.
+
+12 months for other varicella-containing vaccines.
+
+#### Action if a vaccine dose is inadvertently given before the recommended
+minimum age
+
+If a child receives a varicella-containing vaccine at <12 months of age, the
+dose should be repeated, preferably at 18 months of age.
+
+Varilrix (monovalent varicella vaccine) is registered for use from 9 months of
+age. Children can receive this vaccine from ≥9 months of age in special
+circumstances, such as before travelling. However, a dose received at <12
+months of age should be repeated.
+
+MMRV vaccine is recommended as the 2nd (not 1st) dose of MMR-containing
+vaccine in children <4 years of age. If a child is inadvertently given MMRV as
+the 1st dose of MMR-containing vaccine, that MMR-containing dose does not need
+to be repeated, unless it was given at <12 months of age.
+
+#### Catch-up recommendations
+
+If a child has not received any documented doses of varicella vaccine, the
+catch-up schedule is a single dose of varicella-containing vaccine for
+children aged <14 years. See [Varicella](/node/163).
+
+If a child receives varicella vaccine at <12 months of age, they should
+receive a further dose at 18 months of age. If the 2nd dose of MMR vaccine and
+a dose of varicella vaccine are both needed, the child can receive MMRV
+vaccine. See MMR and MMRV vaccines.
+
+Only give MMRV vaccines as the 2nd dose of MMR-containing vaccine in children
+<4 years of age. Children aged ≥4 years to 14 years can receive MMRV as their
+1st dose of MMR-containing vaccine.
+
+## Catch-up schedules for people aged ≥10 years
+
+Catch-up is much more common for young children than it is for people ≥10
+years of age. However, sometimes adolescents and adults missed doses earlier
+in their life and need to catch up. They may also need booster doses or
+revaccination. People who did not have natural [infection](/technical-
+terms#infection) as children and were not vaccinated remain at unnecessary
+risk of vaccine-preventable diseases.
+
+In general, the same principles for catch-up vaccination apply as for younger
+children. For example, if a vaccine course is incomplete, do not start the
+course again, regardless of the interval since the last dose. One exception to
+this rule is for oral cholera vaccine (see [Cholera](/node/143)).
+
+Catch-up vaccination for adults may not be as straightforward as for children
+and adolescents.
+
+See [Infographic. Catch-up vaccination for adolescents and
+adults](/resources/publications/catch-up-vaccination-for-adolescents-and-
+adults "Catch-up vaccination for adolescents and adults").
+
+### Do not use certain childhood combination vaccines for adolescents or
+adults
+
+Certain childhood combination vaccines are not registered for use in children
+aged ≥10 years, adolescents or adults. The exception is MMR vaccine, which is
+available for use at all ages. MMRV vaccine is only recommended for use up to
+14 years of age.
+
+Combination vaccines should not be used for adolescents or adults who need
+vaccines for several antigens. The [antigen](/technical-terms#antigen) content
+of combination vaccines is different from that of adult formulations. There
+may be a higher risk of adverse events, such as injection site reactions.
+
+### HALO principle
+
+When planning which vaccines to give to adults, consider the [HALO
+principle](/technical-terms#halo-principle). This helps assess which vaccines
+adults need based on risk factors:
+
+  *  **H** ealth
+  * **A** ge
+  * **L** ifestyle
+  * **O** ccupation
+
+The schedule for each individual adult may differ because of the risk factors
+identified when applying the [HALO principle](/technical-terms#halo-
+principle).
+
+Examples of how the [HALO principle](/technical-terms#halo-principle) can be
+used:
+
+  *  **H** ealth — the person has a medical condition(s) that increases their risk of acquiring a particular vaccine-preventable disease or experiencing complications from that disease. Examples are influenza, pneumococcal and meningococcal disease.
+  * **A** ge — older age groups may need extra vaccines, such as influenza or pneumococcal vaccination. Certain age groups may be targeted for immunisation against a particular disease, such as HPV. Young to middle-aged adults may have missed out on vaccine doses as a result of schedule changes, such as the 2nd dose of MMR vaccine.
+  * **L** ifestyle — the person may have missed vaccines because they changed where they live. They may need extra vaccines because they travel frequently. They may have other lifestyle risk factors that increase their risk of acquiring a vaccine-preventable disease, such as smoking or injecting drugs.
+  * **O** ccupation — the person may work in a job for which certain vaccines are recommended because of the increased risk of acquiring a vaccine-preventable disease or transmitting it to others. Examples are people who work in health care or early childhood education and care, and people who work with animals.
+
+The pre-vaccination screening checklist and [Table. Responses to conditions or
+circumstances identified through the pre-vaccination screening
+checklist](/node/536) in [Preparing for vaccination](/node/181) also
+incorporate the [HALO principle](/technical-terms#halo-principle) to some
+extent.
+
+### Planning catch-up vaccines for people aged ≥10 years
+
+[Table. Catch-up schedule for people ≥10 years of age (for vaccines
+recommended on a population level](/node/448)[)](/node/448) contains
+information on vaccine doses and intervals between doses for people aged ≥10
+years who need catch-up vaccination for a particular [antigen](/technical-
+terms#antigen).
+
+This table only includes diseases for which vaccination is recommended at a
+population level, and for which catch-up is needed if vaccine doses were
+missed earlier in life.
+
+The table does not include information on all diseases that adults may need
+vaccines for. [Vaccination for special risk groups](/contents/vaccination-for-
+special-risk-groups "Vaccination for special risk groups") includes more
+details.
+
+The table shows the number of vaccine doses required for a person who has not
+previously received any vaccine doses for that [antigen](/technical-
+terms#antigen). If a person has received previous doses, deduct the number of
+previous doses from the number in the ‘Doses needed’ column.
+
+To use [Table. Catch-up schedule for people ≥10 years of age (for vaccines
+recommended on a population level)](/node/448):
+
+  * determine how many vaccine doses for a particular [antigen](/technical-terms#antigen) a person should have received to be considered completely vaccinated (see ‘Doses needed’ column)
+  * deduct any previous vaccine doses received for that [antigen](/technical-terms#antigen) from the number in the ‘Doses needed’ column
+  * check the ‘Minimum interval between doses’ column to schedule further doses
+
+For more recommendations, see the following, as required:
+
+  * the [relevant disease-specific chapter(s)](/contents/vaccine-preventable-diseases "Vaccine preventable diseases") in this Handbook
+  * [Vaccination for special risk group](/contents/vaccination-for-special-risk-groups "Vaccination for special risk groups")
+
+### Example of catch-up requirements
+
+For example, a 32-year-old woman ( **A** ge) is returning to nursing ( **O**
+ccupation) but has only ever had:
+
+  * 1 dose of hepatitis B vaccine
+  * 4 doses of oral poliomyelitis vaccine
+  * 1 dose of MMR vaccine
+  * 2 doses of DTPw (whole-cell) vaccine as a child
+
+She recently had a splenectomy ( **H** ealth) after an accident.
+
+This person would need:
+
+  * 1 dose of dTpa
+  * 2 adult doses of hepatitis B — 1 dose now and another dose in 2 months
+  * no further doses of polio vaccine (she is fully vaccinated against polio)
+  * 1 dose of MMR vaccine
+  * 2 doses of varicella vaccine if non-immune — 1 dose now and another dose in 4 weeks
+  * 1 dose of influenza vaccine (and 1 dose every year)
+  * pneumococcal vaccine (because of splenectomy) — 1 dose of 13vPCV now, 1 dose of 23vPPV (23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine)) 2 months later and a second dose of 23vPPV at least 5 years after the 1st dose of 23vPPV
+  * 1 dose of Hib vaccine (because of splenectomy)
+  * 2 doses of [MenACWY](/technical-terms#menacwy) vaccine (because of splenectomy) — 1 dose now and another dose in 8 weeks, plus booster doses every 5 years
+  * 2 doses of MenB vaccine (because of splenectomy) — 1 dose now and another dose in 8 weeks
+
+For more details, see:
+
+  * [Vaccination for people at occupational risk](/node/435)
+  * [People with functional or anatomical asplenia](/node/523) in [Vaccination for people who are immunocompromised](/node/436)
+  * [relevant disease-specific chapters](/node/752)
+
+Table. Catch-up schedule for people ≥10 years of age (for vaccines recommended
+on a population level)
+
+See [Catch-up schedules for people ≥10 years of age](/contents/catch-up-
+vaccination#catchup-schedules-for-people-aged-10-years) for more details.
+
+Antigen | Doses needed | Minimum interval between doses | Notes  
+---|---|---|---  
+Diphtheria and tetanus | 3 doses |
+
+  * Between doses 1 and 2: 4 weeks
+  * Between doses 2 and 3: 4 weeks
+
+|
+
+  * People should receive 1 of the doses as dTpa-containing vaccine and complete the course with dT. This dose would also provide the catch-up dose for pertussis.
+  * If dT is not available, use dTpa or dTpa-IPV for all 3 primary doses.
+
+  
+Pertussis | 1 dose |
+
+  * Not required
+
+|
+
+  * People ≥10 years of age who did not receive all the pertussis vaccine doses recommended before the age of 10 years only need 1 dose to be considered up to date. This is regardless of the number of previous doses they received before the age of 10 years.
+  * A booster dose of pertussis-containing vaccine is routinely recommended for all adolescents aged 11–13 years. Take this into account when planning catch-up for pertussis.
+
+  
+Hepatitis B, if aged 10–19 years | 3 paediatric doses |
+
+  * Between doses 1 and 2: 1 month
+  * Between doses 2 and 3: 2 months
+
+| Minimum interval between dose 1 and dose 3 is 4 months.  
+Hepatitis B, if aged 11–15 years only | 2 adult doses |
+
+  * 4 months
+
+| None  
+Hepatitis B — if aged ≥20 years | 3 adult doses |
+
+  * Between doses 1 and 2: 1 month
+  * Between doses 2 and 3: 2 months
+
+|
+
+  * Minimum interval between dose 1 and dose 3 is 4 months.
+  * Some people who are immunocompromised are recommended to receive extra doses or vaccines with higher [antigen](/technical-terms#antigen) content.
+
+  
+Poliomyelitis | 3 doses |
+
+  * Between doses 1 and 2: 4 weeks
+  * Between doses 2 and 3: 4 weeks
+
+| None  
+Human papillomavirus, if immunocompetent and started at 9–25 years of age | 1
+dose |
+
+  * Not required
+
+|
+
+None  
+  
+Human papillomavirus, people who are immunocompromised (any age) or if
+immunocompetent and started at ≥26 years of age | 3 doses |
+
+  * Between doses 1 and 2: 4 weeks
+  * Between doses 2 and 3: 12 weeks
+
+| Minimum interval between dose 1 and dose 3 is 5 months.  
+Measles, mumps and rubella | 2 doses |
+
+  * Between doses 1 and 2: 4 weeks
+
+| None  
+Meningococcal | 1 dose of [MenACWY](/technical-terms#menacwy) vaccine |
+
+  * Not required
+
+| The required catch-up dose is specific to routine use of
+[MenACWY](/technical-terms#menacwy) vaccine. [MenACWY](/technical-
+terms#menacwy) and MenB vaccines are also indicated for people at increased
+risk of meningococcal disease in alternative schedules. See [Meningococcal
+disease](/node/152) and [Vaccination for special risk
+groups](/contents/vaccination-for-special-risk-groups "Vaccination for special
+risk groups").  
+Pneumococcal | Depends on person’s age, Aboriginal and Torres Strait Islander
+status, and whether they have medical condition(s) associated with an
+increased risk of invasive pneumococcal disease |
+
+  * Varies
+
+| See [Pneumococcal disease](/node/154) and [Vaccination for special risk
+groups](/contents/vaccination-for-special-risk-groups "Vaccination for special
+risk groups").  
+Varicella, if aged <14 years | At least 1 dose |
+
+  * Between doses 1 and 2: 4 weeks (if 2nd dose is given)
+
+|
+
+  * Recommended for all non-immune people. People aged <14 years are recommended to receive at least 1 and preferably 2 doses.
+  * Children aged <14 years can receive MMRV vaccine.
+
+  
+Varicella, if aged ≥14 years | 2 doses |
+
+  * 4 weeks
+
+|
+
+  * 2 doses are recommended for all non-immune people aged ≥14 years.
+  * MMRV is not recommended for use in people ≥14 years of age.
+
+  
+Zoster |
+
+Shingrix: 2 doses if aged ≥50 years
+
+Zostavax: 1 dose if aged ≥50 years
+
+|
+
+  * Shingrix: 2-6 months
+
+  * Zostavax: Not required
+
+|
+
+  * Shingrix is the preferred vaccine for people aged over 50 years
+  * Zostavax can be used in people aged ≥50 years, if Shingrix is not available, but people should be assessed by the [Live zoster vaccine (Zostavax) screening for contraindications tool](/resources/tables/table-live-zoster-vaccine-zostavax-screening-for-contraindications "Table. Live zoster vaccine \(Zostavax\) screening for contraindications")
+  * Shingrix is the only approved vaccine for immunocompromised people aged 18-49 years
+
+  
+  
+**Acronyms used**
+
+  * dT =diphtheria-tetanus;
+  * dTpa = reduced [antigen](/technical-terms#antigen) content diphtheria-tetanus-acellular pertussis;
+  * IPV = inactivated poliovirus;
+  * [MenACWY](/technical-terms#menacwy) = meningococcal ACWY;
+  * MenB = meningococcal B;
+  * MMRV = measles-mumps-rubella-varicella
+
+  
+  
+## References
+
+  1. Kroger AT, Duchin J, Vázquez M. [General best practice guidelines for immunization](https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/index.html). Best practices guidance of the Advisory Committee on Immunization Practices (ACIP). Atlanta, GA: Centers for Disease Control and Prevention; 2017.
+  2. Kroger AT, Atkinson WL, Pickering LK. General immunization practices. In: Plotkin SA, Orenstein WA, Offit PA, Edwards KM, eds. Plotkin's vaccines. 7th ed. Philadelphia, PA: Elsevier; 2018. 
+  3. Australian Government Department of Human Services. [The Australian Immunisation Register](https://www.humanservices.gov.au/organisations/health-professionals/services/medicare/australian-immunisation-register-health-professionals#enabler-2021). National due and overdue rules for immunisation. (Accessed Apr 2018). <https://www.humanservices.gov.au/organisations/health-professionals/services/medicare/australian-immunisation-register-health-professionals#enabler-2021>
+
+## Page history
+
+Last updated
+
+30 January 2023
+
+Last reviewed
+
+30 January 2023
+
+Show all page updates (7)
+
+30 January 2023
+
+Updates to guidance regarding HPV vaccination for catch-up of people ≥10 years
+of age (for vaccines recommended on a population level).
+
+7 December 2022
+
+  * Updated guidance relating to catch-up of meningococcal vaccines. 
+  * Updated guidance on zoster vaccines in Table. Catch-up schedule for people ≥10 years of age (for vaccines recommended on a population level) 
+
+8 March 2022
+
+Updates to [Table. Catch-up schedule for _Haemophilus influenzae_ type b (Hib)
+vaccination for children <5 years of age](/resources/tables/table-catch-up-
+schedule-for-haemophilus-influenzae-type-b-hib-vaccination-for-children
+"Table. Catch-up schedule for Haemophilus influenzae type b \(Hib\)
+vaccination for children <5 years of age")
+
+27 September 2021
+
+Guidance on MenB vaccine minimum intervals updated.
+
+3 June 2020
+
+Changes to catch-up recommendations for children receiving pneumococcal and/or
+Hepatitis A vaccines. Guidance on concomitant and sequential administration of
+vaccines has been updated.
+
+20 September 2019
+
+Editorial updates to reflect the closure of National HPV Vaccination Program
+Register and principles of catch-up vaccination.
+
+Section on assessing immunisation status updated to reflect closure of
+National HPV Vaccination Program Register.
+
+Principles of catch-up vaccination updated to provide more detailed guidance
+on concomitant and sequential administration of vaccines.
+
+12 April 2019
+
+Changes to catch-up recommendations for infants receiving MMR vaccines. The
+recommended age at which infants can receive MMR vaccine in special
+circumstances has been lowered from 9 months to 6 months. For additional
+details refer to [MMR and MMRV vaccines](/catch-up-vaccination#mmr-and-mmrv-
+vaccines) and [Measles](/contents/vaccine-preventable-diseases/measles
+"Measles").
+
+30 January 2023
+
+Updates to guidance regarding HPV vaccination for catch-up of people ≥10 years
+of age (for vaccines recommended on a population level).
+
+7 December 2022
+
+  * Updated guidance relating to catch-up of meningococcal vaccines. 
+  * Updated guidance on zoster vaccines in Table. Catch-up schedule for people ≥10 years of age (for vaccines recommended on a population level) 
+
+8 March 2022
+
+Updates to [Table. Catch-up schedule for _Haemophilus influenzae_ type b (Hib)
+vaccination for children <5 years of age](/resources/tables/table-catch-up-
+schedule-for-haemophilus-influenzae-type-b-hib-vaccination-for-children
+"Table. Catch-up schedule for Haemophilus influenzae type b \(Hib\)
+vaccination for children <5 years of age")
+
+27 September 2021
+
+Guidance on MenB vaccine minimum intervals updated.
+
+3 June 2020
+
+Changes to catch-up recommendations for children receiving pneumococcal and/or
+Hepatitis A vaccines. Guidance on concomitant and sequential administration of
+vaccines has been updated.
+
+20 September 2019
+
+Editorial updates to reflect the closure of National HPV Vaccination Program
+Register and principles of catch-up vaccination.
+
+Section on assessing immunisation status updated to reflect closure of
+National HPV Vaccination Program Register.
+
+Principles of catch-up vaccination updated to provide more detailed guidance
+on concomitant and sequential administration of vaccines.
+
+12 April 2019
+
+Changes to catch-up recommendations for infants receiving MMR vaccines. The
+recommended age at which infants can receive MMR vaccine in special
+circumstances has been lowered from 9 months to 6 months. For additional
+details refer to [MMR and MMRV vaccines](/catch-up-vaccination#mmr-and-mmrv-
+vaccines) and [Measles](/contents/vaccine-preventable-diseases/measles
+"Measles").
+
+[ Previous After vaccination ](/contents/vaccination-procedures/after-
+vaccination "Go to previous page")
+
+[ Next Vaccination for special risk groups ](/contents/vaccination-for-
+special-risk-groups "Go to next page")
+
+## In this section
+
+##  [Table of contents](/contents)
+
+  * [About the handbook](/contents/about-the-handbook)
+  * [Fundamentals of immunisation](/contents/fundamentals-of-immunisation)
+  * [Vaccination procedures](/contents/vaccination-procedures)
+  * Catch-up vaccination
+  * [Vaccination for special risk groups](/contents/vaccination-for-special-risk-groups)
+  * [Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+
+Is there anything wrong with this page?
+
+## Help us improve the Australian Immunisation Handbook
+
+What you were doing? (required)
+
+What went wrong? (required)
+
+Leave this field blank
+
+Printed content may be out of date. For up to date information, always refer
+to the digital version:
+
+https://immunisationhandbook.health.gov.au/contents/catch-up-vaccination
+
+## Who's responsible for the Handbook
+
+  * [ATAGI](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi)
+  * [NHMRC](https://www.nhmrc.gov.au/)
+  * [Chief Medical Officer](https://www.health.gov.au/about-us/who-we-are/leadership#chief-medical-officer)
+  * [Department of Health and Aged Care](https://www.health.gov.au/)
+
+## Useful links and tools
+
+  * [Announcements](/contents/about-the-handbook/announcements "Announcements")
+  * [Handbook tables](/resources/tables "Handbook tables")
+  * [Handbook figures](/resources/figures "Handbook figures")
+  * [Technical terms](/technical-terms "Glossary of technical terms")
+  * [Abbreviations](/abbreviations "Abbreviations")
+
+## More about Immunisation
+
+  * [National Immunisation Program](https://www.health.gov.au/initiatives-and-programs/national-immunisation-program)
+  * [NIP Schedule](https://www.health.gov.au/health-topics/immunisation/immunisation-throughout-life/national-immunisation-program-schedule)
+  * [ATAGI statements](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi#statements)
+  * [Immunisation news](https://www.health.gov.au/news?f%5B0%5D=field_related_health_topics%3A1021)
+  * [Immunisation resources](https://www.health.gov.au/resources?f%5B0%5D=field_related_health_topics%3A1021&f%5B1%5D=field_audience%3A446)
+  * [NCIRS Factsheets](http://www.ncirs.org.au/health-professionals/ncirs-fact-sheets-faqs)
+
+## Help us improve
+
+We are always looking for ways to improve our website, the NICC and mobile
+app.
+
+[Provide feedback](/provide-feedback)
+
+## Using the Handbook
+
+  * [Accessibility](https://www.health.gov.au/using-our-websites/accessibility)
+  * [Copyright](https://www.health.gov.au/using-this-website/copyright)
+  * [Disclaimers](https://www.health.gov.au/using-this-website/disclaimers)
+  * [Privacy](https://www.health.gov.au/using-this-website/privacy)
+
+## Mobile apps
+
+[![Download from Apple App
+Store](/sites/default/files/2021-05/App_Store_Badge_v2.svg)](https://apps.apple.com/au/app/immunisationhandbook/id1484584970)
+
+[![Get it on Google
+Play](/sites/default/files/2021-05/Google_Play_Store_badge_EN_v2.svg)](https://play.google.com/store/apps/details?id=au.gov.health.immunisationhandbook.immunisation_handbook&hl=en_AU&gl=AU&utm_source=Website&utm_campaign=AIH)
+
+## Acknowledgement
+
+The Department of Health and Aged Care acknowledges First Nations peoples as
+the Traditional Owners of Country throughout Australia, and their continuing
+connection to land, sea and community. We pay our respects to them and their
+cultures, and to all Elders both past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged
+Care](https://www.health.gov.au/)
+
+Back to top
+
+Link copied
+
+**Link** , **share** or **bookmark** directly to this section of the page.
+
+  *[MMR]: measles-mumps-rubella
+  *[IPV]: inactivated poliomyelitis vaccine
+  *[PCR]: polymerase chain reaction
+  *[DTPa]: diphtheria-tetanus-acellular pertussis vaccine
+  *[13vPCV]: 13-valent pneumococcal conjugate vaccine.
+  *[23vPPV]: 23-valent pneumococcal polysaccharide vaccine
+  *[MMRV]: measles-mumps-rubella-varicella
+  *[PRP]: polyribosylribitol phosphate
+  *[OMP]: outer membrane protein
+  *[7vPCV]: 7-valent pneumococcal conjugate vaccine
+  *[10vPCV]: 10-valent pneumococcal conjugate vaccine.
+  *[DTPw]: diphtheria-tetanus-whole-cell pertussis vaccine
+  *[dTpa]: diphtheria-tetanus-acellular pertussis vaccine, reduced antigen content formulation
+  *[dT]: diphtheria-tetanus vaccine for use in adults
+

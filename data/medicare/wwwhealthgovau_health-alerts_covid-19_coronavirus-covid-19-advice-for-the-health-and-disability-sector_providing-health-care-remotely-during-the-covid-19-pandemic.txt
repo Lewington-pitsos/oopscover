@@ -1,0 +1,257 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Health alerts](/health-alerts)
+  3. [Coronavirus (COVID-19) pandemic](/health-alerts/covid-19)
+  4. [Coronavirus (COVID-19) advice for the health and disability sector](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector)
+
+[For health and disability sector](/health-alerts/covid-19/coronavirus-
+covid-19-advice-for-the-health-and-disability-sector)
+
+# Providing health care remotely during the COVID-19 pandemic
+
+To protect patients and healthcare providers from COVID-19 transmission, we
+have expanded telehealth services, fast-tracked electronic prescribing, and
+supported home delivery of medicines to vulnerable people. This allows health
+professionals to provide care remotely.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Providing health care remotely during the COVID-19 pandemic&url=https://www.health.gov.au/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/providing-health-care-remotely-during-the-covid-19-pandemic)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/providing-health-care-remotely-during-the-covid-19-pandemic)
+    * [Email](mailto:?subject=Providing health care remotely during the COVID-19 pandemic&body=https://www.health.gov.au/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/providing-health-care-remotely-during-the-covid-19-pandemic)
+
+Loading...
+
+On this page
+
+## ****Telehealth services****
+
+[Telehealth](https://www.health.gov.au/health-topics/health-technologies-and-
+digital-health/about/telehealth) has played a critical role in ensuring the
+continuity of care for hundreds of thousands of Australian patients during the
+COVID-19 pandemic. It has offered greater flexibility to health care, while
+supporting universal Medicare access.
+
+As part of our response to the COVID-19 pandemic, we expanded Australians’
+access to telehealth in March 2020 to reduce the risk of community
+transmission. We did this through temporary MBS telehealth items.
+
+As of 1 January 2022, MBS Telehealth arrangements have become ongoing. The
+permanent arrangements will:
+
+  * provide for a wide range of telephone and video services for general practitioners (GPs) and consultant physicians
+  * support safe and equitable telehealth services which are informed by the [MBS Review Taskforce Principles](/resources/collections/mbs-review-final-taskforce-reports-findings-and-recommendations "MBS Review – Final taskforce reports, findings and recommendations").
+
+Building on the pandemic response, more than 200 telehealth services have been
+made permanently available. These changes mean MBS video and telephone
+services are available nationally from GPs, medical specialists, and other
+health professionals.
+
+From 19 July 2022, new temporary telehealth items have been introduced that
+provide for longer phone consultations for patients who have received a
+positive COVID-19 test (RAT or PCR). Medicare benefits will recognise when a
+longer medical assessment by phone is required to assess whether antivirals
+should be prescribed, equivalent to face-to-face and video services of the
+same duration.
+
+Millions of Australians are now eligible to access antivirals on the
+Pharmaceutical Benefits Scheme (PBS), but they need to start taking the
+medication within five days of symptoms.
+
+Following a COVID-19 positive diagnosis, eligible people can have a telephone
+or video consultation with a doctor to obtain a prescription for antivirals.
+
+Patients who have a confirmed case of COVID-19 and are subject to self-
+isolation requirements can access telehealth from any GP, including for
+assessment of their suitability for oral antiviral medications.
+
+The items will remain on the MBS until 31 December 2022.
+
+For more information on new MBS items, see [MBS
+Online](http://www.mbsonline.gov.au/).
+
+### ****Who can receive telehealth services****
+
+[Telehealth services](/topics/health-technologies-and-digital-
+health/about/telehealth "Telehealth") are available nationally.
+
+To be eligible for GP telehealth services patients must have had a face-to-
+face consultation with their GP or another GP in the same practice, in the 12
+months before the telehealth service. There are some limited exceptions,
+including patients who are subject to isolation or quarantine due to state or
+territory COVID-19 public health orders.
+
+### ****Who can provide telehealth services****
+
+A range of healthcare providers can deliver telehealth services to patients.
+These include:
+
+  * general practitioners (GPs)
+  * specialists and consultant physicians
+  * allied health providers
+  * mental health professionals
+  * nurse practitioners.
+
+MBS Online lists the [types of health care professionals and
+services](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Factsheet-
+TempBB) for which there are Medicare rebates.
+
+## **Electronic prescribing**
+
+We fast-tracked [electronic prescribing](/our-work/electronic-prescribing
+"Electronic prescribing") as part of our pandemic response. These systems are
+now in place in many practices and pharmacies across Australia.
+
+See the Australian Digital Health Agency for information about [electronic
+prescribing for healthcare
+providers](https://www.digitalhealth.gov.au/healthcare-providers/initiatives-
+and-programs/electronic-prescribing).
+
+We introduced image-based prescribing at the start of the pandemic, while
+electronic prescribing systems were being developed.
+
+Image-based prescriptions (a photo of a paper prescription) will no longer be
+legal in all settings after **31 March 2023**. Prescriptions with repeats
+written before then will continue to be honoured until the prescription runs
+out or expires.
+
+## ****Home delivery for medicines****
+
+The COVID-19 Home Medicines Service ended on **30 June 2022**. The temporary
+measure enabled eligible Australians to have their Pharmaceutical Benefits
+Scheme and Repatriation Pharmaceutical Benefits Scheme medicines home
+delivered.
+
+For information, see the [data for the COVID-19 Home Medicines
+Service](https://www.health.gov.au/resources/publications/covid-19-home-
+medicines-service-data).
+
+Last updated:
+
+27 March 2023
+
+Tags:
+
+  * [Communicable diseases](/topics/communicable-diseases)
+  * [Emergency health management](/topics/emergency-health-management)
+  * [Health workforce](/topics/health-workforce)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Coronavirus (COVID-19)](/health-alerts/covid-19)
+
+  * [About the pandemic](/health-alerts/covid-19/about)
+  * [Case numbers](/health-alerts/covid-19/case-numbers-and-statistics)
+  * [Symptoms](/health-alerts/covid-19/symptoms)
+  * [Protect yourself and others](/health-alerts/covid-19/protect-yourself-and-others)
+  * [COVID-19 treatments](/health-alerts/covid-19/treatments/about)
+  * [Testing](/health-alerts/covid-19/testing)
+  * [Testing positive, and close contacts](/health-alerts/covid-19/testing-positive)
+  * [Domestic travel](/health-alerts/covid-19/domestic-travel)
+  * [International travel](/health-alerts/covid-19/international-travel)
+  * [Physical, mental and financial support](/health-alerts/covid-19/support)
+  * [Advice for groups at greater risk](/health-alerts/covid-19/advice-for-groups-at-risk)
+  * [For aged care sector](/topics/aged-care/advice-on-aged-care-during-covid-19)
+  * [For health and disability sector](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector)
+    * [Working arrangements](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/working-arrangements-for-high-risk-settings-during-covid-19)
+    * [Hygiene and cleaning](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/hygiene-and-cleaning-for-the-health-workforce-during-covid-19)
+    * [Personal protective equipment (PPE)](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/personal-protective-equipment-ppe-for-the-health-workforce-during-covid-19)
+    * [Mental health](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/mental-health-for-the-health-workforce-during-covid-19)
+    * [Providing health care face to face](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/providing-health-care-face-to-face-during-covid-19)
+    * [Providing health care remotely](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/providing-health-care-remotely-during-the-covid-19-pandemic)
+    * [Providing disability support services](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/providing-disability-support-services-during-covid-19)
+    * [Webinars](/health-alerts/covid-19/coronavirus-covid-19-advice-for-the-health-and-disability-sector/webinars-on-the-coronavirus-covid-19-response-for-the-health-aged-care-and-disability-sectors)
+  * [Government response](/health-alerts/covid-19/government-response)
+  * [Translated information](/health-alerts/covid-19/coronavirus-covid-19-translated-information)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

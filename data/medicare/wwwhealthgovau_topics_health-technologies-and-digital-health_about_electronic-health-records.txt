@@ -1,0 +1,219 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Health technologies and digital health](/topics/health-technologies-and-digital-health)
+  4. [About health technologies and digital health](/topics/health-technologies-and-digital-health/about)
+
+[About health technologies and digital health](/topics/health-technologies-
+and-digital-health/about)
+
+# Electronic health records
+
+Electronic health records store your health information in a secure digital
+system. Australia’s national system is called My Health Record. You and your
+healthcare providers can access your electronic health records to help plan
+your ongoing care.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Electronic health records&url=https://www.health.gov.au/topics/health-technologies-and-digital-health/about/electronic-health-records)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/health-technologies-and-digital-health/about/electronic-health-records)
+    * [Email](mailto:?subject=Electronic health records&body=https://www.health.gov.au/topics/health-technologies-and-digital-health/about/electronic-health-records)
+
+Loading...
+
+On this page
+
+## About electronic health records
+
+Electronic health records provide a safe and secure digital space to store
+your health information. They are a digital version of notes that used to be
+kept in paper form.
+
+Electronic health records allow your healthcare providers to access up-to-date
+information to support your ongoing care.
+
+## Benefits
+
+Electronic health records make health information instantly available to
+authorised people. They improve care coordination and can reduce the risk of
+medical errors.
+
+They keep information in one place, which helps health professionals to make
+informed decisions about your care more quickly.
+
+Electronic health record systems can also give providers access to digital
+tools they can use to make decisions about your care. For example, they could
+predict your risk of developing type 2 diabetes using the information in your
+record.
+
+Electronic health records also make workflow more efficient for healthcare
+providers. They can reduce the time providers need to spend doing paperwork
+and administrative tasks.
+
+## My Health Record
+
+[My Health Record](https://www.digitalhealth.gov.au/initiatives-and-
+programs/my-health-record) is Australia’s secure national electronic health
+record system. Your My Health Record is a secure online summary of your health
+information.
+
+It provides you and your healthcare providers with access to vital health
+information at the point of care, including in an emergency.
+
+My Health Record is available to everyone who has a
+[Medicare](https://www.servicesaustralia.gov.au/medicare) card or an
+[individual healthcare identifier](/topics/health-technologies-and-digital-
+health/about/healthcare-identifiers "Healthcare Identifiers and the Healthcare
+Identifier Service") (IHI). Most Australians now have a My Health Record.
+
+Electronic health records in Australia have changed over time. My Health
+Record replaced the Personally Controlled Electronic Health Record and the
+eHealth record.
+
+My Health Record benefits Australia’s health system by making it more
+efficient, effective, and sustainable.
+
+### Your choice
+
+You can choose whether to have a My Health Record. If you no longer want one,
+you can [cancel a My Health Record](https://www.myhealthrecord.gov.au/for-you-
+your-family/howtos/cancel-my-record) at any time.
+
+You can also choose whether you want your healthcare provider to upload any
+specific information to your record.
+
+## More about My Health Record
+
+The Australian Digital Health Agency has [more information on My Health
+Record](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-
+record), including:
+
+  * benefits
+  * what is included
+  * setting up and using your record
+  * access and data security
+  * statistics on how people are using My Health Record.
+
+We are developing [governance arrangements](/topics/health-technologies-and-
+digital-health/what-we-do/use-of-my-health-record-data "Use of My Health
+Record data") so that in the future, researchers and public health policy
+makers could apply to use My Health Record data to support their work in
+improving health outcomes for Australians.
+
+Last updated:
+
+13 April 2022
+
+Tags:
+
+  * [Health technologies and digital health](/topics/health-technologies-and-digital-health)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Health technologies and digital health](/topics/health-technologies-and-
+digital-health)
+
+  * [About health technologies and digital health](/topics/health-technologies-and-digital-health/about)
+    * [Healthcare identifiers](/topics/health-technologies-and-digital-health/about/healthcare-identifiers)
+    * [Electronic health records](/topics/health-technologies-and-digital-health/about/electronic-health-records)
+    * [Electronic prescriptions](/topics/health-technologies-and-digital-health/about/electronic-prescriptions)
+    * [Telehealth](/topics/health-technologies-and-digital-health/about/telehealth)
+  * [What we do](/topics/health-technologies-and-digital-health/what-we-do)
+  * [Health technology assessments (HTAs)](/topics/health-technologies-and-digital-health/health-technology-assessments)
+  * [News](/topics/health-technologies-and-digital-health/news)
+  * [Initiatives and programs](/topics/health-technologies-and-digital-health/initiatives-and-programs)
+  * [Resources](/topics/health-technologies-and-digital-health/resources)
+  * [Contacts](/topics/health-technologies-and-digital-health/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

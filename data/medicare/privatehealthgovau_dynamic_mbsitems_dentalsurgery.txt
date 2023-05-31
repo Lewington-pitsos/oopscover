@@ -1,0 +1,235 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Dental surgery - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+75006
+
+     PRODUCTION OF DENTAL STUDY MODELS (not being a service associated with a service to which item 75004 applies) prior to provision of a service to which: (a)item 75030, 75033, 75034, 75036, 75037, 75039, 75045 or 75051 applies; or (b)an item in Group T8 or Groups 03 to 09 applies; in a single course of treatment [](/dynamic/MBSItems/DentalSurgery/75006)
+75030
+
+     DENTITION TREATMENT MAXILLARY ARCH EXPANSION not being a service associated with a service to which item 75039, 75042, 75045 or 75048 applies, including supply of appliances, all adjustments of the appliances, removal of the appliances and retention [](/dynamic/MBSItems/DentalSurgery/75030)
+75033
+
+     MIXED DENTITION TREATMENT - incisor alignment using fixed appliances in maxillary arch, including supply of appliances, all adjustments of appliances, removal of the appliances and retention [](/dynamic/MBSItems/DentalSurgery/75033)
+75034
+
+     MIXED DENTITION TREATMENT - incisor alignment with or without lateral arch expansion using a removable appliance in the maxillary arch, including supply of appliances, associated adjustments and retention [](/dynamic/MBSItems/DentalSurgery/75034)
+75036
+
+     MIXED DENTITION TREATMENT - lateral arch expansion and incisor alignment using fixed appliances in maxillary arch, including supply of appliances, all adjustments of appliances, removal of appliances and retention [](/dynamic/MBSItems/DentalSurgery/75036)
+75037
+
+     MIXED DENTITION TREATMENT - lateral arch expansion and incisor correction - 2 arch (maxillary and mandibular) using fixed appliances in both maxillary and mandibular arches, including supply of appliances, all adjustments of appliances, removal of appliances and retention [](/dynamic/MBSItems/DentalSurgery/75037)
+75039
+
+     PERMANENT DENTITION TREATMENTSINGLE ARCH (mandibular or maxillary) TREATMENT (correction and alignment) using fixed appliances, including supply of appliances - initial 3 months of active treatment [](/dynamic/MBSItems/DentalSurgery/75039)
+75042
+
+     PERMANENT DENTITION TREATMENT - SINGLE ARCH (mandibular or maxillary) TREATMENT (correction and alignment) using fixed appliances, including supply of appliances - each 3 months of active treatment (including all adjustments and maintenance and removal of the appliances) after the first for a maximum of a further 33 months [](/dynamic/MBSItems/DentalSurgery/75042)
+75045
+
+     PERMANENT DENTITION TREATMENT2 ARCH (mandibular and maxillary) TREATMENT (correction and alignment) using fixed appliances, including supply of appliances - initial 3 months of active treatment [](/dynamic/MBSItems/DentalSurgery/75045)
+75048
+
+     PERMANENT DENTITION TREATMENT - 2 ARCH (mandibular and maxillary) TREATMENT (correction and alignment) using fixed appliances, including supply of appliances - each subsequent 3 months of active treatment (including all adjustments and maintenance, and removal of the appliances) after the first for a maximum of a further 33 months [](/dynamic/MBSItems/DentalSurgery/75048)
+75049
+
+     RETENTION, FIXED OR REMOVABLE, single arch (mandibular or maxillary) - supply of retainer and supervision of retention [](/dynamic/MBSItems/DentalSurgery/75049)
+75050
+
+     RETENTION, FIXED OR REMOVABLE, 2-arch (mandibular and maxillary) - supply of retainers and supervision of retention [](/dynamic/MBSItems/DentalSurgery/75050)
+75051
+
+     JAW GROWTH GUIDANCE JAW GROWTH guidance using removable or functional appliances, including supply of appliances and all adjustments to appliances [](/dynamic/MBSItems/DentalSurgery/75051)
+75156
+
+     PRODUCTION OF DENTAL STUDY MODELS (not being a service associated with a service to which item 75153 applies) prior to provision of a service: (a)to which item 52321, 53212 or 75618 applies; or (b)to which an item in the series 52330 to 52382, 52600 to 52630, 53400 to 53409 or 53415 to 53429 applies; in a single course of treatment if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75156)
+75200
+
+     SIMPLE EXTRACTIONS Removal of tooth or tooth fragment (other than treatment to which item 75400, 75403, 75406, 75409, 75412 or 75415 applies), if the patient is referred by an eligible orthodontist (AD) [](/dynamic/MBSItems/DentalSurgery/75200)
+75203
+
+     REMOVAL OF TOOTH OR TOOTH FRAGMENT under general anaesthesia, if the patient is referred by an eligible orthodontist (AD) [](/dynamic/MBSItems/DentalSurgery/75203)
+75206
+
+     Removal of each additional tooth or tooth fragment at the same attendance at which a service to which item 75200 or 75203 applies is rendered, if the patient is referred by an eligible orthodontist (AD) [](/dynamic/MBSItems/DentalSurgery/75206)
+75400
+
+     SURGICAL EXTRACTIONS Surgical removal of erupted tooth, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75400)
+75403
+
+     Surgical removal of tooth with soft tissue impaction, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75403)
+75406
+
+     Surgical removal of tooth with partial bone impaction, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75406)
+75409
+
+     Surgical removal of tooth with complete bone impaction, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75409)
+75412
+
+     Surgical removal of tooth fragment requiring incision of soft tissue only, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75412)
+75415
+
+     Surgical removal of tooth fragment requiring removal of bone, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75415)
+75600
+
+     OTHER SURGICAL PROCEDURES Surgical exposure, stimulation and packing of unerupted tooth, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75600)
+75603
+
+     Surgical exposure of unerupted tooth for the purpose of fitting a traction device, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75603)
+75606
+
+     Surgical repositioning of unerupted tooth, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75606)
+75609
+
+     Transplantation of tooth bud, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75609)
+75612
+
+     Surgical procedure for intra oral implantation of osseointegrated fixture (first stage), if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75612)
+75615
+
+     Surgical procedure for fixation of trans mucosal abutment (second stage of osseointegrated implant), if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75615)
+75618
+
+     Provision and fitting of a bite rising appliance or dental splint for the management of temporomandibular joint dysfunction syndrome, if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75618)
+75621
+
+     The provision and fitting of surgical template in conjunction with orthognathic surgical procedures in association with: (a)an item in the series: (i)45720 to 45754; or (ii)52342 to 52375; or (b)item 52380 or 52382; if the patient is referred by an eligible orthodontist (AOS) [](/dynamic/MBSItems/DentalSurgery/75621)
+75800
+
+     Note:Benefit is payable for services listed in this Group where they are rendered by a registered dental practitioner CONSULTATIONS ATTENDANCE BY AN ELIGIBLE DENTAL PRACTITIONER involving consultation, preventive treatment and prophylaxis, of not less than 30 minutes' durationeach attendance to a maximum of 3 attendances in any period of 12 months [](/dynamic/MBSItems/DentalSurgery/75800)
+75803
+
+     PROSTHODONTIC PROVISION AND FITTING OF ACRYLIC BASE PARTIAL DENTURE, including retainers1 TOOTH [](/dynamic/MBSItems/DentalSurgery/75803)
+75806
+
+     PROVISION AND FITTING OF ACRYLIC BASE PARTIAL DENTURE, including retainers 2 TEETH [](/dynamic/MBSItems/DentalSurgery/75806)
+75809
+
+     PROVISION AND FITTING OF ACRYLIC BASE PARTIAL DENTURE. including retainers 3 TEETH [](/dynamic/MBSItems/DentalSurgery/75809)
+75812
+
+     PROVISION AND FITTING OF ACRYLIC BASE PARTIAL DENTURE, including retainers 4 TEETH [](/dynamic/MBSItems/DentalSurgery/75812)
+75815
+
+     PROVISION AND FITTING OF ACRYLIC BASE PARTIAL DENTURE, including retainers 5 TO 9 TEETH [](/dynamic/MBSItems/DentalSurgery/75815)
+75818
+
+     PROVISION AND FITTING OF ACRYLIC BASE PARTIAL DENTURE, including retainers 10 TO 12 TEETH [](/dynamic/MBSItems/DentalSurgery/75818)
+75821
+
+     PROVISION AND FITTING OF CAST METAL BASE (cobalt chromium alloy) PARTIAL DENTURE including casting and retainers 1 TOOTH [](/dynamic/MBSItems/DentalSurgery/75821)
+75824
+
+     PROVISION AND FITTING OF CAST METAL BASE (cobalt chromium alloy) PARTIAL DENTURE including casting and retainers2 TEETH [](/dynamic/MBSItems/DentalSurgery/75824)
+75827
+
+     PROVISION AND FITTING OF CAST METAL BASE (cobalt chromium alloy) PARTIAL DENTURE including casting and retainers 3 TEETH [](/dynamic/MBSItems/DentalSurgery/75827)
+75830
+
+     PROVISION AND FITTING OF CAST METAL BASE (cobalt chromium alloy) PARTIAL DENTURE including casting and retainers 4 TEETH [](/dynamic/MBSItems/DentalSurgery/75830)
+75833
+
+     PROVISION AND FITTING OF CAST METAL BASE (cobalt chromium alloy) PARTIAL DENTURE including casting and retainers 5 TO 9 TEETH [](/dynamic/MBSItems/DentalSurgery/75833)
+75836
+
+     PROVISION AND FITTING OF CAST METAL BASE (cobalt chromium alloy) PARTIAL DENTURE including casting and retainers 10 TO 12 TEETH [](/dynamic/MBSItems/DentalSurgery/75836)
+75839
+
+     PROVISION AND FITTING OF RETAINERS not being a service associated with a service to which item 75803, 75806, 75809, 75812, 75815, 75818, 75821, 75824, 75827, 75830, 75833 or 75836 applieseach retainer [](/dynamic/MBSItems/DentalSurgery/75839)
+75842
+
+     ADJUSTMENT OF PARTIAL DENTURE not being a service associated with a service to which item 75803, 75806, 75809, 75812, 75815, 75818, 75821, 75824, 75827, 75830, 75833 or 75836 applies [](/dynamic/MBSItems/DentalSurgery/75842)
+75845
+
+     RELINING OF PARTIAL DENTURE by laboratory process and associated fitting [](/dynamic/MBSItems/DentalSurgery/75845)
+75848
+
+     REMODELLING AND FITTING OF PARTIAL DENTURE of more than 4 teeth [](/dynamic/MBSItems/DentalSurgery/75848)
+75851
+
+     REPAIR TO CAST METAL BASE OF PARTIAL DENTURE1 or more points [](/dynamic/MBSItems/DentalSurgery/75851)
+75854
+
+     ADDITION OF A TOOTH OR TEETH to a partial denture to replace extracted tooth or teeth including taking of necessary impression [](/dynamic/MBSItems/DentalSurgery/75854)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

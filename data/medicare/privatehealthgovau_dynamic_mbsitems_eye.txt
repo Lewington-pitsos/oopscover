@@ -1,0 +1,493 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Eye (not cataracts) - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+18366
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox), injection of, for the treatment of strabismus, including all such injections on any one day and associated electromyography (Anaes.) [](/dynamic/MBSItems/Eye/18366)
+18369
+
+     Clostridium Botulinum Type A Toxin-Haemagglutinin Complex (Dysport) or IncobotulinumtoxinA (Xeomin), injection of, for the treatment of unilateral blepharospasm in a patient who is at least 18 years of age, including all such injections on any one day (Anaes.) [](/dynamic/MBSItems/Eye/18369)
+18370
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox), injection of, for the treatment of unilateral blepharospasm in a patient who is at least 12 years of age, including all such injections on any one day (Anaes.) [](/dynamic/MBSItems/Eye/18370)
+18372
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox), injection of, for the treatment of bilateral blepharospasm, in a patient who is at least 12 years of age; including all such injections on any one day (Anaes.) [](/dynamic/MBSItems/Eye/18372)
+18374
+
+     Clostridium Botulinum Type A Toxin-Haemagglutinin Complex (Dysport) or IncobotulinumtoxinA (Xeomin), injection of, for the treatment of bilateral blepharospasm in a patient who is at least 18 years of age, including all such injections on any one day (Anaes.) [](/dynamic/MBSItems/Eye/18374)
+41890
+
+     Orbit, decompression of, by fenestration of 2 or more walls, or by the removal of intraorbital peribulbar and retrobulbar fat from each quadrant of the orbit, one eye by endonasal approach(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/41890)
+42503
+
+     OPHTHALMOLOGICAL EXAMINATION under general anaesthesia, not being a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/Eye/42503)
+42504
+
+     Glaucoma, implantation of a micro-bypass surgery stent system into the trabecular meshwork, if: (a) conservative therapies have failed, are likely to fail, or are contraindicated; and (b) the service is performed by a specialist with training that is recognised by the Conjoint Committee for the Recognition of Training in Micro-Bypass Glaucoma Surgery (Anaes.) [](/dynamic/MBSItems/Eye/42504)
+42505
+
+     Complete removal from the eye of a trans-trabecular drainage device or devices, with or without replacement, following device related medical complications necessitating complete removal. (Anaes.) [](/dynamic/MBSItems/Eye/42505)
+42506
+
+     EYE, ENUCLEATION OF, with or without sphere implant (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42506)
+42509
+
+     EYE, ENUCLEATION OF, with insertion of integrated implant (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42509)
+42510
+
+     EYE, enucleation of, with insertion of hydroxy apatite implant or similar coralline implant (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42510)
+42512
+
+     GLOBE, EVISCERATION OF (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42512)
+42515
+
+     GLOBE, EVISCERATION OF, AND INSERTION OF INTRASCLERAL BALL OR CARTILAGE (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42515)
+42518
+
+     ANOPHTHALMIC ORBIT, INSERTION OF CARTILAGE OR ARTIFICIAL IMPLANT as a delayed procedure, or REMOVAL OF IMPLANT FROM SOCKET, or PLACEMENT OF A MOTILITY INTEGRATING PEG by drilling into an existing orbital implant (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42518)
+42521
+
+     ANOPHTHALMIC SOCKET, treatment of, by insertion of a wired-in conformer, integrated implant or dermofat graft, as a secondary procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42521)
+42524
+
+     ORBIT, SKIN GRAFT TO, as a delayed procedure (Anaes.) [](/dynamic/MBSItems/Eye/42524)
+42527
+
+     CONTRACTED SOCKET, RECONSTRUCTION INCLUDING MUCOUS MEMBRANE GRAFTING AND STENT MOULD (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42527)
+42530
+
+     ORBIT, EXPLORATION with or without biopsy, requiring REMOVAL OF BONE (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42530)
+42533
+
+     ORBIT, EXPLORATION OF, with drainage or biopsy not requiring removal of bone (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42533)
+42536
+
+     ORBIT, EXENTERATION OF, with or without skin graft and with or without temporalis muscle transplant (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42536)
+42539
+
+     ORBIT, EXPLORATION OF, with removal of tumour or foreign body, requiring removal of bone (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42539)
+42542
+
+     ORBIT, exploration of anterior aspect with removal of tumour or foreign body (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42542)
+42543
+
+     ORBIT, exploration of retrobulbar aspect with removal of tumour or foreign body (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42543)
+42545
+
+     ORBIT, decompression of, for dysthyroid eye disease, by fenestrationof 2 or more walls, or by the removal of intraorbital peribulbar and retrobulbar fat from each quadrant of the orbit, 1 eye (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42545)
+42548
+
+     OPTIC NERVE MENINGES, incision of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42548)
+42551
+
+     EYE, PENETRATING WOUND OR RUPTURE OF, not involving intraocular structures repair involving suture of cornea or sclera, or both, not being a service to which item 42632 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42551)
+42554
+
+     EYE, PENETRATING WOUND OR RUPTURE OF, with incarceration or prolapse of uveal tissue repair (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42554)
+42557
+
+     EYE, PENETRATING WOUND OR RUPTURE OF, with incarceration of lens or vitreous repair (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42557)
+42563
+
+     INTRAOCULAR FOREIGN BODY, removal from anterior segment (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42563)
+42569
+
+     INTRAOCULAR FOREIGN BODY, removal from posterior segment (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42569)
+42572
+
+     ORBITAL ABSCESS OR CYST, drainage of (Anaes.) [](/dynamic/MBSItems/Eye/42572)
+42573
+
+     DERMOID, periorbital, excision of, on a patient 10 years of age or over (Anaes.) [](/dynamic/MBSItems/Eye/42573)
+42574
+
+     DERMOID, orbital, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42574)
+42575
+
+     TARSAL CYST, extirpation of (Anaes.) [](/dynamic/MBSItems/Eye/42575)
+42576
+
+     DERMOID, periorbital, excision of, on a patient under 10 years of age (Anaes.) [](/dynamic/MBSItems/Eye/42576)
+42581
+
+     ECTROPION OR ENTROPION, tarsal cauterisation of (Anaes.) [](/dynamic/MBSItems/Eye/42581)
+42584
+
+     TARSORRHAPHY (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42584)
+42587
+
+     TRICHIASIS (due to causes other than trachoma), treatment of by cryotherapy, laser or electrolysis - each eyelid (Anaes.) [](/dynamic/MBSItems/Eye/42587)
+42588
+
+     TRICHIASIS (due to trachoma), treatment of by cryotherapy, laser or electrolysis - each eyelid (Anaes.) [](/dynamic/MBSItems/Eye/42588)
+42590
+
+     CANTHOPLASTY, medial or lateral (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42590)
+42593
+
+     LACRIMAL GLAND, excision of palpebral lobe (Anaes.) [](/dynamic/MBSItems/Eye/42593)
+42596
+
+     LACRIMAL SAC, excision of, or operation on (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42596)
+42599
+
+     LACRIMAL CANALICULAR SYSTEM, establishment of patency by closed operation using silicone tubes or similar, 1 eye (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42599)
+42602
+
+     LACRIMAL CANALICULAR SYSTEM, establishment of patency by open operation, 1 eye (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42602)
+42605
+
+     LACRIMAL CANALICULUS, immediate repair of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42605)
+42608
+
+     LACRIMAL DRAINAGE by insertion of glass tube, as an independent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42608)
+42610
+
+     NASOLACRIMAL TUBE (unilateral), removal or replacement of, or LACRIMAL PASSAGES, probing for obstruction, unilateral, with or without lavage - under general anaesthesia (Anaes.) [](/dynamic/MBSItems/Eye/42610)
+42611
+
+     NASOLACRIMAL TUBE (bilateral), removal or replacement of, or LACRIMAL PASSAGES, probing for obstruction, bilateral, with or without lavage - under general anaesthesia (Anaes.) [](/dynamic/MBSItems/Eye/42611)
+42614
+
+     NASOLACRIMAL TUBE (unilateral), removal or replacement of, or LACRIMAL PASSAGES, probing to establish patency of the lacrimal passage and/or site of obstruction, unilateral, including lavage, not being a service associated with a service to which item 42610 applies (excluding aftercare) [](/dynamic/MBSItems/Eye/42614)
+42615
+
+     NASOLACRIMAL TUBE (bilateral), removal or replacement of, or LACRIMAL PASSAGES, probing to establish patency of the lacrimal passage and/or site of obstruction, bilateral, including lavage, not being a service associated with a service to which item 42611 applies (excluding aftercare) [](/dynamic/MBSItems/Eye/42615)
+42617
+
+     PUNCTUM SNIP operation (Anaes.) [](/dynamic/MBSItems/Eye/42617)
+42620
+
+     PUNCTUM, occlusion of, by use of a plug (Anaes.) [](/dynamic/MBSItems/Eye/42620)
+42622
+
+     PUNCTUM, permanent occlusion of, by use of electrical cautery (Anaes.) [](/dynamic/MBSItems/Eye/42622)
+42623
+
+     DACRYOCYSTORHINOSTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42623)
+42626
+
+     DACRYOCYSTORHINOSTOMY where a previous dacryocystorhinostomy has been performed (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42626)
+42629
+
+     CONJUNCTIVORHINOSTOMY including dacryocystorhinostomy and fashioning of conjunctival flaps (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42629)
+42632
+
+     CONJUNCTIVAL PERITOMY OR REPAIR OF CORNEAL LACERATION by conjunctival flap (Anaes.) [](/dynamic/MBSItems/Eye/42632)
+42635
+
+     CORNEAL PERFORATIONS, sealing of, with tissue adhesive (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42635)
+42638
+
+     CONJUNCTIVAL GRAFT OVER CORNEA (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42638)
+42641
+
+     AUTOCONJUNCTIVAL TRANSPLANT, or mucous membrane graft (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42641)
+42644
+
+     CORNEA OR SCLERA, complete removal of embedded foreign body from - not more than once on the same day by the same practitioner (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/Eye/42644)
+42647
+
+     CORNEAL SCARS, removal of, by partial keratectomy, not being a service associated with a service to which item 42686 applies (Anaes.) [](/dynamic/MBSItems/Eye/42647)
+42650
+
+     CORNEA, epithelial debridement for corneal ulcer or corneal erosion (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/Eye/42650)
+42651
+
+     CORNEA, epithelial debridement for eliminating band keratopathy (Anaes.) [](/dynamic/MBSItems/Eye/42651)
+42652
+
+     Corneal collagen cross linking, on a patient with a corneal ectatic disorder, with evidence of progression—per eye (Anaes.) [](/dynamic/MBSItems/Eye/42652)
+42653
+
+     CORNEA transplantation of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42653)
+42656
+
+     CORNEA, transplantation of, second and subsequent procedures (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42656)
+42662
+
+     SCLERA, transplantation of, full thickness, including collection of donor material (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42662)
+42665
+
+     SCLERA, transplantation of, superficial or lamellar, including collection of donor material (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42665)
+42667
+
+     RUNNING CORNEAL SUTURE, manipulation of, performed within 4 months of corneal grafting, to reduce astigmatism where a reduction of 2 dioptres of astigmatism is obtained, including any associated consultation [](/dynamic/MBSItems/Eye/42667)
+42668
+
+     CORNEAL SUTURES, removal of, not earlier than 6 weeks after operation requiring use of slit lamp or operating microscope (Anaes.) [](/dynamic/MBSItems/Eye/42668)
+42672
+
+     CORNEAL INCISONS, to correct corneal astigmatism of more than 11/2 dioptres following anterior segment surgery, including appropriate measurements and calculations, performed as an independent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42672)
+42673
+
+     ADDITIONAL CORNEAL INCISIONS, to correct corneal astigmatism of more than 11/2 dioptres, including appropriate measurements and calculations, performed in conjunction with other anterior segment surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42673)
+42676
+
+     CONJUNCTIVA, biopsy of, as an independent procedure [](/dynamic/MBSItems/Eye/42676)
+42677
+
+     CONJUNCTIVA, CAUTERY OF, INCLUDING TREATMENT OF PANNUSeach attendance at which treatment is given including any associated consultation (Anaes.) [](/dynamic/MBSItems/Eye/42677)
+42680
+
+     CONJUNCTIVA, cryotherapy to, for melanotic lesions or similar using CO² or N²0 (Anaes.) [](/dynamic/MBSItems/Eye/42680)
+42683
+
+     CONJUNCTIVAL CYSTS, removal of, requiring admission to hospital or approved day-hospital facility (Anaes.) [](/dynamic/MBSItems/Eye/42683)
+42686
+
+     PTERYGIUM, removal of (Anaes.) [](/dynamic/MBSItems/Eye/42686)
+42689
+
+     PINGUECULA, removal of, not being a service associated with the fitting of contact lenses (Anaes.) [](/dynamic/MBSItems/Eye/42689)
+42692
+
+     LIMBIC TUMOUR, removal of, excluding Pterygium (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42692)
+42695
+
+     LIMBIC TUMOUR, excision of, requiring keratectomy or sclerectomy, excluding Pterygium (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42695)
+42719
+
+     REMOVAL OF VITREOUS, and/or CAPSULAR or LENS MATERIAL, via a limbal approach,not being a service associated with a service to which item 42698, 42702, 42716, 42725 or 42731 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42719)
+42725
+
+     Vitrectomy via pars plana sclerotomy, including one or more of the following:(a) removal of vitreous; (b) division of vitreous bands; (c) removal of epiretinal membranes; (d) capsulotomy (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42725)
+42731
+
+     LIMBAL OR PARS PLANA LENSECTOMY combined with vitrectomy, not being a service associated with items 42698, 42702, 42719, or 42725 (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42731)
+42734
+
+     Capsulotomy, other than by laser, and other than a service associated with a service to which item 42725 or 42731 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42734)
+42738
+
+     PARACENTESIS OF ANTERIOR CHAMBER OR VITREOUS CAVITY, or both, for the injection of therapeutic substances, or the removal of aqueous or vitreous humours for diagnostic or therapeutic purposes, 1 or more of, as an independent procedure. [](/dynamic/MBSItems/Eye/42738)
+42739
+
+     PARACENTESIS OF ANTERIOR CHAMBER OR VITREOUS CAVITY, or both, for the injection of therapeutic substances, or the removal of aqueous or vitreous humours for diagnostic or therapeutic purposes,one or more of, as an independent procedure, for a patient requiring the administration of anaesthetic by an anaesthetist. (Anaes.) [](/dynamic/MBSItems/Eye/42739)
+42740
+
+     INTRAVITREAL INJECTION OF THERAPEUTIC SUBSTANCES, or the removal of vitreous humour for diagnostic purposes, 1 or more of, as a procedure associated with other intraocular surgery. (Anaes.) [](/dynamic/MBSItems/Eye/42740)
+42741
+
+     Posterior juxtascleral depot injection of a therapeutic substance, for the treatment of subfoveal choroidal neovascularisation due to age-related macular degeneration, 1 or more of (Anaes.) [](/dynamic/MBSItems/Eye/42741)
+42743
+
+     ANTERIOR CHAMBER, IRRIGATION OF BLOOD FROM, as an independent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42743)
+42744
+
+     Needle revision of glaucoma filtration bleb, following glaucoma filtering procedure (Anaes.) [](/dynamic/MBSItems/Eye/42744)
+42746
+
+     GLAUCOMA, filtering operation for, where conservative therapies have failed, are likely to fail, or are contraindicated (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42746)
+42749
+
+     GLAUCOMA, filtering operation for, where previous filtering operation has been performed (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42749)
+42752
+
+     GLAUCOMA, insertion of drainage device incorporating an extraocular reservoir for, such as a Molteno device (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42752)
+42755
+
+     GLAUCOMA, removal of drainage device incorporating an extraocular reservoir for, such as a Molteno device (Anaes.) [](/dynamic/MBSItems/Eye/42755)
+42758
+
+     Goniotomy for the treatment of primary congenital glaucoma, excluding the minimally invasive implantation of glaucoma drainage devices (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42758)
+42761
+
+     DIVISION OF ANTERIOR OR POSTERIOR SYNECHIAE, as an independent procedure, other than by laser (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42761)
+42764
+
+     IRIDECTOMY (including excision of tumour of iris) OR IRIDOTOMY, as an independent procedure, other than by laser (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42764)
+42767
+
+     TUMOUR, INVOLVING CILIARY BODY OR CILIARY BODY AND IRIS, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42767)
+42770
+
+     CYCLODESTRUCTIVE procedures for the treatment of intractable glaucoma, treatment to 1 eye, to a maximum of 2 treatments to that eye in a 2 year period (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42770)
+42773
+
+     DETACHED RETINA, pneumatic retinopexy for, not being a service associated with a service to which item 42776 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42773)
+42776
+
+     DETACHED RETINA, buckling or resection operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42776)
+42779
+
+     DETACHED RETINA, revision of scleral buckling operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42779)
+42782
+
+     LASER TRABECULOPLASTY, for the treatment of glaucoma. Each treatment to 1 eye, to a maximum of 4 treatments to that eye in a 2 year period (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42782)
+42785
+
+     LASER IRIDOTOMY - each treatment episode to 1 eye, to a maximum of 3 treatments to that eye in a 2 year period (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42785)
+42788
+
+     Laser capsulotomy—each treatment episode to one eye, to a maximum of 2 treatments to that eye in a 2 year period—other than a service associated with a service to which item 42702 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42788)
+42791
+
+     Laser vitreolysis or corticolysis of lens material or fibrinolysis, excluding vitreolysis in the posterior vitreous cavity—each treatment to one eye, to a maximum of 3 treatments to that eye in a 2 year period (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42791)
+42794
+
+     DIVISION OF SUTURE BY LASER following glaucoma filtration surgery, each treatment to 1 eye, to a maximum of 2 treatments to that eye in a 2 year period (Anaes.) [](/dynamic/MBSItems/Eye/42794)
+42801
+
+     EPISCLERAL RADIOACTIVE PLAQUE (Ruthenium 106 or Iodine 125), for the treatment of choroidal melanomas, insertion of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42801)
+42802
+
+     EPISCLERAL RADIOACTIVE PLAQUE (Ruthenium 106 or Iodine 125), for the treatment of choroidal melanomas, removal of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42802)
+42805
+
+     TANTALUM MARKERS, surgical insertion to the sclera to localise the tumour base to assist in planning of radiotherapy of choroidal melanomas, 1 or more (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42805)
+42806
+
+     IRIS TUMOUR, laser photocoagulation of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42806)
+42807
+
+     PHOTOMYDRIASIS, laser [](/dynamic/MBSItems/Eye/42807)
+42808
+
+     Laser peripheral iridoplasty [](/dynamic/MBSItems/Eye/42808)
+42809
+
+     RETINA, photocoagulation of, not being a service associated with photodynamic therapy with verteporfin (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42809)
+42810
+
+     PHOTOTHERAPEUTIC KERATECTOMY, by laser, for corneal scarring or disease, excluding surgery for refractive error (Anaes.) [](/dynamic/MBSItems/Eye/42810)
+42811
+
+     TRANSPUPILLARY THERMOTHERAPY, for treatment of choroidal and retinal tumours or vascular malformations (Anaes.) [](/dynamic/MBSItems/Eye/42811)
+42812
+
+     Removal of scleral buckling material, from an eye having undergone previous scleral buckling surgery (Anaes.) [](/dynamic/MBSItems/Eye/42812)
+42815
+
+     VITREOUS CAVITY, removal of silicone oil or other liquid vitreous substitutes from, during a procedure other than that in which the vitreous substitute is inserted (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42815)
+42818
+
+     RETINA, CRYOTHERAPY TO, as an independent procedure, or when performed in conjunction with item 42809 or 42770 (Anaes.) [](/dynamic/MBSItems/Eye/42818)
+42821
+
+     OCULAR TRANSILLUMINATION, for the diagnosis and measurement of intraocular tumours (Anaes.) [](/dynamic/MBSItems/Eye/42821)
+42824
+
+     RETROBULBAR INJECTION OF ALCOHOL OR OTHER DRUG, as an independent procedure [](/dynamic/MBSItems/Eye/42824)
+42833
+
+     SQUINT, OPERATION FOR, ON 1 OR BOTH EYES, the operation involving a total of 1 OR 2 MUSCLES on a patient aged 15 years or over (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42833)
+42836
+
+     SQUINT, OPERATION FOR, ON 1 OR BOTH EYES, the operation involving a total of 1 OR 2 MUSCLES, on a patient aged 14 years or under, or where the patient has had previous squint, retinal or extra ocular operations on the eye or eyes, or on a patient with concurrent thyroid eye disease (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42836)
+42839
+
+     SQUINT, OPERATION FOR, ON 1 OR BOTH EYES, the operation involving a total of 3 OR MORE MUSCLES on a patient aged 15 years or over (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42839)
+42842
+
+     SQUINT, OPERATION FOR, ON 1 OR BOTH EYES, the operation involving a total of 3 or MORE MUSCLES, on a patient aged 14 years or under, or where the patient has had previous squint, retinal or extra ocular operations on the eye or eyes, or on a patient with concurrent thyroid eye disease (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42842)
+42845
+
+     READJUSTMENT OF ADJUSTABLE SUTURES, 1 or both eyes, as an independent procedure following an operation for correction of squint (Anaes.) [](/dynamic/MBSItems/Eye/42845)
+42848
+
+     SQUINT, muscle transplant for (Hummelsheim type, or similar operation) on a patient aged 15 years or over (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42848)
+42851
+
+     SQUINT, muscle transplant for (Hummelsheim type, or similar operation) on a patient aged 14 years or under, or where the patient has had previous squint, retinal or extra ocular operations on the eye or eyes, or on a patient with concurrent thyroid eye disease (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42851)
+42854
+
+     RUPTURED MEDIAL PALPEBRAL LIGAMENT or ruptured EXTRAOCULAR MUSCLE, repair of (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42854)
+42857
+
+     RESUTURING OF WOUND FOLLOWING INTRAOCULAR PROCEDURES with or without excision of prolapsed iris (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42857)
+42869
+
+     EYELID closure in facial nerve paralysis, insertion of foreign implant for (Anaes.) (Assist.) [](/dynamic/MBSItems/Eye/42869)
+43021
+
+     Photodynamic therapy, one eye, including the infusion of Verteporfin continuously through a peripheral vein, using a non-thermal laser at a wavelength of 689nm, for the treatment of choroidal neovascularisation. [](/dynamic/MBSItems/Eye/43021)
+43022
+
+     Photodynamic therapy, both eyes, including the infusion of Verteporfin continuously through a peripheral vein, using a non-thermal laser at a wavelength of 689nm, for the treatment of choroidal neovascularisation. [](/dynamic/MBSItems/Eye/43022)
+43023
+
+     Infusion of Verteporfin for discontinued photodynamic therapy, where a session of therapy which would have been provided under item 43021 or 43022 has been discontinued on medical grounds. [](/dynamic/MBSItems/Eye/43023)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

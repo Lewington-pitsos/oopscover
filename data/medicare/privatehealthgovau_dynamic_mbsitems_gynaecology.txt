@@ -1,0 +1,373 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Gynaecology - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+30062
+
+     Etonogestrel subcutaneous implant, removal of, as an independent procedure (Anaes.) [](/dynamic/MBSItems/Gynaecology/30062)
+35410
+
+     UTERINE ARTERY CATHETERISATION with percutaneous administration of occlusive agents, for the treatment of symptomatic uterine fibroids in a patient who has been referred for uterine artery embolisation by a specialist gynaecologist, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35410)
+35500
+
+     GYNAECOLOGICAL EXAMINATION UNDER ANAESTHESIA, not being a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/Gynaecology/35500)
+35503
+
+     Introduction of an intra-uterine device for abnormal uterine bleeding or contraception or for endometrial protection during oestrogen replacement therapy, if the service is not associated with a service to which another item in this Group applies (other than a service described in item 30062, 35506 or 35620) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35503)
+35506
+
+     Intra-uterine device, removal of under general anaesthesia, for a retained or embedded device, not being a service associated with a service to which another item in this Group applies (other than a service described in item 35503) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35506)
+35507
+
+     Vulval or vaginal warts, removal of under general anaesthesia, or under regional or field nerve block (excluding pudendal block), if the time taken is less than or equal to 45 minutes—other than a service associated with a service to which item 32236 applies (H) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35507)
+35508
+
+     Vulval or vaginal warts, removal of under general anaesthesia, or under regional or field nerve block (excluding pudendal block), if the time taken is greater than 45 minutes—other than a service associated with a service to which item 32236 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35508)
+35509
+
+     HYMENECTOMY (Anaes.) [](/dynamic/MBSItems/Gynaecology/35509)
+35513
+
+     Bartholin's abscess, cyst or gland, excision of (Anaes.) [](/dynamic/MBSItems/Gynaecology/35513)
+35517
+
+     Bartholin's abscess, cyst or gland, marsupialisation of (Anaes.) [](/dynamic/MBSItems/Gynaecology/35517)
+35518
+
+     Ovarian cyst aspiration, for cysts of at least 4 cm in diameter in a premenopausal patient and at least 2 cm in diameter in a postmenopausal patient, by abdominal or vaginal route, using interventional imaging techniques and not associated with services provided for assisted reproductive techniques, and not in cases of suspected or possible malignancy (Anaes.) [](/dynamic/MBSItems/Gynaecology/35518)
+35527
+
+     Urethral caruncle, symptomatic excision of, if:(a) conservative management has failed; or(b) there is a suspicion of malignancy (Anaes.) [](/dynamic/MBSItems/Gynaecology/35527)
+35533
+
+     Vulvoplasty or labioplasty, for repair of: (a) female genital mutilation; or (b) an anomaly associated with a major congenital anomaly of the uro-gynaecological tract other than a service associated with a service to which item 35536, 37836, 37050, 37842, 37851 or 43882 applies (Anaes.) [](/dynamic/MBSItems/Gynaecology/35533)
+35534
+
+     Vulvoplasty or labioplasty, in a patient aged 18 years or more, performed by a specialist in the practice of the specialist's specialty, for a structural abnormality that is causing significant functional impairment, if the patient's labium extends more than 8 cm below the vaginal introitus while the patient is in a standing resting position (Anaes.) [](/dynamic/MBSItems/Gynaecology/35534)
+35536
+
+     Vulva, wide local excision or hemivulvectomy, one or both procedures, for suspected malignancy or vulval lesions with a high risk of malignancy (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35536)
+35539
+
+     Colposcopically directed laser therapy for histologically-confirmed high grade intraepithelial neoplastic changes of the vagina, vulva, urethra or anal canal, including any associated biopsies—one anatomical site (Anaes.) [](/dynamic/MBSItems/Gynaecology/35539)
+35545
+
+     Colposcopically directed laser therapy for condylomata, unsuccessfully treated by other methods (Anaes.) [](/dynamic/MBSItems/Gynaecology/35545)
+35548
+
+     VULVECTOMY, radical, for malignancy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35548)
+35554
+
+     VAGINA, DILATATION OF, as an independent procedure including any associated consultation (Anaes.) [](/dynamic/MBSItems/Gynaecology/35554)
+35557
+
+     Vagina, complete excision of benign tumour (including Gartner duct cyst), with histological documentation (Anaes.) [](/dynamic/MBSItems/Gynaecology/35557)
+35560
+
+     Partial or complete vaginectomy, for either or both of the following:(a) deeply infiltrating vaginal endometriosis, if accompanied by histological confirmation from excised tissue;(b) pre-invasive or invasive lesions Not being a service associated with hysterectomy for non invasive indications (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35560)
+35561
+
+     VAGINECTOMY, radical, for proven invasive malignancy - 1 surgeon (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35561)
+35562
+
+     VAGINECTOMY, radical, for proven invasive malignancy, conjoint surgery - abdominal surgeon (including aftercare) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35562)
+35564
+
+     VAGINECTOMY, radical, for proven invasive malignancy, conjoint surgery - perineal surgeon (H) (Assist.) [](/dynamic/MBSItems/Gynaecology/35564)
+35565
+
+     VAGINAL RECONSTRUCTION for congenital absence, gynatresia or urogenital sinus (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35565)
+35566
+
+     VAGINAL SEPTUM, excision of, for correction of double vagina (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35566)
+35568
+
+     Procedures for the management of symptomatic upper vaginal (vault or cervical) prolapse by sacrospinous or ilococcygeus fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35568)
+35569
+
+     PLASTIC REPAIR TO ENLARGE VAGINAL ORIFICE (Anaes.) [](/dynamic/MBSItems/Gynaecology/35569)
+35570
+
+     Anterior vaginal compartment repair by vaginal approach for pelvic organ prolapse: (a) involving repair of urethrocele and cystocele; and (b) using native tissue without graft; other than a service associated with a service to which item 35573, 35577 or 35578 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35570)
+35571
+
+     Posterior vaginal compartment repair by vaginal approach for pelvic organ prolapse: (a) involving repair of one or more of the following: (i) perineum; (ii) rectocoele; (iii) enterocoele; and (b) using native tissue without graft; other than a service associated with a service to which item 35573, 35577 or 35578 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35571)
+35573
+
+     Anterior and posterior vaginal compartment repair by vaginal approach for pelvic organ prolapse: (a) involving anterior and posterior compartment defects; and (b) using native tissue without graft; other than a service associated with a service to which item 35577 or 35578 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35573)
+35577
+
+     Manchester (Donald Fothergill) operation for pelvic organ prolapse, involving either or both of the following: (a) cervical amputation; (b) anterior and posterior native tissue vaginal wall repairs without graft (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35577)
+35578
+
+     Colpocleisis for pelvic organ prolapse, not being a service associated with a service to which another item (other than item 35599) in this Subgroup applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35578)
+35581
+
+     Vaginal procedure for excision of graft material in symptomatic patients with graft related complications (including graft related pain or discharge and bleeding related to graft exposure), less than 2cm2 in its maximum area, either singly or in multiple pieces, other than a service associated with a service to which item 35582 or 35585 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35581)
+35582
+
+     Vaginal procedure for excision of graft material in symptomatic patients with graft related complications (including graft related pain or discharge and bleeding related to graft exposure),2cm2 or more in its maximum area, either singly or in multiple pieces, other than a service associated with a service to which item 35581 or 35585 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35582)
+35585
+
+     Abdominal procedure, by open, laparoscopic or robot-assisted approach, if the service: (a) is for the removal of graft material: (i) in symptomatic patients with graft related complications (including graft related pain or discharge and bleeding related to graft exposure); or (ii) where the graft has penetrated adjacent organs such as the bladder (including urethra) or bowel; and (b) if required—includes retroperitoneal dissection, and mobilisation, of either or both of the bladder and bowel; other than a service associated with a service to which item 35581 or 35582 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35585)
+35591
+
+     Rectovaginal fistula repair of, by vaginal route approach, not being a service associated with a service to which item 35592, 35596, 37029, 37333 or 37336 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35591)
+35592
+
+     Vesicovaginal fistula closure of, by vaginal approach, not being a service associated with a service to which item 35591, 35596, 37029, 37333 or 37336 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35592)
+35595
+
+     Procedure for the management of symptomatic vaginal vault or cervical prolapse, by uterosacral ligament suspension, by any approach, without graft, if the uterosacral ligaments are separately identified, transfixed and then incorporated into rectovaginal and pubocervical fascia of the vaginal vault, including cystoscopy to check ureteric integrity (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35595)
+35596
+
+     Fistula between genital and urinary or alimentary tracts, repair of, other than a service to which item 35591, 35592, 37029, 37333 or 37336 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35596)
+35597
+
+     Sacral colpopexy, by any approach where graft or mesh is secured to vault, anterior and posterior compartments and to sacrum for correction of symptomatic upper vaginal vault prolapse (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35597)
+35599
+
+     Stress incontinence, procedure using a female synthetic mid-urethral sling, with diagnostic cystoscopy to assess the integrity of the lower urinary tract, other than a service associated with a service to which item 36812 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35599)
+35608
+
+     Cervix, one or more biopsies, cauterisation (other than by chemical means), ionisation, diathermy or endocervical curettage of, with or without dilatation of cervix (Anaes.) [](/dynamic/MBSItems/Gynaecology/35608)
+35609
+
+     Cervix, cone biopsy or amputation (Anaes.) [](/dynamic/MBSItems/Gynaecology/35609)
+35610
+
+     Cervix, cone biopsy for histologically proven malignancy (Anaes.) [](/dynamic/MBSItems/Gynaecology/35610)
+35611
+
+     Removal of cervical or vaginal polyp or polypi, with or without dilatation of cervix, not being a service associated with a service to which item 35608 applies (Anaes.) [](/dynamic/MBSItems/Gynaecology/35611)
+35612
+
+     Cervix, residual stump, removal of, by abdominal approach for non-malignant lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35612)
+35614
+
+     Examination of the lower genital tract using a colposcope in a patient who:(a) has a human papilloma virus related gynaecology indication; or(b) has symptoms or signs suspicious of lower genital tract malignancy; or(c) is undergoing follow-up treatment of lower genital tract malignancy; or(d) is undergoing assessment or surveillance of a vulvovaginal pre-malignant or malignant disease; or(e) is undergoing assessment or surveillance as part of an identified at risk population [](/dynamic/MBSItems/Gynaecology/35614)
+35615
+
+     Vulva or vagina, biopsy of, when performed in conjunction with a service to which item 35614 applies [](/dynamic/MBSItems/Gynaecology/35615)
+35616
+
+     Endometrial ablation by thermal balloon or radiofrequency electrosurgery, for abnormal uterine bleeding, with or without endometrial sampling, including any hysteroscopy performed on the same day (H) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35616)
+35620
+
+     Endometrial biopsy for pathological assessment in women with abnormal uterine bleeding or post-menopausal bleeding (Anaes.) [](/dynamic/MBSItems/Gynaecology/35620)
+35622
+
+     Endometrial ablation, using hysteroscopically guided electrosurgery or laser energy for abnormal uterine bleeding, with or without endometrial sampling, not being a service associated with a service to which item 30390 applies (H) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35622)
+35623
+
+     Endometrial ablation and resection of myoma or uterine septum (or both), using hysteroscopic guided electrosurgery or laser energy, for abnormal uterine bleeding, with or without endometrial sampling (H) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35623)
+35626
+
+     Hysteroscopy for investigation of suspected intrauterine pathology, with or without local anaesthesia, including any associated endometrial biopsy, not being a service associated with a service to which item 35630 applies [](/dynamic/MBSItems/Gynaecology/35626)
+35630
+
+     Hysteroscopy for investigation of suspected intrauterine pathology if performed under general anaesthesia, including any associated endometrial biopsy, not being a service associated with a service to which item 35626 applies (H) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35630)
+35631
+
+     Operative laparoscopy, including any of the following:(a) unilateral or bilateral ovarian cystectomy;(b) salpingo-oophorectomy;(c) salpingectomy for tubal pathology (including ectopic pregnancy by tubal removal or salpingostomy, but excluding sterilisation);(d) excision of mild endometriosis;not being a service associated with a service to which any other intraperitoneal or retroperitoneal procedure item (other than item 30724 or 30725) applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35631)
+35632
+
+     Complicated operative laparoscopy, including either or both of the following:(a) excision of moderate endometriosis;(b) laparoscopic myomectomy for a myoma of at least 4cm, including incision and repair of the uterus;not being a service associated with a service to which any other intraperitoneal or retroperitoneal procedure item (other than item 30724 or 30725 or 35658) applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35632)
+35633
+
+     Hysteroscopy, under visual guidance, including any of the following:(a) removal of an intra-uterine device;(b) removal of polyps by any method;(c) division of minor intrauterine adhesions (Anaes.) [](/dynamic/MBSItems/Gynaecology/35633)
+35635
+
+     Hysteroscopy involving division of:(a) a uterine septum; or(b) moderate to severe intrauterine adhesions (H) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35635)
+35636
+
+     Hysteroscopy, resection of myoma or myoma and uterine septum (if both are performed) (H) (Anaes.) [](/dynamic/MBSItems/Gynaecology/35636)
+35637
+
+     Operative laparoscopy, including any of the following: (a) excision or ablation of minimal endometriosis; (b) division of pathological adhesions; (c) sterilisation by application of clips, division, destruction or removal of tubes; not being a service associated with another laparoscopic procedure (H) NOTE: Strict legal requirements apply in relation to sterilisation procedures on minors. Medicare benefits are not payable for services not rendered in accordance with relevant Commonwealth and State and Territory law. Observe the explanatory note before submitting a claim. (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35637)
+35641
+
+     Severe endometriosis, laparoscopic resection of, involving 2 of the following procedures:(a) resection of the pelvic side wall including dissection of endometriosis or scar tissue from the ureter;(b) resection of the Pouch of Douglas; (c) resection of an ovarian endometrioma greater than 2 cm in diameter;(d) dissection of bowel from uterus from the level of the endocervical junction or above (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35641)
+35644
+
+     Cervix, ablation by electrocoagulation diathermy, laser or cryotherapy, with colposcopy, including any local anaesthesia and biopsies, for previously biopsy confirmed HSIL (CIN 2/3) in a patient with a Type 1 or 2 (completely visible) transformation zone, if there is:(a) no evidence of invasive or glandular disease; and(b) no discordance between cytology and previous histology;not being a service associated with a service to which item 35647 or 35648 applies (Anaes.) [](/dynamic/MBSItems/Gynaecology/35644)
+35645
+
+     Cervix, ablation by electrocoagulation diathermy, laser or cryotherapy, with colposcopy, including any local anaesthesia or biopsies, in conjunction with ablative therapy of additional areas of biopsy proven high grade intraepithelial lesions of one or more sites of the vagina, vulva, urethra or anus, for previously biopsy confirmed HSIL (CIN2/3) in a patient with a Type 1 of 2 (completely visible) transformation zone, if there is:(a) no evidence of invasive or glandular disease; and(b) no discordance between cytology and previous histology;not being a service associated with a service to which item 35647 or 35648 applies (Anaes.) [](/dynamic/MBSItems/Gynaecology/35645)
+35647
+
+     Cervix, complete excision of the endocervical transformation zone, using large loop or laser therapy, including any local anaesthesia and biopsies (Anaes.) [](/dynamic/MBSItems/Gynaecology/35647)
+35648
+
+     Cervix, complete excision of the endocervical transformation zone, using large loop or laser therapy, including any local anaesthesia and biopsies, in conjunction with ablative treatment of additional areas of biopsy-proven high grade intraepithelial lesions of one or more sites of the vagina, vulva, urethra or anus (Anaes.) [](/dynamic/MBSItems/Gynaecology/35648)
+35649
+
+     Myomectomy, one or more myomas, when undertaken by an open abdominal approach (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35649)
+35653
+
+     Hysterectomy, abdominal, with or without removal of fallopian tubes and ovaries (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35653)
+35657
+
+     Hysterectomy, vaginal, with or without uterine curettage, inclusive of posterior culdoplasty, not being a service associated with a service to which item 35673 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35657)
+35658
+
+     Uterus (at least equivalent in size to a 10 week gravid uterus), debulking of, prior to vaginal or laparoscopic removal at hysterectomy or myoma of at least 4 cm removed by laparoscopy when retrieved from the abdomen (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35658)
+35661
+
+     Hysterectomy, abdominal, that concurrently requires extensive retroperitoneal dissection with exposure of one or both ureters and complex side wall dissection, including when performed with one or more of the following procedures:(a) salpingectomy;(b) oophorectomy;(c) excision of ovarian cyst(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35661)
+35667
+
+     Radical hysterectomy or radical trachelectomy (with or without excision of uterine adnexae) for proven malignancy, including excision of any one or more of the following:(a) parametrium;(b) paracolpos;(c) upper vagina;(d) contiguous pelvic peritoneum;utilising nerve sparing techniques and involving ureterolysis, if performed (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35667)
+35668
+
+     Hysterectomy, radical (with or without excision of uterine adnexae) including excision of any one or more of the following:(a) parametrium;(b) paracolpos;(c) upper vagina;(d) contiguous pelvic peritoneum;utilising nerve sparing techniques and involving ureterolysis, if performed in a patient with malignancy and previous pelvic radiation or chemotherapy treatment (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35668)
+35669
+
+     Hysterectomy, peripartum, performed for histologically proven placenta increta or percreta, or placenta accreta, if the patient has been referred to another practitioner for the management of severe intractable peripartum haemorrhage (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35669)
+35671
+
+     Hysterectomy, peripartum, for ongoing intractable haemorrhage where other haemorrhage control techniques have failed, for the purpose of providing lifesaving emergency treatment, not being a service associated with a service to which item 35667, 35668 or 35669 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35671)
+35673
+
+     Hysterectomy, vaginal, with or without uterine curettage, with salpingectomy, oophorectomy or excision of ovarian cyst, one or more, one or both sides, inclusive of a posterior culdoplasty, not being a service associated with a service to which item 35657 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35673)
+35680
+
+     BICORNUATE UTERUS, plastic reconstruction for (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35680)
+35691
+
+     STERILISATION BY INTERRUPTION OF FALLOPIAN TUBES, when performed in conjunction with Caesarean section NOTE:Strict legal requirements apply in relation to sterilisation procedures on minors.Medicare benefits are not payable for services not rendered in accordance with relevant Commonwealth and State and Territory law.Observe the explantory note before submitting a claim. (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35691)
+35694
+
+     Tuboplasty (salpingostomy or salpingolysis), unilateral or bilateral, one or more procedures (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35694)
+35697
+
+     Microsurgical or laparoscopic tuboplasty (salpingostomy, salpingolysis or tubal implantation into uterus), UNILATERAL or BILATERAL, 1 or more procedures (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35697)
+35700
+
+     FALLOPIAN TUBES, unilateral microsurgical or laparoscopic anastomosis of (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35700)
+35703
+
+     HYDROTUBATION OF FALLOPIAN TUBES as a nonrepetitive procedure (Anaes.) [](/dynamic/MBSItems/Gynaecology/35703)
+35717
+
+     Laparotomy, involving oophorectomy, salpingectomy, salpingo-oophorectomy, removal of ovarian, parovarian, fimbrial or broad ligament cyst—one or more such procedures, unilateral or bilateral, including adhesiolysis, for benign disease (including ectopic pregnancy by tubal removal or salpingostomy), not being a service associated with hysterectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35717)
+35720
+
+     Radical debulking, involving the radical excision of a macroscopically disseminated gynaecological malignancy from the pelvic cavity, including resection of peritoneum from the following:(a) the pelvic side wall;(b) the pouch of Douglas;(c) the bladder;for macroscopic disease confined to the pelvis, not being a service associated with a service to which item 35721 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35720)
+35721
+
+     Radical debulking, involving the radical excision of a macroscopically disseminated gynaecological malignancy from the abdominal and pelvic cavity, where cancer has extended beyond the pelvis, including any of the following:(a) resection of peritoneum over any of the following: (i) the diaphragm; (ii) the paracolic gutters; (iii) the greater or lesser omentum; (iv) the porta hepatis;(b) cytoreduction of recurrent gynaecological malignancy from the abdominal cavity following previous abdominal surgery, radiation or chemotherapy;(c) cytoreduction of recurrent gynaecological malignancy from the pelvic cavity following previous pelvic surgery, radiation or chemotherapy;not being a service to which a service associated with a service to which item 35720 or 35726 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35721)
+35723
+
+     Para-aortic lymph node dissection from above the level of the aortic bifurcation (unilateral), for staging or restaging of gynaecological malignancy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35723)
+35724
+
+     Para-aortic lymph node dissection (pelvic or above the aortic bifurcation) after prior similar dissection, radiotherapy or chemotherapy for malignancy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35724)
+35726
+
+     Infra-colic omentectomy, with or without multiple peritoneal biopsies, for staging or restaging of gynaecological malignancy, not being a service associated with a service to which item 35721 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35726)
+35729
+
+     OVARIAN TRANSPOSITION out of the pelvis, in conjunction with radical hysterectomy for invasive malignancy (Anaes.) [](/dynamic/MBSItems/Gynaecology/35729)
+35730
+
+     Ovarian repositioning for one or both ovaries to preserve ovarian function, prior to gonadotoxic radiotherapy when the treatment volume and dose of radiation have a high probability of causing infertility (Anaes.) [](/dynamic/MBSItems/Gynaecology/35730)
+35750
+
+     Hysterectomy, laparoscopic assisted vaginal, by any approach, including any endometrial sampling, with or without removal of the tubes or ovarian cystectomy or removal of the ovaries and tubes due to other pathology, not being a service associated with a service to which item 35595 or 35673 applies. (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35750)
+35751
+
+     Hysterectomy, laparoscopic, by any approach, including any endometrial sampling, with or without removal of the tubes, not being a service associated with a service to which item 35595 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35751)
+35753
+
+     Hysterectomy, complex laparoscopic, by any approach, including endometrial sampling, with either or both of the following procedures:(a) unilateral or bilateral salpingo-oophorectomy (excluding salpingectomy);(b) excision of moderate endometriosis or ovarian cyst;including any associated laparoscopy, not being a service associated with a service to which item 35595 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35753)
+35754
+
+     Hysterectomy, complex laparoscopic, by any approach, that concurrently requires either extensive retroperitoneal dissection or complex side wall dissection, or both, with any of the following procedures (if performed):(a) endometrial sampling; (b) unilateral or bilateral salpingectomy, oophorectomy or salpingo-oophorectomy;(c) excision of ovarian cyst; (d) any other associated laparoscopy; not being a service associated with a service to which item 35595 or 35641 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35754)
+35756
+
+     Hysterectomy, laparoscopic, by any approach, if the procedure is completed by open hysterectomy for control of bleeding or extensive pathology, including any associated laparoscopy, not being a service associated with a service to which item 35595 or 35641 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35756)
+35759
+
+     Procedure for the control of post operative haemorrhage following gynaecological surgery, under general anaesthesia, utilising a vaginal, abdominal or laparoscopic approach if no other procedure is performed (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/Gynaecology/35759)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

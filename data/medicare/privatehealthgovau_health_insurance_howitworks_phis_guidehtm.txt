@@ -1,0 +1,154 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Private Health Insurance works in Australia.")
+    * [Overview of Health System](/health_insurance/what_is_covered/index.htm "An overview of what is covered by private health insurance and what is covered by Medicare for hospital, medical services \(general treatment\), pharmaceutical benefits and ambulance.")
+    * [Private Health Insurance Basics](/health_insurance/howitworks/index.htm "Describes how health insurance works, the different levels \(categories\) of cover for both hospital and general treatment \(ancillary/extras\).")
+      * [Product tiers](/health_insurance/howitworks/producttiers.htm "Four new tiers of hospital cover will begin rolling out from early 2019 and will become mandatory from 1 April 2020. All hospital insurance policies will be classified as Gold, Silver, Bronze or Basic. All hospital treatments are now listed under clinical categories to describe what is and is not covered under each policy.")
+      * [Clinical categories](/health_insurance/howitworks/clinical_categories.htm "Details of what is and is not covered by the clinical categories, with links to their MBS item numbers.")
+      * [General Treatments](/health_insurance/howitworks/treatments.htm "Definitions of some services covered under General treatment private health insurance in Australia.")
+      * [Registered health insurers](/health_insurance/howitworks/registeredinsurers.htm "Overview of the operation of health insurers registered under the Private Health Insurance Act 2007 in Australia")
+      * [Private Health Information Statements](/health_insurance/howitworks/phis_guide.htm "Private Health Information Statements provide a summary of the services covered under private health insurance policies in Australia.")
+      * [Waiting periods](/health_insurance/howitworks/waiting_periods.htm "Most private health insurance policies will have a waiting period associated with the services it covers, this means that when you take out the insurance you will have to serve the waiting period before you claim especially if you are claiming for treatment for a pre-existing condition.")
+      * [Out of pocket costs](/health_insurance/howitworks/out_of_pocket.htm "Explains what a 'gap' or out of pocket cost is for both hospital and medical treatment and what you can do")
+      * [Managing your policy](/health_insurance/howitworks/managing_your_policy.htm "You may be eligible for a discount on your premium or some insurers offer rate protection policies. You may be able to lower your premiums by choosing to not be covered for certain services \(exclusions\), receive limited benefits \(restricted benefits\), or to pay a set amount towards the costs of treatment \(excess or co-payment\).")
+    * [Government Surcharges & Incentives](/health_insurance/surcharges_incentives/index.htm "Australian government incentives and surcharges for private health insurance.")
+    * [Overseas Visitors & Students ](/health_insurance/overseas/index.htm "Students and visitors from overseas may be required, or should consider, to take out private health cover whilst visiting Australia.")
+    * [Private Health Insurance Changes](/health_insurance/phichanges/index.htm "From 1 April 2019, the Australian Government introduced new rules to help make private health insurance simpler including Gold, Silver, Bronze and Basic hospital tiers, and standard clinical categories to describe what is and is not covered. Further changes were introduced in 2021.")
+  * [Health Insurers](/healthinsurers/index.htm "Policies, contact details & performance.")
+  * [Compare Policies](/comparepolicies/index.htm "Find policies that match your needs.")
+  * [Contact Us](/contactus.htm "Got a question? Contact us today.")
+  * [FAQ](/faq.htm "Frequently asked questions.")
+
+## Private Health Information Statements
+
+Private Health Information Statements (PHIS) provide a summary of what each
+policy covers. You can use the PHIS to more easily compare policies when
+purchasing private health insurance or checking your cover.
+
+more
+
+Private Health Information Statements (PHIS) are available for all private
+health insurance policies sold in Australia. Health insurers are required by
+law to provide these Statements so you can review your existing policy or
+compare private health insurance policies. You can find a PHIS for every
+available policy on this website.
+
+There are three types of Private Health Information Statements:
+
+  *  **Hospital** Â - describes the clinical categories covered by the policy, identifying those with restrictions, plus waiting periods and any additional payments (excesses, co-payments and gaps),
+  *  **General Treatment** Â - describes the features and limitations of general treatment cover, including which services are covered, waiting periods, benefit limits and example benefits for each type of service, and 
+  * **Combined** Â - describes the features and limitations of a combined hospital and general treatment cover, with details as above.
+
+AÂ Private Health Information StatementÂ only gives a summary of the key
+product features. However, it does allow you to see if your broad needs are
+covered and where products differ in both price and features. You will need to
+contact the health insurer to get all the details about the product.
+
+#### Hospital product tiers
+
+The hospital product statements you can find on the website will include
+information about the policy's Hospital Tier - **Gold, Silver, Bronze or
+Basic**.Â
+
+What is, and is not, covered in these tiers is based on minimum standard
+categories of treatment called **Clinical Categories**. These standard
+categories are simply groups of what hospital treatments are, and are not,
+covered under each policy.
+
+For more information about what is included in each tier, seeÂ [Product
+tiers](/health_insurance/howitworks/producttiers.htm "Product tiers & clinical
+categories").
+
+For detailed information about each of the standard categories, seeÂ [Clinical
+categories](/health_insurance/howitworks/clinical_categories.htm "Clinical
+categories").
+
+#### Tips for comparing private health insurance statements
+
+The PHIS is a starting point for you to compare different policies. However,
+they are provided for general purposes only. For more information, you will
+need to ask the insurer which provides the policy.
+
+  * Please note that if the insurer includes _"Other services (see insurer for detail)"_ it means that more services, other than the ones listed in the PHIS, may be restricted in some way or not covered and you need to contact the insurer to find out what those services are.
+  * You should not rely on the dollar amounts for premiums or benefits on the Statement as they are provided for comparison only. The actual premium may vary depending on your circumstances, for example, your age and your age when you first got health insurance.Â 
+  * Benefits will vary depending on the details of your policy, the treatments you are having, the hospital you visit and who treats you.
+  * Note that some words used in the Statement may not be exactly the same as those that your insurer uses. Your insurer will be able to explain any differences. The [Glossary](/footer/glossary.htm "Glossary")Â also explains terms used on this site and many alternate terms used by health insurers.
+  * For definitions of the medical terms used on the hospital PHIS, see [Clinical categories](/health_insurance/howitworks/clinical_categories.htm "Clinical categories").
+
+As with all types of insurance, conditions will apply, so don't just rely on
+the Statement - once you have full details from the insurer, make sure you
+read your policy information carefully before signing up and paying your
+premium.
+
+less
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+

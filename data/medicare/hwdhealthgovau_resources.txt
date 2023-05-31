@@ -1,0 +1,700 @@
+Skip to main content Skip to main navigation
+
+[ ![Australia Government Department of Health and Aged Care](
+
+                  ../images/DoHCrest-white.png
+  ) ![Health Workforce Data](../images/hwd-icon-light.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [Using our website](../using-our-website/using.html)
+  * [Contact Us](../contactus)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](../)
+  * [Data Tool](../datatool)
+  * [Resources](../resources)
+  * [HeaDS UPP](../headsupp)
+
+## You are here
+
+  1. [Home](../)
+  2. Resources
+
+# Resources
+
+  * Print 
+  * Share 
+
+    * [Twitter](https://twitter.com/share?url=https://hwd.health.gov.au/resources)
+    * [Facebook](https://facebook.com/sharer.php?u=https://hwd.health.gov.au/resources)
+    * [Email](mailto:?subject=Health Workforce Data&body=https://hwd.health.gov.au/resources)
+
+Publications, Dashboards, Data, Information and more
+
+### Resource Type
+
+Click on a resource type to filter the list
+
+  * ![](../assets/icons/fontawesome/all/solid/book.svg)
+
+###  Publications
+
+  * ![](../assets/icons/fontawesome/all/solid/poll.svg)
+
+###  Dashboards
+
+  * ![](../assets/icons/fontawesome/all/solid/columns.svg)
+
+###  Data
+
+  * ![](../assets/icons/fontawesome/all/solid/info.svg)
+
+###  Information
+
+###  Filter results
+
+You can narrow down the results using the filters
+
+Publication Type
+
+Factsheet
+
+Report
+
+Workforce Survey
+
+Topic
+
+Medical Education and Training
+
+Nursing and Midwifery
+
+Medical
+
+General Practice
+
+Allied Health Professionals
+
+Year
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+Resources Filtered results
+
+  * [ ](./data/summary-state.html)
+
+## [Summary Statistics, State](./data/summary-state.html)
+
+15 Feb 2023
+
+data
+
+Summary Statistics for all registered professions by state, populated with
+statistics from the Health Workforce Data Tool using the National Health
+Workforce Dataset (NHWDS)
+
+  * [ ](./data/summary-remote.html)
+
+## [Summary Statistics, Remoteness Area](./data/summary-remote.html)
+
+15 Feb 2023
+
+data
+
+Summary Statistics for all registered professions by remoteness area,
+populated with statistics from the Health Workforce Data Tool using the
+National Health Workforce Dataset (NHWDS)
+
+  * [ ](./data/summary-mmm.html)
+
+## [Summary Statistics, Modified Monash Model](./data/summary-mmm.html)
+
+15 Feb 2023
+
+data
+
+Summary Statistics for all registered professions by Modified Monash Model,
+populated with statistics from the Health Workforce Data Tool using the
+National Health Workforce Dataset (NHWDS)
+
+  * [ ](./data/summary-all.html)
+
+## [Summary Statistics, All Professions](./data/summary-all.html)
+
+15 Feb 2023
+
+data
+
+Summary Statistics for all registered professions, populated with statistics
+from the Health Workforce Data Tool using the National Health Workforce
+Dataset (NHWDS)
+
+  * [ ](./dashboards/nhwds-alld-factsheets.html)
+
+## [Dashboard, Allied Health Factsheets](./dashboards/nhwds-alld-
+factsheets.html)
+
+15 February 2023
+
+dashboards
+
+Factsheet for Allied Health Practitioners
+
+  * [ ](./information/methods-gp-workload.html)
+
+## [Method papers for counting General Practitioners delivering primary care
+services](./information/methods-gp-workload.html)
+
+2 Feb 2023
+
+information
+
+Information on the way general practitioners are counted including Full Time
+Equivalent (FTE) and calculating their work effort providing primary care
+services
+
+  * [ ](./data/gp-primarycare.html)
+
+## [General Practice Workforce providing Primary Care services in
+Australia](./data/gp-primarycare.html)
+
+2 February 2023
+
+data
+
+Statistics on General Practitioners providing primary care services through
+the Medicare Benefits Schedule (MBS)
+
+  * [ ](./publications/survey-mdcl-2021.html)
+
+## [Survey, Medical Practitioners 2021](./publications/survey-mdcl-2021.html)
+
+9 Dec 2022
+
+publications
+
+Sample Surveys for Medical Practitioners 2021
+
+  * [ ](./data/summary-mdcl.html)
+
+## [Summary Statistics, Medical Profession](./data/summary-mdcl.html)
+
+9 Dec 2022
+
+data
+
+Summary Statistics for the Medical Profession, populated with statistics from
+the Health Workforce Data Tool using the National Health Workforce Dataset
+(NHWDS)
+
+  * [ ](./dashboards/nhwds-mdcl-factsheets.html)
+
+## [Dashboard, Medical Factsheets](./dashboards/nhwds-mdcl-factsheets.html)
+
+9 December 2022
+
+dashboards
+
+Factsheet for Medical Practitioners
+
+  * [ ](./information/nhwds.html)
+
+## [National Health Workforce Dataset](./information/nhwds.html)
+
+5 Oct 2022
+
+information
+
+Information on the National Health Workforce Dataset (NHWDS)
+
+  * [ ](./dashboards/met.html)
+
+## [Dashboard, Medical Education and Training](./dashboards/met.html)
+
+28 Jun 2022
+
+dashboards
+
+Dashboards from the MET (Medical Education and Training report)
+
+  * [ ](./information/metinformation.html)
+
+## [Medical Education and Training (MET) Data
+Collection](./information/metinformation.html)
+
+27 June 2022
+
+information
+
+Information on the Medical Education and Training Data Collection(s)
+
+  * [ ](./data/summary-nrmw.html)
+
+## [Summary Statistics, Nursing and Midwifery Professions](./data/summary-
+nrmw.html)
+
+22 Jun 2022
+
+data
+
+Summary Statistics for the Nursing and Midwifery Professions, populated with
+statistics from the Health Workforce Data Tool using the National Health
+Workforce Dataset (NHWDS)
+
+  * [ ](./dashboards/nhwds-nursing-factsheets.html)
+
+## [Dashboard, Nursing and Midwifery Dashboards](./dashboards/nhwds-nursing-
+factsheets.html)
+
+22 June 2022
+
+dashboards
+
+Factsheet for Nursing and Midwifery
+
+  * [ ](./dashboards/nhwds-summary-metrics.html)
+
+## [Dashboard, Summary Statistics - Metrics](./dashboards/nhwds-summary-
+metrics.html)
+
+11 Oct 2021
+
+dashboards
+
+Summary Statistics for all registered professions, populated with statistics
+from the Health Workforce Data Tool using the National Health Workforce
+Dataset (NHWDS)
+
+  * [ ](./publications/report-met4-2019.html)
+
+## [Report, MET 4th (2019)](./publications/report-met4-2019.html)
+
+5 Mar 2021
+
+publications
+
+The Medical Education and Training (MET) factsheets provide a comprehensive
+picture of medical education and training in Australia as well as the supply
+of medical practitioners from overseas. âMET3â is the third data
+collection in the MET series bringing together the latest information from a
+range of sources.
+
+  * [ ](./data/summary-met4-2019.html)
+
+## [Summary Statistics, MET 4th 2019](./data/summary-met4-2019.html)
+
+5 Mar 2021
+
+data
+
+Medical Education and Training 4th 2019, Summary Statistics
+
+  * [ ](./publications/factsheet-alld-2019.html)
+
+## [Factsheet, Allied Health 2019](./publications/factsheet-alld-2019.html)
+
+1 Jan 2021
+
+publications
+
+Information on the Allied Health workforce for 2019
+
+  * [ ](./publications/survey-mdcl-2020.html)
+
+## [Survey, Medical Practitioners 2020](./publications/survey-mdcl-2020.html)
+
+1 Dec 2020
+
+publications
+
+Sample Surveys for Medical Practitioners 2020
+
+  * [ ](./publications/factsheet-nrmw-2019.html)
+
+## [Factsheet, Nursing and Midwifery 2019](./publications/factsheet-
+nrmw-2019.html)
+
+16 Nov 2020
+
+publications
+
+Information on the Nursing and Midwifery workforce for 2019, including
+Registered Nurses, Enrolled Nurses, Midwifery and Nurse Practitioners
+
+  * [ ](./publications/factsheet-nrmw-2018.html)
+
+## [Factsheet, Nursing and Midwifery 2018](./publications/factsheet-
+nrmw-2018.html)
+
+3 Nov 2020
+
+publications
+
+Information on the Nursing and Midwifery workforce for 2018
+
+  * [ ](./publications/factsheet-mdcl-2018.html)
+
+## [Factsheet, Medical 2018](./publications/factsheet-mdcl-2018.html)
+
+3 Nov 2020
+
+publications
+
+Information on the Medical Workforce for 2018
+
+  * [ ](./publications/factsheet-nrmw-2017.html)
+
+## [Factsheet, Nursing and Midwifery 2017](./publications/factsheet-
+nrmw-2017.html)
+
+2 Nov 2020
+
+publications
+
+Information on the Nursing and Midwifery workforce for 2017, including
+Registered Nurses, Enrolled Nurses, Midwifery and Nurse Practitioners
+
+  * [ ](./data/summary-met3-2018.html)
+
+## [Summary Statistics, MET 3rd 2018](./data/summary-met3-2018.html)
+
+1 Oct 2020
+
+data
+
+Medical Education and Training 3rd 2018, Summary Statistics
+
+  * [ ](./information/factsheets.html)
+
+## [Information, Factsheets](./information/factsheets.html)
+
+15 Sep 2020
+
+information
+
+Information on the factsheets that are published by the Department of Health
+and Aged Care relating to Health Workforce
+
+  * [ ](./information/datatool.html)
+
+## [Information, Data Tool](./information/datatool.html)
+
+15 Sep 2020
+
+information
+
+Information on the Health Workforce Data Tool
+
+  * [ ](./publications/factsheet-alld-2017.html)
+
+## [Factsheet, Allied Health 2017](./publications/factsheet-alld-2017.html)
+
+19 May 2020
+
+publications
+
+Information on the Allied Health workforce for 2017
+
+  * [ ](./information/workforce-planning-tool.html)
+
+## [Information, Workforce Planning Tool](./information/workforce-planning-
+tool.html)
+
+15 Dec 2019
+
+information
+
+Information on the Workforce Planning Tool
+
+  * [ ](./publications/survey-mdcl-2019.html)
+
+## [Survey, Medical Practitioners 2019](./publications/survey-mdcl-2019.html)
+
+1 Dec 2019
+
+publications
+
+Sample Surveys for Medical Practitioners 2019
+
+  * [ ](./publications/report-afhw.html)
+
+## [Report, Australia's Future Health Workforce (AFHW)](./publications/report-
+afhw.html)
+
+1 Oct 2019
+
+publications
+
+AFHW reports contain detailed modelling on workforce supply, demand and
+training, and projects the numbers required to 2030 for the profession
+
+  * [ ](./publications/report-met3-2018.html)
+
+## [Report, MET 3rd (2018)](./publications/report-met3-2018.html)
+
+1 Jul 2019
+
+publications
+
+The Medical Education and Training (MET) factsheets provide a comprehensive
+picture of medical education and training in Australia as well as the supply
+of medical practitioners from overseas. âMET3â is the third data
+collection in the MET series bringing together the latest information from a
+range of sources.
+
+  * [ ](./publications/survey-nrmw-2018.html)
+
+## [Survey, Nursing and Midwifery 2018](./publications/survey-nrmw-2018.html)
+
+1 Dec 2018
+
+publications
+
+Sample Surveys for Nursing and Midwifery 2018
+
+  * [ ](./publications/survey-mdcl-2018.html)
+
+## [Survey, Medical Practitioners 2018](./publications/survey-mdcl-2018.html)
+
+1 Dec 2018
+
+publications
+
+Sample Surveys for Medical Practitioners 2018
+
+  * [ ](./information/specification-met2-2017.html)
+
+## [Data Specification, MET 2nd (2017)](./information/specification-
+met2-2017.html)
+
+1 Jul 2018
+
+information
+
+MET 2nd dataset data specification
+
+  * [ ](./publications/report-met2-2017.html)
+
+## [Report, MET 2nd (2017)](./publications/report-met2-2017.html)
+
+1 Jul 2018
+
+publications
+
+The Medical Education and Training (MET) factsheets provide a comprehensive
+picture of medical education and training in Australia as well as the supply
+of medical practitioners from overseas. âMET2â is the second data
+collection in the MET series bringing together the latest information from a
+range of sources.
+
+  * [ ](./publications/survey-nrmw-2017.html)
+
+## [Survey, Nursing and Midwifery 2017](./publications/survey-nrmw-2017.html)
+
+1 Dec 2017
+
+publications
+
+Sample Surveys for Nursing and Midwifery 2017
+
+  * [ ](./publications/survey-mdcl-2017.html)
+
+## [Survey, Medical Practitioners 2017](./publications/survey-mdcl-2017.html)
+
+1 Dec 2017
+
+publications
+
+Sample Surveys for Medical Practitioners 2017
+
+  * [ ](./publications/survey-alld-2017.html)
+
+## [Survey, Allied Health 2017](./publications/survey-alld-2017.html)
+
+1 Dec 2017
+
+publications
+
+Sample Surveys for Allied Health Professionals 2017
+
+  * [ ](./publications/report-met1-2016.html)
+
+## [Report, MET 1st (2016)](./publications/report-met1-2016.html)
+
+1 Jul 2017
+
+publications
+
+The MET 1st Report provides the annual changes in medical education and
+training
+
+  * [ ](./information/mtrp.html)
+
+## [Medical Training Review Panel (MTRP) Data
+Collection](./information/mtrp.html)
+
+1 Jan 2017
+
+information
+
+Information on the Medical Education and Training Data Collection
+
+  * [ ](./publications/factsheet-mdcl-2016.html)
+
+## [Factsheet, Medical 2016](./publications/factsheet-mdcl-2016.html)
+
+1 Jan 2017
+
+publications
+
+Information on the Medical Workforce for 2016
+
+  * [ ](./information/surveys.html)
+
+## [Information, Workforce Surveys](./information/surveys.html)
+
+1 Dec 2016
+
+information
+
+Information on the Health Workforce Surveys and Survey process
+
+  * [ ](./information/stronger-rural-health.html)
+
+## [Information, Stronger Rural Health Strategy](./information/stronger-rural-
+health.html)
+
+1 Dec 2016
+
+information
+
+Information on the Stronger Rural Health Strategy
+
+  * [ ](./information/publications.html)
+
+## [Information, Publications](./information/publications.html)
+
+1 Dec 2016
+
+information
+
+Information on the Health Workforce Publications that the Department publishes
+
+  * [ ](./publications/survey-nrmw-2016.html)
+
+## [Survey, Nursing and Midwifery 2016](./publications/survey-nrmw-2016.html)
+
+1 Dec 2016
+
+publications
+
+Sample Surveys for Nursing and Midwifery 2016
+
+  * [ ](./publications/survey-mdcl-2016.html)
+
+## [Survey, Medical Practitioners 2016](./publications/survey-mdcl-2016.html)
+
+1 Dec 2016
+
+publications
+
+Sample Surveys for Medical Practitioners 2016
+
+  * [ ](./publications/survey-alld-2016.html)
+
+## [Survey, Allied Health 2016](./publications/survey-alld-2016.html)
+
+1 Dec 2016
+
+publications
+
+Sample Surveys for Allied Health Professionals 2016
+
+  * [ ](./publications/survey-nrmw-2015.html)
+
+## [Survey, Nursing and Midwifery 2015](./publications/survey-nrmw-2015.html)
+
+1 Dec 2015
+
+publications
+
+Sample Surveys for Nursing and Midwifery 2015
+
+  * [ ](./publications/survey-mdcl-2015.html)
+
+## [Survey, Medical Practitioners 2015](./publications/survey-mdcl-2015.html)
+
+1 Dec 2015
+
+publications
+
+Sample Surveys for Medical Practitioners 2015
+
+  * [ ](./publications/survey-alld-2015.html)
+
+## [Survey, Allied Health 2015](./publications/survey-alld-2015.html)
+
+1 Dec 2015
+
+publications
+
+Sample Surveys for Allied Health Professionals 2015
+
+  * [ ](./information/clinical-placements.html)
+
+## [Clinical Placements](./information/clinical-placements.html)
+
+1 Oct 2014
+
+information
+
+Information on The Clinical Placements Datasets
+
+### Resources
+
+  * [Publications](../resources/index.html?resourcetype=publications)
+  * [Dashboards](../resources/index.html?resourcetype=dashboards)
+  * [Data](../resources/index.html?resourcetype=data)
+  * [Information](../resources/index.html?resourcetype=information)
+
+### Applications
+
+  * [Data Tool](../datatool/index.html)
+  * [HeaDS UPP](../headsupp/index.html)
+
+### Contact us
+
+  * [Contact Us](../contactus/index.html)
+
+### Using our website
+
+  * [Using our website](../using-our-website/using.html)
+  * [Accessibility](../using-our-website/accessibility.html)
+  * [Copyright](../using-our-website/copyright.html)
+  * [Disclaimer](../using-our-website/disclaimer.html)
+  * [Privacy](../using-our-website/privacy.html)
+
+Â© Commonwealth of Australia
+
+Back to top
+

@@ -1,0 +1,199 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Gastrointestinal endoscopy - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+11820
+
+     Capsule endoscopy to investigate an episode of obscure gastrointestinal bleeding, using a capsule endoscopy device (including administration of the capsule, associated endoscopy procedure if required for placement, imaging, image reading and interpretation, and all attendances for providing the service on the day the capsule is administered) if: (a) the service is provided to a patient who: (i) has overt gastrointestinal bleeding; or (ii) has gastrointestinal bleeding that is recurrent or persistent, and iron deficiency anaemia that is not due to coeliac disease, and, if the patient also has menorrhagia, has had the menorrhagia considered and managed; and (b)an upper gastrointestinal endoscopy and a colonoscopy have been performed on the patient and have not identified the cause of thebleeding; and (c)the service has not been provided to the same patient on more than 2 occasions in the preceding 12 months; and (d)the service is performed by a specialist or consultant physician with endoscopic training that is recognised by the Conjoint Committee for the Recognitionof Training in Gastrointestinal Endoscopy; and (e)the service is not associated with a service to which item 30680, 30682, 30684 or 30686 applies [](/dynamic/MBSItems/GastrointestinalEndoscopy/11820)
+11823
+
+     Capsule endoscopy to conduct small bowel surveillance of a patient diagnosed with Peutz-Jeghers Syndrome, using a capsule endoscopy device approved by the Therapeutic Goods Administration (including administration of the capsule, imaging, image reading and interpretation, and all attendances for providing the service on the day the capsule is administered) if: (a) the service is performed by a specialist or consultant physician with endoscopic training that is recognised by the Conjoint Committee for the Recognition of Training in Gastrointestinal Endoscopy; and (b) the item is performed only once in any 2 year period; and (c) the service is not associated with balloon enteroscopy. [](/dynamic/MBSItems/GastrointestinalEndoscopy/11823)
+30473
+
+     Oesophagoscopy (not being a service associated with a service to which item 41822 applies), gastroscopy,duodenoscopy or panendoscopy (1 or more such procedures), with or without biopsy, not being a service associated with a service to which item 30478 or 30479 applies. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30473)
+30475
+
+     Endoscopic dilatation of stricture of upper gastrointestinal tract (including the use of imaging intensification where clinically indicated) (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30475)
+30478
+
+     Oesophagoscopy (other than a service associated with a service to which item 41822 or 41825 applies), gastroscopy, duodenoscopy, panendoscopy or push enteroscopy, one or more such procedures, if: (a) the procedures are performed using one or more of the following endoscopic procedures: (i) polypectomy; (ii) sclerosing or adrenalin injections; (iii) banding; (iv) endoscopic clips; (v) haemostatic powders; (vi) diathermy; (vii) argon plasma coagulation; and (b) the procedures are for the treatment of one or more of the following: (i) upper gastrointestinal tract bleeding; (ii) polyps; (iii) removal of foreign body; (iv) oesophageal or gastric varices; (v) peptic ulcers; (vi) neoplasia; (vii) benign vascular lesions; (viii) strictures of the gastrointestinal tract; (ix) tumorous overgrowth through or over oesophageal stents; other than a service associated with a service to which item 30473 or 30479 applies (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30478)
+30479
+
+     Endoscopy with laser therapy, for the treatment of one or more of the following: (a) neoplasia; (b) benign vascular lesions; (c) strictures of the gastrointestinal tract; (d) tumorous overgrowth through or over oesophageal stents; (e) peptic ulcers; (f) angiodysplasia; (g) gastric antral vascular ectasia; (h) post-polypectomy bleeding; other than a service associated with a service to which item 30473 or 30478 applies (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30479)
+30484
+
+     ENDOSCOPIC RETROGRADE CHOLANGIOPANCREATOGRAPHY (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30484)
+30485
+
+     ENDOSCOPIC SPHINCTEROTOMY with or without extraction of stones from common bile duct (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30485)
+30488
+
+     SMALL BOWEL INTUBATIONas an independent procedure (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30488)
+30490
+
+     OESOPHAGEAL PROSTHESIS, insertion of, including endoscopy and dilatation (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30490)
+30491
+
+     BILE DUCT, ENDOSCOPIC STENTING OF (including endoscopy and dilatation) (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30491)
+30494
+
+     ENDOSCOPIC BILIARY DILATATION (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30494)
+30680
+
+     Balloon enteroscopy, examination of the small bowel (oral approach), with or without biopsy, WITHOUT intraprocedural therapy, for diagnosis of patients with obscure gastrointestinal bleeding, not in association with another item in this subgroup(with the exception of item 30682 or 30686) The patient to whom the service is provided must: (i)have recurrent or persistent bleeding; and (ii)be anaemic or have active bleeding; and (iii)have had an upper gastrointestinal endoscopy and a colonoscopy performed which did not identify the cause of the bleeding. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30680)
+30682
+
+     Balloon enteroscopy, examination of the small bowel (anal approach), with or without biopsy, WITHOUT intraprocedural therapy, for diagnosis of patients with obscure gastrointestinal bleeding, not in association with another item in this subgroup (with the exception of item 30680 or 30684) The patient to whom the service is provided must: (i)have recurrent or persistent bleeding; and (ii)be anaemic or have active bleeding; and (iii)have had an upper gastrointestinal endoscopy and a colonoscopy performed which did not identify the cause ofthe bleeding. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30682)
+30684
+
+     Balloon enteroscopy, examination of the small bowel (oral approach), with or without biopsy, WITH 1 or more of the following procedures (snare polypectomy, removal of foreign body, diathermy, heater probe, laser coagulation or argon plasma coagulation), for diagnosis and management of patients with obscure gastrointestinal bleeding, not in association with another item in this subgroup (with the exception of item 30682 or 30686) The patient to whom the service is provided must: (i)have recurrent or persistent bleeding; and (ii)be anaemic or have active bleeding; and (iii)have had an upper gastrointestinal endoscopy and a colonoscopy performed which did not identify the cause of the bleeding. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30684)
+30686
+
+     Balloon enteroscopy, examination of the small bowel (anal approach), with or without biopsy, WITH 1 or more of the following procedures (snare polypectomy, removal of foreign body, diathermy, heater probe, laser coagulation or argon plasma coagulation), for diagnosis and management of patients with obscure gastrointestinal bleeding, not in association with another item in this subgroup (with the exception of item 30680 or 30684) The patient to whom the service is provided must: (i)have recurrent or persistent bleeding; and (ii)be anaemic or have active bleeding; and (iii)have had an upper gastrointestinal endoscopy and a colonoscopy performed which did not identify the cause of the bleeding. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30686)
+30687
+
+     ENDOSCOPY with RADIOFREQUENCY ABLATION of mucosal metaplasia for the treatment of Barrett's Oesophagus in a single course of treatment, following diagnosis of high grade dysplasia confirmed by histological examination (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30687)
+30688
+
+     Endoscopicultrasound(endoscopy with ultrasound imaging), with or without biopsy, for the staging of 1 or more of oesophageal, gastric or pancreatic cancer, not in association with another item in this Subgroup (other than item 30484, 30485, 30491 or 30494) andother thana service associated with the routine monitoring of chronic pancreatitis. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30688)
+30690
+
+     Endoscopic ultrasound(endoscopy with ultrasound imaging), with or without biopsy,with fine needle aspiration, including aspiration of the locoregional lymph nodes if performed, for the staging of 1 or more of oesophageal, gastric or pancreatic cancer, not in association with another item in this Subgroup (other than item 30484, 30485, 30491 or 30494)and other thana service associated with the routine monitoring of chronic pancreatitis. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30690)
+30692
+
+     Endoscopic ultrasound(endoscopy with ultrasound imaging), with or without biopsy, for the diagnosis of 1 or more of pancreatic, biliary or gastric submucosal tumours, not in association with another item in this Subgroup (other than item 30484, 30485, 30491 or 30494)and other thana service associated with the routine monitoring of chronic pancreatitis. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30692)
+30694
+
+     Endoscopic ultrasound(endoscopy with ultrasound imaging), with or without biopsy,with fine needle aspiration,for the diagnosis of 1 or more of pancreatic, biliary or gastric submucosal tumours,not in association with another item in this Subgroup (other than item 30484, 30485, 30491 or 30494)and other thana service associated with the routine monitoring of chronic pancreatitis. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30694)
+30731
+
+     Intraoperative enterotomy for visualisation of the small intestine by endoscopy, including endoscopic examination using a flexible endoscope, with or without biopsies (Anaes.) (Assist.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/30731)
+32023
+
+     Endoscopic insertion of stent or stents for large bowel obstruction, stricture or stenosis, including colonoscopy and any image intensification, where the obstruction is due to: a) a pre-diagnosed colorectal cancer, or cancer of an organ adjacent to the bowel; or b) an unknown diagnosis (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32023)
+32072
+
+     SIGMOIDOSCOPIC EXAMINATION (with rigid sigmoidoscope), with or without biopsy [](/dynamic/MBSItems/GastrointestinalEndoscopy/32072)
+32075
+
+     SIGMOIDOSCOPIC EXAMINATION (with rigid sigmoidoscope), UNDER GENERAL ANAESTHESIA, with or without biopsy, not being a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32075)
+32084
+
+     Sigmoidoscopy or colonoscopy up to the hepatic flexure, with or without biopsy,other thana service associated with a service to whichany of items 32222 to 32228applies. (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32084)
+32087
+
+     Endoscopic examination of the colon up to the hepatic flexure by sigmoidoscopy or colonoscopy for the removal of one or more polyps, other than a service associated with a service to which any of items 32222 to 32228 applies (Anaes.) (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32087)
+32094
+
+     ENDOSCOPIC DILATATION OF COLORECTAL STRICTURES including colonoscopy (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32094)
+32095
+
+     ENDOSCOPIC EXAMINATION of SMALL BOWEL with flexible endoscope passed by stoma, with or without biopsies (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32095)
+32222
+
+     Endoscopic examination of the colon to the caecum by colonoscopy, for a patient: (a) following a positive faecal occult blood test; or (b) who has symptoms consistent with pathology of the colonic mucosa; or (c) with anaemia or iron deficiency; or (d) for whom diagnostic imaging has shown an abnormality of the colon; or (e) who is undergoing the first examination following surgery for colorectal cancer; or (f) who is undergoing pre-operative evaluation; or (g) for whom a repeat colonoscopy is required due to inadequate bowel preparation for the patient’s previous colonoscopy; or (h) for the management of inflammatory bowel disease Applicable only once on a day under a single episode of anaesthesia or other sedation (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32222)
+32223
+
+     Endoscopic examination of the colon to the caecum by colonoscopy, for a patient: (a) who has had a colonoscopy that revealed: (i) 1 to 4 adenomas, each of which was less than 10 mm in diameter, had no villous features and had no high grade dysplasia; or (ii) 1 or 2 sessile serrated lesions, each of which was less than 10 mm in diameter, and without dysplasia; or (b) with a moderate risk of colorectal cancer due to family history; or (c) with a history of colorectal cancer, who has had an initial post-operative colonoscopy that did not reveal any adenomas or colorectal cancer Applicable only once in any 5 year period (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32223)
+32224
+
+     Endoscopic examination of the colon to the caecum by colonoscopy, for a patient with a moderate risk of colorectal cancer due to: (a) a history of adenomas, including an adenoma that: (i) was 10 mm or greater in diameter; or (ii) had villous features; or (iii) had high grade dysplasia; or (b) having had a previous colonoscopy that revealed: (i) 5 to 9 adenomas, each of which was less than 10 mm in diameter, had no villous features and had no high grade dysplasia; or (ii) 1 or 2 sessile serrated lesions, each of which was 10 mm or greater in diameter or had dysplasia; or (iii) a hyperplastic polyp that was 10 mm or greater in diameter; or (iv) 3 or more sessile serrated lesions, each of which was less than 10 mm in diameter and had no dysplasia; or (v) 1 or 2 traditional serrated adenomas, of any size Applicable only once in any 3 year period (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32224)
+32225
+
+     Endoscopic examination of the colon to the caecum by colonoscopy, for a patient with a high risk of colorectal cancer due to having had a previous colonoscopy that: (a) revealed 10 or more adenomas; or (b) included a piecemeal, or possibly incomplete, excision of a large, sessile polyp Applicable not more than 4 times in any 12 month period (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32225)
+32226
+
+     Endoscopic examination of the colon to the caecum by colonoscopy, for a patient who has a high risk of colorectal cancer due to: (a) having either: (i) a known or suspected familial condition, such as familial adenomatous polyposis, Lynch syndrome or serrated polyposis syndrome; or (ii) a genetic mutation associated with hereditary colorectal cancer; or (b) having had a previous colonoscopy that revealed: (i) 5 or more sessile serrated lesions, each of which was less than 10 mm in diameter and had no dysplasia; or (ii) 3 or more sessile serrated lesions, 1 or more of which was 10 mm or greater in diameter or had dysplasia; or (iii) 3 or more traditional serrated adenomas, of any size Applicable only once in any 12 month period (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32226)
+32227
+
+     Endoscopic examination of the colon to the caecum by colonoscopy: (a) for the treatment of bleeding, including one or more of the following: (i) radiation proctitis; (ii) angioectasia; (iii) post-polypectomy bleeding; or (b) for the treatment of colonic strictures with balloon dilatation Applicable only once on a day under a single episode of anaesthesia or other sedation (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32227)
+32228
+
+     Endoscopic examination of the colon to the caecum by colonoscopy, other that a service to which item 32222, 32223, 32224, 32225, or 32226 applies. Applicable only once (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32228)
+32229
+
+     Removal of one or more polyps during colonoscopy, in association with a service to which item 32222, 32223, 32224, 32225, 32226, or 32228 applies (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32229)
+32230
+
+     Endoscopic mucosal resection using electrocautery of a non-invasive sessile or flat superficial colorectal neoplasm which is at least 25mm in diameter, if the service is: (a) provided by a specialist gastroenterologist or surgical endoscopist; and (b) supported by photographic evidence to confirm the size of the polyp in situ, and (c) performed within 6 months after a service to which item 32222, 32223, 32224, 32225, 32226 or 32228 applies has been performed Applicable only once per polyp (H) (Anaes.) [](/dynamic/MBSItems/GastrointestinalEndoscopy/32230)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

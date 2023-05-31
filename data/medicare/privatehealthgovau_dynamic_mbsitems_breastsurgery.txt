@@ -1,0 +1,229 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Breast surgery (medically necessary) - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+30299
+
+     SENTINEL LYMPH NODE BIOPSY OR BIOPSIES for breast cancer, involving dissection in a level I axilla, using preoperative lymphoscintigraphy and lymphotropic dye injection, not being a service associated with a service to which item 30300, 30302 or 30303 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/30299)
+30300
+
+     SENTINEL LYMPH NODE BIOPSY OR BIOPSIES for breast cancer, involving dissection in a level II/III axilla, using preoperative lymphoscintigraphy and lymphotropic dye injection, not being a service associated with a service to which item 30299, 30302 or 30303 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/30300)
+30302
+
+     SENTINEL LYMPH NODE BIOPSY OR BIOPSIES for breast cancer, involving dissection in a level I axilla, using lymphotropic dye injection, not being a service associated with a service to which item 30299, 30300 or 30303 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/30302)
+30303
+
+     SENTINEL LYMPH NODE BIOPSY OR BIOPSIES for breast cancer, involving dissection in a level II/III axilla, using lymphotropic dye injection, not being a service associated with a service to which item 30299, 30300 or 30302 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/30303)
+31500
+
+     BREAST, BENIGN LESION up to and including 50mm in diameter, including simple cyst, fibroadenoma or fibrocystic disease, open surgical biopsy or excision of, with or without frozen section histology (Anaes.) [](/dynamic/MBSItems/BreastSurgery/31500)
+31503
+
+     BREAST, BENIGN LESION more than 50mm in diameter, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31503)
+31506
+
+     BREAST, ABNORMALITY detected by mammography or ultrasound where guidewire or other localisation procedure is performed, excision biopsy of (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31506)
+31509
+
+     BREAST, MALIGNANT TUMOUR, open surgical biopsy of, with or without frozen section histology (Anaes.) [](/dynamic/MBSItems/BreastSurgery/31509)
+31512
+
+     BREAST, MALIGNANT TUMOUR, complete local excision of, with or without frozen section histology (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31512)
+31515
+
+     BREAST, TUMOUR SITE, re-excision of following open biopsy or incomplete excision of malignant tumour (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31515)
+31516
+
+     BREAST, MALIGNANT TUMOUR, complete local excision of, with or without frozen section histology when targeted intraoperative radiation therapy(using an Intrabeam® or Xoft® Axxent® device) is performed concurrently, if the patient satisfies the requirements mentioned in paragraphs(a) to (g) of item 15900 Applicable only once per breast per lifetime (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31516)
+31519
+
+     BREAST, total mastectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31519)
+31524
+
+     BREAST, subcutaneous mastectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31524)
+31525
+
+     BREAST, mastectomy for gynecomastia, with or without liposuction (suction assisted lipolysis), not being a service associated with a service to which item 45585 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31525)
+31530
+
+     Breast, biopsy of solid tumour or tissue of, using a vacuum-assisted breast biopsy device under imaging guidance, for histological examination, if imaging has demonstrated:(a) microcalcification of lesion; or(b) impalpable lesion less than one cm in diameter;including pre-operative localisation of lesion, if performed, other than a service associated with a service to which item 31548 applies [](/dynamic/MBSItems/BreastSurgery/31530)
+31533
+
+     FINE NEEDLE ASPIRATION of an impalpable breast lesion detected by mammography or ultrasound, imaging guided - but not including imaging (Anaes.) [](/dynamic/MBSItems/BreastSurgery/31533)
+31536
+
+     Breast, preoperative localisation of lesion of, by hookwire or similar device, using interventional imaging techniques, but not including imaging (Anaes.) (Anaes.) [](/dynamic/MBSItems/BreastSurgery/31536)
+31548
+
+     Breast, biopsy of solid tumour or tissue of, using mechanical biopsy device, for histological examination, other than a service associated with a service to which item 31530 applies (Anaes.) (Anaes.) [](/dynamic/MBSItems/BreastSurgery/31548)
+31551
+
+     BREAST, HAEMATOMA, SEROMA OR INFLAMMATORY CONDITION including abscess, granulomatous mastitis or similar, exploration and drainage of when undertaken in the operating theatre of a hospital, excluding aftercare (Anaes.) [](/dynamic/MBSItems/BreastSurgery/31551)
+31554
+
+     BREAST, microdochotomy of, for benign or malignant condition (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31554)
+31557
+
+     BREAST CENTRAL DUCTS, excision of, for benign condition (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31557)
+31560
+
+     ACCESSORY BREAST TISSUE, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/31560)
+31563
+
+     INVERTED NIPPLE, surgical eversion of (Anaes.) [](/dynamic/MBSItems/BreastSurgery/31563)
+31566
+
+     ACCESSORY NIPPLE, excision of (Anaes.) [](/dynamic/MBSItems/BreastSurgery/31566)
+45060
+
+     Developmental breast abnormality, single stage correction of, if: (a) the correction involves either: (i) bilateral mastopexy for symmetrical tubular breasts; or (ii) surgery on both breasts with a combination of insertion of one or more implants (which must have at least a 10% volume difference), mastopexy or reduction mammaplasty, if there is a difference in breast volume, as demonstrated by an appropriate volumetric measurement technique, of at least 20% in normally shaped breasts, or 10% in tubular breasts or in breasts with abnormally high inframammary folds; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes Applicable only once per occasion on which the service is provided (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45060)
+45061
+
+     Developmental breast abnormality, 2 stage correction of, first stage, involving surgery on both breasts with a combination of insertion of one or more tissue expanders, mastopexy or reduction mammaplasty, if: (a) there is a difference in breast volume, as demonstrated by an appropriate volumetric measurement technique, of at least: (i) 20% in normally shaped breasts; or (ii) 10% in tubular breasts or in breasts with abnormally high inframammary folds; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes. Applicable only once per occasion on which the service is provided (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45061)
+45062
+
+     Developmental breast abnormality, 2 stage correction of, second stage, involving surgery on both breasts with a combination of exchange of one or more tissue expanders for one or more implants (which must have at least a 10% volume difference), mastopexy or reduction mammaplasty, if: (a) there is a difference in breast volume, as demonstrated by an appropriate volumetric measurement technique, of at least: (i) 20% in normally shaped breasts; or (ii) 10% in tubular breasts or in breasts with abnormally high inframammary folds; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes. Applicable only once per occasion on which the service is provided (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45062)
+45520
+
+     Reduction mammaplasty (unilateral) with surgical repositioning of nipple,in the context of breast cancer or developmental abnormality of the breast (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45520)
+45522
+
+     Reduction mammaplasty (unilateral) without surgical repositioning of the nipple: (a) excluding the treatment of gynaecomastia; and (b) not with insertion of any prosthesis (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45522)
+45523
+
+     Reduction mammaplasty (bilateral) with surgical repositioning of the nipple: (a) for patients with macromastia and experiencing pain in the neck or shoulder region; and (b) not with insertion of any prosthesis (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45523)
+45524
+
+     Mammaplasty, augmentation (unilateral) in the context of: (a) breast cancer; or (b) developmental abnormality of the breast, if there is a difference in breast volume, as demonstrated by an appropriate volumetric measurement technique, of at least: (i) 20% in normally shaped breasts; or (ii) 10% in tubular breasts or in breasts with abnormally high inframammary folds. Applicable only once per occasion on which the service is provided (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45524)
+45527
+
+     Breast reconstruction (unilateral), following mastectomy, using a permanent prosthesis (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45527)
+45528
+
+     Mammaplasty, augmentation, bilateral (other than a service to which item 45527 applies), if: (a) reconstructive surgery is indicated because of: (i) developmental malformation of breast tissue (excluding hypomastia); or (ii) disease of or trauma to the breast (other than trauma resulting from previous elective cosmetic surgery); or (iii) amastia secondary to a congenital endocrine disorder; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45528)
+45530
+
+     Breast reconstruction (unilateral), using a latissimus dorsi or other large muscle or myocutaneous flap, including repair of secondary skin defect, if required, excluding repair of muscular aponeurotic layer, other than a service associated with a service to which item 30165, 30168, 30171, 30172, 30176, 30177 or 30179 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45530)
+45533
+
+     BREAST RECONSTRUCTION using breast sharing technique (first stage) including breast reduction, transfer of complex skin and breast tissue flap, split skin graft to pedicle of flap or other similar procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45533)
+45534
+
+     Autologous fat grafting, unilateral service (harvesting, preparation and injection of adipocytes) if: (a) the autologous fat grafting is for one or more of the following purposes: (i) the correction of defects arising from treatment and prevention of breast cancer in patients with contour defects, greater than or equal to 20% volume asymmetry, post-treatment pain or poor prosthetic coverage; (ii) the preparation of post mastectomy thin or irradiated skin flaps in patients intending to have breast reconstruction; (iii) breast reconstruction in breast cancer patients; (iv) the correction of developmental disorders of the breast; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes Up to a total of 4 services per side (for total treatment of a single breast) (H) (Anaes.) [](/dynamic/MBSItems/BreastSurgery/45534)
+45535
+
+     Autologous fat grafting, bilateral service (harvesting, preparation and injection of adipocytes) if: (a) the autologous fat grafting is for one or more of the following purposes: (i) the correction of defects arising from treatment and prevention of breast cancer in patients with contour defects, greater than or equal to 20% volume asymmetry, post-treatment pain or poor prosthetic coverage; (ii) the preparation of post mastectomy thin or irradiated skin flaps in patients intending to have breast reconstruction; (iii) breast reconstruction in breast cancer patients; (iv) the correction of developmental disorders of the breast; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes Up to a total of 4 services (H) (Anaes.) [](/dynamic/MBSItems/BreastSurgery/45535)
+45536
+
+     BREAST RECONSTRUCTION using breast sharing technique (second stage) including division of pedicle, insetting of breast flap, with closure of donor site or other similar procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45536)
+45539
+
+     BREAST RECONSTRUCTION (unilateral), following mastectomy, using tissue expansion - insertion of tissue expansion unit and all attendances for subsequent expansion injections (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45539)
+45542
+
+     BREAST RECONSTRUCTION (unilateral), following mastectomy, using tissue expansion - removal of tissue expansion unit and insertion of permanent prosthesis (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45542)
+45545
+
+     NIPPLE OR AREOLA or both, reconstruction of, by any surgical technique (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45545)
+45546
+
+     NIPPLE OR AREOLA or both, intradermal colouration of, following breast reconstruction after mastectomy or for congenital absence of nipple [](/dynamic/MBSItems/BreastSurgery/45546)
+45548
+
+     BREAST PROSTHESIS, removal of, as an independent procedure (Anaes.) [](/dynamic/MBSItems/BreastSurgery/45548)
+45551
+
+     Breast prosthesis, removal of, with excision of at least half of the fibrous capsule, not with insertion of any prosthesis. The excised specimen must be sent for histopathology and the volume removed must be documented in the histopathology report (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45551)
+45553
+
+     Breast prosthesis, removal of and replacement with another prosthesis, following medical complications (for rupture, migration of prosthetic material or symptomatic capsular contracture), if: (a) either: (i) it is demonstrated by intra-operative photographs post-removal that removal alone would cause unacceptable deformity; or (ii) the original implant was inserted in the context of breast cancer or developmental abnormality; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45553)
+45554
+
+     Breast prosthesis, removal and replacement with another prosthesis, following medical complications (for rupture, migration of prosthetic material or symptomatic capsular contracture), including excision of at least half of the fibrous capsule or formation of a new pocket, or both, if: (a) either: (i) it is demonstrated by intra-operative photographs post-removal that removal alone would cause unacceptable deformity; or (ii) the original implant was inserted in the context of breast cancer or developmental abnormality; and (b) the excised specimen is sent for histopathology and the volume removed is documented in the histopathology report; and (c) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45554)
+45556
+
+     Breast ptosis, correction of (unilateral), in the context of breast cancer or developmental abnormality, if photographic evidence (including anterior, left lateral and right lateral views) and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes Applicable only once per occasion on which the service is provided (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45556)
+45558
+
+     Correction of bilateral breast ptosis by mastopexy, if: (a) at least two-thirds of the breast tissue, including the nipple, lies inferior to the inframammary fold where the nipple is located at the most dependent, inferior part of the breast contour; and (b) photographic evidence (including anterior, left lateral and right lateral views), with a marker at the level of the inframammary fold, demonstrating the clinical need for this service, is documented in the patient notes Applicable only once per lifetime (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BreastSurgery/45558)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

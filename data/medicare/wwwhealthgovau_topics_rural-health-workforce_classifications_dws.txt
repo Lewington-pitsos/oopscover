@@ -1,0 +1,244 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Rural health workforce](/topics/rural-health-workforce)
+  4. [Health workforce classifications](/topics/rural-health-workforce/classifications)
+
+[Health workforce classifications](/topics/rural-health-
+workforce/classifications)
+
+# District of Workforce Shortage
+
+The District of Workforce Shortage (DWS) classification is a health workforce
+classification for specialist medical practitioners. Read about locations
+classified DWS and learn how to find them.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=District of Workforce Shortage&url=https://www.health.gov.au/topics/rural-health-workforce/classifications/dws)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/rural-health-workforce/classifications/dws)
+    * [Email](mailto:?subject=District of Workforce Shortage&body=https://www.health.gov.au/topics/rural-health-workforce/classifications/dws)
+
+Loading...
+
+**The DWS was updated on 21 July 2022. The Health locator tool and web
+information reflects the 2022 update. The newly elected Australian Government
+is committed to finalising the current review of the DWS methodology.
+Consideration of the review outcomes will be finalised in coming months.**
+
+## **About DWS classification**
+
+A DWS is an area where people have poor access to specialist medical
+practitioners. This is measured by assessing the full-time specialist-
+equivalent level for an area.
+
+## **DWS classification process**
+
+We use population and Medicare billing data to get a ratio of specialists to
+population in each geographical area in Australia.
+
+An area is classified as DWS if:
+
+  * its ratio of specialists to population is less than the national average
+  * it has an [Australian Statistical Geography Standard - Remoteness Area](https://www.health.gov.au/health-topics/rural-health-workforce/classifications/asgs-ra) classification of RA 3 to RA 5 (i.e. rural to remote areas).
+
+## **How we use the DWS classification**
+
+Overseas trained graduate specialists subject to [section
+19AB](https://www.health.gov.au/health-topics/doctors-and-specialists/what-we-
+do/19ab) of Australia’s Health Insurance Act 1973 may need to work in a
+location classified DWS to access Medicare.
+
+All other specialities are determined as DWS if the location is classified as
+Remoteness Area (RA) 3 or greater, or if the SA3 reports an FSE per 100,000
+lower than the 3 per 100,000 for that speciality. In July 2022, there were 8
+specialities in this category:
+
+  * anaesthetics
+  * cardiology
+  * diagnostic radiology
+  * general surgery
+  * obstetrics and gynaecology
+  * ophthalmology
+  * medical oncology
+  * psychiatry.
+
+Under the [Bonded Medical
+Places](https://www.health.gov.au/internet/main/publishing.nsf/Content/work-
+st-bmp) scheme, specialists can work in:
+
+  * locations classified [Modified Monash Model](https://www.health.gov.au/health-topics/rural-health-workforce/classifications/mmm) MM 2 to 7
+  * locations other than inner metropolitan areas of major capital cities 
+  * a location that is inner metropolitan if that location is DWS for their specialty.
+
+## **Updating the DWS classification**
+
+We update the DWS every year. The most recent update to the DWS took effect on
+21 July 2022.
+
+The DWS classification of an area can change when there has been a significant
+shift in access to health care since the previous annual update. This might be
+due to changes in the workforce, or in the size or makeup of the population.
+
+### **Changes in DWS status**
+
+If an area loses DWS, this means that there is measurably more services access
+than there was previously.
+
+Doctors who hold an existing exemption under section 19AB of the [Health
+Insurance Act 1973](https://www.legislation.gov.au/Latest/C2021C00231) can
+continue to practise at their location provided they continue to meet the
+conditions of their exemption. In addition, doctors already in employment
+negotiations with a practice prior to a status change will still be eligible
+for an exemption if they provide documentary evidence of this with their
+application.
+
+Practices unable to employ restricted medical practitioners can still employ
+Australian trained doctors or doctors not subject to s19AB.
+
+Read about [more about section 19AB](https://www.health.gov.au/health-
+topics/doctors-and-specialists/what-we-do/19ab).
+
+## **Learn how we assess DWS areas**
+
+We use a different method to calculate DWS classifications for specialists to
+that for the DPA.
+
+See all [2022 DWS for specialist locations](/resources/publications/dws-
+classifications-for-specialists-2022 "DWS classifications for specialists
+2022"). Details of the [2021 DWS for specialists
+locations](/resources/publications/all-dws-for-specialists-
+classifications-2021 "All DWS \(for specialists\) classifications – 2021").
+
+## **How DWS differs from other classifications**
+
+DWS shows the number of specialists compared to the population of an area.
+
+The [DPA classification](https://www.health.gov.au/health-topics/rural-health-
+workforce/classifications/dpa) is for GPs. DPA is based on gender and age
+demographics, and the socio-economic status of patients living in an area.
+
+## **Find areas classified as DWS**
+
+To find areas classified as DWS, search the [Health Workforce
+Locator](https://www.health.gov.au/resources/apps-and-tools/health-workforce-
+locator). You can search the locator by specialty.
+
+Last updated:
+
+21 July 2022
+
+Tags:
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Rural health workforce](/topics/rural-health-workforce)
+
+  * [About Australia's rural health workforce](/topics/rural-health-workforce/about)
+  * [How we support](/topics/rural-health-workforce/how-we-support)
+  * [Stronger Rural Health Strategy](/topics/rural-health-workforce/stronger-rural-health-strategy)
+  * [Health workforce classifications](/topics/rural-health-workforce/classifications)
+    * [Distribution Priority Areas (DPAs)](/topics/rural-health-workforce/classifications/dpa)
+    * [Request a review of a DPA classification](/topics/rural-health-workforce/classifications/dpa/request-review)
+    * [District of Workforce Shortage](/topics/rural-health-workforce/classifications/dws)
+    * [Modified Monash Model (MMM)](/topics/rural-health-workforce/classifications/mmm)
+    * [Area of Need (AoN)](/topics/rural-health-workforce/classifications/aon)
+    * [ASGS Remoteness Areas](/topics/rural-health-workforce/classifications/asgs-ra)
+    * [ASGC Remoteness Area](/topics/rural-health-workforce/classifications/asgc-ra)
+    * [Rural, Remote and Metropolitan Areas](/topics/rural-health-workforce/classifications/rrma)
+  * [Initiatives and programs](/topics/rural-health-workforce/programs)
+  * [News](/topics/rural-health-workforce/rural-health-workforce-news)
+  * [Resources](/topics/rural-health-workforce/resources)
+  * [Contacts](/topics/rural-health-workforce/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

@@ -1,0 +1,459 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Using our websites](/using-our-websites)
+  3. [Website privacy policy](/using-our-websites/website-privacy-policy)
+
+[Privacy](/using-our-websites/website-privacy-policy)
+
+# Collection notice for the Clinician Vaccine Integrated Platform (CVIP)
+
+Find out how we manage patient personal information and information we collect
+from healthcare providers through the CVIP for the purposes of uploading to
+the Australian Immunisation Register (the Register) and to allow government
+health agencies to monitor the progress of vaccinations.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Collection notice for the Clinician Vaccine Integrated Platform \(CVIP\)&url=https://www.health.gov.au/using-our-websites/website-privacy-policy/collection-notice-for-the-clinician-vaccine-integrated-platform-cvip)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/using-our-websites/website-privacy-policy/collection-notice-for-the-clinician-vaccine-integrated-platform-cvip)
+    * [Email](mailto:?subject=Collection notice for the Clinician Vaccine Integrated Platform \(CVIP\)&body=https://www.health.gov.au/using-our-websites/website-privacy-policy/collection-notice-for-the-clinician-vaccine-integrated-platform-cvip)
+
+Loading...
+
+On this page
+
+We are retiring the Commonwealth Booking Platform (CBP) and the Clinician
+Vaccination Integrated Platform (CVIP).
+
+All vaccine providers currently using the CBP will need to transition to an
+alternative booking process or commercially available booking platform by
+mid-2022.
+
+All vaccine providers currently using the CVIP will need to transition to a
+commercially available, AIR compliant, vaccination reporting software by
+mid-2022.
+
+If you require further information regarding the CBP or CVIP please email
+[CV19.Products@Health.gov.au](mailto:CV19.Products@Health.gov.au)
+
+## When this privacy notice applies
+
+This privacy notice explains how we (the Australian Government Department of
+Health and Aged Care) manage your personal information, consistent with our
+obligations under the [Privacy Act
+1988](https://www.legislation.gov.au/Series/C2004A03712) (the Privacy Act),
+when uploading your healthcare provider and patient personal information
+through the [CVIP](/resources/apps-and-tools/clinician-vaccine-integrated-
+platform-cvip " Clinician Vaccine Integrated Platform \(CVIP\)") for purposes
+of uploading to the Register.
+
+## **What is the CVIP?**
+
+CVIP is a tool we have developed to help your healthcare provider meet their
+mandatory reporting obligations under the [Australian Immunisation Register
+Act 2015](https://www.legislation.gov.au/Series/C2015A00138) (the Register
+Act) and to collect critical information (including personal and sensitive
+information, such as, the main reason you were assessed as eligible for a
+COVID-19 vaccine) to support government health agencies in implementing
+vaccination programs. CVIP temporarily stores your information. Your
+information is deleted from CVIP after your vaccination record has been
+uploaded to the Register and/or transferred to your vaccine provider, usually
+within 24 hours.
+
+When you give us your personal information it is used for the following
+purposes:
+
+  * to verify your identity for reporting to the Register;
+  * to report your vaccination to the Register;
+  * to allow a healthcare provider treating you to view your Register record including immunisation history;
+  * to allow vaccine provider’s clinics to produce a list of vaccinations provided through the clinic; and
+  * to allow Commonwealth and State or Territory government health agencies to monitor the progress of vaccinations.
+
+If you are a vaccine provider, your personal information is also used to
+create your CVIP account. This is stored in CVIP as part of your user
+registration.
+
+## **What is the Register?**
+
+The Register is a whole of life, national immunisation register which records
+vaccines given to all people in Australia. The Register includes vaccines
+given under the National Immunisation Program, through school-based programs,
+and privately, such as for seasonal influenza or travel. The Register may also
+include details of vaccines administered outside of Australia.
+
+The Register came into existence in 2016 when the Australian Childhood
+Immunisation Register was expanded to become the Register. The Australian
+Childhood Immunisation Register began in 1996.
+
+## Patient information
+
+### Information we collect
+
+When you receive a vaccine, your vaccine provider or someone on their behalf
+in their clinic, may enter your information, including personal information
+into the CVIP. Some of this information is uploaded to the Register.
+
+For COVID-19 and influenza vaccinations, your vaccine provider will be
+required by law to report the information to the Register.
+
+The personal information that may be put into the Register includes your name,
+date of birth, contact details, gender, and Indigenous status, as well as your
+Medicare number (if any) and healthcare identifier (if any). We may also
+collect information about previous immunisations administered to you that are
+recorded in the Register. Other information will also be included in the
+Register, such as details of the vaccination, and information about the
+vaccine provider who administered the vaccine.
+
+Information collected by your vaccine provider will only be put into the
+Register where it is authorised or required by the Register Act. If no
+matching record is located in the Register, a new record will be created in
+the Register.
+
+### Information we collect to support vaccination programs
+
+In addition to information collected for the Register, we may also collect
+other information about you in CVIP. This information may be sensitive
+information, such as the main reason you were assessed as being eligible to
+receive a COVID-19 vaccine in the relevant phase of the COVID-19 vaccine
+rollout. We collect it to support the COVID-19 vaccine rollout, this includes
+monitoring and clinical administration of vaccinations.
+
+If you or your legal guardian provide consent to your vaccine provider, they
+will also enter into CVIP the main reason you were assessed as being eligible
+to receive a vaccine. If you do not provide your consent, we will not collect
+this information, but you will still be able to receive your vaccination (and
+your vaccination details will still be reported to the Register).
+
+Where your vaccine provider uses the [Commonwealth-procured Booking
+Platform](/using-our-websites/website-privacy-policy/privacy-notice-for-
+consumers-using-the-commonwealth-procured-booking-platform-for-
+covid-19-vaccinations "Privacy notice for consumers using the Commonwealth-
+procured Booking Platform for COVID 19 vaccinations") (Booking Platform), your
+personal information and booking details may be shared from the Booking
+Platform to your vaccine provider’s CVIP account on the day of your booking so
+that you do not have to provide it twice.
+
+### Why we collect this information
+
+We collect this information so that your vaccine provider can upload
+information about your vaccination into the Register.
+
+We also collect sensitive information (including the main reason you are
+eligible for a vaccine if you provide your consent) from you so that reports
+can be provided to us (the Australian Government Department of Health and Aged
+Care) or to government health agencies in your State or Territory. These
+reports are important tools to support government health agencies in
+monitoring their implementation and the progress of the COVID-19 vaccine
+rollout, such as how many eligible people in a front-line health role have
+been vaccinated.
+
+### Who can record, use and disclose your personal information through CVIP?
+
+The Register Act and the Privacy Act govern when your personal information can
+be used and disclosed.
+
+We disclose your personal information to Services Australia to facilitate the
+verification of your identity, and the upload of your vaccination information
+to the Register. This may include the details of your Medicare Card Number.
+
+Your vaccine provider can access and upload your personal information through
+CVIP on to the Register for a purpose permitted by the Register Act. Vaccine
+providers registered to use CVIP must comply with relevant laws and not
+publish, distribute, email, transmit or disseminate patient data. This
+includes the use of any automated scripting tools or software to gain access
+to consumer data on the CVIP app.
+
+For information on how you can access and correct your personal information in
+the Register, please see the [Register privacy policy](/using-our-
+websites/website-privacy-policy/privacy-policy-for-the-australian-
+immunisation-register "Privacy Policy for the Australian Immunisation Register
+").
+
+In addition, your personal information, including the main reason you are
+eligible for a vaccine (if you have provided your consent), will be included
+in reports to us or the government health agencies in your State or Territory
+to support managing and monitoring the implementation of the COVID-19 vaccine
+rollout. State or Territory health agencies may also use your information with
+their other clinical datasets for this purpose, in line with the relevant
+State or Territory privacy legislation or policies and the Register Act.
+
+The Australian Digital Health Agency (ADHA) has been authorised by us, in
+accordance with the Register Act, to assist with this process if necessary.
+
+Information in the Register is only accessed and transmitted through secure
+channels.
+
+For details of when information in the Register can be used and disclosed
+please see the [Register privacy policy](/using-our-websites/website-privacy-
+policy/privacy-policy-for-the-australian-immunisation-register "Privacy Policy
+for the Australian Immunisation Register ").
+
+## **Provider information**
+
+### Information we collect
+
+We will collect your Provider Digital Access (PRODA) login details and the
+associated personal information to provision you access to the CVIP as a
+vaccine provider.
+
+### Why we collect your personal information
+
+When you give us your personal information, including the personal information
+you have stored against your PRODA registration, it is used to:
+
+  * verify your identity
+  * register you as a user in CVIP
+  * link you to the clinic at which you work.
+
+We preload clinics into CVIP, so you can select which one you are working at
+the time you are giving vaccinations. Please note that you will use your PRODA
+login details to access CVIP.
+
+When you give us your personal information, we will:
+
+  * store it as long as you have a CVIP account
+  * delete it when you delete your CVIP account, in accordance with the relevant legislation.
+
+### Who can use and disclose your personal information through CVIP?
+
+We may use and disclose your information collected through CVIP. The ADHA is
+authorised by us to use your information. State and Territory health agencies
+may also use and disclose your information. The Register Act and the Privacy
+Act govern when your personal and sensitive information can be used and
+disclosed.
+
+For details of when vaccine provider information in the Register can be used
+and disclosed please see the [Register privacy policy](/using-our-
+websites/website-privacy-policy/privacy-policy-for-the-australian-
+immunisation-register "Privacy Policy for the Australian Immunisation Register
+").
+
+## **How information is stored in CVIP**
+
+The protection of your personal and sensitive information and your vaccine
+provider’s personal information is something we take very seriously, and we
+are committed to keeping it secure. We take significant precautions to protect
+personal information from misuse and loss, and from unauthorised access,
+modification or disclosure.
+
+We store personal information provided for CVIP on SalesForce. SalesForce is a
+cloud-based storage solution that we have contracted with to support the
+functioning of CVIP. CVIP will upload your vaccination details through an
+automated process.
+
+## **Accuracy of information**
+
+Although we make every reasonable effort to maintain current and accurate
+information, you should be aware that there is still the possibility of
+inadvertent errors and technical inaccuracies.
+
+If a patient makes a booking using the Booking Platform and the personal
+information provided in the booking is incorrect or outdated, the vaccine
+provider will be able to update it in CVIP to ensure it matches information in
+the Register. For information on how you can correct your personal information
+in the Register, please see the [Register privacy policy](/using-our-
+websites/website-privacy-policy/privacy-policy-for-the-australian-
+immunisation-register "Privacy Policy for the Australian Immunisation Register
+").
+
+We do not warrant that the App is error or virus-free.
+
+## **Concerns and complaints**
+
+Our [privacy policy](/resources/publications/privacy-policy "Privacy policy")
+explains how you can make a complaint if you think we have breached:
+
+  * the Australian Privacy Principles
+  * the Australian Government Agencies Privacy Code
+
+The [privacy policy](/resources/publications/privacy-policy "Privacy policy")
+also explains how we will manage your complaint.
+
+## **More on privacy**
+
+We have taken steps to ensure that the implementation of the [COVID-19 Vaccine
+and Treatment Strategy](/covid-19-vaccine-and-treatment-strategy "COVID-19
+Vaccine and Treatment Strategy") is compliant with the Privacy Act and any
+other legislation that is relevant to the COVID-19 vaccine rollout.
+
+Read more about [privacy and security for the COVID‑19 vaccine rollout](/our-
+work/covid-19-vaccines/covid-19-vaccines-privacy-and-security-information
+"COVID-19 vaccines privacy and security information") on our website
+including:
+
+  * the [COVID-19 vaccinations privacy notice](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-vaccinations "Privacy notice for COVID-19 vaccinations ") explains how we collect, use and handle your personal information safely and securely for the COVID-19 vaccine rollout;
+  * how your information is handled when you register your interest for a vaccination;
+  * the Privacy Impact Assessments for the implementation of the COVID-19 Vaccine Strategy; and
+  * privacy notices for individuals and vaccine providers.
+
+For general privacy matters, see our [website privacy policy](/using-our-
+websites/website-privacy-policy "Website privacy policy") and our [full
+privacy policy](/resources/publications/privacy-policy "Privacy policy").
+
+## Contacts
+
+![](/themes/custom/hga/images/contact-aus-gov.png)
+
+###  [ Departmental privacy enquiries ](/contacts/departmental-privacy-
+enquiries?language=en)
+
+Contact to find out more about privacy within the department, or to make a
+privacy enquiry or complaint.
+
+Privacy officer:
+
+[privacy@health.gov.au](mailto:privacy@health.gov.au)
+
+Phone:
+
+[02 6289 1555](tel:02 6289 1555)
+
+Freecall:
+
+[1800 020 103](tel:1800 020 103)
+
+Last updated:
+
+9 July 2022
+
+Tags:
+
+  * [Communicable diseases](/topics/communicable-diseases)
+  * [Emergency health management](/topics/emergency-health-management)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Using our websites](/using-our-websites)
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+    * [Privacy impact assessment register](/using-our-websites/website-privacy-policy/privacy-impact-assessment-register)
+    * [Privacy notice for aged care reform webinars](/using-our-websites/website-privacy-policy/privacy-notice-for-aged-care-reform-webinars)
+    * [Privacy notice for aged care announcements and newsletters](/using-our-websites/website-privacy-policy/privacy-notice-for-the-aged-care-sector-newsletters-and-alerts)
+    * [Privacy notice for consumers using the booking platform for COVID 19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-consumers-using-the-commonwealth-procured-booking-platform-for-covid-19-vaccinations)
+    * [Privacy notice for COVID-19 training](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-training)
+    * [Privacy notice for COVID-19 mental health updates](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-mental-health-updates)
+    * [Privacy notice for COVID-19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-vaccinations)
+    * [Privacy notice for COVID-19 vaccines update](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-vaccines-update)
+    * [Privacy notice for COVID-19 weekly updates](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-updates-for-gps)
+    * [Privacy notice for Health Portfolio Federal Budget Information](/using-our-websites/website-privacy-policy/privacy-notice-for-health-portfolio-federal-budget-information)
+    * [Privacy notice for MRFF newsletter](/using-our-websites/website-privacy-policy/privacy-notice-for-mrff-newsletter)
+    * [Privacy notice for National Immunisation Program (NIP) updates](/using-our-websites/website-privacy-policy/privacy-notice-for-national-immunisation-program-nip-updates)
+    * [Privacy notice for the Bonded Medical Program – BRoSS](/using-our-websites/website-privacy-policy/privacy-notice-for-the-bonded-medical-program-bross)
+    * [Privacy notice for the Bonded Medical Program – BRoSS – participants and family members](/using-our-websites/website-privacy-policy/privacy-notice-for-the-bonded-medical-program-bross-participants-and-family-members)
+    * [Collection notice for the Clinician Vaccine Integration Platform (CVIP)](/using-our-websites/website-privacy-policy/collection-notice-for-the-clinician-vaccine-integrated-platform-cvip)
+    * [Privacy notice for the contact a minister form](/using-our-websites/website-privacy-policy/privacy-notice-for-the-contact-a-minister-form)
+    * [Privacy policy for the COVIDSafe app](https://covidsafe.gov.au/privacy-policy.html)
+    * [Privacy notice for the Inborn Errors of Metabolism program – healthcare professionals](/using-our-websites/website-privacy-policy/privacy-notice-for-the-inborn-errors-of-metabolism-program-health-care-professionals)
+    * [Privacy notice for the Inborn Errors of Metabolism program – patients](/using-our-websites/website-privacy-policy/privacy-notice-for-the-inborn-errors-of-metabolism-program-patients)
+    * [Privacy notice for the National Epidermolysis Bullosa Dressing Scheme – healthcare professionals](/using-our-websites/website-privacy-policy/privacy-notice-for-the-national-epidermolysis-bullosa-dressing-scheme-health-care-professionals)
+    * [Privacy notice for the National Epidermolysis Bullosa Dressing Scheme – patients](/using-our-websites/website-privacy-policy/privacy-notice-for-the-national-epidermolysis-bullosa-dressing-scheme-patients)
+    * [Privacy Notice for Australian Immunisation Handbook updates](/using-our-websites/website-privacy-policy/privacy-notice-for-australian-immunisation-handbook-updates)
+    * [Privacy Notice for the Register of Interest for COVID-19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-the-register-of-interest-for-covid-19-vaccinations)
+    * [Privacy Policy for the Australian Immunisation Register](/using-our-websites/website-privacy-policy/privacy-policy-for-the-australian-immunisation-register)
+    * [Privacy notice for COVID-19 and COVID-19 vaccines updates for multicultural communities](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-and-covid-19-vaccines-updates-for-multicultural-communities)
+    * [Privacy notice for My Aged Care Learning Management System (MAClearning)](/using-our-websites/website-privacy-policy/privacy-notice-for-my-aged-care-learning-management-system-maclearning)
+    * [Privacy notice for the COVID-19 pandemic response workforce expression of interest form](/using-our-websites/website-privacy-policy/privacy-notice-for-the-covid-19-pandemic-response-workforce-expression-of-interest-form)
+    * [Privacy notice for the Government Provider Management System](/using-our-websites/website-privacy-policy/privacy-notice-for-gpms)
+    * [Privacy notice for the MBS Review newsletter](/using-our-websites/website-privacy-policy/privacy-notice-for-the-mbs-review-newsletter)
+    * [Privacy notice for the MRAC communique](/using-our-websites/website-privacy-policy/privacy-notice-for-the-mbs-review-advisory-committee-communique)
+    * [Privacy notice for the Re-engaging Volunteers into Residential Aged Care Facilities program](/using-our-websites/website-privacy-policy/privacy-notice-for-the-re-engaging-volunteers-into-residential-aged-care-facilities-program)
+    * [Privacy notice for vaccination providers using the COVID-19 Vaccine Administration System (CVAS)](/using-our-websites/website-privacy-policy/privacy-notice-for-vaccination-providers-using-the-covid-19-vaccine-administration-system-cvas)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

@@ -1,0 +1,2722 @@
+Skip to main content Skip to main navigation Skip to main content
+
+[ ![Back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH2x.png)
+![Going back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH-
+standard_0.png) ](/ "Home")
+
+### Sub menu
+
+  * [About the Handbook](/contents/about-the-handbook "About the handbook")
+  * [Contact us](/contact-us "Contact us")
+
+Search  
+
+Menu  Search
+
+Close
+
+  * [Home](/home)
+  * [Contents](/contents)
+  * [Diseases](/contents/vaccine-preventable-diseases)
+  * [Vaccines](/vaccines)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Resources](/resources)
+
+## You are here
+
+  1. [Home](/)
+  2. [Table of contents](/contents)
+  3. [Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+
+[Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+
+# Pneumococcal disease
+
+Information about pneumococcal disease, vaccines and recommendations for
+vaccination from the Australian Immunisation Handbook.
+
+  * [ Listen ](//app-oc.readspeaker.com/cgi-bin/rsent?customerid=5802&lang=en_au&voice=Jack&readclass=main-content&url=https%3A%2F%2Fimmunisationhandbook.health.gov.au%2Fcontents%2Fvaccine-preventable-diseases%2Fpneumococcal-disease "Listen to this page using ReadSpeaker webReader")
+
+  * Print 
+  * Share 
+
+    * [Twitter](https://twitter.com/share?text=Pneumococcal disease&url=https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/pneumococcal-disease "Share to Twitter")
+    * [Facebook](https://facebook.com/sharer.php?u=https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/pneumococcal-disease "Share to Facebook")
+    * [Email](mailto:?subject= The Australian Immunisation Handbook | Pneumococcal disease&body=https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/pneumococcal-disease "Share via email")
+
+Recently added
+
+This page was added on **11 June 2018**.
+
+Updates made
+
+This page was updated on **11 May 2023**. View history of updates
+
+The optimal pneumococcal vaccination program for Australia is currently under
+review. At present Prevenar 13 (13vPCV) and Pneumovax 23 (23vPPV) are the
+pneumococcal vaccines funded under the National Immunisation Program (NIP) for
+eligible individuals. Updates to this chapter include interim recommendations
+for use of extended valency vaccines (Vaxneuvance [15vPCV] and Prevenar 20
+[20vPCV]) in adults for whom they have recently been registered by the
+Therapeutic Goods Administration but are not currently NIP-funded.
+
+On this page:
+
+On this page
+
+## Overview
+
+### What
+
+Pneumococcal disease is caused by the bacterium _Streptococcus pneumoniae_. It
+can cause severe [invasive disease](/technical-terms#invasive-disease),
+including meningitis, pneumonia and bacteraemia, and non-[invasive
+disease](/technical-terms#invasive-disease), including otitis media.
+
+### Who
+
+Pneumococcal vaccine is recommended for:
+
+  * routine vaccination in infants and children
+  * non-Indigenous adults aged ≥70 years
+  * Aboriginal and Torres Strait Islander adults aged ≥50 years
+  * children, adolescents and adults with risk conditions for pneumococcal disease
+
+### How
+
+There are two types of pneumococcal vaccines registered in Australia:
+
+  1. Pneumococcal conjugate vaccines: Prevenar 13 - 13vPCV (13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine)), Vaxneuvance - 15vPCV (15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) [registered in ≥18 years of age]), and Prevenar 20 - 20vPCV (20-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) [registered in ≥18 years of age])
+  2. Pneumococcal polysaccharide vaccines: Pneumovax 23 - 23vPPV (23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine))
+
+The recommended number and timing of doses, and type of vaccine depend on:
+
+  * the person’s age
+  * their Aboriginal and Torres Strait Islander status
+  * the state or territory they live in
+  * whether they have conditions that increase their risk of pneumococcal disease
+  * whether they have received a pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) or 23vPPV before
+
+### Why
+
+Infants and elderly people have the highest pneumococcal disease burden.
+Pneumococcal disease disproportionately affects Aboriginal and Torres Strait
+Islander children and adults. Pneumococcal disease is more common in people
+with certain risk conditions.
+
+See
+
+  * [Infographic. Pneumococcal vaccination for all Australians](/node/478)
+  * [Infographic. Pneumococcal vaccination for children <5 years old ](/node/480)
+  * [Infographic. Pneumococcal vaccination for people with risk conditions for pneumococcal disease](/node/129)
+  * [Infographic. Vaccination for healthy ageing](/node/483)
+
+## Recommendations
+
+### Infants and children
+
+Infants and children aged <5 years are recommended to receive 13vPCV
+
+All children are recommended to receive 13vPCV in a 3-dose schedule at 2, 4
+and 12 months of age.
+
+Infants can receive their 1st dose of pneumococcal conjugate vaccine as early
+as 6 weeks of age. If the 1st dose is given at the age of 6 weeks, infants
+should still receive their next scheduled dose at 4 months of age.
+
+Some Aboriginal and Torres Strait Islander children, and infants and children
+with a risk condition(s) for pneumococcal disease need extra doses. See:
+
+  * [Aboriginal and Torres Strait Islander people](/contents/vaccine-preventable-diseases/pneumococcal-disease#aboriginal-and-torres-strait-islander-people)
+  * [People with medical risk factors](/contents/vaccine-preventable-diseases/pneumococcal-disease#people-with-medical-risk-factors)
+  * [Infographic. Pneumococcal vaccination for all Australians](/resources/publications/pneumococcal-vaccination-for-all-australians "Pneumococcal vaccination for all Australians")
+
+For children aged >12 months who have not completed a full course of
+pneumococcal conjugate vaccines, the timing and number of further doses for
+catch-up vaccination depends on:
+
+  * the child’s age
+  * any previous doses they received
+
+For recommendations, see [Table. Catch-up schedule for 13vPCV for Aboriginal
+and Torres Strait Islander children living in NSW, Vic, Tas or ACT, and all
+children who do not have risk condition(s) for pneumococcal disease, aged <5
+years](/resources/tables/table-catch-up-schedule-for-13vpcv-for-aboriginal-
+and-torres-strait-islander-children-living-in-nsw-vic-tas-or-act-and-children-
+from-all-statesterritories-who-do-not-have-risk-conditions-for-pneumococcal-
+disease-aged "Table. Catch-up schedule for 13vPCV for Aboriginal and Torres
+Strait Islander children living in NSW, Vic, Tas or ACT, and children from all
+states/territories who do not have risk condition\(s\) for pneumococcal
+disease, aged <5 years").
+
+[View recommendation details](/recommendations/infants-and-children-aged-5)
+
+### Adults
+
+Non-Indigenous adults without risk conditions for pneumococcal disease are
+recommended to receive a pneumococcal conjugate vaccine at ≥70 years of age
+
+A single dose of a pneumococcal conjugate vaccine (13vPCV, 15vPCV or 20vPCV)
+is recommended for all non-Indigenous adults at 70 years of age. [There is no
+preference for either 13vPCV or 15vPCV](https://www.ncirs.org.au/pneumococcal-
+vaccines-grade-assessments). It should be noted that 15vPCV and 20vPCV are
+anticipated to provide benefit against extra additional serotypes compared to
+13vPCV.
+
+Non-Indigenous adults aged ≥70 years who did not receive a dose of a
+pneumococcal conjugate vaccine at 70 years of age are recommended to receive a
+single catch-up dose of 13vPCV, 15vPCV or 20vPCV as soon as possible.
+
+Non-Indigenous adults aged ≥70 years who have previously received 23vPPV and
+have not already received a conjugate vaccine are recommended to receive a
+single dose of 13vPCV, 15vPCV or 20vPCV at least 12 months after their last
+23vPPV dose.
+
+Adults aged ≥70 years with risk conditions for pneumococcal disease are
+recommended to receive a pneumococcal conjugate vaccine followed by additional
+doses of 23vPPV, as per the schedule for people with medical risk factors. See
+[Recommendations for people with medical risk
+factors](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/pneumococcal-disease#people-with-medical-risk-factors).
+
+[View recommendation details](/recommendations/non-indigenous-adults-without-
+risk-conditions-for-pneumococcal-disease-are-recommended-to-receive-a-
+pneumococcal-conjugate-vaccine-at-70-years-of-age)
+
+### Aboriginal and Torres Strait Islander people
+
+Aboriginal and Torres Strait Islander children aged <5 years living in certain
+states and territories are recommended to receive 13vPCV and 23vPPV
+
+In addition to the 3 doses for all children <5 years of age, Aboriginal and
+Torres Strait Islander children living in the following states and territories
+are recommended to receive an additional dose of 13vPCV at 6 months of age:
+
+  * Northern Territory
+  * Queensland
+  * South Australia
+  * Western Australia
+
+This is because of the higher risk of pneumococcal disease in these children.1
+
+These children are also recommended to receive 2 doses of 23vPPV:
+
+  * 1 dose at 4 years of age
+  * a 2nd dose at least 5 years later
+
+This is because a considerable proportion of pneumococcal disease in these
+children is caused by serotypes that are present in 23vPPV but not in 13vPCV.
+
+For children aged >12 months who have not completed a full course of
+pneumococcal conjugate vaccines, the timing and number of further doses for
+catch-up vaccination depends on:
+
+  * the child’s age
+  * any previous doses they received
+
+For recommendations, see [Table. Catch-up schedule for 13vPCV for Aboriginal
+and Torres Strait Islander children living in NT, Qld, SA or WA ONLY, and all
+children with any risk condition(s) for pneumococcal disease, aged <5
+years](/resources/tables/table-catch-up-schedule-for-13vpcv-for-aboriginal-
+and-torres-strait-islander-children-living-in-nt-qld-sa-or-wa-only-and-
+children-from-all-statesterritories-with-any-medical-conditions-for-
+pneumococcal-disease-aged "Table. Catch-up schedule for 13vPCV for Aboriginal
+and Torres Strait Islander children living in NT, Qld, SA or WA ONLY, and
+children from all states/territories with any medical condition\(s\) for
+pneumococcal disease, aged <5 years").
+
+[View recommendation details](/recommendations/aboriginal-and-torres-strait-
+islander-children-aged)
+
+Aboriginal and Torres Strait Islander adults without risk conditions for
+pneumococcal disease are recommended to receive a pneumococcal conjugate
+vaccine and 23vPPV at ≥50 years of age
+
+Aboriginal and Torres Strait Islander adults without risk conditions for
+pneumococcal disease are recommended to receive:
+
+  * a dose of a pneumococcal conjugate vaccine (13vPCV, 15vPCV or 20vPCV) at age ≥50 years, and
+  * a dose of 23vPPV 12 months later, and
+  * a 2nd dose of 23vPPV at least 5 years later
+
+This is based on:
+
+  * the increased risk of pneumococcal disease in Aboriginal and Torres Strait Islander adults, compared with non-Indigenous adults
+  * the high proportion of invasive pneumococcal disease caused by additional serotypes only in 23vPPV
+
+Aboriginal and Torres Strait Islander adults who have previously received
+23vPPV are recommended to receive:
+
+  * 1 dose of a conjugate vaccine 12 months after their last 23vPPV dose, if they have not already received a conjugate vaccine, and
+  * 1 dose of 23vPPV 12 months after their conjugate vaccine dose, or 5 years after their previous 23vPPV dose, whichever is later. If they have already received 2 doses of 23vPPV, no further 23vPPV doses are recommended.
+
+In all these scenarios, the interval between doses of a conjugate vaccine and
+23vPPV should be 12 months, but 2–12 months is acceptable. The interval
+between doses of 23vPPV should be 5 years.
+
+Aboriginal and Torres Strait Islander adults with risk conditions for
+pneumococcal disease are recommended to receive 1 dose of a conjugate vaccine
+(13vPCV, 15vPCV or 20vPCV) at diagnosis followed by 2 doses of 23vPPV (see
+[recommendations for people with medical risk factors](/contents/vaccine-
+preventable-diseases/pneumococcal-disease#people-with-medical-risk-factors)).
+
+For the pneumococcal conjugate vaccine dose, [there is no preference for
+either 13vPCV, 15vPCV or 20vPCV](https://www.ncirs.org.au/pneumococcal-
+vaccines-grade-assessments). It should be noted that 15vPCV may provide
+anticipated protection against two additional serotypes; however, this
+difference is diminished after receiving 23vPPV. 20vPCV may provide protection
+against seven additional serotypes, when compared to 13vPCV, but it is
+uncertain if this improvement is maintained after receiving 23vPPV.
+
+[View recommendation details](/recommendations/aboriginal-and-torres-strait-
+islander-adults-without-risk-conditions-for-pneumococcal-disease-are-
+recommended-to-receive-a-pneumococcal-conjugate-vaccine-and-23vppv-
+at-50-years-of-age)
+
+### People with medical risk factors
+
+Infants diagnosed with certain risk conditions at ≤12 months of age are
+recommended to receive 13vPCV and 23vPPV
+
+In addition to the 3 doses of 13vPCV routinely recommended for healthy non-
+Indigenous children <5 years of age, children ≤12 months of age with risk
+conditions for pneumococcal disease (see [List. Risk conditions for
+pneumococcal disease](/node/427)) are recommended to receive:
+
+  * An additional dose of 13vPCV at 6 months of age
+  * a dose of 23vPPV at 4 years of age
+  * a 2nd dose of 23vPPV at least 5 years after the 1st dose of 23vPPV
+
+This is because of the higher disease burden and the possibility of lower
+antibody responses in these children.2-4
+
+Aboriginal and Torres Strait Islander children diagnosed with risk conditions
+at ≤12 months of age who live in the Northern Territory, Queensland, South
+Australia and Western Australia already receive these extra doses as part of
+their routine schedule.
+
+Any child aged 6 to 11 months with a newly identified risk condition who has
+not received an additional dose of 13vPCV at 6 months of age should receive
+this dose at diagnosis. The exception is children who have received a
+haematopoietic stem cell transplant — these children are recommended to
+receive 3 doses of 13vPCV after transplantation, followed by 2 doses of
+23vPPV. See [Table. Recommendations for revaccination after haematopoietic
+stem cell transplant in children and adults](/node/666).
+
+See [Catch-up vaccination](/node/136) for more details, including minimum
+intervals between doses.
+
+[View recommendation details](/recommendations/infants-diagnosed-with-certain-
+risk-conditions-at-12-months-of-age-are-recommended-to-receive-13vpcv-
+and-23vppv)
+
+People aged >12 months with risk conditions are recommended to receive
+pneumococcal conjugate vaccine and 23vPPV
+
+All children and adults with newly identified risk conditions (see [List. Risk
+conditions for pneumococcal disease](/resources/tables/list-risk-conditions-
+for-pneumococcal-disease "List. Risk conditions for pneumococcal disease"))
+are recommended to receive:
+
+  * 1 dose of a pneumococcal conjugate vaccine (13vPCV, 15vPCV or 20vPCV [only people aged ≥18 years are eligible for 15vPCV or 20vPCV]) at diagnosis (at least 2 months after any previous doses of 13vPCV or 15vPCV), and
+  * 1 dose of 23vPPV 12 months after a pneumococcal conjugate vaccine (13vPCV, 15vPCV or 20vPCV) (2–12 months later is acceptable), and
+  * a 2nd dose of 23vPPV at least 5 years after the 1st dose of 23vPPV
+
+Aboriginal and Torres Strait Islander children <5 years of age with risk
+conditions who live in the Northern Territory, Queensland, South Australia and
+Western Australia already receive these doses as part of their routine
+schedule.
+
+Children aged <5 years with risk conditions who have not received all the
+recommended 13vPCV doses should receive doses of 13vPCV according to the
+catch-up schedule. See Table. Catch-up schedule for 13vPCV for Aboriginal and
+Torres Strait Islander children living in NT, Qld, SA or WA ONLY, and all
+children with any risk condition(s) for pneumococcal disease, aged <5 years.
+
+All children and adults with existing risk conditions are recommended to
+receive a pneumococcal conjugate vaccine if they have not previously received
+this recommended dose. 13vPCV, 15vPCV and 20vPCV are available to people aged
+≥18 years and only 13vPCV is available to people aged <18 years. This dose of
+conjugate vaccine should be followed by 2 doses of 23vPPV.
+
+People who have previously received doses of 23vPPV are recommended to receive
+an age appropriate pneumococcal conjugate vaccine 12 months after their last
+23vPPV dose. If they have already received at least 2 doses of 23vPPV, no
+further 23vPPV doses are recommended.
+
+[There is no preference for either 13vPCV, 15vPCV or 20vPCV in people aged
+≥](https://www.ncirs.org.au/pneumococcal-vaccines-grade-assessments)[18
+years](https://www.ncirs.org.au/pneumococcal-vaccines-grade-assessments). It
+should be noted that 15vPCV may provide anticipated protection against two
+additional serotypes compared to 13vPCV, however this improvement is
+diminished after receiving 23vPPV. 20vPCV may provide protection against seven
+additional serotypes, when compared to 13vPCV, but it is uncertain if this
+improvement is maintained after receiving 23vPPV. People aged <18 years are
+not eligible to receive 15vPCV or 20vPCV.
+
+Aboriginal and Torres Strait Islander adults aged ≥50 years already receive
+these doses, and they do not need to be repeated. The exception is people who
+have received a haematopoietic stem cell transplant — these people are
+recommended to receive 3 doses of 13vPCV or 15vPCV after transplantation. See
+[Table. Recommendations for revaccination after haematopoietic stem cell
+transplant in children and adults](/resources/tables/table-recommendations-
+for-revaccination-after-haematopoietic-stem-cell-transplant-in-children-and-
+adults "Table. Recommendations for revaccination after haematopoietic stem
+cell transplant in children and adults").
+
+A minimum interval of 2 months between the last dose of an age appropriate
+pneumococcal conjugate vaccine and 23vPPV is recommended. This is based on a
+small number of studies in children of different ages with underlying
+conditions. These studies have shown that 23vPPV elicits a good immune
+response when given approximately 2 months after a 7vPCV dose5-8 and this is
+considered also applicable to other pneumococcal conjugate vaccines. A study
+in adults infected with HIV also found that 23vPPV elicits a good immune
+response when given 2 months after a 15vPCV dose.9
+
+[View recommendation details](/recommendations/people-aged-12-months-with-
+risk-conditions-are-recommended-to-receive-pneumococcal-conjugate-vaccine-
+and-23vppv)
+
+## Vaccines, dosage and administration
+
+### Pneumococcal vaccines available in Australia
+
+The Therapeutic Goods Administration website provides [product information for
+each vaccine](https://www.ebs.tga.gov.au/).
+
+See also [Vaccine information](/contents/vaccine-preventable-
+diseases/pneumococcal-disease#vaccine-information) and [Variations from
+product information](/contents/vaccine-preventable-diseases/pneumococcal-
+disease#variations-from-product-information) for more details.
+
+### Pneumococcal conjugate vaccine
+
+Prevenar 13
+
+Sponsor:
+
+Pfizer Australia
+
+Administration route:
+
+Intramuscular injection
+
+Registered for use in children aged ≥6 weeks and in adults.
+
+13vPCV — 13-valent pneumococcal conjugate vaccine
+
+Each 0.5 mL monodose pre-filled syringe contains:
+
+  * 2.2 µg each of pneumococcal capsular polysaccharide of serotypes 1, 3, 4, 5, 6A, 7F, 9V, 14, 18C, 19A, 19F, 23F
+  * 4.4 µg of pneumococcal capsular polysaccharide of serotype 6B
+  * succinic acid
+  * polysorbate 80
+
+Antigens are conjugated to non-toxic _Corynebacterium diphtheriae_ CRM197
+protein and adsorbed onto 0.565 mg aluminium phosphate.
+
+For Product Information and Consumer Medicine Information about Prevenar 13
+visit the [Therapeutic Goods Administration
+website](https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=Prevenar%2013).
+
+[View vaccine details](/vaccines/prevenar-13)
+
+Prevenar 20
+
+Sponsor:
+
+Pfizer Australia
+
+Administration route:
+
+Intramuscular injection
+
+Registered for use in people aged ≥18 years.
+
+20vPCV - 20-valent pneumococcal conjugate vaccine.
+
+Each 0.5 mL dose of vaccine contains:
+
+  * 2.0µg each of pneumococcal purified capsular polysaccharide serotypes 1, 3, 4, 5, 6A, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33F
+  * 4.4µg of pneumococcal purified capsular polysaccharide serotype 6B
+  * Succinic acid 
+  * Polysorbate 80
+
+Antigens are conjugated to approximately 51 µg of non-toxic diphtheria CRM197
+protein, adsorbed on 125 µg of aluminium (as aluminium phosphate adjuvant).
+
+For Product Information and Consumer Medicine Information about Prevenar 20
+visit the [Therapeutics Goods Administration
+website](https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=prevenar%2020&r=/).
+
+[View vaccine details](/vaccines/prevenar-20)
+
+Vaxneuvance
+
+Sponsor:
+
+Merck Sharp & Dohme (Australia)
+
+Administration route:
+
+Intramuscular injection
+
+Registered for use in people aged ≥18 years
+
+15vPCV - 15-valent pneumococcal conjugate vaccine
+
+Each 0.5 mL dose of vaccine contains:
+
+  * 2.0 µg each of pneumococcal purified capsular polysaccharide serotypes 1, 3, 4, 5, 6A, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, and 33F
+  * 4.0 µg of pneumococcal purified capsular polysaccharide serotype 6B
+  * Histidine 
+  * Polysorbate 20
+
+Antigens are conjugated to 30 µg of non-toxic diphtheria CRM197 protein,
+adsorbed on 125 µg of aluminium (as aluminium phosphate adjuvant).
+
+For Product Information and Consumer Medicine Information about Vaxneuvance
+visit the [Therapeutics Goods Administration
+website](https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=Vaxneuvance&r).
+
+[View vaccine details](/vaccines/vaxneuvance)
+
+### Pneumococcal polysaccharide vaccine
+
+Pneumovax 23
+
+Sponsor:
+
+Merck Sharp & Dohme (Australia)
+
+Administration route:
+
+Intramuscular injection, Subcutaneous injection
+
+Registered for use in children aged ≥2 years and in adults.
+
+23vPPV — 23-valent pneumococcal polysaccharide vaccine
+
+Each 0.5 mL monodose vial contains:
+
+  * 25 µg each of pneumococcal capsular polysaccharide of serotypes 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19F, 19A, 20, 22F, 23F and 33F
+  * 0.25% phenol
+
+For Product Information and Consumer Medicine Information about Pneumovax 23
+visit the [Therapeutic Goods Administration
+website](https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=Pneumovax%2023).
+
+[View vaccine details](/vaccines/pneumovax-23)
+
+### Dose and route
+
+#### 13vPCV
+
+The dose of 13vPCV is 0.5 mL, given by [intramuscular injection](/technical-
+terms#intramuscular-injection).
+
+#### 15vPCV
+
+The dose of 15vPCV is 0.5 mL, given by [intramuscular injection](/technical-
+terms#intramuscular-injection).
+
+#### 20vPCV
+
+The dose of 20vPCV is 0.5 mL, given by [intramuscular injection](/technical-
+terms#intramuscular-injection).
+
+#### 23vPPV
+
+The dose of 23vPPV is 0.5 mL, given by either intramuscular or [subcutaneous
+injection](/technical-terms#subcutaneous-injection).
+
+The intramuscular route is preferred. A 3-fold greater rate of injection site
+reactions is found following administration of 23vPPV by the subcutaneous
+route.10 However, a vaccine dose given subcutaneously does not need to be
+repeated.
+
+### Co-administration with other vaccines
+
+Infants can receive 13vPCV at the same time as other vaccines in the infant
+schedule, including inactivated influenza vaccine. However, there is a
+possible small increased risk of fever if 13vPCV is given at the same time as
+influenza vaccine. Advise parents/carers of infants or children who are
+recommended to receive both influenza vaccine and 13vPCV of this risk. See
+[Contraindications and precautions](/contents/vaccine-preventable-
+diseases/pneumococcal-disease#contraindications-and-precautions).
+
+Adults can receive pneumococcal vaccines (any pneumococcal [conjugate
+vaccine](/technical-terms#conjugate-vaccine) or 23vPPV) with herpes zoster
+vaccines, seasonal influenza vaccines and COVID-19 vaccines at the same time
+if required. 11-17 See also [Herpes zoster](/node/165) and
+[Influenza](/node/149).
+
+### Interchangeability of 10vPCV and 13vPCV
+
+There are no specific data on the interchangeability of 10vPCV (not used in
+Australia) and 13vPCV. It is preferable to complete a primary course of
+pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) with the
+same formulation. However, if a child started their vaccination course with
+10vPCV (for example, children born overseas), it is acceptable to complete the
+course with 13vPCV.
+
+## Contraindications and precautions
+
+### Contraindications
+
+The only absolute contraindications to pneumococcal vaccines are:
+
+  * [anaphylaxis](/technical-terms#anaphylaxis) after a previous dose of any pneumococcal vaccine
+  * [anaphylaxis](/technical-terms#anaphylaxis) after any component of a pneumococcal vaccine
+
+### Precautions
+
+#### 13vPCV and inactivated influenza vaccine
+
+Children can receive 13vPCV and inactivated influenza vaccine at the same
+visit if both vaccines are due.
+
+One study found a slightly higher risk of fever and [febrile](/technical-
+terms#febrile) convulsions in children aged 6 months to <5 years (especially
+those aged 12–24 months) when they received 13vPCV and inactivated influenza
+vaccine at the same time, compared with receiving the vaccines separately.18
+
+The risk was about 18 excess cases per 100,000 doses in children aged 6 months
+to <5 years. The highest risk was 45 per 100,000 doses in children aged 16
+months. This is a relatively small risk increase.
+
+A later study did not show the same association between [febrile](/technical-
+terms#febrile) seizures and co-administering these 2 vaccines.19
+
+However, immunisation providers should:
+
+  * advise parents of the possible risk 
+  * provide the option of administering these 2 vaccines on separate days, with an interval of at least 3 days
+
+See also [Influenza](/node/149).
+
+#### Women who are pregnant or breastfeeding
+
+Pneumococcal vaccines are not routinely recommended for pregnant women.
+
+Women of child-bearing age who have a risk condition(s) for pneumococcal
+disease are normally recommended to receive pneumococcal vaccine either:
+
+  * before a planned pregnancy, or
+  * as soon as practicable after delivery 
+
+Data on 13vPCV, 15vPCV and 23vPPV in pregnant or breastfeeding women are
+limited.20 However, pregnant women who receive these vaccines are unlikely to
+have serious adverse effects.
+
+Give special consideration to vaccinating women at the highest increased risk
+of pneumococcal disease who were not vaccinated before pregnancy but need
+vaccination before delivery. See [List. Risk conditions for pneumococcal
+disease](/node/427).
+
+Breastfeeding women can receive 13vPCV, 15vPCV and 23vPPV.
+
+See [Table. Vaccines that are not routinely recommended in pregnancy:
+inactivated bacterial vaccines](/node/540) in [Vaccination for women who are
+planning pregnancy, pregnant or breastfeeding](/node/441) for more details.
+
+## Adverse events
+
+### 13vPCV
+
+#### Adverse events in children
+
+Pooled safety analysis from 13 clinical trials showed that the safety profile
+of 13vPCV in young children is similar to that of 7vPCV.21,22
+
+In young children who received 13vPCV:22
+
+  * about 50% had any pain/tenderness and erythema at the injection site
+  * about 33% had any hardness (induration) or swelling
+  * about 8% had pain interfering with movement
+  * about 13% had moderate erythema and induration; this was more common after the dose at 12 months of age than after an infant dose
+  * about 37% reported fever, and about 5% had fever >39°C;22 fever was more common after the dose at 12 months of age than after the primary doses23
+  * about 70% had irritability
+  * about 60% had drowsiness/increased sleep
+  * about 39% had decreased appetite
+
+Frequencies of each of these adverse events were comparable to those in 7vPCV
+recipients.22
+
+One post-marketing study in the United States found a higher rate of
+[febrile](/technical-terms#febrile) seizures for children who received
+inactivated influenza vaccine at the same time as pneumococcal vaccine.18 See
+[Precautions](/contents/vaccine-preventable-diseases/pneumococcal-
+disease#precautions).
+
+#### Adverse events in adults
+
+There are fewer clinical studies of 13vPCV in adults.24-28 In 2 clinical
+studies of 13vPCV and 23vPPV in people aged 60–64 years:24,25
+
+  * local reactions were more common after 13vPCV (71–82% of participants) than after a first dose of 23vPPV (62–76%)
+  * pain was the most common local reaction after 13vPCV
+  * the frequency of fever of any grade was low (<2%) after either 13vPCV or 23vPPV
+
+Local reactions were more common after a dose of 23vPPV given 1 or 3.5–4 years
+after a dose of 13vPCV than after either:
+
+  * a single dose of either 13vPCV or 23vPPV
+  * a 2nd dose of 13vPCV (regardless of which vaccine was used as the initial dose)24,26
+
+Systemic reactions such as chills and myalgia have been reported more
+frequently in adults when pneumococcal vaccine and inactivated influenza
+vaccine are given at the same time.28 In the same study, there was no
+significant difference in the prevalence of fever of any grade. See
+[Precautions](/contents/vaccine-preventable-diseases/pneumococcal-
+disease#precautions).
+
+#### Adverse events in people with risk conditions for pneumococcal disease
+
+Studies have investigated the safety of 13vPCV in people with risk conditions
+for pneumococcal disease, such as:
+
+  * HIV [infection](/technical-terms#infection)
+  * chronic kidney disease
+  * haematopoietic stem cell transplant
+  * kidney transplant
+  * people who are receiving [immunosuppressive therapy](/technical-terms#immunosuppressive-therapy) for cancers
+
+In these studies:
+
+  * local reactions were the most common type of adverse event, and were somewhat higher after 13vPCV than after the first dose of 23vPPV
+  * pain was the most common local reaction (around 60% of people who received a vaccine)
+  * local reactions were more common if the person had received 2 previous doses of 23vPPV than if they had received 1 previous dose
+  * among people who received a haematopoietic stem cell transplant, both local and systemic reactions were higher after a 4th dose than after doses 1 to 3
+  * there was no substantial difference between safety in children and adults (in the few studies that have data available)
+
+### 15vPCV
+
+#### Adverse events in adults
+
+Evidence from clinical trials found that 15vPCV is safe in adults.9,29,30 In
+people who receive 15vPCV:
+
+  * The majority of adverse events were mild and lasted 1-3 days
+  * The most common local reactions are pain (54-76%), swelling (13-22%) and erythema (9-15%)
+  * The most common systemic reactions are fatigue (17-34%), myalgia (15-29%) and headache (12-27%)
+  * The frequency of fever ≥38°C was low (<2%)
+  * Older adults reported fewer adverse reactions than younger adults
+
+### 20vPCV
+
+#### Adverse events in adults
+
+Evidence from four trials found that 20vPCV is safe in adults.31-34
+
+  * The majority of adverse events were mild to moderate
+  * The most common local adverse events was pain and this was comparable between 20vPCV (55%-79%) and 13vPCV (53%-76%)
+  * The most common systemic adverse event was muscle pain and was slightly higher for those who received 20vPCV (39% - 77%) and compared to 13vPCV (37%-65%)
+
+### 23vPPV
+
+The proportion of vaccine recipients reporting local and systemic reactions
+after a primary or a repeat dose of pneumococcal polysaccharide vaccines
+varies among different study populations, and possibly with age.35-37
+
+In people who receive 23vPPV:35-37
+
+  * about 50% or more have some soreness after the 1st dose
+  * about 20% have swelling and redness
+  * up to 5% have moderate or severe local adverse events that limit arm movement after the 1st dose
+  * up to 10% have fever ≥37.5°C, but high fever is uncommon
+
+Systemic reactions such as myalgia, fatigue and chills are also common.
+
+Larger and more recent studies indicate that both local and systemic adverse
+events are more common after a repeat dose of 23vPPV than after the 1st dose
+in adults. In particular, up to 20% of revaccinated people have more severe
+local adverse events.35-37 These findings supersede the inconsistent findings
+from some smaller studies, which were limited by subject numbers and
+methodology.38-42 These local adverse events are mostly non-serious and self-
+limiting.
+
+In these studies, the repeat doses were given at least 5 years after the
+previous dose. Another study used hospitalisations as a proxy measure for very
+severe local adverse events. The study used hospitalisations coded as
+cellulitis or abscess of the upper limb within 3 days of pneumococcal
+vaccination. These adverse events were significantly more likely when a repeat
+dose was given within 5 years of the 1st dose.43
+
+Severe local reactions are also associated with higher antibody
+levels.10,36,37,44 This may explain why severe adverse events are associated
+with shorter intervals between doses. It suggests that such local reactions
+are associated with more robust immunity.
+
+## Nature of the disease
+
+_Streptococcus pneumoniae_ (pneumococcus) is a gram-positive coccus.
+
+The polysaccharide capsule is the most important virulence factor of
+pneumococci.2,40 There are more than 95 capsular antigenic types (serotypes),
+with each serotype eliciting type-specific immunity.41
+
+### Pathogenesis
+
+The natural reservoir of pneumococci is the mucosal surface of the human upper
+respiratory tract.2,42 Different pneumococcal serotypes vary in their
+propensity to cause nasopharyngeal colonisation or disease.
+
+Worldwide, a small number of serotypes cause most cases of pneumococcal
+disease. The predominant serotypes vary by age group and geographic area.2
+
+Antibiotic resistance in pneumococci is an increasing challenge. In 2012, 10%
+of Australian invasive pneumococcal disease isolates were non-susceptible to
+penicillin, and 2% were non-susceptible to ceftriaxone/cefotaxime.43
+
+### Transmission
+
+ _Streptococcus pneumoniae_ is transmitted from person to person through
+contact with respiratory droplets of colonised people.
+
+Almost all pneumococcal disease probably begins with nasopharyngeal
+colonisation.
+
+## Clinical features
+
+Invasive pneumococcal disease (IPD) is defined as detection of _Streptococcus
+pneumoniae_ in a normally sterile site (such as blood, cerebrospinal fluid or
+pleural fluid) by culture or nucleic acid testing. IPD includes:2,45,47,49
+
+  * meningitis
+  * pneumonia with bacteraemia or empyema
+  * bacteraemia without focus
+
+Pneumococci may spread from the nasopharynx into adjacent sites to cause
+non-[invasive disease](/technical-terms#invasive-disease) such as:2,45,47,49
+
+  * sinusitis
+  * otitis media
+  * pneumonia
+
+### Pneumococcal disease in children
+
+In children, the most common manifestation is bacteraemia without focus. This
+accounts for approximately 70% of IPD, followed by pneumonia with bacteraemia.
+
+Meningitis is the least common but most severe category of IPD. Pneumococcal
+meningitis symptoms include:45,49,50
+
+  * stiff neck
+  * fever
+  * headache
+  * photophobia
+  * confusion
+  * irritability
+  * seizures
+
+Acute otitis media is the most common non-invasive manifestation of
+pneumococcal disease in children. _Streptococcus pneumoniae_ is detected in
+28–55% of middle ear aspirates from children with acute otitis media.45,49,50
+
+#### Pneumococcal disease in adults
+
+In adults, pneumonia with bacteraemia is the most common manifestation of IPD.
+
+Pneumococci may account for:45,51,52
+
+  * more than one-third of all community-acquired pneumonia
+  * up to half of hospitalised pneumonia in adults
+
+However, it is difficult to accurately determine the proportion attributable
+to pneumococci in cases of non-bacteraemic pneumonia.
+
+Symptoms of pneumonia include:
+
+  * fever and chills
+  * coughing
+  * difficulty breathing
+  * chest pain
+
+### Groups at risk of IPD
+
+People who are immunocompromised and unable to mount an adequate immune
+response to pneumococcal capsular antigens have the highest risk of IPD.2,4,45
+This includes people with [asplenia](/technical-terms#asplenia).
+
+Greater risk and/or severity of IPD is also associated with:
+
+  * household crowding
+  * exposure to cigarette smoke
+  * childcare attendance
+  * excessive alcohol consumption
+  * certain non-immunocompromising chronic medical conditions2,45,53,54
+
+Indigenous populations in developed countries, including Aboriginal and Torres
+Strait Islander people in Australia, have a disproportionately high burden of
+IPD.1,2,55
+
+## Epidemiology
+
+Young children and elderly people have the highest incidence of invasive
+pneumococcal disease (IPD).48,49,56 Disease burden is also disproportionately
+high in Aboriginal and Torres Strait Islander people.1,2
+
+### Disease in children
+
+From January 2005, 7vPCV was funded under the National Immunisation Program
+for all infants in Australia. At this time, IPD incidence was greatest in the
+primary target group of children <2 years of age and for IPD caused by the 7
+serotypes in the 7vPCV vaccine.
+
+After 7vPCV was introduced, the notification rate of IPD due to 7vPCV
+serotypes decreased overall in all age groups.48,56 However, rates of IPD
+caused by serotypes that were not contained in 7vPCV increased in Australia
+and several other countries.57 This is known as serotype replacement. It was
+particularly evident among non-Indigenous children aged <5 years, in whom non-
+vaccine serotypes increased by 168%.57
+
+13vPCV was introduced to the National Immunisation Program in 2012. There was
+a 42% reduction in cases due to 13vPCV-non-7vPCV serotypes (reduced to 1.8 per
+100,000) by 2014.56 Serotype 19A caused around 80% of 13vPCV-type disease in
+children and around 40% in adults before 13vPCV was introduced. The
+introduction of 13vPCV was followed by a reduction in disease caused by
+serotype 19A by almost 70% overall.56
+
+In 2018, the National Immunisation Program schedule changed from one that had
+3 primary doses only to one with 2 primary doses and a booster dose (i.e. 3+0
+schedule to a 2+1 schedule). This was in response to an increased incidence of
+breakthrough disease in children from 12 months of age in Australia. A similar
+increase in breakthrough disease was not seen in countries that included a
+booster dose in their schedule.58
+
+### Disease in adults
+
+Vaccination using 23vPPV was introduced in 1999 for all Aboriginal and Torres
+Strait Islander adults aged ≥50 years, and younger Aboriginal and Torres
+Strait Islander adults with risk factors. From 2005, 23vPPV was funded under
+the National Immunisation Program for non-Indigenous adults aged ≥65 years.
+
+In older non-Indigenous adults, the largest disease burden caused by
+pneumococcus is non-bacteraemic community-acquired pneumonia (CAP). The
+[efficacy](/technical-terms#efficacy) of 13vPCV against CAP is higher than
+that of 23vPPV.59-62 IPD incidence is almost 2-fold higher in non-Indigenous
+people aged ≥70 years than in those aged 65–69 years, and only a small
+proportion of cases are due to 23v-non-13v serotypes in people who do not have
+underlying risk conditions. In non-Indigenous adults, the prevalence of risk
+factors among those with IPD increases with age. In contrast, Aboriginal and
+Torres Strait Islander adults have a high prevalence of IPD risk factors at
+all ages.63,64 The higher burden of disease in Aboriginal and Torres Strait
+Islander adults also includes a higher proportion of disease (around 26% of
+IPD cases) caused by 23v-non-13v serotypes.65
+
+The impact of 23vPPV on rates of IPD in Aboriginal and Torres Strait Islander
+adults has varied in different geographical areas. At a national level,
+disparities remain in disease rates between Aboriginal and Torres Strait
+Islander adults and non-Indigenous adults. As is the case for influenza and
+pneumonia, rates of IPD are highest in older Aboriginal and Torres Strait
+Islander adults.1 See [Vaccination for Aboriginal and Torres Strait Islander
+people](/node/432).
+
+## Vaccine information
+
+There are 2 types of pneumococcal vaccines:
+
+  * pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) (PCV)
+  * pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) (PPV)
+
+Conjugate vaccine formulations vary in:
+
+  * the number of pneumococcal serotypes included
+  * the conjugating proteins used
+
+Pneumococcal conjugate vaccines are immunogenic in young infants and adults
+and can induce an immune memory response.
+
+In contrast, 23vPPV is poorly immunogenic for most serotypes in children aged
+<2 years and does not induce immune memory. However, 23vPPV contains more
+serotypes.
+
+### 13vPCV
+
+#### Immunogenicity in children
+
+As a result of extensive post-marketing analyses of 7vPCV, and the established
+correlates of protection against invasive pneumococcal disease (IPD) for PCVs
+in children, the registration of 13vPCV was based on
+[immunogenicity](/technical-terms#immunogenicity) studies showing:
+
+  * immune responses at least equivalent to those of 7vPCV
+  * sufficient antibody response to provide protection against the additional serotypes66-71
+
+#### Vaccine effectiveness in children
+
+A large retrospective cohort study estimated the vaccine effectiveness of
+13vPCV in Australia. The vaccine effectiveness of 3 doses of 13vPCV against
+IPD due to 13vPCV serotypes was estimated at 86% for non-Indigenous children.
+These data were similar to those from a previous case–control study, which
+showed vaccine effectiveness of 87% for 3 doses of 13vPCV.72
+
+#### Immunogenicity in adults
+
+13vPCV is registered for adults based on [immunogenicity](/technical-
+terms#immunogenicity) data showing equivalent or better antibody responses
+compared with those provided by 23vPPV for the shared vaccine serotypes.
+
+#### Vaccine efficacy in adults
+
+A large randomised controlled trial (known as the CAPiTA study – Community
+Acquired Pneumonia Immunisation Trial in Adults) showed that 13vPCV was
+protective against pneumococcal disease in vaccine-naive adults aged ≥65
+years.59 Efficacy was:
+
+  * 46% against a 1st episode of vaccine-type community-acquired pneumonia (CAP)
+  * 75% against a 1st episode of vaccine-type IPD
+
+#### Duration of protection in adults
+
+Exploratory analysis of data from the CAPiTA study suggests that immune
+responses in immunocompetent adults ≥65 years of age persist for 2 years after
+vaccination with 13vPCV for all 13 serotypes, regardless of comorbidity.73 In
+people aged ≥80 years, antibody levels remained well above baseline, but were
+lower than in younger age groups.
+
+#### Immunogenicity in people with risk conditions
+
+Post-hoc analysis of the CAPiTA study74 assessed the [efficacy](/technical-
+terms#efficacy) of 13vPCV in people with certain risk conditions:
+
+  * heart disease
+  * lung disease
+  * asthma
+  * diabetes
+  * liver disease
+  * smoking
+  * splenectomy
+
+In these people, the [efficacy](/technical-terms#efficacy) of 13vPCV against
+vaccine-type IPD was 77%, and 40% against vaccine-type CAP.74 Although these
+point estimates were lower than for healthy study participants, the confidence
+intervals overlapped, indicating a statistically similar response to the
+vaccine. Vaccine [efficacy](/technical-terms#efficacy) is expected to be the
+same or better in younger adults with these risk conditions.
+
+For some risk conditions that involve compromised immunity,
+[immunogenicity](/technical-terms#immunogenicity) data indicate that 13vPCV
+induces a protective response. These conditions include:
+
+  * HIV [infection](/technical-terms#infection)
+  * cancer therapy
+  * [solid organ transplant](/technical-terms#solid-organ-transplant)
+  * chronic kidney disease
+  * haematopoietic stem cell transplant
+
+### 15vPCV
+
+#### Immunogenicity in adults
+
+15vPCV is registered for adults based on [immunogenicity](/technical-
+terms#immunogenicity) data showing equivalent antibody responses compared with
+those provided by 13vPCV for the shared vaccine serotypes. For the serotypes
+unique to 15vPCV antibody responses appear to be better compared to
+13vPCV.29,30,75-77
+
+#### Immunogenicity in people with risk conditions
+
+15vPCV has been assessed in adults living with HIV and in older adults with
+certain medical factors that increased their risk for pneumococcal disease.
+These studies found that 15vPCV resulted in similar
+[immunogenicity](/technical-terms#immunogenicity) responses compared to
+13vPCV.9,78
+
+### 20vPCV
+
+#### Immunogenicity in adults
+
+20vPCV is registered for adults based on [immunogenicity](/technical-
+terms#immunogenicity) data showing antibody responses for shared serotypes are
+likely equivalent when compared to 13vPCV. For the serotypes unique to 20vPCV,
+antibody responses appear to be better compared to 13vPCV. For six of the
+seven serotypes shared with 23vPPV, antibody responses are equivalent, however
+serotype 8 did not meet the non-inferiority criteria. This lower immune
+response is mitigated by those at risk receiving 23vPPV after 20vPCV.
+
+#### Immunogenicity in people with risk conditions
+
+20vPCV has been assessed in adults with chronic medical conditions or smoking
+that increase their risk of developing pneumococcal disease. These studies
+found that 20vPCV resulted in similar [immunogenicity](/technical-
+terms#immunogenicity) responses compared to 13vPCV.79
+
+### 23vPPV
+
+23vPPV contains polysaccharides derived from the 23 most frequent or most
+virulent capsular types of _Streptococcus pneumoniae_ isolated from sterile
+fluids in the United States in the 1970s and early 1980s. Vaccine development
+also considered worldwide serotype distribution and potential cross-reactive
+serotypes.80 12 of these serotypes are also in 13vPCV.
+
+#### Immunogenicity in children
+
+In children aged <2 years primed with pneumococcal [conjugate
+vaccine](/technical-terms#conjugate-vaccine), 23vPPV is immunogenic. This
+boosts the immune response against some of the 12 shared serotypes.81,82
+
+23vPPV is immunogenic in children, and the level of immune response varies by
+age and serotype.83,84 Studies in children with risk conditions for
+pneumococcal disease (including cardiac transplant, HIV
+[infection](/technical-terms#infection), renal disease and sickle cell
+disease) show that 23vPPV can elicit an immune response in these populations.
+However, responses are variable and likely depend on the level of
+[immunosuppression](/technical-terms#immunosuppression) at the time of
+vaccination.85
+
+#### Vaccine efficacy and effectiveness in children
+
+Few studies report the [efficacy](/technical-terms#efficacy) of 23vPPV in
+children. A study from the United States before [conjugate
+vaccine](/technical-terms#conjugate-vaccine) was introduced showed
+[efficacy](/technical-terms#efficacy) of 83% (95% CI: 15–97%) against
+bacteraemia in children aged 6–15 years. However, this study did not
+distinguish between immunocompetent and immunocompromised children.86
+
+#### Immunogenicity in adults
+
+23vPPV induces significant immune responses in immunocompetent adults. Immune
+responses are similar in older people (aged 70–80 years) and younger people
+(aged 50–60 years), but poorer in people who are immunocompromised.87
+
+#### Vaccine efficacy and effectiveness in adults
+
+Estimates of [efficacy](/technical-terms#efficacy) and effectiveness for
+23vPPV are lower and more variable than for 13vPCV, particularly against CAP
+outcomes:
+
+  * Vaccine effectiveness against vaccine-type IPD is estimated at 61.1% (95% CI: 55.1–66.9%), based on data from an Australian observational study, national notification data and adult health surveys.60
+  * Vaccine effectiveness against CAP outcomes ranges from 27% (95% CI: 3–46%) to 51% (95% CI: 16–71%) from observational studies.61,62
+
+#### Vaccine efficacy and effectiveness in people with risk conditions
+
+Studies of 23vPPV indicate that this vaccine can be effective in people with
+risk conditions. In people with HIV and other immunocompromising conditions,
+vaccine effectiveness against IPD is estimated to be 35–50%.88,89 In people
+with chronic conditions who are not immunocompromised, vaccine effectiveness
+against IPD is estimated to be 50–60%.26,88,90
+
+Sequential administration of 13vPCV and 23vPPV in people with risk conditions
+is therefore likely to protect these people against 23v-non-13v serotypes.
+This is supported by [immunogenicity](/technical-terms#immunogenicity) studies
+that compared sequential administration of 7vPCV or 13vPCV and 23vPPV in
+varying combinations and dose intervals (2, 6, 12 months, or 3–4 years) in
+adults from 50 years of age.24,26,91-95
+
+#### Duration of protection in adults
+
+Data from England and Wales reported 23vPPV vaccine effectiveness of 48%
+against IPD within 2 years of vaccination for adults aged ≥65 years. But
+effectiveness waned and became insignificant beyond 5 years. In the subset of
+adults aged 65–74 years with no risk factors, 23vPPV effectiveness was higher
+(65% within 2 years) and was maintained for longer.96
+
+Significant and sustained antibody responses after revaccination are seen in
+adults, including the elderly.31,36,97-99 Evidence of lesser antibody
+responses to 2nd or subsequent doses of 23vPPV in adults is
+variable,31,36,93,97,98 but the clinical relevance of this is unknown.
+
+## Transporting, storing and handling vaccines
+
+Transport according to [National Vaccine Storage Guidelines: Strive for
+5](https://www.health.gov.au/resources/publications/national-vaccine-storage-
+guidelines-strive-for-5).100 Store at +2°C to +8°C. Do not freeze.
+
+## Public health management
+
+Invasive pneumococcal disease is a notifiable disease in all states and
+territories in Australia.
+
+[State and territory public health authorities](https://health.gov.au/health-
+topics/immunisation/immunisation-contacts) can provide advice about the public
+health management of invasive pneumococcal disease, including case management.
+
+## Variations from product information
+
+### Prevenar 13
+
+The product information for Prevenar 13 recommends:
+
+  * 4 doses of 13vPCV for vaccination starting at 6 weeks of age, with further doses at 4 and 6 months of age, and a booster at 12–15 months of age
+  * 3 doses for vaccination starting between 7 and 11 months of age
+  * 2 doses for vaccination starting between 12 and 23 months of age
+
+The Australian Technical Advisory Group on Immunisation (ATAGI) recommends
+that healthy children who do not have an identified risk conditions for
+pneumococcal disease should receive 1 dose less than that stated in the
+product information.
+
+ATAGI recommends that the 1st dose be given at 2 months of age, and that this
+dose can be given as early as 6 weeks of age. The next scheduled dose should
+be given at 4 months and a booster at 12 months of age.
+
+### Pneumovax 23
+
+The product information for Pneumovax 23 states that Pneumovax 23 and Zostavax
+should not be given at the same time.
+
+ATAGI recommends that Pneumovax 23 can be given at the same time as Zostavax
+if both are due.
+
+## References
+
+  1. Naidu L, Chiu C, Habig A, et al. Vaccine preventable diseases and vaccination coverage in Aboriginal and Torres Strait Islander people, Australia 2006–2010. Communicable Diseases Intelligence 2013;37 Suppl:S1-95.
+  2. Klugman KP, Dagan R, Malley R, Whitney CG. Pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) and pneumococcal common protein vaccines. In: Plotkin SA, Orenstein WA, Offit PA, Edwards KM, eds. Plotkin's vaccines. 7th ed. Philadelphia, PA: Elsevier; 2018.
+  3. Hamborsky J, Kroger A, Wolfe C, eds. Pneumococcal disease. In: Epidemiology and prevention of vaccine-preventable diseases. Washington DC: Public Health Foundation; 2015.
+  4. Weinberger DM, Harboe ZB, Sanders EA, et al. Association of serotype with risk of death due to pneumococcal pneumonia: a meta-analysis. Clinical Infectious Diseases 2010;51:692-9.
+  5. Abzug MJ, Pelton SI, Song LY, et al. Immunogenicity, safety, and predictors of response after a pneumococcal conjugate and pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) series in human immunodeficiency [virus](/technical-terms#virus)-infected children receiving highly active antiretroviral therapy. Pediatric Infectious Disease Journal 2006;25:920-9.
+  6. Barton M, Wasfy S, Dipchand AI, et al. Seven-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) in pediatric [solid organ transplant](/technical-terms#solid-organ-transplant) recipients: a prospective study of safety and [immunogenicity](/technical-terms#immunogenicity). Pediatric Infectious Disease Journal 2009;28:688-92.
+  7. Vernacchio L, Neufeld EJ, MacDonald K, et al. Combined schedule of 7-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) followed by 23-valent pneumococcal vaccine in children and young adults with sickle cell disease. Journal of Pediatrics 1998;133:275-8.
+  8. Vernacchio L, Romero-Steiner S, Martinez JE, et al. Comparison of an opsonophagocytic assay and IgG ELISA to assess responses to pneumococcal polysaccharide and pneumococcal conjugate vaccines in children and young adults with sickle cell disease. Journal of Infectious Diseases 2000;181:1162-6.
+  9. Mohapi L, Pinedo Y, Osiyemi O, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) of V114, a 15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine), in adults living with HIV. AIDS 2022;36:373-82.
+  10. Cook IF, Pond D, Hartel G. Comparative [reactogenicity](/technical-terms#reactogenicity) and [immunogenicity](/technical-terms#immunogenicity) of 23 valent pneumococcal vaccine administered by intramuscular or [subcutaneous injection](/technical-terms#subcutaneous-injection) in elderly adults. Vaccine 2007;25:4767-74.
+  11. Tseng HF, Smith N, Sy LS, Jacobsen SJ. Evaluation of the incidence of herpes zoster after concomitant administration of zoster vaccine and polysaccharide pneumococcal vaccine. Vaccine 2011;29:3628-32.
+  12. Baylor NW. Perspective of the U.S. Food and Drug Administration on concomitant administration of Zostavax and Pneumovax [letter]. Vaccine 2011;29:8771.
+  13. Centers for Disease Control and Prevention (CDC). Update on herpes zoster vaccine: licensure for persons aged 50 through 59 years. MMWR. Morbidity and Mortality Weekly Report 2011;60:1528.
+  14. Severance R, Schwartz H, Dagan R, et al. Safety, tolerability, and [immunogenicity](/technical-terms#immunogenicity) of V114, a 15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine), administered concomitantly with influenza vaccine in healthy adults aged ≥50 years: a randomized phase 3 trial (PNEU-FLU). Human Vaccines and Immunotherapeutics 2022;18:1-14.
+  15. Maréchal C, Lal H, Poder A, et al. Immunogenicity and safety of the adjuvanted recombinant zoster vaccine co-administered with the 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in adults ≥50 years of age: A randomized trial. Vaccine 2018;36:4278-86.
+  16. Min JY, Mwakingwe-Omari A, Riley M, et al. The adjuvanted recombinant zoster vaccine co-administered with the 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) in adults aged ≥50 years: A randomized trial. Journal of Infection 2022;84:490-8.
+  17. Pfizer Australia Pty Ltd, Product information: Prevenar 20® (pneumococcal polysaccharide conjugate, 20-valent adsorbed) vaccine. 2022. [https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2022-PI-02385-1&d=20230327172310101](https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2022-PI-02385-1&d=20230327172310101)
+  18. Tse A, Tseng HF, Greene SK, Vellozzi C, Lee GM. Signal identification and evaluation for risk of [febrile](/technical-terms#febrile) seizures in children following trivalent inactivated influenza vaccine in the Vaccine Safety Datalink Project, 2010–2011. Vaccine 2012;30:2024-31.
+  19. Kawai AT, Martin D, Kulldorff M, et al. Febrile seizures after 2010–2011 trivalent inactivated influenza vaccine. Pediatrics 2015;136:e848-55.
+  20. Dunbar M, Moberley S, Nelson S, Leach AJ, Andrews R. Clear not simple: an approach to community consultation for a maternal pneumococcal vaccine trial among Indigenous women in the Northern Territory of Australia. Vaccine 2007;25:2385-8.
+  21. Nunes MC, Madhi SA. Review on the [immunogenicity](/technical-terms#immunogenicity) and safety of PCV-13 in infants and toddlers. Expert Review of Vaccines 2011;10:951-80.
+  22. Centers for Disease Control and Prevention (CDC), Nuorti JP, Whitney CG. Prevention of pneumococcal disease among infants and children – use of 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) and 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine): recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR. Recommendations and Reports 2010;59(RR-11):1-18.
+  23. Duggan ST. Pneumococcal polysaccharide [conjugate vaccine](/technical-terms#conjugate-vaccine) (13-valent, adsorbed) [Prevenar 13®]. Drugs 2010;70:1973-86.
+  24. Greenberg RN, Gurtman A, Frenck RW, et al. Sequential administration of 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) and 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in pneumococcal vaccine-naïve adults 60–64 years of age. Vaccine 2014;32:2364-74.
+  25. Jackson LA, Gurtman A, van Cleeff M, et al. Immunogenicity and safety of a 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) compared to a 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in pneumococcal vaccine-naive adults. Vaccine 2013;31:3577-84.
+  26. Jackson LA, Gurtman A, van Cleeff M, et al. Influence of initial vaccination with 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) or 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) on anti-pneumococcal responses following subsequent pneumococcal vaccination in adults 50 years and older. Vaccine 2013;31:3594-602.
+  27. Frenck RW, Jr., Gurtman A, Rubino J, et al. Randomized, controlled trial of a 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) administered concomitantly with an influenza vaccine in healthy adults. Clinical and Vaccine Immunology: CVI 2012;19:1296-303.
+  28. Schwarz TF, Flamaing J, Rümke HC, et al. A randomized, double-blind trial to evaluate [immunogenicity](/technical-terms#immunogenicity) and safety of 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) given concomitantly with trivalent influenza vaccine in adults aged ≥65 years. Vaccine 2011;29:5195-202.
+  29. Peterson JT, Stacey HL, MacNair JE, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) of 15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) compared to 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) in adults ≥65 years of age previously vaccinated with 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine). Human Vaccines and Immunotherapeutics 2019;15:540-8.
+  30. Platt HL, Cardona JF, Haranaka M, et al. A phase 3 trial of safety, tolerability, and [immunogenicity](/technical-terms#immunogenicity) of V114, 15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine), compared with 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) in adults 50 years of age and older (PNEU-AGE). Vaccine 2022;40:162-72.
+  31. Essink B, Sabharwal C, Cannon K, et al. Pivotal Phase 3 Randomized Clinical Trial of the Safety, Tolerability, and Immunogenicity of 20-Valent Pneumococcal Conjugate Vaccine in Adults Aged ≥18 Years. Clinical infectious diseases 2022;75:390‐8.
+  32. Hurley D, Griffin C, Young M, et al. Safety, Tolerability, and Immunogenicity of a 20-Valent Pneumococcal Conjugate Vaccine (PCV20) in Adults 60 to 64 Years of Age. Clinical infectious diseases 2021;73:e1489‐e97.
+  33. Klein NP, Peyrani P, Yacisin K, et al. A phase 3, randomized, double-blind study to evaluate the [immunogenicity](/technical-terms#immunogenicity) and safety of 3 lots of 20-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) in pneumococcal vaccine-naive adults 18 through 49 years of age. Vaccine 2021;39:5428‐35.
+  34. Fitz-Patrick D, Young M, Scott DA, et al. A randomized phase 1 study of the safety and [immunogenicity](/technical-terms#immunogenicity) of 2 novel pneumococcal conjugate vaccines in healthy Japanese adults in the United States. Human vaccines & immunotherapeutics 2021;17:2249‐56.
+  35. Hammitt LL, Bulkow LR, Singleton RJ, et al. Repeat revaccination with 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) among adults aged 55–74 years living in Alaska: no evidence of hyporesponsiveness. Vaccine 2011;29:2287-95.
+  36. Musher DM, Manof SB, Liss C, et al. Safety and antibody response, including antibody persistence for 5 years, after primary vaccination or revaccination with pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in middle-aged and older adults. Journal of Infectious Diseases 2010;201:516-24.
+  37. Jackson LA, Benson P, Sneller VP, et al. Safety of revaccination with pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine). JAMA 1999;281:243-8.
+  38. Davidson M, Bulkow LR, Grabman J, et al. Immunogenicity of pneumococcal revaccination in patients with chronic disease. Archives of Internal Medicine 1994;154:2209-14.
+  39. Lackner TE, Hamilton RG, Hill JJ, Davey C, Guay DR. Pneumococcal polysaccharide revaccination: [immunoglobulin](/technical-terms#immunoglobulin) G seroconversion, persistence, and safety in frail, chronically ill older subjects. Journal of the American Geriatrics Society 2003;51:240-5.
+  40. Mufson MA, Hughey DF, Turner CE, Schiffman G. Revaccination with pneumococcal vaccine of elderly persons 6 years after primary vaccination. Vaccine 1991;9:403-7.
+  41. Törling J, Hedlund J, Konradsen HB, Örtqvist A. Revaccination with the 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in middle-aged and elderly persons previously treated for pneumonia. Vaccine 2003;22:96-103.
+  42. Walker FJ, Singleton RJ, Bulkow LR, Strikas RA, Butler JC. Reactions after 3 or more doses of pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in adults in Alaska. Clinical Infectious Diseases 2005;40:1730-5.
+  43. Burwen DR, La Voie L, Braun MM, Houck P, Ball R. Evaluating adverse events after vaccination in the Medicare population. Pharmacoepidemiology and Drug Safety 2007;16:753-61.
+  44. Sankilampi U, Honkanen PO, Pyhälä R, Leinonen M. Associations of prevaccination antibody levels with adverse reactions to pneumococcal and influenza vaccines administered simultaneously in the elderly. Vaccine 1997;15:1133-7.
+  45. Centers for Disease Control and Prevention (CDC). Pneumococcal disease. In: Hamborsky J, Kroger A, Wolfe C, eds. Epidemiology and prevention of vaccine-preventable diseases. 13th ed. Washington, DC: Public Health Foundation; 2015. <https://www.cdc.gov/vaccines/pubs/pinkbook/index.html>
+  46. Geno KA, Gilbert GL, Song JY, et al. Pneumococcal capsules and their types: past, present, and future. Clinical Microbiology Reviews 2015;28:871-99.
+  47. Kadioglu A, Weiser JN, Paton JC, Andrew PW. The role of _Streptococcus pneumoniae_ virulence factors in host respiratory colonization and disease. Nature Reviews Microbiology 2008;6:288-301.
+  48. Toms C, de Kluyver R, Enhanced Invasive Pneumococcal Disease Surveillance Working Group for the Communicable Diseases Network Australia. Invasive pneumococcal disease in Australia, 2011 and 2012. Communicable Diseases Intelligence 2016;40:E267-84.
+  49. World Health Organization (WHO). 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine): WHO position paper. Weekly Epidemiological Record 2008;83:373-84.
+  50. Eskola J, Kilpi T, Palmu A, et al. Efficacy of a pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) against acute otitis media. New England Journal of Medicine 2001;344:403-9.
+  51. File TM, Jr., Marrie TJ. Burden of community-acquired pneumonia in North American adults. Postgraduate Medicine 2010;122:130-41.
+  52. Charles PG, Whitby M, Fuller AJ, et al. The etiology of community-acquired pneumonia in Australia: why penicillin plus doxycycline or a macrolide is the most appropriate therapy. Clinical Infectious Diseases 2008;46:1513-21.
+  53. Pilishvili T, Zell ER, Farley MM, et al. Risk factors for invasive pneumococcal disease in children in the era of [conjugate vaccine](/technical-terms#conjugate-vaccine) use. Pediatrics 2010;126:e9-17.
+  54. Janoff EN, Musher DM. _Streptococcus pneumoniae_. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. 8th ed. Philadelphia, PA: Elsevier Saunders; 2015.
+  55. van der Poll T, Opal SM. Pathogenesis, treatment, and prevention of pneumococcal pneumonia. The Lancet 2009;374:1543-56.
+  56. Jayasinghe S, Menzies R, Chiu C, et al. Long-term impact of a "3 + 0" schedule for 7- and 13-valent pneumococcal conjugate vaccines on invasive pneumococcal disease in Australia, 2002–2014. Clinical Infectious Diseases 2017;64:175-83.
+  57. Barry C, Krause VL, Cook HM, Menzies RI. Invasive pneumococcal disease in Australia 2007 and 2008. Communicable Diseases Intelligence 2012;36:E151-65.
+  58. Blyth CC, Jayasinghe S, Andrews RM. A rationale for change: an increase in invasive pneumococcal disease in fully vaccinated children. Clinical Infectious Diseases 2020;70:680-3.
+  59. Bonten MJ, Huijts SM, Bolkenbaas M, et al. Polysaccharide [conjugate vaccine](/technical-terms#conjugate-vaccine) against pneumococcal pneumonia in adults. New England Journal of Medicine 2015;372:1114-25.
+  60. Menzies RI, Jayasinghe SH, Krause VL, Chiu CK, McIntyre PB. Impact of pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in people aged 65 years or older. Medical Journal of Australia 2014;200:112-5.
+  61. Ochoa-Gondar O, Vila-Corcoles A, Rodriguez-Blanco T, et al. Effectiveness of the 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) against community-acquired pneumonia in the general population aged >/= 60 years: 3 years of follow-up in the CAPAMIS study. Clinical Infectious Diseases 2014;58:909-17.
+  62. Suzuki M, Dhoubhadel BG, Ishifuji T, et al. Serotype-specific effectiveness of 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) against pneumococcal pneumonia in adults aged 65 years or older: a multicentre, prospective, test-negative design study. Lancet Infectious Diseases 2017;17:313-21.
+  63. The Vaccine Impact Surveillance Network – Invasive Pneumococcal Study Group. Are current recommendations for pneumococcal vaccination appropriate for Western Australia? Medical Journal of Australia 2000;173 Suppl:S36-40.
+  64. Australian Institute of Health and Welfare (AIHW). The health and welfare of Australia’s Aboriginal and Torres Strait Islander peoples: 2015. Canberra: AIHW; 2015. <https://www.aihw.gov.au/reports/indigenous-health-welfare/indigenous-health-welfare-2015/contents/table-of-contents>
+  65. Jayasinghe S. Pneumococcal disease epidemiology in the elderly. ISG annual scientific meeting, 5-6 Feb 2017, Melbourne; 2017. (Accessed 10 February 2020). <https://www.immunisationcoalition.org.au/events/2017-isg-annual-scientific-meeting/>
+  66. Gadzinowski J, Albrecht P, Hasiec B, et al. Phase 3 trial evaluating the [immunogenicity](/technical-terms#immunogenicity), safety, and tolerability of manufacturing scale 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine). Vaccine 2011;29:2947-55.
+  67. Snape MD, Klinger CL, Daniels ED, et al. Immunogenicity and [reactogenicity](/technical-terms#reactogenicity) of a 13-valent-pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) administered at 2, 4, and 12 months of age: a double-blind randomized active-controlled trial. Pediatric Infectious Disease Journal 2010;29:e80-90.
+  68. Esposito S, Tansey S, Thompson A, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) of a 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) compared to those of a 7-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) given as a three-dose series with routine vaccines in healthy infants and toddlers. Clinical and Vaccine Immunology: CVI 2010;17:1017-26.
+  69. Yeh SH, Gurtman A, Hurley DC, et al. Immunogenicity and safety of 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) in infants and toddlers. Pediatrics 2010;126:e493-505.
+  70. Kieninger DM, Kueper K, Steul K, et al. Safety, tolerability, and immunologic noninferiority of a 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) compared to a 7-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) given with routine pediatric vaccinations in Germany. Vaccine 2010;28:4192-203.
+  71. Bryant KA, Block SL, Baker SA, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) of a 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine). Pediatrics 2010;125:866-75.
+  72. Jayasinghe S, Chiu C, Quinn H, et al. Effectiveness of 7- and 13-valent pneumococcal conjugate vaccines in a schedule without a booster dose: a 10-year observational study. Clinical Infectious Diseases 2018: [Epub ahead of print] doi:10.1093/cid/ciy129.
+  73. van Deursen AM, van Houten MA, Webber C, et al. Immunogenicity of the 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) in older adults with and without comorbidities in the Community-Acquired Pneumonia Immunization Trial in Adults (CAPiTA). Clinical Infectious Diseases 2017;65:787-95.
+  74. Suaya JA, Jiang Q, Scott DA, et al. Post hoc analysis of the [efficacy](/technical-terms#efficacy) of the 13-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) against vaccine-type community-acquired pneumonia in at-risk older adults. Vaccine 2018;36:1477-83.
+  75. Simon JK, Staerke NB, Hemming-Harlo M, et al. Lot-to-lot consistency, safety, tolerability, and [immunogenicity](/technical-terms#immunogenicity) of V114, a 15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine), in healthy adults aged ≥50 years: A randomized phase 3 trial (PNEU-TRUE). Vaccine 2022;40:1342-51.
+  76. Song JY, Chang CJ, Andrews C, et al. Safety, tolerability, and [immunogenicity](/technical-terms#immunogenicity) of V114, a 15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine), followed by sequential PPSV23 vaccination in healthy adults aged ≥50 years: A randomized phase III trial (PNEU-PATH). Vaccine 2021;39:6422-36.
+  77. Stacey HL, Rosen J, Peterson JT, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) of 15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) (PCV-15) compared to PCV-13 in healthy older adults. Human Vaccines and Immunotherapeutics 2019;15:530-9.
+  78. Hammitt LL, Quinn D, Janczewska E, et al. Immunogenicity, safety, and tolerability of V114, a 15-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine), in immunocompetent adults aged 18-49 years with or without risk factors for pneumococcal disease: A randomized phase 3 trial (PNEU-DAY). Open Forum Infectious Diseases 2022;9:ofab605.
+  79. Charu Sabharwal, Vani Sundaraiyer, Yahong Peng, Lisa Moyer, Todd J. Belanger, Bradford D. Gessner, Luis Jodar, Kathrin U. Jansen, William C. Gruber, Daniel A. Scott & Wendy Watson (2022) Immunogenicity of a 20-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) in adults 18 to 64 years old with medical conditions and other factors that increase risk of pneumococcal disease, Human Vaccines & Immunotherapeutics, 18:6, DOI: 10.1080/21645515.2022.2126253
+  80. Robbins JB, Austrian R, Lee CJ, et al. Considerations for formulating the second-generation pneumococcal capsular [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) with emphasis on the cross-reactive types within groups. Journal of Infectious Diseases 1983;148:1136-59.
+  81. Pomat WS, van den Biggelaar AH, Phuanukoonnon S, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) of neonatal pneumococcal conjugate vaccination in Papua New Guinean children: a randomised controlled trial. PLoS One 2013;8(2):e56698.
+  82. Thisyakorn U, Chokephaibulkit K, Kosalaraksa P, et al. Immunogenicity and safety of 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) as a booster dose in 12- to 18-month-old children primed with 3 doses of 7-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine). Human Vaccines and Immunotherapeutics 2014;10:1859-65.
+  83. Laferriere C. The [immunogenicity](/technical-terms#immunogenicity) of pneumococcal polysaccharides in infants and children: a meta-regression. Vaccine 2011;29:6838-47.
+  84. Balloch A, Licciardi PV, Russell FM, Mulholland EK, Tang ML. Infants aged 12 months can mount adequate serotype-specific IgG responses to pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine). Journal of Allergy and Clinical Immunology 2010;126:395-7.
+  85. Borrow R, Heath PT, Siegrist CA. Use of pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in children: what is the evidence? Current Opinion in Infectious Diseases 2012;25:292-303.
+  86. Bolan G, Broome CV, Facklam RR, et al. Pneumococcal vaccine [efficacy](/technical-terms#efficacy) in selected populations in the United States. Annals of Internal Medicine 1986;104:1-6.
+  87. Grabenstein JD, Musher DM. Pneumococcal polysaccharide vaccines. In: Plotkin SA, Orenstein WA, Offit PA, Edwards KM, eds. Plotkin's vaccines. 7th ed. Philadelphia, PA: Elsevier; 2018.
+  88. Rudnick W, Liu Z, Shigayeva A, et al. Pneumococcal vaccination programs and the burden of invasive pneumococcal disease in Ontario, Canada, 1995-2011. Vaccine 2013;31:5863-71.
+  89. Breiman RF, Keller DW, Phelan MA, et al. Evaluation of effectiveness of the 23-valent pneumococcal capsular [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) for HIV-infected patients. Archives of Internal Medicine 2000;160:2633-8.
+  90. Shapiro ED, Berg AT, Austrian R, et al. The protective [efficacy](/technical-terms#efficacy) of polyvalent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine). New England Journal of Medicine 1991;325:1453-60.
+  91. Musher DM, Rueda AM, Nahm MH, Graviss EA, Rodriguez-Barradas MC. Initial and subsequent response to pneumococcal polysaccharide and protein-conjugate vaccines administered sequentially to adults who have recovered from pneumococcal pneumonia. Journal of Infectious Diseases 2008;198:1019-27.
+  92. Goldblatt D, Southern J, Andrews N, et al. The [immunogenicity](/technical-terms#immunogenicity) of 7-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) versus 23-valent [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in adults aged 50-80 years. Clinical Infectious Diseases 2009;49:1318-25.
+  93. de Roux A, Schmöle-Thoma B, Siber GR, et al. Comparison of pneumococcal conjugate polysaccharide and free polysaccharide vaccines in elderly adults: [conjugate vaccine](/technical-terms#conjugate-vaccine) elicits improved antibacterial immune responses and immunological memory. Clinical Infectious Diseases 2008;46:1015-23.
+  94. Miernyk KM, Butler JC, Bulkow LR, et al. Immunogenicity and [reactogenicity](/technical-terms#reactogenicity) of pneumococcal polysaccharide and conjugate vaccines in alaska native adults 55-70 years of age. Clinical Infectious Diseases 2009;49:241-8.
+  95. Macintyre CR, Ridda I, Gao Z, et al. A randomized clinical trial of the [immunogenicity](/technical-terms#immunogenicity) of 7-valent pneumococcal [conjugate vaccine](/technical-terms#conjugate-vaccine) compared to 23-valent [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in frail, hospitalized elderly. PLoS One 2014;9:e94578.
+  96. Andrews NJ, Waight PA, George RC, Slack MP, Miller E. Impact and effectiveness of 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) against invasive pneumococcal disease in the elderly in England and Wales. Vaccine 2012;30:6802-8.
+  97. Manoff SB, Liss C, Caulfield MJ, et al. Revaccination with a 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) induces elevated and persistent functional antibody responses in adults aged ≥65 years. Journal of Infectious Diseases 2010;201:525-33.
+  98. Musher DM, Manoff SB, McFetridge RD, et al. Antibody persistence ten years after first and second doses of 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine), and [immunogenicity](/technical-terms#immunogenicity) and safety of second and third doses in older adults. Human Vaccines 2011;7:919-28.
+  99. Grabenstein JD, Manoff SB. Pneumococcal polysaccharide 23-valent vaccine: long-term persistence of circulating antibody and [immunogenicity](/technical-terms#immunogenicity) and safety after revaccination in adults. Vaccine 2012;30:4435-44.
+  100. National vaccine storage guidelines: Strive for 5. 2nd ed. Canberra: Australian Government Department of Health and Ageing; 2013. [https://www.health.gov.au/resources/publications/national-vaccine-storage-guidelines-strive-for-5](https://www.health.gov.au/resources/publications/national-vaccine-storage-guidelines-strive-for-5?language=en)
+
+Related vaccines
+
+[Pneumovax 23](/vaccines/pneumovax-23)
+
+[Prevenar 13](/vaccines/prevenar-13)
+
+## Page history
+
+Last updated
+
+11 May 2023
+
+Last reviewed
+
+11 May 2023
+
+Show all page updates (8)
+
+11 May 2023
+
+Updates to clinical guidance throughout the chapter to include interim
+recommendations for extended valency vaccines (Vaxneuvance [15vPCV] and
+Prevenar 20 [20vPCV]) in adults for whom they have recently been registered by
+the TGA but are not currently funded under the National Immunisation Program.
+
+25 January 2023
+
+Updates to clinical guidance through the chapter to provide information
+regarding 15-valent pneumococcal conjugate vaccine (15vPCV).
+
+7 December 2022
+
+Guidance on co-administration with other vaccines has been amended to remove
+guidance on co-administration with MenACWY vaccines.
+
+27 September 2021
+
+Guidance for doses of 23vPPV required after a haematopoietic stem cell
+transplant updated.
+
+3 June 2020
+
+Recommendations have changed for people with risk conditions, Aboriginal and
+Torres Strait Islander people, and older adults.
+
+The following changes have been made to recommendations for people with risk
+conditions:
+
+  * Category A and Category B conditions have been consolidated into a single list of risk conditions for pneumococcal disease.
+  * The recommended vaccines and number of doses — 1 extra dose of 13vPCV and 2 doses of 23vPPV — are now the same for all people with risk conditions.
+  * The number of lifetime doses of 23vPPV recommended for people with risk conditions is now limited to 2 doses.
+
+The following changes have been made to recommendations for Aboriginal and
+Torres Strait Islander people:
+
+  * Aboriginal and Torres Strait Islander children in the Northern Territory, Queensland, South Australia and Western Australia are now recommended to receive 2 doses of 23vPPV in addition to the 4 doses of 13vPCV.
+  * Aboriginal and Torres Strait Islander adults without risk conditions for pneumococcal disease are now recommended to receive 1 dose of 13vPCV and 2 doses of 23vPPV at age ≥50 years.
+  * Aboriginal and Torres Strait Islander adults <50 years with risk conditions for pnuemococcal disease are to receive vaccines as per recommendations for people with risk conditions.
+
+The following changes have been made to recommendations for healthy non-
+Indigenous adults:
+
+  * Healthy non-Indigenous adults are now recommended to receive a single dose of 13vPCV at age ≥70 years. Healthy non-Indigenous adults who do not have risk conditions for pneumococcal disease are no longer recommended to receive 23vPPV.
+
+20 September 2019
+
+Editorial changes to the recommendations for people with medical risk factors
+and guidance for co-administration with other vaccines.
+
+Recommendations for people with medical risk factors updated to provide
+greater clarity on the number and timing of 23vPPV doses.
+
+Guidance under Co-administration with other vaccines updated.
+
+8 June 2018
+
+The pneumococcal vaccination schedule has changed for:
+
+  * all children aged <5 years living in the Australian Capital Territory, New South Wales, Tasmania and Victoria
+  * all non-Indigenous children aged <5 years living in the Northern Territory, Queensland, South Australia and Western Australia without underlying medical conditions associated with an increased risk of invasive pneumococcal disease
+
+These children now receive a 2+1 schedule:
+
+  * 2 primary doses of 13vPCV (13-valent pneumococcal conjugate vaccine) at 2 and 4 months of age
+  * a booster dose at 12 months of age
+
+The previous schedule was 3 primary doses at 2, 4 and 6 months of age (3+0
+schedule).
+
+The pneumococcal vaccination schedule has changed for:
+
+  * all Aboriginal and Torres Strait Islander children living in the Northern Territory, Queensland, South Australia and Western Australia
+  * all children with underlying medical conditions associated with an increased risk of invasive pneumococcal disease
+
+The booster dose previously recommended for these children at 12–18 months of
+age is now recommended at 12 months of age. This means that these children
+should continue to receive 4 doses of 13vPCV at 2, 4, 6 and 12 months of age
+(3+1 schedule).
+
+These changes have also changed the catch-up schedules for pneumococcal
+vaccination. See [Catch-up vaccination](/node/136) for more details.
+
+9 April 2018
+
+**Recommendations**
+
+The following replaces the existing Recommendations for infant pneumococcal
+vaccination schedule listed in Chapter 4.6 Pneumococcal _disease_ :
+
+  1. All children, except those specified in (b) below, should receive three doses of 13vPCV at 2, 4 and 12 months of age (called ‘2+1’ schedule) instead of the current schedule with doses at 2, 4 and 6 months of age (called ‘3+0’ schedule).
+  2. The following population groups at increased risk of pneumococcal infection should continue to receive four doses of 13vPCV at 2, 4, 6 and 12 months^ of age (called ‘3+1’ schedule): 
+    1. Aboriginal and Torres Strait Islander children living in the NT, QLD, SA and WA
+    2. Children with underlying medical conditions associated with an increased risk of IPD.
+
+^ Note the preferred schedule point for the fourth (last) 13vPCV dose is age
+12 months rather than 18 months.
+
+_**Table 1:**_ Comparison of current and proposed ATAGI recommendations for
+13vPCV schedules in children
+
+**Cohort**
+
+|
+
+**Schedule in previous recommendation** *****
+
+|
+
+**Schedule in current recommendation**  
+  
+---|---|---  
+  
+Children **without** underlying medical conditions associated with increased
+risk of IPD
+
+|
+
+All children in ACT, NSW, TAS or VIC
+
+|
+
+3+0
+
+(2, 4 and 6 months)
+
+|
+
+2+1
+
+(2, 4 and 12 months)  
+  
+Non-Indigenous children in NT, QLD, SA or WA  
+  
+Aboriginal and Torres Strait Islander children in NT, QLD, SA or WA
+
+|
+
+3+1
+
+(2, 4, 6 and 12–18 months)
+
+|
+
+3+1
+
+(2, 4, 6 and 12 months)  
+  
+All children **with** underlying medical conditions associated with increased
+risk of IPD (Attachment A)
+
+|
+
+3+1
+
+(2, 4, 6 and 12 months)
+
+|
+
+3+1
+
+(2, 4, 6 and 12 months)  
+  
+* Refer to _The Australian Immunisation Handbook_ [Chapter 4.13 Pneumococcal disease, section 4.13.7 ‘Recommendations](http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/Handbook10-home~handbook10part4~handbook10-4-13)’.
+
+Schedules for catch-up doses of 13vPCV for children aged <5 years who have not
+received any pneumococcal conjugate vaccine (PCV) doses or who have only
+received incomplete courses of PCVs are covered in Tables 2 (for all children
+with medical condition(s) increasing IPD risk and Aboriginal and Torres Strait
+Islander children in NT, QLD, SA or WA) and 3 (for all other children).
+
+_**Table 2:**_ Catch-up schedule for 13vPCV for Aboriginal and Torres Strait
+Islander children living in NT, QLD, SA or WA ONLY, and all children with any
+medical condition(s)* associated with an increased risk of invasive
+pneumococcal disease (IPD), aged <5 years
+
+**Number of doses given previously**
+
+|
+
+**Age at presentation**
+
+|
+
+**Age when previous dose of any PCV** **†** **was given**
+
+|
+
+**Recommendations‡**  
+  
+---|---|---|---  
+  
+**1st dose**
+
+|
+
+**2nd dose**
+
+|
+
+**3rd dose**
+
+|
+
+**Number of further dose(s) required**  
+  
+No previous doses
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+–
+
+|
+
+4§  
+  
+12–59 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+–
+
+|
+
+2  
+  
+1 previous dose
+
+|
+
+<12 months
+
+|
+
+Any age
+
+|
+
+–
+
+|
+
+–
+
+|
+
+3§  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+2§  
+  
+≥12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+1  
+  
+2 previous doses
+
+|
+
+<12 months
+
+|
+
+Any age
+
+|
+
+Any age
+
+|
+
+–
+
+|
+
+2§  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+2§  
+  
+≥12 months
+
+|
+
+–
+
+|
+
+1  
+  
+≥12 months
+
+|
+
+≥12 months
+
+|
+
+–
+
+|
+
+None  
+  
+3 previous doses
+
+|
+
+<12 months
+
+|
+
+Any age
+
+|
+
+Any age
+
+|
+
+Any age
+
+|
+
+1§  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+Any age
+
+|
+
+1  
+  
+≥12 months
+
+|
+
+≥12 months
+
+|
+
+None  
+  
+* Recommendations for vaccination of haematopoietic stem cell transplant (HSCT) recipients differ: a separate table for revaccination following HSCT in children and adults will be included in upcoming updates to The Australian Immunisation Handbook.  
+† Prior PCV doses may have been given as 7vPCV (e.g. from overseas), 10vPCV or
+13vPCV. Use 13vPCV as the vaccine formulation for catch-up doses, regardless
+of which formulation of PCV the child received previously.  
+‡ Where possible, align doses with the standard schedule points at 2, 4 and 6
+months of age for infants. The minimum interval between dose(s) is 1 month if
+aged <12 months, and 2 months if aged ≥12 months.  
+§ The last dose should be given after the child reaches 12 months of age (as a
+booster dose) with a minimum interval of 2 months after the previous dose of
+PCV.
+
+_**Table 3:**_ Catch-up schedule for 13vPCV for all other children aged <5
+years (not covered in Table 2a)
+
+**Number of doses given previously**
+
+|
+
+**Age at presentation**
+
+|
+
+**Age when previous dose of any PCV** ***** **was given**
+
+|
+
+**Recommendation** **†**  
+  
+---|---|---|---  
+  
+**1st dose**
+
+|
+
+**2nd dose**
+
+|
+
+**3rd dose**
+
+|
+
+**Number of further dose(s) required**  
+  
+No previous doses
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+–
+
+|
+
+3‡  
+  
+12–59 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+–
+
+|
+
+1  
+  
+1 previous dose
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+2‡  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+1  
+  
+≥12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+None  
+  
+2 previous doses
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+1‡  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+1  
+  
+≥12 months
+
+|
+
+–
+
+|
+
+None  
+  
+3 previous doses
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+1‡  
+  
+12–59 months
+
+|
+
+Any age
+
+|
+
+Any age
+
+|
+
+≥12 months
+
+|
+
+None  
+  
+* Prior PCV doses may have been given as 7vPCV (e.g. from overseas), 10vPCV or 13vPCV. Use 13vPCV as the vaccine formulation for catch-up doses, regardless of which formulation of PCV the child received previously.  
+† Where possible, align doses with the standard schedule points at 2 months
+and 4 months of age for infants aged <5 months. The minimum interval between
+dose(s) is 1 month if aged <12 months, and 2 months if aged ≥12 months.  
+‡ The last dose should be given after the child reaches 12 months of age (as a
+booster dose) with a minimum interval of 2 months after the previous dose of
+13vPCV.
+
+11 May 2023
+
+Updates to clinical guidance throughout the chapter to include interim
+recommendations for extended valency vaccines (Vaxneuvance [15vPCV] and
+Prevenar 20 [20vPCV]) in adults for whom they have recently been registered by
+the TGA but are not currently funded under the National Immunisation Program.
+
+25 January 2023
+
+Updates to clinical guidance through the chapter to provide information
+regarding 15-valent pneumococcal conjugate vaccine (15vPCV).
+
+7 December 2022
+
+Guidance on co-administration with other vaccines has been amended to remove
+guidance on co-administration with MenACWY vaccines.
+
+27 September 2021
+
+Guidance for doses of 23vPPV required after a haematopoietic stem cell
+transplant updated.
+
+3 June 2020
+
+Recommendations have changed for people with risk conditions, Aboriginal and
+Torres Strait Islander people, and older adults.
+
+The following changes have been made to recommendations for people with risk
+conditions:
+
+  * Category A and Category B conditions have been consolidated into a single list of risk conditions for pneumococcal disease.
+  * The recommended vaccines and number of doses — 1 extra dose of 13vPCV and 2 doses of 23vPPV — are now the same for all people with risk conditions.
+  * The number of lifetime doses of 23vPPV recommended for people with risk conditions is now limited to 2 doses.
+
+The following changes have been made to recommendations for Aboriginal and
+Torres Strait Islander people:
+
+  * Aboriginal and Torres Strait Islander children in the Northern Territory, Queensland, South Australia and Western Australia are now recommended to receive 2 doses of 23vPPV in addition to the 4 doses of 13vPCV.
+  * Aboriginal and Torres Strait Islander adults without risk conditions for pneumococcal disease are now recommended to receive 1 dose of 13vPCV and 2 doses of 23vPPV at age ≥50 years.
+  * Aboriginal and Torres Strait Islander adults <50 years with risk conditions for pnuemococcal disease are to receive vaccines as per recommendations for people with risk conditions.
+
+The following changes have been made to recommendations for healthy non-
+Indigenous adults:
+
+  * Healthy non-Indigenous adults are now recommended to receive a single dose of 13vPCV at age ≥70 years. Healthy non-Indigenous adults who do not have risk conditions for pneumococcal disease are no longer recommended to receive 23vPPV.
+
+20 September 2019
+
+Editorial changes to the recommendations for people with medical risk factors
+and guidance for co-administration with other vaccines.
+
+Recommendations for people with medical risk factors updated to provide
+greater clarity on the number and timing of 23vPPV doses.
+
+Guidance under Co-administration with other vaccines updated.
+
+8 June 2018
+
+The pneumococcal vaccination schedule has changed for:
+
+  * all children aged <5 years living in the Australian Capital Territory, New South Wales, Tasmania and Victoria
+  * all non-Indigenous children aged <5 years living in the Northern Territory, Queensland, South Australia and Western Australia without underlying medical conditions associated with an increased risk of invasive pneumococcal disease
+
+These children now receive a 2+1 schedule:
+
+  * 2 primary doses of 13vPCV (13-valent pneumococcal conjugate vaccine) at 2 and 4 months of age
+  * a booster dose at 12 months of age
+
+The previous schedule was 3 primary doses at 2, 4 and 6 months of age (3+0
+schedule).
+
+The pneumococcal vaccination schedule has changed for:
+
+  * all Aboriginal and Torres Strait Islander children living in the Northern Territory, Queensland, South Australia and Western Australia
+  * all children with underlying medical conditions associated with an increased risk of invasive pneumococcal disease
+
+The booster dose previously recommended for these children at 12–18 months of
+age is now recommended at 12 months of age. This means that these children
+should continue to receive 4 doses of 13vPCV at 2, 4, 6 and 12 months of age
+(3+1 schedule).
+
+These changes have also changed the catch-up schedules for pneumococcal
+vaccination. See [Catch-up vaccination](/node/136) for more details.
+
+9 April 2018
+
+**Recommendations**
+
+The following replaces the existing Recommendations for infant pneumococcal
+vaccination schedule listed in Chapter 4.6 Pneumococcal _disease_ :
+
+  1. All children, except those specified in (b) below, should receive three doses of 13vPCV at 2, 4 and 12 months of age (called ‘2+1’ schedule) instead of the current schedule with doses at 2, 4 and 6 months of age (called ‘3+0’ schedule).
+  2. The following population groups at increased risk of pneumococcal infection should continue to receive four doses of 13vPCV at 2, 4, 6 and 12 months^ of age (called ‘3+1’ schedule): 
+    1. Aboriginal and Torres Strait Islander children living in the NT, QLD, SA and WA
+    2. Children with underlying medical conditions associated with an increased risk of IPD.
+
+^ Note the preferred schedule point for the fourth (last) 13vPCV dose is age
+12 months rather than 18 months.
+
+_**Table 1:**_ Comparison of current and proposed ATAGI recommendations for
+13vPCV schedules in children
+
+**Cohort**
+
+|
+
+**Schedule in previous recommendation** *****
+
+|
+
+**Schedule in current recommendation**  
+  
+---|---|---  
+  
+Children **without** underlying medical conditions associated with increased
+risk of IPD
+
+|
+
+All children in ACT, NSW, TAS or VIC
+
+|
+
+3+0
+
+(2, 4 and 6 months)
+
+|
+
+2+1
+
+(2, 4 and 12 months)  
+  
+Non-Indigenous children in NT, QLD, SA or WA  
+  
+Aboriginal and Torres Strait Islander children in NT, QLD, SA or WA
+
+|
+
+3+1
+
+(2, 4, 6 and 12–18 months)
+
+|
+
+3+1
+
+(2, 4, 6 and 12 months)  
+  
+All children **with** underlying medical conditions associated with increased
+risk of IPD (Attachment A)
+
+|
+
+3+1
+
+(2, 4, 6 and 12 months)
+
+|
+
+3+1
+
+(2, 4, 6 and 12 months)  
+  
+* Refer to _The Australian Immunisation Handbook_ [Chapter 4.13 Pneumococcal disease, section 4.13.7 ‘Recommendations](http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/Handbook10-home~handbook10part4~handbook10-4-13)’.
+
+Schedules for catch-up doses of 13vPCV for children aged <5 years who have not
+received any pneumococcal conjugate vaccine (PCV) doses or who have only
+received incomplete courses of PCVs are covered in Tables 2 (for all children
+with medical condition(s) increasing IPD risk and Aboriginal and Torres Strait
+Islander children in NT, QLD, SA or WA) and 3 (for all other children).
+
+_**Table 2:**_ Catch-up schedule for 13vPCV for Aboriginal and Torres Strait
+Islander children living in NT, QLD, SA or WA ONLY, and all children with any
+medical condition(s)* associated with an increased risk of invasive
+pneumococcal disease (IPD), aged <5 years
+
+**Number of doses given previously**
+
+|
+
+**Age at presentation**
+
+|
+
+**Age when previous dose of any PCV** **†** **was given**
+
+|
+
+**Recommendations‡**  
+  
+---|---|---|---  
+  
+**1st dose**
+
+|
+
+**2nd dose**
+
+|
+
+**3rd dose**
+
+|
+
+**Number of further dose(s) required**  
+  
+No previous doses
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+–
+
+|
+
+4§  
+  
+12–59 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+–
+
+|
+
+2  
+  
+1 previous dose
+
+|
+
+<12 months
+
+|
+
+Any age
+
+|
+
+–
+
+|
+
+–
+
+|
+
+3§  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+2§  
+  
+≥12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+1  
+  
+2 previous doses
+
+|
+
+<12 months
+
+|
+
+Any age
+
+|
+
+Any age
+
+|
+
+–
+
+|
+
+2§  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+2§  
+  
+≥12 months
+
+|
+
+–
+
+|
+
+1  
+  
+≥12 months
+
+|
+
+≥12 months
+
+|
+
+–
+
+|
+
+None  
+  
+3 previous doses
+
+|
+
+<12 months
+
+|
+
+Any age
+
+|
+
+Any age
+
+|
+
+Any age
+
+|
+
+1§  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+Any age
+
+|
+
+1  
+  
+≥12 months
+
+|
+
+≥12 months
+
+|
+
+None  
+  
+* Recommendations for vaccination of haematopoietic stem cell transplant (HSCT) recipients differ: a separate table for revaccination following HSCT in children and adults will be included in upcoming updates to The Australian Immunisation Handbook.  
+† Prior PCV doses may have been given as 7vPCV (e.g. from overseas), 10vPCV or
+13vPCV. Use 13vPCV as the vaccine formulation for catch-up doses, regardless
+of which formulation of PCV the child received previously.  
+‡ Where possible, align doses with the standard schedule points at 2, 4 and 6
+months of age for infants. The minimum interval between dose(s) is 1 month if
+aged <12 months, and 2 months if aged ≥12 months.  
+§ The last dose should be given after the child reaches 12 months of age (as a
+booster dose) with a minimum interval of 2 months after the previous dose of
+PCV.
+
+_**Table 3:**_ Catch-up schedule for 13vPCV for all other children aged <5
+years (not covered in Table 2a)
+
+**Number of doses given previously**
+
+|
+
+**Age at presentation**
+
+|
+
+**Age when previous dose of any PCV** ***** **was given**
+
+|
+
+**Recommendation** **†**  
+  
+---|---|---|---  
+  
+**1st dose**
+
+|
+
+**2nd dose**
+
+|
+
+**3rd dose**
+
+|
+
+**Number of further dose(s) required**  
+  
+No previous doses
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+–
+
+|
+
+3‡  
+  
+12–59 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+–
+
+|
+
+1  
+  
+1 previous dose
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+2‡  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+1  
+  
+≥12 months
+
+|
+
+–
+
+|
+
+–
+
+|
+
+None  
+  
+2 previous doses
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+1‡  
+  
+12–59 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+–
+
+|
+
+1  
+  
+≥12 months
+
+|
+
+–
+
+|
+
+None  
+  
+3 previous doses
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+<12 months
+
+|
+
+1‡  
+  
+12–59 months
+
+|
+
+Any age
+
+|
+
+Any age
+
+|
+
+≥12 months
+
+|
+
+None  
+  
+* Prior PCV doses may have been given as 7vPCV (e.g. from overseas), 10vPCV or 13vPCV. Use 13vPCV as the vaccine formulation for catch-up doses, regardless of which formulation of PCV the child received previously.  
+† Where possible, align doses with the standard schedule points at 2 months
+and 4 months of age for infants aged <5 months. The minimum interval between
+dose(s) is 1 month if aged <12 months, and 2 months if aged ≥12 months.  
+‡ The last dose should be given after the child reaches 12 months of age (as a
+booster dose) with a minimum interval of 2 months after the previous dose of
+13vPCV.
+
+[ Previous Pertussis (whooping cough) ](/contents/vaccine-preventable-
+diseases/pertussis-whooping-cough "Go to previous page")
+
+[ Next Poliomyelitis ](/contents/vaccine-preventable-diseases/poliomyelitis
+"Go to next page")
+
+## In this section
+
+##  [Table of contents](/contents)
+
+  * [About the handbook](/contents/about-the-handbook)
+  * [Fundamentals of immunisation](/contents/fundamentals-of-immunisation)
+  * [Vaccination procedures](/contents/vaccination-procedures)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Vaccination for special risk groups](/contents/vaccination-for-special-risk-groups)
+  * [Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+    * [Cholera](/contents/vaccine-preventable-diseases/cholera)
+    * [COVID-19](/contents/vaccine-preventable-diseases/covid-19)
+    * [Diphtheria](/contents/vaccine-preventable-diseases/diphtheria)
+    * [Haemophilus influenzae type b (Hib)](/contents/vaccine-preventable-diseases/haemophilus-influenzae-type-b-hib)
+    * [Hepatitis A](/contents/vaccine-preventable-diseases/hepatitis-a)
+    * [Hepatitis B](/contents/vaccine-preventable-diseases/hepatitis-b)
+    * [Human papillomavirus (HPV)](/contents/vaccine-preventable-diseases/human-papillomavirus-hpv)
+    * [Influenza (flu)](/contents/vaccine-preventable-diseases/influenza-flu)
+    * [Japanese encephalitis](/contents/vaccine-preventable-diseases/japanese-encephalitis)
+    * [Measles](/contents/vaccine-preventable-diseases/measles)
+    * [Meningococcal disease](/contents/vaccine-preventable-diseases/meningococcal-disease)
+    * [Mumps](/contents/vaccine-preventable-diseases/mumps)
+    * [Pertussis (whooping cough)](/contents/vaccine-preventable-diseases/pertussis-whooping-cough)
+    * Pneumococcal disease
+    * [Poliomyelitis](/contents/vaccine-preventable-diseases/poliomyelitis)
+    * [Q fever](/contents/vaccine-preventable-diseases/q-fever)
+    * [Rabies and other lyssaviruses](/contents/vaccine-preventable-diseases/rabies-and-other-lyssaviruses)
+    * [Rotavirus](/contents/vaccine-preventable-diseases/rotavirus)
+    * [Rubella](/contents/vaccine-preventable-diseases/rubella)
+    * [Tetanus](/contents/vaccine-preventable-diseases/tetanus)
+    * [Tuberculosis](/contents/vaccine-preventable-diseases/tuberculosis)
+    * [Typhoid fever](/contents/vaccine-preventable-diseases/typhoid-fever)
+    * [Varicella (chickenpox)](/contents/vaccine-preventable-diseases/varicella-chickenpox)
+    * [Yellow fever](/contents/vaccine-preventable-diseases/yellow-fever)
+    * [Zoster (herpes zoster)](/contents/vaccine-preventable-diseases/zoster-herpes-zoster)
+
+Is there anything wrong with this page?
+
+## Help us improve the Australian Immunisation Handbook
+
+What you were doing? (required)
+
+What went wrong? (required)
+
+Leave this field blank
+
+Printed content may be out of date. For up to date information, always refer
+to the digital version:
+
+https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-
+diseases/pneumococcal-disease
+
+**[All vaccine preventable diseases](/node/27)**
+
+## Who's responsible for the Handbook
+
+  * [ATAGI](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi)
+  * [NHMRC](https://www.nhmrc.gov.au/)
+  * [Chief Medical Officer](https://www.health.gov.au/about-us/who-we-are/leadership#chief-medical-officer)
+  * [Department of Health and Aged Care](https://www.health.gov.au/)
+
+## Useful links and tools
+
+  * [Announcements](/contents/about-the-handbook/announcements "Announcements")
+  * [Handbook tables](/resources/tables "Handbook tables")
+  * [Handbook figures](/resources/figures "Handbook figures")
+  * [Technical terms](/technical-terms "Glossary of technical terms")
+  * [Abbreviations](/abbreviations "Abbreviations")
+
+## More about Immunisation
+
+  * [National Immunisation Program](https://www.health.gov.au/initiatives-and-programs/national-immunisation-program)
+  * [NIP Schedule](https://www.health.gov.au/health-topics/immunisation/immunisation-throughout-life/national-immunisation-program-schedule)
+  * [ATAGI statements](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi#statements)
+  * [Immunisation news](https://www.health.gov.au/news?f%5B0%5D=field_related_health_topics%3A1021)
+  * [Immunisation resources](https://www.health.gov.au/resources?f%5B0%5D=field_related_health_topics%3A1021&f%5B1%5D=field_audience%3A446)
+  * [NCIRS Factsheets](http://www.ncirs.org.au/health-professionals/ncirs-fact-sheets-faqs)
+
+## Help us improve
+
+We are always looking for ways to improve our website, the NICC and mobile
+app.
+
+[Provide feedback](/provide-feedback)
+
+## Using the Handbook
+
+  * [Accessibility](https://www.health.gov.au/using-our-websites/accessibility)
+  * [Copyright](https://www.health.gov.au/using-this-website/copyright)
+  * [Disclaimers](https://www.health.gov.au/using-this-website/disclaimers)
+  * [Privacy](https://www.health.gov.au/using-this-website/privacy)
+
+## Mobile apps
+
+[![Download from Apple App
+Store](/sites/default/files/2021-05/App_Store_Badge_v2.svg)](https://apps.apple.com/au/app/immunisationhandbook/id1484584970)
+
+[![Get it on Google
+Play](/sites/default/files/2021-05/Google_Play_Store_badge_EN_v2.svg)](https://play.google.com/store/apps/details?id=au.gov.health.immunisationhandbook.immunisation_handbook&hl=en_AU&gl=AU&utm_source=Website&utm_campaign=AIH)
+
+## Acknowledgement
+
+The Department of Health and Aged Care acknowledges First Nations peoples as
+the Traditional Owners of Country throughout Australia, and their continuing
+connection to land, sea and community. We pay our respects to them and their
+cultures, and to all Elders both past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged
+Care](https://www.health.gov.au/)
+
+Back to top
+
+Link copied
+
+**Link** , **share** or **bookmark** directly to this section of the page.
+
+  *[13vPCV]: 13-valent pneumococcal conjugate vaccine.
+  *[15vPCV]: 15-valent pneumococcal conjugate vaccine.
+  *[20vPCV]: 20-valent pneumococcal conjugate vaccine.
+  *[23vPPV]: 23-valent pneumococcal polysaccharide vaccine
+  *[10vPCV]: 10-valent pneumococcal conjugate vaccine.
+  *[7vPCV]: 7-valent pneumococcal conjugate vaccine
+  *[IPD]: invasive pneumococcal disease
+  *[CI]: confidence interval
+  *[ATAGI]: Australian Technical Advisory Group on Immunisation
+  *[JE]: Japanese encephalitis
+  *[ELISA]: enzyme-linked immunosorbent assay
+  *[AIDS]: acquired immunodeficiency syndrome
+  *[WHO]: World Health Organization
+  *[PT]: pertussis toxoid
+

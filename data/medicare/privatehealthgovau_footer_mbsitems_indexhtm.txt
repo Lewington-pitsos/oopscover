@@ -1,0 +1,126 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## MBS item numbers
+
+Select one of the following clinical categories to see the MBS item numbers it
+includes. See [Clinical
+categories](/health_insurance/howitworks/clinical_categories.htm "Clinical
+categories") for details of what they cover. Note: Common and support MBS
+items are not included in these lists – see [MBS
+Online](http://www.mbsonline.gov.au/ "Medicare Benefits Schedule Online") for
+more information.
+
+You can also search for an MBS item number using the general search at the top
+right of any page.
+
+  * [Assisted reproductive services](/dynamic/MBSItems/AssistedReproductive "Assisted reproductive services")
+  * [Back, neck and spine](/dynamic/MBSItems/BackNeckSpine "Back, neck and spine")
+  * [Blood](/dynamic/MBSItems/Blood "Blood")
+  * [Bone, joint and muscle](/dynamic/MBSItems/BoneJointMuscle "Bone, joint and muscle")
+  * [Brain and nervous system](/dynamic/MBSItems/BrainNervousSystem "Brain and nervous system")
+  * [Breast surgery (medically necessary)](/dynamic/MBSItems/BreastSurgery "Breast surgery \(medically necessary\)")
+  * [Cataracts](/dynamic/MBSItems/Cataracts "Cataracts")
+  * [Chemotherapy, radiotherapy and immunotherapy for cancer](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy "Chemotherapy, radiotherapy and immunotherapy for cancer")
+  * [Dental surgery](/dynamic/MBSItems/DentalSurgery "Dental surgery")
+  * [Diabetes management (excluding insulin pumps)](/dynamic/MBSItems/Diabetes "Diabetes management \(excluding insulin pumps\)")
+  * [Dialysis for chronic kidney failure](/dynamic/MBSItems/Dialysis "Dialysis for chronic kidney failure")
+  * [Digestive system](/dynamic/MBSItems/DigestiveSystem "Digestive system")
+  * [Ear, nose and throat](/dynamic/MBSItems/EarNoseThroat "Ear, nose and throat")
+  * [Eye (not cataracts)](/dynamic/MBSItems/Eye "Eye \(not cataracts\)")
+  * [Gastrointestinal endoscopy](/dynamic/MBSItems/GastrointestinalEndoscopy "Gastrointestinal endoscopy")
+  * [Gynaecology](/dynamic/MBSItems/Gynaecology "Gynaecology")
+  * [Heart and vascular system](/dynamic/MBSItems/HeartVascular "Heart and vascular system")
+  * [Hernia and appendix](/dynamic/MBSItems/HerniaAppendix "Hernia and appendix")
+  * [Hospital psychiatric services](/dynamic/MBSItems/HospitalPsychiatric "Hospital psychiatric services")
+  * [Implantation of hearing devices](/dynamic/MBSItems/ImplantationHearingDevices "Implantation of hearing devices")
+  * Insulin pumps \- this item has no specific MBS item numbers associated with it
+  * [Joint reconstructions](/dynamic/MBSItems/JointReconstructions "Joint reconstructions")
+  * [Joint replacements](/dynamic/MBSItems/JointReplacements "Joint replacements")
+  * [Kidney and bladder](/dynamic/MBSItems/KidneyBladder "Kidney and bladder")
+  * [Lung and chest](/dynamic/MBSItems/LungChest "Lung and chest")
+  * [Male reproductive system](/dynamic/MBSItems/MaleReproductive "Male reproductive system")
+  * [Miscarriage and termination of pregnancy](/dynamic/MBSItems/MiscarriageTerminationOfPregnancy "Miscarriage and termination of pregnancy")
+  * [Pain management](/dynamic/MBSItems/PainManagement "Pain management")
+  * [Pain management with device](/dynamic/MBSItems/PainManagementWithDevice "Pain management with device")
+  * [Palliative care](/dynamic/MBSItems/PalliativeCare "Palliative care")
+  * [Plastic and reconstructive surgery (medically necessary)](/dynamic/MBSItems/PlasticReconstructiveSurgery "Plastic and reconstructive surgery \(medically necessary\)")
+  * Podiatric surgery (provided by a registered podiatric surgeon – limited benefits) \- this item has no specific MBS item numbers associated with it
+  * [Pregnancy and birth](/dynamic/MBSItems/PregnancyBirth "Pregnancy and birth")
+  * Rehabilitation \- this item has no specific MBS item numbers associated with it
+  * [Skin](/dynamic/MBSItems/Skin "Skin")
+  * [Sleep studies](/dynamic/MBSItems/SleepStudies "Sleep studies")
+  * [Tonsils, adenoids and grommets](/dynamic/MBSItems/TonsilsAdenoidsGrommets "Tonsils, adenoids and grommets")
+  * [Weight loss surgery](/dynamic/MBSItems/WeightLossSurgery "Weight loss surgery")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

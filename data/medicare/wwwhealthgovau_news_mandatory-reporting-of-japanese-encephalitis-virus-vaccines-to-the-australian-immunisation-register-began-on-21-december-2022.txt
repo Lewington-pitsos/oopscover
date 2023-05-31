@@ -1,0 +1,225 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [News and media](/news)
+
+[News and media](/news)
+
+# Mandatory reporting of Japanese encephalitis virus vaccines to the
+Australian Immunisation Register began on 21 December 2022
+
+From 21 December 2022, vaccination providers must report all Japanese
+encephalitis virus (JEV) vaccines administered to the Australian Immunisation
+Register (AIR).
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Mandatory reporting of Japanese encephalitis virus vaccines to the Australian Immunisation Register began on 21 December 2022&url=https://www.health.gov.au/news/mandatory-reporting-of-japanese-encephalitis-virus-vaccines-to-the-australian-immunisation-register-began-on-21-december-2022)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/news/mandatory-reporting-of-japanese-encephalitis-virus-vaccines-to-the-australian-immunisation-register-began-on-21-december-2022)
+    * [Email](mailto:?subject=Mandatory reporting of Japanese encephalitis virus vaccines to the Australian Immunisation Register began on 21 December 2022&body=https://www.health.gov.au/news/mandatory-reporting-of-japanese-encephalitis-virus-vaccines-to-the-australian-immunisation-register-began-on-21-december-2022)
+
+Loading...
+
+Date published:
+
+13 January 2023
+
+Type:
+
+News
+
+Audience:
+
+Health sector
+
+![Image of general
+practitioner](/sites/default/files/styles/h_content_max_width_no_upscale/public/2023-01/mandatory-
+reporting-of-japanese-encephalitis-virus-vaccines-to-the-australian-
+immunisation-register-began-on-21-december-2022.jpg?itok=MPj3DWdL)
+
+The [Australian Immunisation Register](/topics/immunisation/immunisation-
+information-for-health-professionals/using-the-australian-immunisation-
+register "Using the Australian Immunisation Register") (AIR) is a national
+immunisation register which records vaccines given to all people in Australia.
+This includes COVID-19 vaccines, vaccines given under the National
+Immunisation Program (NIP), and vaccines given privately, such as for seasonal
+influenza or travel.
+
+Under the [_Australian Immunisation Register Act 2015_ (AIR
+Act)](https://www.legislation.gov.au/Details/C2021C00418) it is mandatory for
+all vaccination providers to report to the AIR:
+
+  * COVID-19 vaccinations administered on or after 20 February 2021
+  * Influenza vaccinations administered on or after 1 March 2021
+  * NIP vaccinations administered on or after 1 July 2021.
+
+Further legislative changes mean that from 21 December 2022, vaccination
+providers must report the administration of all Japanese encephalitis virus
+(JEV) vaccines to the AIR.
+
+Reporting timely, high quality and accurate information to the AIR allows us
+to monitor immunisation coverage and administration across Australia. This
+also provides Australians with a complete record of their vaccinations, which
+can be used for education, employment, and travel purposes.
+
+The Australian Immunisation Register Rule 2015 lists the specific vaccines,
+the data elements to report, and how and when to report these. These include:
+
+  * relevant vaccines: COVID-19, influenza, NIP and JEV vaccines.
+  * how to report: electronic, or if this is not reasonably practical then in written form.
+  * when to report: within 24 hours, and no more than 10 working days after the vaccination.
+  * personal information: Medicare number (if applicable), name, contact details, date of birth, gender.
+  * vaccine information: brand name, dose number and batch number, date given, for COVID-19 vaccines - vial serial number (if known).
+  * provider information: provider number, name and contact details.
+
+You can quickly report vaccination information via the AIR site in HPOS or
+through relevant clinical software.
+
+Health professionals should use the latest version of their clinical software
+to make sure they meet reporting requirements. We will continue to work with
+Services Australia to help software developers and vaccination providers meet
+their reporting obligations.
+
+The legislative changes do not make having a vaccine mandatory, only that
+vaccination providers must report the administration of vaccinations to the
+AIR.
+
+## **Further information**
+
+Learn more about [what personal information is collected in the AIR](/using-
+our-websites/website-privacy-policy/privacy-policy-for-the-australian-
+immunisation-register "Privacy Policy for the Australian Immunisation Register
+") and how this information can be used and disclosed.
+
+Learn more about [Japanese encephalitis](/diseases/japanese-
+encephalitis#vaccination "Japanese encephalitis").
+
+## Contacts
+
+For help with reporting to the AIR:
+
+![](/themes/custom/hga/images/contact-default-icon.png)
+
+###  [ Australian Immunisation Register contact ](/contacts/australian-
+immunisation-register-contact?language=en)
+
+The Australian Immunisation Register (AIR) is a national register that records
+vaccines given to people of all ages in Australia. You can request an
+immunisation history statement for your child.
+
+[air@servicesaustralia.gov.au](mailto:air@servicesaustralia.gov.au)
+
+Australian Immunisation Register enquiries
+
+[1800 653 809](tel:1800 653 809)
+
+[Australian Immunisation
+Register](https://www.servicesaustralia.gov.au/individuals/services/medicare/australian-
+immunisation-register)
+
+![](/themes/custom/hga/images/contact-aus-gov.png)
+
+###  [ Immunisation registers contact ](/contacts/immunisation-registers-
+contact?language=en)
+
+Health professionals can contact us about mandatory reporting obligations for
+immunisation.
+
+[Immunisation.Registers@health.gov.au](mailto:Immunisation.Registers@health.gov.au)
+
+Tags:
+
+  * [Immunisation](/topics/immunisation)
+  * [Communicable diseases](/topics/communicable-diseases)
+  * [Japanese encephalitis](/diseases/japanese-encephalitis)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

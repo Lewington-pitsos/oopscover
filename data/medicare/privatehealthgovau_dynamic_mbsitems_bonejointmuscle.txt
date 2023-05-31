@@ -1,0 +1,1792 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Bone, joint and muscle - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+18350
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox), injection of, for the treatment of hemifacial spasm in a patient who is at least 12 years of age, including all such injections on any one day [](/dynamic/MBSItems/BoneJointMuscle/18350)
+18351
+
+     Clostridium Botulinum Type A Toxin-Haemagglutinin Complex (Dysport), injection of, for the treatment of hemifacial spasm in a patient who is at least 18 years of age, including all such injections on any one day [](/dynamic/MBSItems/BoneJointMuscle/18351)
+18353
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox) or Clostridium Botulinum Type A Toxin-Haemagglutinin Complex (Dysport) or IncobotulinumtoxinA (Xeomin), injection of, for the treatment of cervical dystonia (spasmodic torticollis), including all such injections on any one day [](/dynamic/MBSItems/BoneJointMuscle/18353)
+18354
+
+     Botulinum Toxin Type A Purified Neurotixin Complex (Botox) or Clostridium Botulinum Type A Toxin-Haemagglutinin Complex (Dysport), injection of, for the treatment of dynamic equinus foot deformity (including equinovarus and equinovalgus) due to spasticity in an ambulant cerebral palsy patient, if:(a) the patient is at least 2 years of age; and (b) the treatment is for all or any of the muscles subserving one functional activity and supplied by one motor nerve, with a maximum of 4 sets of injections for the patient on any one day (with a maximum of 2 sets of injections for each lower limb), including all injections per set (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/18354)
+18360
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox), or Clostridium Botulinum Type A Toxin Haemagglutinin Complex (Dysport),injection of, for the treatment of moderate to severe focal spasticity, if: (a)the patient is at least 18 years of age; and (b)the spasticity is associated with a previously diagnosed neurological disorder; and (c)treatment is provided as: (i)second line therapy when standard treatment for the conditions has failed; or (ii)an adjunct to physical therapy; and (d)the treatment is for all or any of the muscles subserving one functional activity and supplied by one motor nerve, with a maximum of 4 sets of injections for the patient on any one day (with a maximum of 2 sets of injections for each limb), including all injections per set; and (e)the treatment is not provided on the same occasion as a service mentioned in item 18365 [](/dynamic/MBSItems/BoneJointMuscle/18360)
+18361
+
+     Clostridium Botulinum Type A Toxin-Haemagglutinin Complex (Dysport) or Botulinum Toxin Type A Purified Neurotoxin Complex (Botox), injection of, for the treatment of moderate to severe upper limb spasticity due to cerebral palsy if: (a) the patient is at least 2 years of age; and (b) the treatment is for all or any of the muscles subserving one functional activity and supplied by one motor nerve, with a maximum of 4 sets of injections for the patient on any one day (with a maximum of 2 sets of injections for each upper limb), including all injections per set (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/18361)
+18365
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox) or Clostridium Botulinum Type A Toxin-Haemagglutinin Complex (Dysport) or IncobotulinumtoxinA (Xeomin), injection of, for the treatment of moderate to severe spasticity of the upper limb following an acute event,if: (a) the patient is at least 18 years of age; and (b) treatment is provided as: (i)second line therapy when standard treatment for the condition has failed; or (ii) an adjunct to physical therapy; and (c) the patient does not have established severe contracture in the limb that is to be treated; and (d) the treatment is for all or any of the muscles subserving one functional activity and supplied by one motor nerve, with a maximum of 4 sets of injections for the patient on any one day (with a maximum of 2 sets of injections for each upper limb), including all injections per set; and (e) for a patient who has received treatment on 2 previous separate occasions - the patient has responded to the treatment [](/dynamic/MBSItems/BoneJointMuscle/18365)
+30103
+
+     SINUS, excision of, involving muscle and deep tissue (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/30103)
+30107
+
+     Excision of ganglion, other than a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/30107)
+30226
+
+     MUSCLE, excision of (LIMITED), or fasciotomy (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/30226)
+30229
+
+     MUSCLE, excision of (EXTENSIVE) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/30229)
+30232
+
+     MUSCLE, RUPTURED, repair of (limited), not associated with external wound (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/30232)
+30235
+
+     MUSCLE, RUPTURED, repair of (extensive), not associated with external wound (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/30235)
+30238
+
+     FASCIA, DEEP, repair of, FOR HERNIATED MUSCLE (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/30238)
+30241
+
+     BONE TUMOUR, INNOCENT, excision of, not being a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/30241)
+30244
+
+     STYLOID PROCESS OF TEMPORAL BONE, removal of (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/30244)
+32036
+
+     SACROCOCCYGEAL AND PRESACRAL TUMOURexcision of (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/32036)
+39331
+
+     Carpal tunnel release, including division of transverse carpal ligament or release of median nerve, by any method, including either or both of the following (if performed): (a) synovectomy; (b) neurolysis Other than a service associated with a service to which item 30023 or 46339 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/39331)
+39332
+
+     Revision of carpal tunnel release, including division of transverse carpal ligament or release of median nerve, by any method, including either or both of the following (if performed): (a) synovectomy; (b) neurolysis; other than a service associated with a service to which item 30023 or 46339 applies. (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/39332)
+39336
+
+     Ulnar nerve decompression at elbow or wrist (cubital tunnel or Guyon's canal) without transposition, by any method, including neurolysis (if performed), other than a service associated with a service to which item 30023 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/39336)
+39339
+
+     Revision of ulnar nerve decompression at elbow (cubital tunnel) without transposition, by any method, including neurolysis (if performed), other than a service associated with a service to which item 30023 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/39339)
+39342
+
+     Ulnar nerve decompression at elbow (cubital tunnel), including any of the following (if performed): (a) associated transposition; (b) subcutaneous or submuscular transposition of the nerve; (c) medial epicondylectomy; (d) ostetomy and reconstruction of the flexor origin; (e) neurolysis; other than a service associated with a service to which item 30023 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/39342)
+39345
+
+     Localised decompression of radial, median or ulnar nerve, or branches of, in the forearm for compressive neuropathy, including neurolysis (if performed), other than a service associated with a service to which item 30023 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/39345)
+43521
+
+     OPERATION ON SKULL (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/43521)
+43527
+
+     Operation on sternum, clavicle, rib, metacarpus, carpus, phalanx, metatarsus, tarsus, mandible or maxilla (other than alveolar margins), by open or arthroscopic means, for septic arthritis or osteomyelitis—one approach, inclusive of the adjoining joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/43527)
+43530
+
+     Operation on scapula, ulna, radius, tibia, fibula, humerus or femur, by open or arthroscopic means, for septic arthritis or osteomyelitis—one approach, inclusive of the adjoining joint (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/43530)
+43533
+
+     Operation on spine or pelvic bones, by open or arthroscopic means, for septic arthritis or osteomyelitis—one approach, inclusive of the adjoining joint (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/43533)
+43876
+
+     SACROCOCCYGEAL TERATOMA, excision of, by posterior approach (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/43876)
+43879
+
+     SACROCOCCYGEAL TERATOMA, excision of, by combined posterior and abdominal approach (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/43879)
+44325
+
+     Amputation of hand, transcarpal (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44325)
+44328
+
+     Amputation of hand, proximal to wrist radiocarpal joint, through forearm (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44328)
+44331
+
+     AMPUTATION AT SHOULDER (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44331)
+44334
+
+     INTERSCAPULOTHORACIC AMPUTATION (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44334)
+44338
+
+     Amputation of one digit of one foot, distal to metatarsal head, including any of the following (if performed): (a) resection of bone or joint; (b) excision of neuroma; (c) skin cover with homodigital flaps (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44338)
+44342
+
+     Amputation of 2 digits of one foot, distal to metatarsal head, including any of the following (if performed): (a) resection of bone or joint; (b) excision of neuroma; (c) skin cover with homodigital flaps (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44342)
+44346
+
+     Amputation of 3 digits of one foot, distal to metatarsal head, including any of the following (if performed): (a) resection of bone or joint; (b) excision of neuroma; (c) skin cover with homodigital flaps (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44346)
+44350
+
+     Amputation of 4 digits of one foot, distal to metatarsal head, including any of the following (if performed): (a) resection of bone or joint; (b) excision of neuroma; (c) skin cover with homodigital flaps (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44350)
+44354
+
+     Amputation of 5 digits of one foot, distal to metatarsal head, including any of the following (if performed): (a) resection of bone or joint; (b) excision of neuroma; (c) skin cover with homodigital flaps (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44354)
+44358
+
+     Amputation of one ray of one foot, proximal to the metatarsal head, including any of the following (if performed): (a) resection of bone; (b) excision of neuromas; (c) skin cover or recontouring with homodigital flaps (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44358)
+44359
+
+     Amputation of one or more toes of one foot, or amputation at midfoot or hindfoot of one foot, for diabetic or other microvascular disease; (a) including any of the following (if performed): (i) resection of bone; (ii) excision of neuromas; (iii) excision of one or more bones of the foot; (iv) treatment of underlying infection; (v) skin cover or recontouring with homodigital flaps; and (b) excluding aftercare; —applicable only once per foot per occasion on which the service is performed (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44359)
+44361
+
+     Amputation of foot, at ankle or hindfoot, including any of the following (if performed): (a) resection of bone; (b) excision of neuromas; (c) skin cover; (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44361)
+44364
+
+     Amputation of foot, transtarsal, including any of the following (if performed): (a) resection of bone; (b) excision of neuromas; (c) skin cover; (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44364)
+44367
+
+     Amputation through thigh, at knee or below knee (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44367)
+44370
+
+     AMPUTATION AT HIP (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44370)
+44373
+
+     HINDQUARTER, amputation of (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44373)
+44376
+
+     Amputation stump, re-amputation of, to provide adequate skin and muscle cover (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/44376)
+45605
+
+     MANDIBLE OR MAXILLA, segmental resection of, for tumours or cysts (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45605)
+45788
+
+     GLENOID FOSSA, ZYGOMATIC ARCH AND TEMPORAL BONE, RECONSTRUCTION OF, (Obwegeser technique) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45788)
+45851
+
+     TEMPOROMANDIBULAR JOINT, manipulation of, performed in the operating theatre of a hospital, not being a service associated with a service to which another item in this Subgroup applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/45851)
+45855
+
+     TEMPOROMANDIBULAR JOINT, arthroscopy of, with or without biopsy, not being a service associated with any other arthroscopic procedure of that joint (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45855)
+45857
+
+     TEMPOROMANDIBULAR JOINT, arthroscopy of, removal of loose bodies, debridement, or treatment of adhesions - 1 or more such procedure of that joint, not being a service associated with any other arthroscopic procedure of the temporomandibular joint (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45857)
+45859
+
+     TEMPOROMANDIBULAR JOINT, arthrotomy of, not being a service to which another item in this Subgroup applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45859)
+45861
+
+     TEMPOROMANDIBULAR JOINT, open surgical exploration of, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45861)
+45863
+
+     TEMPOROMANDIBULAR JOINT, open surgical exploration of, with condylectomy or condylotomy, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45863)
+45867
+
+     TEMPOROMANDIBULAR JOINT, synovectomy of, not being a service to which another item in this Subgroup applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45867)
+45869
+
+     TEMPOROMANDIBULAR JOINT, open surgical exploration of, with or without meniscus or capsular surgery, including partial or total meniscectomy when performed, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45869)
+45871
+
+     TEMPOROMANDIBULAR JOINT, open surgical exploration of, with meniscus, capsular and condylar head surgery, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45871)
+45873
+
+     TEMPOROMANDIBULAR JOINT, surgery of, involving procedures to which items 45863, 45867, 45869 and 45871 apply and also involving the use of tissue flaps, or cartilage graft, or allograft implants, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45873)
+45875
+
+     TEMPOROMANDIBULAR JOINT, stabilisation of, involving 1 or more of: repair of capsule, repair of ligament or internal fixation, not being a service to which another item in this Subgroup applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45875)
+45945
+
+     MANDIBLE, treatment of a dislocation of, requiring open reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/45945)
+45978
+
+     MANDIBLE, treatment of fracture of, not requiring splinting [](/dynamic/MBSItems/BoneJointMuscle/45978)
+45981
+
+     ZYGOMATIC BONE, treatment of fracture of, not requiring surgical reduction [](/dynamic/MBSItems/BoneJointMuscle/45981)
+45987
+
+     MANDIBLE, treatment of a complicated fracture of, involving viscera, blood vessels or nerves, requiring open reduction not involving plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45987)
+45993
+
+     MANDIBLE, treatment of a complicated fracture of, involving viscera, blood vessels or nerves, requiring open reduction involving the use of plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/45993)
+45996
+
+     MANDIBLE, treatment of a closed fracture of, involving a joint surface (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/45996)
+46300
+
+     Arthrodesis of interphalangeal or metacarpophalangeal joint of hand, including either or both of the following (if performed): (a) joint debridement; (b) synovectomy —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46300)
+46303
+
+     Arthrodesis of carpometacarpal joint of hand, including either or both of the following (if performed): (a) joint debridement; (b) synovectomy —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46303)
+46308
+
+     Volar plate or soft tissue interposition arthroplasty of interphalangeal or metacarpophalangeal joint of hand, including either or both of the following (if performed): (a) realignment procedures; (b) tendon transfer —one joint (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46308)
+46330
+
+     Ligamentous or capsular repair or reconstruction of interphalangeal or metacarpophalangeal joint of hand, including any of the following (if performed): (a) arthrotomy; (b) joint stabilisation; (c) synovectomy; —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46330)
+46333
+
+     Ligamentous or capsular repair or reconstruction of interphalangeal or metacarpophalangeal joint of hand with graft, using graft or implant, including any of the following (if performed): (a) arthrotomy; (b) harvest of graft; (c) joint stabilisation; (d) synovectomy; other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 apply—one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46333)
+46335
+
+     Synovectomy of digital extensor tendons of hand, distal to wrist, for diagnosed inflammatory arthritis, including any of the following (if performed): (a) reconstruction of extensor retinaculum; (b) removal of tendon nodules; (c) tenolysis; (d) tenoplasty; other than a service associated with a service to which item 30023, 39331 or 39330 applies—applicable only once per occasion on which the service is performed (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46335)
+46336
+
+     Synovectomy of interphalangeal, metacarpophalangeal or carpometacarpal joint of hand, including any of the following (if performed): (a) capsulectomy; (b) debridement; (c) ligament or tendon realignment (or both); other than a service combined with a service to which item 46495 applies—one joint (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46336)
+46339
+
+     Synovectomy of digital flexor tendons at wrist level, for diagnosed inflammatory arthritis, including either or both of the following (if performed): (a) tenolysis; (b) release of median nerve and carpal tunnel; other than a service associated with a service to which item 30023, 39331 or 39330 applies—applicable only once per occasion on which the service is performed (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46339)
+46340
+
+     Synovectomy of wrist flexor or extensor tendons of hand or wrist, for diagnosed inflammatory tenosynovitis, including any of the following (if performed): (a) reconstruction of flexor or extensor retinaculum; (b) removal of tendon nodules; (c) tenolysis; (d) tenoplasty; other than a service associated with a service to which item 30023, 39331 or 39330 applies—one or more compartments (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46340)
+46341
+
+     Synovectomy of wrist flexor or extensor tendons of hand or wrist, for non-inflammatory tenosynovitis or post traumatic synovitis, including any of the following (if performed): (a) reconstruction of flexor or extensor retinaculum; (b) removal of tendon nodules; (c) tenolysis; (d) tenoplasty; other than a service associated with a service to which item 30023, 39331 or 39330 applies—one or more compartments (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46341)
+46342
+
+     Synovectomy of distal radioulnar or carpometacarpal joint of hand—one or more joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46342)
+46348
+
+     Flexor tenosynovectomy of hand, distal to lumbrical origin, including any of the following (if performed): (a) removal of intratendinous nodules; (b) tenolysis; (c) tenoplasty; other than a service associated with a service to which item 30023 or 46363 applies—one ray (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46348)
+46351
+
+     Flexor tenosynovectomy of hand, distal to lumbrical origin, including any of the following (if performed): (a) removal of intratendinous nodules; (b) tenolysis; (c) tenoplasty; other than a service associated with a service to which item 30023 or 46363 applies—2 rays of one hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46351)
+46354
+
+     Flexor tenosynovectomy of hand, distal to lumbrical origin, including any of the following (if performed): (a) removal of intratendinous nodules; (b) tenolysis; (c) tenoplasty; other than a service associated with a service to which item 30023 or 46363 applies—3 rays of one hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46354)
+46357
+
+     Flexor tenosynovectomy of hand, distal to lumbrical origin, including any of the following (if performed): (a) removal of intratendinous nodules; (b) tenolysis; (c) tenoplasty; other than a service associated with a service to which item 30023 or 46363 applies—4 rays of one hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46357)
+46360
+
+     Flexor tenosynovectomy of hand, distal to lumbrical origin, including any of the following (if performed): (a) removal of intratendinous nodules; (b) tenolysis; (c) tenoplasty; other than a service associated with a service to which item 30023 or 46363 applies—5 rays of one hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46360)
+46363
+
+     Trigger finger release, for stenosing tenosynoviti, including either or both of the following (if performed): (a) synovectomy; (b) synovial biopsy; —one ray (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46363)
+46365
+
+     Excision of rheumatoid nodules of hand —one lesion (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46365)
+46367
+
+     De Quervain's release, including any of the following (if performed): (a) synovectomy of extensor pollicis brevis; (b) synovectomy of abductor pollicis longus tendons; (c) retinaculum reconstruction; other than a service associated with a service to which item 46339 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46367)
+46370
+
+     Percutaneous fasciotomy for Dupuytren’s contracture, by needle or chemical method, including either or both of the following (if performed): (a) immediate or delayed manipulation; (b) local or regional nerve block; —one ray (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46370)
+46372
+
+     Fasciectomy for Dupuytren’s contracture, including dissection of nerves (if performed)—one ray (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46372)
+46375
+
+     Fasciectomy for Dupuytren’s contracture, including dissection of nerves (if performed)—2 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46375)
+46378
+
+     Fasciectomy for Dupuytren’s contracture, including dissection of nerves (if performed)—3 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46378)
+46379
+
+     Fasciectomy for Dupuytren’s contracture, including dissection of nerves (if performed)—4 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46379)
+46380
+
+     Fasciectomy for Dupuytren’s contracture, including dissection of nerves (if performed)—5 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46380)
+46381
+
+     Release of interphalangeal joint of hand, by open procedure, when performed in conjunction with an operation for Dupuytren’s contracture—one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46381)
+46384
+
+     Z-plasty or similar local flap procedure, when performed in conjunction with an operation for Dupuytren’s contracture, including raising, transfer in-setting and suturing of both components (flaps)—one Z-plasty or local flap procedure (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46384)
+46387
+
+     Fasciectomy for recurrence of Dupuytren’s contracture, including either or both of the following (if performed): (a) dissection of nerves; (b) neurolysis; other than a service associated with a service to which item 30023 applies—one ray (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46387)
+46390
+
+     Fasciectomy for recurrence of Dupuytren’s contracture, including either or both of the following (if performed): (a) dissection of nerves; (b) neurolysis; other than a service associated with a service to which item 30023 applies—2 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46390)
+46393
+
+     Fasciectomy for recurrence of Dupuytren’s contracture, including either or both of the following (if performed): (a) dissection of nerves; (b) neurolysis; other than a service associated with a service to which item 30023 applies—3 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46393)
+46394
+
+     Fasciectomy for recurrence of Dupuytren’s contracture, including either or both of the following (if performed): (a) dissection of nerves; (b) neurolysis; other than a service associated with a service to which item 30023 applies—4 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46394)
+46395
+
+     Fasciectomy for recurrence of Dupuytren’s contracture, including either or both of the following (if performed): (a) dissection of nerves; (b) neurolysis; other than a service associated with a service to which item 30023 applies—5 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46395)
+46399
+
+     Osteotomy of phalanx or metacarpal of hand, with internal fixation—one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46399)
+46401
+
+     Operative treatment of non-union of phalanx or metacarpal of hand, including internal fixation (if performed) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46401)
+46464
+
+     Amputation of a supernumerary complete digit of hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46464)
+46465
+
+     Amputation of digit of hand, distal to metacarpal head, including any of the following (if performed): (a) excision of neuroma; (b) resection of bone; (c) skin cover with local flaps —one ray (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46465)
+46468
+
+     Amputation of digit of hand, distal to metacarpal head, including any of the following (if performed): (a) excision of neuroma; (b) resection of bone; (c) skin cover with local flaps —2 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46468)
+46471
+
+     Amputation of digit of hand, distal to metacarpal head, including any of the following (if performed): (a) excision of neuroma; (b) resection of bone; (c) skin cover with local flaps —3 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46471)
+46474
+
+     Amputation of digit of hand, distal to metacarpal head, including any of the following (if performed): (a) excision of neuroma; (b) resection of bone; (c) skin cover with local flaps —4 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46474)
+46477
+
+     Amputation of digit of hand, distal to metacarpal head, including any of the following (if performed): (a) excision of neuroma; (b) resection of bone; (c) skin cover with local flaps —5 rays (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46477)
+46480
+
+     Amputation of ray of hand, proximal to metacarpal head, including any of the following (if performed): (a) excision of neuroma; (b) recontouring; (c) resection of bone; (d) skin cover with local flaps —one ray (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46480)
+46483
+
+     Revision of amputation stump of hand to provide adequate cover, including any of the following (if performed): (a) bone shortening; (b) excision of nail bed remnants; (c) excision of neuroma (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46483)
+46493
+
+     Resection of boss of metacarpal base of hand, including either or both of the following (if performed): (a) excision of ganglion; (b) synovectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/46493)
+47000
+
+     Treatment of dislocation of mandible, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47000)
+47003
+
+     Treatment of dislocation of clavicle, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47003)
+47007
+
+     Repair of acromioclavicular or sternoclavicular joint dislocation (acute or chronic), by open, mini-open or arthroscopic technique, including either or both of the following (if performed): (a) ligament augmentation; (b) tendon transfers (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47007)
+47009
+
+     Treatment of dislocation of shoulder, requiring general anaesthesia, other than a service to which item 47012 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47009)
+47012
+
+     Treatment of dislocation of shoulder, requiring general anaesthesia, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47012)
+47015
+
+     Treatment of dislocation of shoulder, not requiring general anaesthesia [](/dynamic/MBSItems/BoneJointMuscle/47015)
+47018
+
+     Treatment of dislocation of elbow, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47018)
+47021
+
+     Treatment of dislocation of elbow, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47021)
+47024
+
+     Treatment of dislocation of distal or proximal radioulnar joint, by closed reduction, other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of treating fracture or dislocation in the same region (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47024)
+47027
+
+     Treatment of dislocation of distal or proximal radioulnar joint, by open reduction, including either or both of the following (if performed): (a) styloid fracture; (b) triangular fibrocartilage complex repair; other than a service associated with a service to which another item in this Schedule applies if the service described in the other item is for the purpose of treating fracture or dislocation in the same region (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47027)
+47030
+
+     Treatment of dislocation of carpus, carpus on radius and ulna or carpometacarpal joint, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47030)
+47033
+
+     Treatment of dislocation of carpus, carpus on radius and ulna or carpometacarpal joint, by open reduction, including ligament repair (if performed) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47033)
+47042
+
+     Treatment of dislocation of interphalangeal or metacarpophalangeal joint, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47042)
+47045
+
+     Treatment of dislocation of interphalangeal or metacarpophalangeal joint, by open reduction, including any of the following (if performed): (a) arthrotomy; (b) capsule repair; (c) ligament repair; (d) volar plate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47045)
+47047
+
+     Treatment of dislocation of prosthetic hip, by closed reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47047)
+47049
+
+     Treatment of dislocation of prosthetic hip, by open reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47049)
+47052
+
+     Treatment of dislocation of native hip, by closed reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47052)
+47053
+
+     Treatment of dislocation of native hip, by open reduction, with internal fixation (if performed) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47053)
+47054
+
+     Treatment of dislocation of knee, by closed reduction, including application of external fixator (if performed) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47054)
+47057
+
+     Treatment of dislocation of patella, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47057)
+47060
+
+     Treatment of dislocation of patella, by open reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47060)
+47063
+
+     Treatment of dislocation of ankle or tarsus, by closed reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47063)
+47066
+
+     Treatment of dislocation of ankle or tarsus, by open reduction, including any of the following (if performed): (a) arthrotomy; (b) capsule repair; (c) removal of loose fragments or intervening soft tissue; (d) washout of joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47066)
+47069
+
+     Treatment of dislocation of toe, byclosed reduction—one toe (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47069)
+47301
+
+     Treatment of fracture of middle or proximal phalanx, by closed reduction, requiring anaesthesia—one bone (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47301)
+47304
+
+     Treatment of fracture of metacarpal, by closed reduction, requiring anaesthesia—onebone (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47304)
+47307
+
+     Treatment of fracture of phalanx or metacarpal, by closed reduction, including percutaneous K-wire fixation (if performed)—one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47307)
+47310
+
+     Treatment of fracture of phalanx or metacarpal, by open reduction, with internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47310)
+47313
+
+     Treatment of intra-articular fracture of phalanx or metacarpal, by closed reduction, including: (a) percutaneous K-wire fixation; and (b) external or dynamic fixation (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47313)
+47316
+
+     Treatment of intra-articular fracture of phalanx or metacarpal, by open reduction with fixation, other than a service provided on the same occasion as a service to which item 47319 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47316)
+47319
+
+     Treatment of intra-articular fracture of proximal end of middle phalanx, by open reduction, with fixation, other than a service provided on the same occasion as a service to which item 47316 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47319)
+47348
+
+     Treatment of fracture of carpus (excluding scaphoid), by cast immobilisation, other than a service associated with a service to which item 47351 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47348)
+47351
+
+     Treatment of fracture of carpus (excluding scaphoid), by open reduction, with internal fixation (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47351)
+47354
+
+     Treatment of fracture of carpal scaphoid, by cast immobilisation, other than a service associated with a service to which item 47357 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47354)
+47357
+
+     Treatment of fracture of carpal scaphoid, by open reduction, with internal or percutaneous fixation (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47357)
+47361
+
+     Treatment of fracture of distal end of radius or ulna (or both), by cast immobilisation, other than a service associated with a service to which item 47362, 47364, 47367, 47370 or 47373 applies [](/dynamic/MBSItems/BoneJointMuscle/47361)
+47362
+
+     Treatment of fracture of distal end of radius or ulna (or both), by closed reduction, requiring general or major regional anaesthesia, but excluding local infiltration, other than a service associated with a service to which item 47361, 47364, 47367, 47370 or 47373 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47362)
+47364
+
+     Treatment of fracture of distal end of radius or ulna (not involving joint surface), by open reduction with fixation, other than a service associated with a service to which item 47361 or 47362 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47364)
+47367
+
+     Treatment of fracture of distal end of radius, by closed reduction with percutaneous fixation, other than a service associated with a service to which item 47361 or 47362 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47367)
+47370
+
+     Treatment of intra-articular fracture of distal end of radius, by open reduction with fixation, other than a service associated with a service to which item 47361 or 47362 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47370)
+47373
+
+     Treatment of intra-articular fracture of distal end of ulna, by open reduction with fixation, other than a service associated with a service to which item 47361 or 47362 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47373)
+47381
+
+     Treatment of fracture of shaft of radius or ulna, by closed reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47381)
+47384
+
+     Treatment of fracture of shaft of radius or ulna, by open reduction with internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47384)
+47385
+
+     Treatment of: (a) fracture of shaft of radius or ulna; and (b) dislocation of distal radio-ulnar joint or proximal radio-humeral joint (Galeazzi or Monteggia injury); by closed reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47385)
+47386
+
+     Treatment of: (a) fracture of shaft of radius or ulna; and (b) dislocation of distal radio-ulnar joint or proximal radio-humeral joint (Galeazzi or Monteggia injury); by open reduction, with internal fixation, including reduction of dislocation (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47386)
+47387
+
+     Treatment of fracture of distal or shaft of radius or ulna (or both), by cast immobilisation, other than a service to which item 47390 or 47393 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47387)
+47390
+
+     Treatment of fracture of shafts of radius and ulna, by closed reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47390)
+47393
+
+     Treatment of fracture of shafts of radius and ulna, by open reduction, with internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47393)
+47396
+
+     Treatment of fracture of olecranon, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47396)
+47399
+
+     Treatment of fracture of olecranon, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47399)
+47402
+
+     Treatment of fracture of olecranon, with excision of olecranon fragment and reimplantation of tendon (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47402)
+47405
+
+     Treatment of fracture of head or neck of radius, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47405)
+47408
+
+     Treatment of fracture of head or neck of radius, by open reduction, including internal fixation and excision (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47408)
+47411
+
+     Treatment of fracture of tuberosity of humerus, other than a service to which item 47417 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47411)
+47414
+
+     Treatment of fracture of tuberosity of humerus, by open reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47414)
+47417
+
+     Treatment of fracture of tuberosity of humerus and associated dislocation of shoulder, by closed reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47417)
+47420
+
+     Treatment of fracture of tuberosity of humerus and associated dislocation of shoulder, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47420)
+47423
+
+     Humerus, proximal, treatment of fracture of, other than a service to which item 47426, 47429 or 47432 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47423)
+47426
+
+     Humerus, proximal, treatment of fracture of, by closed reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47426)
+47429
+
+     Humerus, proximal, treatment of fracture of, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47429)
+47432
+
+     Humerus, proximal, treatment of intra-articular fracture of, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47432)
+47435
+
+     Humerus, proximal, treatment of fracture of, and associated dislocation of shoulder, by closed reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47435)
+47438
+
+     Humerus, proximal, treatment of fracture of, and associated dislocation of shoulder, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47438)
+47441
+
+     Humerus, proximal, treatment of intra-articular fracture of, and associated dislocation of shoulder, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47441)
+47444
+
+     Humerus, shaft of, treatment of fracture of, other than a service to which item 47447 or 47450 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47444)
+47447
+
+     Humerus, shaft of, treatment of fracture of, by closed reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47447)
+47450
+
+     Humerus, shaft of, treatment of fracture of, by internal or external fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47450)
+47451
+
+     Humerus, shaft of, treatment of fracture of, by intramedullary fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47451)
+47453
+
+     Humerus, distal, (supracondylar or condylar), treatment of fracture of, other than a service to which item 47456 or 47459 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47453)
+47456
+
+     Humerus, distal (supracondylar or condylar), treatment of fracture of, by closed reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47456)
+47459
+
+     Humerus, distal (supracondylar or condylar), treatment of fracture of, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47459)
+47462
+
+     Clavicle, treatment of fracture of, other than a service to which item 47465 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47462)
+47465
+
+     Clavicle, treatment of fracture of, by open reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47465)
+47466
+
+     Sternum, treatment of fracture of, other than a service to which item 47467 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47466)
+47467
+
+     Sternum, treatment of fracture of, by open reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47467)
+47468
+
+     SCAPULA, neck or glenoid region of, treatment of fracture of, by open reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47468)
+47471
+
+     RIBS (one or more), treatment of fracture of - each attendance [](/dynamic/MBSItems/BoneJointMuscle/47471)
+47474
+
+     PELVIC RING, treatment of fracture of, not involving disruption of pelvic ring or acetabulum [](/dynamic/MBSItems/BoneJointMuscle/47474)
+47477
+
+     PELVIC RING, treatment of fracture of, with disruption of pelvic ring or acetabulum [](/dynamic/MBSItems/BoneJointMuscle/47477)
+47480
+
+     PELVIC RING, treatment of fracture of, requiring traction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47480)
+47483
+
+     PELVIC RING, treatment of fracture of, requiring control by external fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47483)
+47486
+
+     Treatment of fracture of anterior pelvic ring or sacroiliac joint disruption (or both), by open reduction, with internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47486)
+47489
+
+     Treatment of fracture of posterior pelvic ring or sacroiliac joint disruption (or both), by open reduction, with internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47489)
+47491
+
+     Combined anterior and posterior pelvic ring disruption, including sacroiliac joint disruption, treatment of fracture by open reduction and internal fixation of both anterior and posterior ring segments (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47491)
+47495
+
+     Treatment of fracture of acetabulum and associated dislocation of hip, including the application and management of traction (if performed), excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47495)
+47498
+
+     Treatment of isolated posterior wall fracture of acetabulumand associated dislocation of hip, by open reduction, with internal fixation, including the application and management of traction (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47498)
+47501
+
+     Treatment of anterior or posterior column fracture of acetabulum, by open reduction, with internal fixation, including any of the following (if performed): (a) capsular stabilisation; (b) capsulotomy; (c) osteotomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47501)
+47511
+
+     Treatment of combined column T-Type, transverse, anterior column or posterior hemitransverse fractures of acetabulum, by open reduction, with internal fixation, performed through single or dual approach (including fixation of the posterior wall fracture), including any of the following (if performed): (a) capsular stabilisation; (b) capsulotomy; (c) osteotomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47511)
+47514
+
+     Treatment of posterior wall fracture of acetabulum and associated femoral head fracture, by open reduction, with internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47514)
+47516
+
+     FEMUR, treatment of fracture of, by closed reduction or traction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47516)
+47519
+
+     FEMUR, treatment of trochanteric or subcapital fracture of, by internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47519)
+47528
+
+     FEMUR, treatment of fracture of, by internal fixation or external fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47528)
+47531
+
+     FEMUR, treatment of fracture of shaft, by intramedullary fixation and cross fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47531)
+47534
+
+     Femur, condylar region of, treatment of intra-articular (T-shaped condylar) fracture of, requiring internal fixation, with or without internal fixation of one or more osteochondral fragments (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47534)
+47537
+
+     Femur, condylar region of, treatment of fracture of, requiring internal fixation of one or more osteochondral fragments, other than a service associated with a service to which item 47534 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47537)
+47540
+
+     Hip spica or shoulder spica, application of, as an independent procedure (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47540)
+47543
+
+     Tibia, plateau of, treatment of medial or lateral fracture of, other than a service to which item 47546 or 47549 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47543)
+47546
+
+     Tibia, plateau of, treatment of medial or lateral fracture of, by closed reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47546)
+47549
+
+     Treatment of medial or lateral fracture of plateau of tibia, by open reduction, with internal fixation, including any of the following (if performed): (a) arthroscopy; (b) arthrotomy; (c) meniscal repair (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47549)
+47552
+
+     Tibia, plateau of, treatment of both medial and lateral fractures of, other than a service to which item 47555 or 47558 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47552)
+47555
+
+     Tibia, plateau of, treatment of both medial and lateral fractures of, by closed reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47555)
+47558
+
+     Treatment of medial and lateral fractures of tibia, by open reduction, with internal fixation, including any of the following (if performed): (a) arthroscopy; (b) arthrotomy; (c) meniscal repair (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47558)
+47559
+
+     Treatment of medial or lateral (or both) fracture of plateau of tibia, with application of a bridging external fixator to the plateau (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47559)
+47561
+
+     Treatment of fracture of shaft of tibia, by cast immobilisation, other than a service to which item 47570 or 47573 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47561)
+47565
+
+     Tibia, shaft of, treatment of fracture of, by internal fixation or external fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47565)
+47566
+
+     Tibia, shaft of, treatment of fracture of, by intramedullary fixation and cross fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47566)
+47568
+
+     Closed reduction of proximal tibia, distal tibia or shaft of tibia, with or without treatment of fibular fracture (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47568)
+47570
+
+     Tibia, shaft of, treatment of fracture of, by open reduction, with or without treatment of fibular fracture (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47570)
+47573
+
+     Treatment of proximal or distal intra-articular fracture of shaft of tibia, by open reduction, with or without treatment of fibular fracture, including any of the following (if performed): (a) arthroscopy; (b) arthrotomy; (c) capsule repair; (d) removal of intervening soft tissue; (e) removal of loose fragments; (f) washout of joint; other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of treating a medial malleolus fractureof the distal tibia (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47573)
+47579
+
+     Treatment of fracture of patella, other than a service to which item 47582 or 47585 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47579)
+47582
+
+     Treatment of fracture of patella, with internal fixation, including bone grafting (if performed), other than a service associated with a service to which item 47579 or 47585 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47582)
+47585
+
+     Treatment of proximal or distal fracture of patella, by open reduction, with internal fixation, including any of the following (if performed): (a) arthrotomy; (b) excision of patellar pole, with reattachment of tendon; (c) removal of loose fragments; (d) repair of quadriceps or patellar tendon (or both); (e) stabilisation of patello-femoral joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47585)
+47588
+
+     Knee joint, treatment of fracture of, by internal fixation of intra-articular fractures of femoral condylar or tibial articular surfaces and requiring repair or reconstruction of one or more ligaments (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47588)
+47591
+
+     Knee joint, treatment of fracture of, by internal fixation of intra-articular fractures of femoral condylar and tibial articular surfaces and requiring repair or reconstruction of one or more ligaments (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47591)
+47595
+
+     Treatment of fracture of ankle joint, hindfoot, midfoot, metatarsals or toes, by non-surgical management—one leg (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47595)
+47597
+
+     Treatment of fracture of ankle joint, by closed reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47597)
+47600
+
+     Treatment of fracture of ankle joint: (a) by internal fixation of the malleolus, fibula or diastasis; and (b) including any of the following (if performed): (i) arthrotomy; (ii) capsule repair; (iii) removal of loose fragments or intervening soft tissue; (iv) washout of joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47600)
+47603
+
+     Treatment of fracture of ankle joint: (a) by internal fixation of 2 or more of the malleolus, fibula, diastasis and medial tissue interposition; and (b) including any of the following (if performed): (i) arthrotomy; (ii) capsule repair; (iii) removal of loose fragments or intervening soft tissue; (iv) washout of joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47603)
+47612
+
+     Treatment of intra-articular fracture of hindfoot, by closed reduction, with or without dislocation—one foot (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47612)
+47615
+
+     Treatment of fracture of hindfoot, by open reduction, with or without dislocation, including any of the following (if performed): (a) arthrotomy; (b) capsule repair; (c) removal of loose fragments or intervening soft tissue; (d) washout of joint —one foot (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47615)
+47618
+
+     Treatment of intra-articular fracture of hindfoot, by open reduction, with or without dislocation,including any of the following (if performed): (a) arthrotomy; (b) capsule repair; (c) removal of loose fragments or intervening soft tissue; (d) washout of joint —one foot(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47618)
+47621
+
+     Treatment of intra-articular fracture of midfoot, by closed reduction, with or without dislocation—one foot (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47621)
+47624
+
+     Treatment of fracture of tarso-metatarsal, by open reduction, with or without dislocation, including any of the following (if performed): (a) arthrotomy; (b) capsule or ligament repair; (c) removal of loose fragments or intervening soft tissue; (d) washout of joint —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47624)
+47630
+
+     Treatment of fracture of cuneiform, by open reduction, with or without dislocation, including any of the following (if performed): (a) arthrotomy; (b) capsule or ligament repair; (c) removal of loose fragments or intervening soft tissue; (d) washout of joint —one bone (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47630)
+47637
+
+     Treatment of fractures of metatarsal, by closed reduction—one or more metatarsals of one foot (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47637)
+47639
+
+     Treatment of fracture of metatarsal, by open reduction, including removal of loose fragments or intervening soft tissue (if performed)—one metatarsal (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47639)
+47648
+
+     Treatment of fracture of metatarsal, by open reduction, including removal of loose fragments or intervening soft tissue (if performed)—2 metatarsals of one foot (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47648)
+47657
+
+     Treatment of fracture of metatarsal, by open reduction, including removal of loose fragments or intervening soft tissue (if performed)—3 or more metatarsals of one foot (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47657)
+47663
+
+     Treatment of fracture of phalanx of toe, by closed reduction—one toe (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47663)
+47666
+
+     Treatment of fracture or dislocation of phalanx of great toe, by open reduction, including any of the following (if performed): (a) arthrotomy; (b) capsule repair; (c) removal of loose fragments; (d) removal of intervening soft tissue; (e) washout of joint — one great toe (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47666)
+47672
+
+     Treatment of fracture or dislocation of phalanx of toe, by open reduction, including any of the following (if performed): (a) arthrotomy; (b) capsule repair; (c) removal of loose fragments; (d) removal of intervening soft tissue; (e) washout of joint —one toe (other than great toe) of one foot (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47672)
+47678
+
+     Treatment of fracture or dislocation of phalanx of toe, by open reduction, including any of the following (if performed): (a) arthrotomy; (b) capsule repair; (c) removal of loose fragments; (d) removal of intervening soft tissue; (e) washout of joint —2 or more toes (other than great toe) of one foot (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47678)
+47753
+
+     Maxilla, treatment of fracture of, requiring splinting, wiring of teeth, circumosseous fixation or external fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47753)
+47756
+
+     Mandible, treatment of fracture of, requiring splinting, wiring of teeth, circumosseous fixation or external fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47756)
+47762
+
+     Zygomatic bone, treatment of fracture of, requiring surgical reduction by a temporal, intra-oral or other approach (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47762)
+47765
+
+     Zygomatic bone, treatment of fracture of, requiring surgical reduction and involving internal or external fixation at 1 site (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47765)
+47768
+
+     Zygomatic bone, treatment of fracture of, requiring surgical reduction and involving internal or external fixation or both at 2 sites (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47768)
+47771
+
+     Zygomatic bone, treatment of fracture of, requiring surgical reduction and involving internal or external fixation or both at 3 sites (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47771)
+47774
+
+     Maxilla, treatment of fracture of, requiring open operation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47774)
+47777
+
+     Mandible, treatment of fracture of, requiring open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47777)
+47780
+
+     Maxilla, treatment of fracture of, requiring open reduction and internal fixation not involving plate(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47780)
+47783
+
+     Mandible, treatment of fracture of, requiring open reduction and internal fixation not involving plate (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47783)
+47786
+
+     Maxilla, treatment of fracture of, requiring open reduction and internal fixation involving plate(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47786)
+47789
+
+     Mandible, treatment of fracture of, requiring open reduction and internal fixation involving plate(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47789)
+47790
+
+     Tendon, large, lengthening of, as an independent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47790)
+47791
+
+     Tenosynovectomy, not being a service associated with a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47791)
+47900
+
+     Injection into, or aspiration of, unicameral bone cyst (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47900)
+47903
+
+     Epicondylitis, open operation for (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47903)
+47921
+
+     Orthopaedic pin or wire, insertion of, as an independent procedure (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47921)
+47924
+
+     Removal of one or more buried wires, pins or screws (inserted for internal fixation purposes), with incision, other than a service associated with a service to which item 47927 or 47929 applies—one bone (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47924)
+47927
+
+     Removal of one or more buried wires, pins or screws (inserted for internal fixation purposes)—one bone (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47927)
+47929
+
+     Removal of fixation elements (including plate, rod or nail and associated wires, pins, screws or external fixation), other than a service associated with a service to which item 47924 or 47927 applies—one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47929)
+47953
+
+     Repair of distal biceps brachii tendon, by any method, performed as an independent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47953)
+47954
+
+     Repair of traumatic tear or rupture of tendon, other than a service associated with: (a) a service to which item 39330 applies; or (b) a service to which another item in this Schedule applies if the service described in the other item is for the purpose of repairing peripheral nerve items in the same region (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47954)
+47955
+
+     Repair of gluteal or rectus femoris tendon, by open or arthroscopic means, when performed as an independent procedure, including either or both of the following (if performed): (a) bursectomy; (b) preparation of greater trochanter; other than a service associated with a service to which another item in this Schedule applies if the service described in the other item is for the purpose of performing a procedure on the hip (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47955)
+47956
+
+     Repair of proximal hamstring tendon, performed as an independent procedure, other than a service associated with a service to which another item in this Schedule applies if the service described in the other item is for the purpose of performing a procedure on the hip (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47956)
+47960
+
+     TENOTOMY, SUBCUTANEOUS, not being a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47960)
+47964
+
+     Iliopsoas tenotomy, by open or arthroscopic means, when performed as an independent procedure, other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of performing a procedure on the hip (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47964)
+47967
+
+     Restoration of shoulder or elbow function by major muscle tendon transfer, including associated dissection of neurovascular pedicle, excluding micro-anastomosis and biceps tenodesis—one transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47967)
+47975
+
+     Forearm or calf, decompression fasciotomy of, for acute compartment syndrome, requiring excision of muscle and deep tissue(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47975)
+47978
+
+     Forearm or calf, decompression fasciotomy of, for chronic compartment syndrome, requiring excision of muscle and deep tissue(H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47978)
+47981
+
+     Forearm, calf or interosseous muscle space of hand, decompression fasciotomy of, other than a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/47981)
+47982
+
+     Forage (Drill decompression), of neck or head of femur, or both (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47982)
+47983
+
+     Stabilisation of slipped capital femoral epiphysis, by internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47983)
+47984
+
+     Open subcapital realignment of slipped capital femoral epiphysis, other than a service associated with a service to which item 48427 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/47984)
+48245
+
+     Harvesting and insertion of bone graft (autograft) via separate incisions and at separate surgical fields (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48245)
+48248
+
+     Harvesting and insertion of bone graft (autograft) via separate incisions, including internal fixation of the graft or fusion fixation (or both) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48248)
+48251
+
+     Harvesting and insertion of osteochondral graft (autograft) via separate incisions at the same joint or joint complex (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48251)
+48254
+
+     Harvesting and insertion of pedicled bone flap (autograft), including internal fixation of the bone flap (if performed), other than a service associated with a service to which item 45562, 45504 or 45505 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48254)
+48257
+
+     Preparation and insertion of metallic, cortical or other graft substitute (allograft), where substitute is structural cortico-cancellous bone or structural bone (or both), including internal fixation (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48257)
+48400
+
+     Osteotomy of phalanx or metatarsal of foot, for correction of deformity, excision of accessory bone or sesamoid bone, including any of the following (if performed): (a) removal of bone; (b) excision of surrounding osteophytes; (c) synovectomy; (d) joint release; —one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48400)
+48403
+
+     Osteotomy of phalanx or metatarsal of first toe of foot, for correction of deformity, with internal fixation, including any of the following (if performed): (a) removal of bone; (b) excision of surrounding osteophytes; (c) synovectomy; (d) joint release; —one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48403)
+48406
+
+     Osteotomy of fibula, radius, ulna, clavicle, scapula (other than acromion), rib, tarsus or carpus, for correction of deformity, including any of the following (if performed): (a) removal of bone; (b) excision of surrounding osteophytes; (c) synovectomy; (d) joint release; —one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48406)
+48409
+
+     Osteotomy of fibula, radius, ulna, clavicle, scapula (other than acromion), rib, tarsus or carpus, for correction of deformity, with internal fixation, including any of the following (if performed): (a) removal of bone; (b) excision of surrounding osteophytes; (c) synovectomy; (d) joint release; —one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48409)
+48412
+
+     Osteotomy of humerus, without internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48412)
+48415
+
+     Osteotomy of humerus, with internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48415)
+48419
+
+     Osteotomy of distal tibia, for correction of deformity, without internal or external fixation, including any of the following (if performed): (a) excision of surrounding osteophytes; (b) release of joint; (c) removal of bone; (d) synovectomy; —one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48419)
+48420
+
+     Osteotomy of distal tibia, for correction of deformity, with internal or external fixation by any method, including any of the following (if performed): (a) excision of surrounding osteophytes; (b) release of joint; (c) removal of bone; (d) synovectomy; —one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48420)
+48421
+
+     Osteotomy of proximal tibia, to alter lower limb alignment or rotation (or both), with internal or external fixation (or both) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48421)
+48422
+
+     Osteotomy of distal femur, to alter lower limb alignment or rotation (or both), with internal or external fixation (or both) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48422)
+48423
+
+     Osteotomy of pelvis, in a patient aged 18 years or over, including any of the following (if performed): (a) associated intra-articular procedures; (b) bone grafting; (c) internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48423)
+48424
+
+     Osteotomy of pelvis, in a patient aged less than 18 years, with application of hip spica, including internal fixation (if performed), other than a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48424)
+48426
+
+     Osteotomy of femur, in a patient aged 18 years or over, including either or both of the following (if performed): (a) bone grafting; (b) internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48426)
+48427
+
+     Osteotomy of femur, in a patient aged less than 18 years, including internal fixation (if performed), other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48427)
+48430
+
+     Excision of one or more osteophytes of the foot or ankle, or simple removal of bunion, including any of the following (if performed): (a) capsulotomy; (b) excision of surrounding osteophytes; (c) release of ligaments; (d) removal of one or more associated bursae or ganglia; (e) removal of bone; (f) synovectomy; —each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48430)
+48433
+
+     Treatment of non-union or malunion, with preservation of the joint, for ankle or hindfoot fracture, with internal or external fixation by any method, including any of the following (if performed): (a) arthrotomy; (b) debridement; (c) excision of surrounding osteophytes; (d) osteotomy; (e) release of joint; (f) removal of bone; (g) removal of hardware; (h) synovectomy; —one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48433)
+48435
+
+     Treatment of non-union or malunion, with preservation of the joint, for midfoot or forefoot fracture, with internal or external fixation by any method, including any of the following (if performed): (a) arthrotomy; (b) debridement; (c) excision of surrounding osteophytes; (d) osteotomy; (e) release of joint; (f) removal of bone; (g) removal of hardware; (h) synovectomy; —one bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48435)
+48507
+
+     Epiphysiodesis of a long bone, in a patient less than 18 years of age (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48507)
+48509
+
+     Hemiepiphysiodesis, partial growth plate arrest using internal fixation, in a patient less than 18 years of age (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48509)
+48512
+
+     Epiphysiolysis, release of focal growth plate closure, in a patient less than 18 years of age (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48512)
+48942
+
+     Arthrodesis of shoulder, with bone grafting or internal fixation, including either or both of the following (if performed): (a) removal of prosthesis; (b) synovectomy; other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48942)
+48945
+
+     SHOULDER, diagnostic arthroscopy of (including biopsy) - not being a service associated with any other arthroscopic procedure of the shoulder region (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48945)
+48954
+
+     Synovectomy of shoulder, performed as an independent procedure, including release of contracture (if performed), other than a service associated with a service to which another item in this Schedule applies if the service described in the other item is for the purpose of performing a procedure on the shoulder region by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48954)
+48972
+
+     Tenodesis of biceps, by open or arthroscopic means, performed as an independent procedure (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48972)
+48980
+
+     Excision of heterotopic ossification, myositis ossificans or post-traumatic ossification in the shoulder girdle (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48980)
+48983
+
+     Excision of heterotopic ossification, myositis ossificans or post-traumatic ossification in the elbow (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48983)
+48986
+
+     Excision of heterotopic ossification, myositis ossificans or post-traumatic ossification in the forearm (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/48986)
+49100
+
+     ELBOW, arthrotomy of, involving 1 or more of lavage, removal of loose body or division of contracture(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49100)
+49106
+
+     ELBOW, arthrodesis of, with synovectomy if performed (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49106)
+49109
+
+     ELBOW, total synovectomy of(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49109)
+49118
+
+     ELBOW, diagnostic arthroscopy of, including biopsy and lavage, not being a service associated with any other arthroscopic procedure of the elbow(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49118)
+49124
+
+     Excision of olecranon bursa, including bony prominence, other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of an arthroscopic procedure of the elbow (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49124)
+49200
+
+     Wrist, arthrodesis of, with synovectomy if performed, with or without internal fixation of the radiocarpal joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49200)
+49203
+
+     Limited fusion of wrist, with or without bone graft, including each of the following: (a) ligament or tendon transfers; (b) partial or total excision of one or more carpal bones; (c) rebalancing procedures; (d) synovectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49203)
+49206
+
+     Proximal row carpectomy of wrist, including either or both of the following (if performed): (a) styloidectomy; (b) synovectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49206)
+49212
+
+     Arthrotomy of wrist or distal radioulnar joint, including any of the following (if performed): (a) joint debridement; (b) removal of loose bodies; (c) synovectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49212)
+49213
+
+     Sauve-Kapandji procedure of distal radioulnar joint, including any of the following (if performed): a) radioulnar fusion; b) osteotomy; c) soft tissue reconstruction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49213)
+49218
+
+     Wrist, diagnostic arthroscopy of, including radiocarpal or midcarpal joints, or both (including biopsy)—other than a service associated with another arthroscopic procedure of the wrist joint(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49218)
+49219
+
+     Diagnosis of carpometacarpal of thumb or joint of digit, by arthroscopic means, including biopsy (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49219)
+49220
+
+     Treatment of carpometacarpal of thumb or joint of digit, by arthroscopic means—one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49220)
+49239
+
+     Excision of pisiform or hook of hamate, including release of ulnar nerve (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49239)
+49300
+
+     Sacro-iliac joint—arthrodesis of(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49300)
+49303
+
+     Arthrotomy of hip, by open procedure, including any of the following (if performed): (a) lavage; (b) drainage; (c) biopsy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49303)
+49306
+
+     Hip, arthrodesis of, with synovectomy if performed(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49306)
+49309
+
+     Arthrectomy or excision arthroplasty (Girdlestone) of hip, other than a service performed: (a) for the purpose of implant removal; or (b) as stage 1 of a 2-stage procedure (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49309)
+49360
+
+     Diagnostic arthroscopy of hip, other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of performing a procedure of the hip joint by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49360)
+49363
+
+     Treatment of hip, by arthroscopic means, with synovial biopsy, including any procedures to treat bone or soft tissue in the same area (if performed), other than a service associated with a service to which another item in this Schedule applies if the service described in the other item is for the purpose of performing: (a) a procedure of the hip joint by arthroscopic means; or (b) surgery for femoroacetabular impingement (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49363)
+49366
+
+     Treatment of hip, by arthroscopic means, including any procedures to treat bone or soft tissue in the same area (if performed), other than a service associated with a service to which another item in this Schedule applies if the service described in the other item is for the purpose of performing: (a) a procedure of the hip joint by arthroscopic means; or (b) surgery for femoroacetabular impingement (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49366)
+49500
+
+     Knee, arthrotomy of, involving one or more of capsular release, biopsy or lavage, or removal of loose body or foreign body(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49500)
+49509
+
+     Total synovectomy of knee, by open procedure, other than a service performed in association with a service to which another item in this Schedule applies if the service described in the other item is for the purpose of performing an arthroplasty (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49509)
+49512
+
+     Primary or revision arthrodesis of knee, including arthrodesis (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49512)
+49569
+
+     Knee, mobilisation for post-traumatic stiffness, by multiple muscle or tendon release (quadricepsplasty)(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49569)
+49590
+
+     Excision of ganglion, cyst or bursa of knee, by open or arthroscopic means, performed as an independent procedure, other than a service associated with a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49590)
+49712
+
+     Arthrodesis of ankle, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49712)
+49718
+
+     Primary repair of major tendon of ankle, by any method, including either or both of the following (if performed): (a) synovial biopsy; (b) synovectomy —one tendon (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49718)
+49724
+
+     Reconstruction of major tendon of ankle, by any method, including any of the following (if performed): (a) synovial biopsy; (b) synovectomy; (c) adjacent tendon transfer; (d) turn down flaps; other than a service associated with a service to which item 49718 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49724)
+49727
+
+     Lengthening of major tendon of ankle, including either or both of the following (if performed): (a) synovial biopsy; (b) synovectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49727)
+49728
+
+     Lengthening of Achilles’ tendon, by any method, with gastro-soleus lengthening for the correction of equinous deformity, including either or both of the following (if performed): (a) synovial biopsy; (b) synovectomy; other than a service associated with a service to which item 49727 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49728)
+49730
+
+     Surgery of joint of hindfoot (other than ankle) or first metatarsophalangeal joint, by arthroscopic means, including any of the following (if performed): (a) cartilage treatment; (b) removal of loose bodies; (c) synovectomy; (d) excision of joint osteophytes; other than a service associated with a service to which anotheritem of this Schedule applies if the service describedin the other item is for the purpose of performing a procedure on the ankle by arthroscopic means—one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49730)
+49732
+
+     Endoscopy of large tendons of foot, including any of the following (if performed): (a) debridement of tendon and sheath; (b) removal of loose bodies; (c) synovectomy; (d) excision of tendon impingement; other than a service associated with a service to which item 49718 or 49724 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49732)
+49734
+
+     Arthrotomy of hindfoot, midfoot or metatarsophalangeal joint, including: (a) removal of loose bodies; and (b) either or both of the following: (i) joint debridement; (ii) release of joint contracture; —each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49734)
+49736
+
+     Transfer of major tendon of foot and ankle, including: (a) split or whole transfer to contralateral side of foot; and (b) passage of posterior or anterior tendon to, or through, interosseous membrane; and (c) any of the following (if performed): (i) synovial biopsy; (ii) synovectomy; (iii) tendon lengthening; (iv) insetting of tendon (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49736)
+49738
+
+     Stabilisation of ligament of talonavicular or metatarsophalangeal joint, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49738)
+49740
+
+     Revision of arthrodesis of ankle, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint; (e) removal of hardware; (f) neurolysis; (g) osteotomy of non-union or malunion; other than a service associated with a service to which 30023 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49740)
+49742
+
+     Arthrodesis of extended ankle and hindfoot, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49742)
+49744
+
+     Revision of arthrodesis of extended ankle and hindfoot, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint; (e) removal of hardware; (f) neurolysis; (g) osteotomy of non-union or malunion; other than a service associated with a service to which 30023 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49744)
+49760
+
+     Arthroereisis of subtalar joint, including any of the following (if performed): (a) capsulotomy; (b) synovectomy; (c) joint debridement (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49760)
+49761
+
+     Stabilisation of metatarsophalangeal joint at metatarsal, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) osteotomy, with or without fixation; (e) local tendon transfer; (f) local tendon lengthening or release; (g) ligament repair; (h) joint debridement; —one metatarsal (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49761)
+49762
+
+     Stabilisation of metatarsophalangeal joint at metatarsals, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) osteotomy, with or without fixation; (e) local tendon transfer; (f) local tendon lengthening or release; (g) ligament repair; (h) joint debridement; —2 metatarsals (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49762)
+49763
+
+     Stabilisation of metatarsophalangeal joint at metatarsals, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) osteotomy, with or without fixation; (e) local tendon transfer; (f) local tendon lengthening or release; (g) ligament repair; (h) joint debridement; —3 metatarsals (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49763)
+49764
+
+     Stabilisation of metatarsophalangeal joint at metatarsals, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) osteotomy, with or without fixation; (e) local tendon transfer; (f) local tendon lengthening or release; (g) ligament repair; (h) joint debridement; —4 metatarsals (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49764)
+49765
+
+     Stabilisation of metatarsophalangeal joint at metatarsals, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) osteotomy, with or without fixation; (e) local tendon transfer; (f) local tendon lengthening or release; (g) ligament repair; (h) joint debridement; —5 metatarsals (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49765)
+49766
+
+     Stabilisation of metatarsophalangeal joint at metatarsals, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) osteotomy, with or without fixation; (e) local tendon transfer; (f) local tendon lengthening or release; (g) ligament repair; (h) joint debridement; —6 metatarsals (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49766)
+49767
+
+     Stabilisation of metatarsophalangeal joint at metatarsals, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) osteotomy, with or without fixation; (e) local tendon transfer; (f) local tendon lengthening or release; (g) ligament repair; (h) joint debridement; —7 metatarsals (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49767)
+49768
+
+     Stabilisation of metatarsophalangeal joint at metatarsals, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) osteotomy, with or without fixation; (e) local tendon transfer; (f) local tendon lengthening or release; (g) ligament repair; (h) joint debridement; —8 metatarsals (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49768)
+49769
+
+     Unilateral correction of hallux valgus or varus deformity, by osteotomy of first metatarsal and proximal phalanx of first toe, with internal fixation of both bones, including any of the following (if performed): (a) exostectomy; (b) removal of bursae; (c) synovectomy; (d) capsule repair; (e) capsule or tendon release or transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49769)
+49770
+
+     Bilateral correction of hallux valgus or varus deformity, by osteotomy of first metatarsal and proximal phalanx of first toe, with internal fixation of both bones, including any of the following (if performed): (a) exostectomy; (b) removal of bursae; (c) synovectomy; (d) capsule repair; (e) capsule or tendon release or transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49770)
+49771
+
+     Synovectomy of major tendon of ankle, for extensive synovitis by any method, including any of the following (if performed): (a) tenolysis; (b) debridement of ligament or tendon (or both); (c) release of ligament or tendon (or both); (d) excision of tubercule or osteophyte; (e) reconstruction of tendon retinaculum; (f) neurolysis; other than a service associated with a service to which item 30023 applies—each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49771)
+49772
+
+     Excision of rheumatoid nodules or gouty tophi, excluding aftercare, including any of the following (if performed): (a) capsulotomy; (b) debridement of ligament or tendon (or both); (c) release of ligament or tendon (or both); (d) excision of tubercle or osteophyte; —each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49772)
+49773
+
+     Revision of excision of intermetatarsal or digital neuroma, including any of the following (if performed): (a) release of tissues; (b) excision of bursae; (c) neurolysis; other than a service associated with a service to which item 30023 applies—one web space (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49773)
+49774
+
+     Release of tarsal tunnel, including any of the following (if performed): (a) release of ligaments; (b) synovectomy; (c) neurolysis; other than a service associated with a service to which item 30023 applies—one foot (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49774)
+49775
+
+     Revision of release of tarsal tunnel, including any of the following (if performed): (a) release of ligaments; (b) synovectomy; (c) neurolysis; other than a service associated with a service to which item 30023 applies—one foot (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49775)
+49776
+
+     Revision of arthrodesis of joint of hindfoot, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint; (e) removal of hardware; (f) neurolysis; (g) osteotomy of non-union or malunion; other than a service associated with a service to which item 30023 applies—may only be claimed once per joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49776)
+49777
+
+     Arthrodesis of joint of midfoot, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint; —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49777)
+49778
+
+     Arthrodesis of joints of midfoot, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joints; —2 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49778)
+49779
+
+     Arthrodesis of joints of midfoot, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joints; —3 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49779)
+49780
+
+     Arthrodesis of joints of midfoot, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joints; —4 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49780)
+49781
+
+     Revision of arthrodesis of joint of midfoot, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of ostephytes at joint; (e) removal of hardware; (f) osteotomy of non-union or malunion; —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49781)
+49783
+
+     Excisional or interpositional arthroplasty of metatarsophalangeal or tarsometatarsal joints, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement; —3 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49783)
+49784
+
+     Excisional or interpositional arthroplasty of metatarsophalangeal or tarsometatarsal joints, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement; —4 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49784)
+49785
+
+     Excisional or interpositional arthroplasty of metatarsophalangeal or tarsometatarsal joints, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement; —5 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49785)
+49786
+
+     Excisional or interpositional arthroplasty of metatarsophalangeal or tarsometatarsal joints, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement; —6 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49786)
+49787
+
+     Excisional or interpositional arthroplasty of metatarsophalangeal or tarsometatarsal joints, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement; —7 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49787)
+49788
+
+     Excisional or interpositional arthroplasty of metatarsophalangeal or tarsometatarsal joints, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement; —8 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49788)
+49789
+
+     Bilateral arthrodesis of first metatarsophalangeal joint, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49789)
+49790
+
+     Revision of arthrodesis of first metatarsophalangeal joint, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of exostosis at joint; (e) removal of hardware; (f) osteotomy of non-union or malunion (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49790)
+49791
+
+     Arthrodesis of hallux interphalangeal or lesser metatarsophalangeal joint, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49791)
+49792
+
+     Arthrodesis, osteotomy or interpositional arthroplasty of proximal or distal joint (or both) of lesser toe, including any of the following (if performed): (a) internal fixation, by any method; (b) capsulotomy; (c) joint release; (d) synovectomy; (e) removal of osteophytes at joints; —one or 2 toes (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49792)
+49793
+
+     Arthrodesis, osteotomy or interpositional arthroplasty of proximal or distal joint (or both) of lesser toe, including any of the following (if performed): (a) internal fixation, by any method; (b) capsulotomy; (c) joint release; (d) synovectomy; (e) removal of osteophytes at joints; —3 toes (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49793)
+49794
+
+     Arthrodesis, osteotomy or interpositional arthroplasty of proximal or distal joint (or both) of lesser toe, including any of the following (if performed): (a) internal fixation, by any method; (b) capsulotomy; (c) joint release; (d) synovectomy; (e) removal of osteophytes at joints; —4 toes (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49794)
+49795
+
+     Arthrodesis, osteotomy or interpositional arthroplasty of proximal or distal joint (or both) of lesser toe, including any of the following (if performed): (a) internal fixation, by any method; (b) capsulotomy; (c) joint release; (d) synovectomy; (e) removal of osteophytes at joints; —5 toes (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49795)
+49796
+
+     Arthrodesis, osteotomy or interpositional arthroplasty of proximal or distal joint (or both) of lesser toe, including any of the following (if performed): (a) internal fixation, by any method; (b) capsulotomy; (c) joint release; (d) synovectomy; (e) removal of osteophytes at joints; —6 toes (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49796)
+49797
+
+     Arthrodesis, osteotomy or interpositional arthroplasty of proximal or distal joint (or both) of lesser toe, including any of the following (if performed): (a) internal fixation, by any method; (b) capsulotomy; (c) joint release; (d) synovectomy; (e) removal of osteophytes at joints; —7 toes (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49797)
+49798
+
+     Arthrodesis, osteotomy or interpositional arthroplasty of proximal or distal joint (or both) of lesser toe, including any of the following (if performed): (a) internal fixation, by any method; (b) capsulotomy; (c) joint release; (d) synovectomy; (e) removal of osteophytes at joints; —8 toes (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49798)
+49800
+
+     Primary repair of flexor or extensor tendon of foot, including either or both of the following (if performed): (a) synovial biopsy; (b) synovectomy; —one toe (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49800)
+49803
+
+     Secondary repair of flexor or extensor tendon of foot, including either or both of the following (if performed): (a) synovial biopsy; (b) synovectomy; —one toe (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49803)
+49806
+
+     Subcutaneous tenotomy of foot, by small percutaneous incisions—one or more tendons (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/49806)
+49809
+
+     Open tenotomy or lengthening of foot, by open incision, with or without tenoplasty, including either or both of the following (if performed): (a) synovial biopsy; (b) synovectomy; —one toe (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49809)
+49812
+
+     Advancement of tendon or ligament transfer of foot, including: (a) side to side transfer, harvesting and transfer for ligament or minor foot tendon reconstruction; and (b) either or both of the following (if performed): (i) synovial biopsy; (ii) synovectomy; —one major tendon or toe (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49812)
+49814
+
+     Reconstruction of major tendon of ankle, by any method, including: (a) osteotomy of hindfoot, with internal fixation; and (b) lengthening of major tendon of ankle; and (c) any of the following (if performed): (i) synovial biopsy; (ii) synovectomy; (iii) adjacent tendon transfer; (iv) turn down flaps; other than a service associated with a service to which item 49718 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49814)
+49815
+
+     Triple arthrodesis of hindfoot joints, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49815)
+49818
+
+     Release of plantar fascia, including excision of calcaneal spur (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49818)
+49821
+
+     Excisional or interpositional arthroplasty of metatarsophalangeal or tarsometatarsal joint, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49821)
+49824
+
+     Excisional or interpositional arthroplasty of metatarsophalangeal or tarsometatarsal joint, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) local tendon transfer; (e) joint debridement; —2 joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49824)
+49827
+
+     Unilateral correction of hallux valgus or varus deformity of the foot, by local tendon transfer, including any of the following (if performed): (a) exostectomy; (b) removal of bursae; (c) synovectomy; (d) capsule repair; (e) capsule or tendon release or transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49827)
+49830
+
+     Bilateral correction of hallux valgus or varus deformity of the foot, by local tendon transfer, including any of the following (if performed): (a) exostectomy; (b) removal of bursae; (c) synovectomy; (d) capsule repair; (e) capsule or tendon release or transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49830)
+49833
+
+     Unilateral correction of hallux valgus or varus deformity of the foot, by osteotomy of first metatarsal, without internal fixation, including any of the following (if performed): (a) exostectomy; (b) removal of bursae; (c) synovectomy; (d) capsule repair; (e) capsule or tendon release or transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49833)
+49836
+
+     Bilateral correction of hallux valgus or varus deformity of the foot by osteotomy of first metatarsal, without internal fixation, including any of the following (if performed): (a) exostectomy; (b) removal of bursae; (c) synovectomy; (d) capsule repair; (e) capsule or tendon release or transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49836)
+49837
+
+     Unilateral correction of hallux valgus or varus deformity of the foot, by osteotomy of first metatarsal, with internal fixation, including any of the following (if performed): (a) exostectomy; (b) removal of bursae; (c) synovectomy; (d) capsule repair; (e) capsule or tendon release or transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49837)
+49838
+
+     Bilateral correction of hallux valgus or varus deformity of the foot by osteotomy of first metatarsal, with internal fixation or arthrodesis of first metatarsophalangeal joint, including any of the following (if performed): (a) exostectomy; (b) removal of bursae; (c) synovectomy; (d) capsule repair; (e) capsule or tendon release or transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49838)
+49845
+
+     Unilateral arthrodesis of first metatarsophalangeal joint, by open or arthroscopic means, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joints (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49845)
+49851
+
+     Arthrodesis, osteotomy or interpositional arthroplasty of proximal or distal (or both) joints of lesser toe, including any of the following (if performed): (a) internal fixation, by any method; (b) capsulotomy; (c) tendon lengthening; (d) joint release; (e) synovectomy; (f) removal of osteophytes at joints; —one toe (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49851)
+49854
+
+     Radical plantar fasciotomy or fasciectomy, with extensive incision into foot and excision of fascia, including excision of calcaneal spur (if performed), other than a service associated with a service to which 49818 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49854)
+49860
+
+     Synovectomy of metatarsophalangeal joints, including any of the following (if performed): (a) capsulotomy; (b) debridement; (c) release of ligament or tendon (or both); —one or more joints on one foot (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49860)
+49866
+
+     Excision of intermetatarsal or digital neuroma, including any of the following (if performed): (a) release of metatarsal or digital ligament; (b) excision of bursae; (c) neurolysis; other than a service associated with a service to which item 30023 applies—one web space (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49866)
+49878
+
+     Talipes equinovarus, calcaneo valgus or metatarsus varus, treatment by cast, splint or manipulation—each attendance (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/49878)
+49881
+
+     Complete excision of one or more ganglia or bursae: (a) including excision of bony prominence or mucinous cyst of interphalangeal or metatarsophalangeal joint and surrounding tissues; and (b) including any of the following (if performed): (i) arthrotomy; (ii) synovectomy; (iii) osteophyte resections; (iv) neurolysis; (v) skin closure, by any local method; other than a service associated with a service to which item 30023 applies—each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49881)
+49884
+
+     Complete excision of one or more ganglia or bursae: (a) including excision of bony prominence or mucinous cyst of ankle, hindoot or midfoot joint and surrounding tissues; and (b) including any of the following (if performed): (i) arthrotomy; (ii) synovectomy; (iii) osteophyte resections; (iv) neurolysis; (v) capsular or ligament repair; (vi) skin closure, by any method; other than a service associated with a service to which item 30023 applies—each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49884)
+49887
+
+     Revision of complete excision of one or more ganglia or bursae: (a) including excision of bony prominence or mucinous cyst of interphalangeal or metatarsophalangeal joint and surrounding tissues; and (b) including any of the following (if performed): (i) arthrotomy; (ii) synovectomy; (iii) osteophyte resections; (iv) neurolysis; (v) skin closure, by any method; other than a service associated with a service to which item 30023 or 49881 applies—each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49887)
+49890
+
+     Revision of complete excision of one or more ganglia or bursae: (a) including excision of bony prominence or mucinous cyst of ankle, hindoot or midfoot joint and surrounding tissues; and (b) including any of the following (if performed): (i) arthrotomy; (ii) synovectomy; (iii) osteophyte resections; (iv) neurolysis; (v) capsular or ligament repair; (vi) skin closure, by any method; other than a service associated with a service to which item 30023 or 49884 applies—each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/49890)
+50107
+
+     Stabilisation of joint of hip, by open means, including any of the following (if performed): (a) repair of capsule; (b) labrum; (c) capsulorraphy; (d) repair of ligament; (e) internal fixation; other than a service associated with a service to which another item in this Group applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50107)
+50112
+
+     Cicatricial flexion or extension contraction of joint, correction of, involving tissues deeper than skin and subcutaneous tissue, other than a service to which another item in this Group applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50112)
+50115
+
+     Manipulation of one or more joints, excluding spine, other than a service associated with a service to which another item in this Group applies (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50115)
+50118
+
+     Arthrodesis of joint of hindfoot, by any method, with internal or external fixation by any method, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joints; —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50118)
+50130
+
+     Joint or joints, application of external fixator to, other than for treatment of fractures (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50130)
+50200
+
+     Core needle biopsy of aggressive or potentially malignant bone or soft tissue tumour, excluding aftercare (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50200)
+50201
+
+     Incisional biopsy of aggressive or potentially malignant bone or soft tissue tumour, excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50201)
+50203
+
+     Intralesional or marginal excision of bone or soft tissue tumour (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50203)
+50206
+
+     Intralesional or marginal excision of bone tumour, with at least one of the following: (a) autograft; (b) allograft; (c) cementation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50206)
+50209
+
+     Intralesional or marginal excision of bone tumour, with at least 2 of the following: (a) autograft; (b) allograft; (c) cementation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50209)
+50212
+
+     Wide excision of malignant or aggressive bone or soft tissue tumour (or both), affecting a limb, trunk or scapula (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50212)
+50215
+
+     Wide excision of malignant or aggressive bone or soft tissue tumour (or both), with intercalary reconstruction of bone by prosthesis, allograft or autograft (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50215)
+50218
+
+     Wide excision of malignant or aggressive bone or soft tissue tumour (or both), with reconstruction, replacement or arthrodesis of adjacent joint, by prosthesis, allograft or autograft (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50218)
+50221
+
+     Wide excision of malignant or aggressive bone or soft tissue tumour (or both) of pelvis, sacrum or spine, without reconstruction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50221)
+50224
+
+     Wide excision of malignant or aggressive bone or soft tissue tumour (or both) of pelvis, sacrum or spine, with reconstruction of bone defect, or one or more joints, by any technique (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50224)
+50233
+
+     Treatment of malignant or aggressive bone or soft tissue tumour (or both) by hindquarter or forequarter amputation(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50233)
+50236
+
+     Treatment of malignant or aggressive bone or soft tissue tumour (or both), by hip disarticulation, shoulder disarticulation or amputation through the proximal one third of the femur (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50236)
+50239
+
+     Treatment of malignant or aggressive bone or soft tissue tumour (or both), by amputation, other than a service associated with a service to which item 50233 or 50236 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50239)
+50242
+
+     Revision of endoprosthetic replacement, if item 50218 or 50224, or an item that describes a service substantially similar to either of those items, applied to the initial procedure: (a) including any of the following: (i) rebushing; (ii) patella resurfacing; (iii) polyethylene exchange or similar; and (b) excluding removal of prosthetic from bone (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50242)
+50245
+
+     Revision of reconstructive procedure, if item 50215, 50218 or 50224, or an item that describes a service substantially similar to any of those items, applied to the initial procedure, by any technique or combination of techniques (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50245)
+50300
+
+     Gradual correction of joint deformity, with application of external fixator (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50300)
+50303
+
+     Limb lengthening, by gradual distraction, with application of external fixator or intra-medullary device (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50303)
+50306
+
+     Bipolar limb lengthening: (a) with application of external fixator or intra-medullary device; and (b) by any of the following: (i) gradual distraction; (ii) bone transport; (iii) fixator extension, to correct for an adjacent joint deformity (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50306)
+50309
+
+     Ring fixator or similar device, adjustment of, with or without insertion or removal of fixation pins, performed under general anaesthesia, other than a service to which item 50303 or 50306 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50309)
+50310
+
+     Major adjustment of ring fixator or similar device, other than a service associated with a service to which item 50303, 50306, or 50309 applies [](/dynamic/MBSItems/BoneJointMuscle/50310)
+50312
+
+     Synovectomy or debridement, and microfracture, of ankle joint for osteochondral large defect greater than 1.5cm2, by arthroscopic or open means, including any of the following (if performed): (a) capsulotomy; (b) debridement or release of ligament; (c) debridement or release of tendon; other than a service associated with a service to which any of the following apply: (d) item 49703; (e) another item in this Schedule if the service described in the other item is for the purpose of performing an arthroscopic procedure of the ankle (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50312)
+50321
+
+     Release of soft tissue of talipes equinovarus, by open means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50321)
+50324
+
+     Revision of release of soft tissue of talipes equinovarus, by open means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50324)
+50330
+
+     Post-operative manipulation, and change of plaster, of vertical, congenital talipes equinovarus or talus, other than a service to which item 50321 or 50324 applies (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50330)
+50335
+
+     Treatment of vertical, congenital talus, by percutaneous or open stabilisation of talonavicular joint and Achilles’ tenotomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50335)
+50336
+
+     Talus, vertical, congenital, combined anterior and posterior reconstruction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50336)
+50339
+
+     Tibialis anterior or tibialis posterior tendon transfer (split or whole) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50339)
+50345
+
+     Hyperextension deformity of toe, release incorporating V-Y plasty of skin, lengthening of extensor tendons and release of capsule contracture (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50345)
+50348
+
+     Knee, deformity of, post-operative manipulation and change of plaster, performed under general anaesthesia (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50348)
+50351
+
+     Treatment of developmental dislocation of hip, by open reduction, including application of hip spica (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50351)
+50352
+
+     Treatment of developmental dysplasia of hip, including supervision of initial application of splint, harness or cast, other than a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50352)
+50354
+
+     Resection and fixation of congenital pseudarthrosis of tibia (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50354)
+50357
+
+     Transfer of tendon of rectus femoris or medial or lateral hamstring (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50357)
+50360
+
+     Combined medial and lateral hamstring tendon transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50360)
+50369
+
+     Unilateral posterior release of knee contracture, with multiple tendon lengthening or tenotomies, including release of joint capsule (if performed), other than a service associated with a service to which another item of this Schedule applies if the service describedin the other item is for the purpose of knee replacement (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50369)
+50372
+
+     Bilateral posterior release of knee contracture, with multiple tendon lengthening or tenotomies, including release of joint capsule (if performed), other than a service associated with a service to which another item of this Schedule applies if the service described in the other item is for the purpose of knee replacement (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50372)
+50375
+
+     Unilateral medial release of hip contracture, with lengthening or division of the adductors and psoas, including division of obturator nerve (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50375)
+50378
+
+     Bilateral medial release of hip contracture, with lengthening or division of adductors and psoas, including division of obturator nerve (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50378)
+50381
+
+     Unilateral anterior release of hip contracture, with lengthening or division of hip flexors and psoas, including division of joint capsule (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50381)
+50384
+
+     Bilateral anterior release of hip contracture, with lengthening or division of hip flexors and psoas, including division of joint capsule (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50384)
+50390
+
+     Application of cast under general anaesthesia, for patient with perthes, cerebral palsy, or other neuromuscular conditions, affecting hips or knees (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50390)
+50393
+
+     Acetabular shelf procedure, other than a service associated with a service to which another item of this Schedule applies if the service in the other item is for the purpose of performing arthroplasty on the hip (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50393)
+50394
+
+     Multiple peri-acetabular osteotomy, including internal fixation (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50394)
+50395
+
+     Osteotomy and distillation of greater trochanter, with internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50395)
+50396
+
+     Amputation of congenital abnormalities or duplication of digits of the hand or foot, including any of the following (if performed): (a) splitting of phalanx or phalanges; (b) ligament reconstruction; (c) joint reconstruction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50396)
+50399
+
+     Forearm, radial aplasia or dysplasia (radial club hand), centralisation or radialisation of (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50399)
+50426
+
+     Removal of one or more lesions from bone, for osteochondroma occurring solitary or in association with hereditary multiple exotoses, with histological examination—one approach (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50426)
+50428
+
+     Percutaneous drilling of osteochondritis dessicans or other osteochondral lesion, for a patient: (a) with open growth plates; or (b) less than 18 years of age (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50428)
+50450
+
+     Unilateral single event multilevel surgery, for a patient less than 18 years of age with hemiplegic cerebral palsy, comprising 3 or more of the following: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; (b) correction of muscle imbalance by transfer of a tendon or tendons; (c) correction of femoral torsion by rotational osteotomy of the femur; (d) correction of tibial torsion by rotational osteotomy of the tibia; (e) correction of joint instability by varus derotation osteotomy of the femur, subtalar arthrodesis with synovectomy if performed, or os calcis lengthening; conjoint surgery, principal specialist surgeon, including fluoroscopy and aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50450)
+50451
+
+     Unilateral single event multilevel surgery, for a patient less than 18 years of age with hemiplegic cerebral palsy, comprising 3 or more of the following: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; (b) correction of muscle imbalance by transfer of a tendon or tendons; (c) correction of femoral torsion by rotational osteotomy of the femur; (d) correction of tibial torsion by rotational osteotomy of the tibia; (e) correction of joint instability by varus derotation osteotomy of the femur, subtalar arthrodesis with synovectomy if performed, or os calcis lengthening; conjoint surgery, conjoint specialist surgeon, including fluoroscopy and excluding aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50451)
+50455
+
+     Bilateral single event multilevel surgery, for a patient less than 18 years of age with diplegic cerebral palsy, that comprises: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; conjoint surgery, principal specialist surgeon, including fluoroscopy and aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50455)
+50456
+
+     Bilateral single event multilevel surgery, for a patient less than 18 years of age with diplegic cerebral palsy, that comprises: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; conjoint surgery, conjoint specialist surgeon, including fluoroscopy and excluding aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50456)
+50460
+
+     Bilateral single event multilevel surgery, for a patient less than 18 years of age with diplegic cerebral palsy, that comprises bilateral soft tissue surgery and bilateral femoral osteotomies, with: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; and (c) correction of torsional abnormality of the femur by rotational osteotomy and internal fixation; conjoint surgery, principal specialist surgeon, including fluoroscopy and aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50460)
+50461
+
+     Bilateral single event multilevel surgery, for a patient less than 18 years of age with diplegic cerebral palsy, that comprises bilateral soft tissue surgery and bilateral femoral osteotomies, with: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; and (c) correction of torsional abnormality of the femur by rotational osteotomy and internal fixation; conjoint surgery, conjoint specialist surgeon, including fluoroscopy and excluding aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50461)
+50465
+
+     Bilateral single event multilevel surgery, for a patient less than 18 years of age with diplegic cerebral palsy, that comprises bilateral soft tissue surgery, bilateral femoral osteotomies and bilateral tibial osteotomies, with: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; and (c) correction of abnormal torsion of the femur by rotational osteotomy with internal fixation; and (d) correction of abnormal torsion of the tibia by rotational osteotomy with internal fixation; conjoint surgery, principal specialist surgeon, including fluoroscopy and aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50465)
+50466
+
+     Bilateral single event multilevel surgery, for a patient less than 18 years of age with diplegic cerebral palsy, that comprises bilateral soft tissue surgery, bilateral femoral osteotomies and bilateral tibial osteotomies, with: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; and (c) correction of abnormal torsion of the femur by rotational osteotomy with internal fixation; and (d) correction of abnormal torsion of the tibia by rotational osteotomy with internal fixation; conjoint surgery, conjoint specialist surgeon, including fluoroscopy and excluding aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50466)
+50470
+
+     Bilateral single event multilevel surgery, for a patient less than 18 years of age with cerebral palsy, that comprises bilateral soft tissue surgery, bilateral femoral osteotomies, bilateral tibial osteotomies and bilateral foot stabilisation, with: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; and (c) correction of abnormal torsion of the femur by rotational osteotomy with internal fixation; and (d) correction of abnormal torsion of the tibia by rotational osteotomy with internal fixation; and (e) correction of bilateral pes valgus by os calcis lengthening or subtalar fusion; conjoint surgery, principal specialist surgeon, including fluoroscopy and aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50470)
+50471
+
+     Bilateral single event multilevel surgery, for a patient less than 18 years of age with cerebral palsy, that comprises bilateral soft tissue surgery, bilateral femoral osteotomies, bilateral tibial osteotomies and bilateral foot stabilisation, with: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; and (c) correction of abnormal torsion of the femur by rotational osteotomy with internal fixation; and (d) correction of abnormal torsion of the tibia by rotational osteotomy with internal fixation; and (e) correction of bilateral pes valgus by os calcis lengthening or subtalar fusion; conjoint surgery, conjoint specialist surgeon, including fluoroscopy and excluding aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50471)
+50475
+
+     Single event multilevel surgery, for a patient less than 18 years of age with diplegic cerebral palsy, for the correction of crouch gait, including: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; and (c) correction of flexion deformity at the knee by extension osteotomy of the distal femur including internal fixation; and (d) correction of patella alta and quadriceps insufficiency by patella tendon shortening or reconstruction; and (e) correction of tibial torsion by rotational osteotomy of the tibia with internal fixation; and (f) correction of foot instability by os calcis lengthening or subtalar fusion; conjoint surgery, principal specialist surgeon, including fluoroscopy and aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50475)
+50476
+
+     Single event multilevel surgery, for a patient less than 18 years of age with diplegic cerebral palsy, for the correction of crouch gait including: (a) lengthening of a contracted muscle tendon unit or units by tendon lengthening, muscle recession, fractional lengthening or intramuscular lengthening; and (b) correction of muscle imbalance by transfer of a tendon or tendons; and (c) correction of flexion deformity at the knee by extension osteotomy of the distal femur including internal fixation; and (d) correction of patella alta and quadriceps insufficiency by patella tendon shortening or reconstruction; and (e) correction of tibial torsion by rotational osteotomy of the tibia with internal fixation; and (f) correction of foot instability by os calcis lengthening or subtalar fusion; conjoint surgery, conjoint specialist surgeon, including fluoroscopy and excluding aftercare (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50476)
+50508
+
+     Treatment of fracture of distal end of radius or ulna (or both), by closed reduction, for a patient with open growth plates (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50508)
+50512
+
+     Treatment of fracture of distal end of radius or ulna (or both), by open or closed reduction, with internal fixation, for a patient with open growth plates (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50512)
+50524
+
+     Radius or ulna, shaft of, with open growth plate, treatment of fracture of, in conjunction with dislocation of distal radio-ulnar joint or proximal radio-humeral joint (Galeazzi or Monteggia injury), by closed reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50524)
+50528
+
+     Radius or ulna, shaft of, with open growth plate, treatment of fracture of, in conjunction with dislocation of distal radio-ulnar joint or proximal radio-humeral joint (Galeazzi or Monteggia injury), by reduction with or without internal fixation by open or percutaneous means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50528)
+50532
+
+     Treatment of fracture of shafts of radius or ulna (or both), by closed reduction, for a patient with open growth plate (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50532)
+50536
+
+     Treatment of fracture of shafts of radius or ulna (or both), by open or closed reduction, with internal fixation, for a patient with open growth plate (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50536)
+50540
+
+     Olecranon, with open growth plate, treatment of fracture of, by open reduction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50540)
+50544
+
+     Radius, with open growth plate, treatment of fracture of head or neck of, by closed reduction of (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50544)
+50548
+
+     Radius, with open growth plate, treatment of fracture of head or neck of, by reduction with or without internal fixation by open or percutaneous means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50548)
+50552
+
+     Humerus, proximal, with open growth plate, treatment of fracture of, by closed reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50552)
+50556
+
+     Treatment of fracture of proximal humerus, by open or closed reduction, with internal fixation, for a patient with open growth plate (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50556)
+50560
+
+     Humerus, shaft of, with open growth plate, treatment of fracture of, by closed reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50560)
+50564
+
+     Treatment of fracture of shaft of humerus, by open or closed reduction, with internal or external fixation, for a patient with open growth plate (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50564)
+50568
+
+     Humerus, with open growth plate, supracondylar or condylar, treatment of fracture of, by closed reduction (H) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/50568)
+50572
+
+     Humerus, with open growth plate, supracondylar or condylar, treatment of fracture of, by reduction with or without internal fixation by open or percutaneous means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50572)
+50576
+
+     Treatment of fracture of femur, by closed reduction or traction, including application of hip spica (if performed), for a patient with open growth plate (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50576)
+50580
+
+     Tibia, with open growth plate, plateau or condyles, medial or lateral, treatment of fracture of, by reduction with or without internal fixation by open or percutaneous means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50580)
+50584
+
+     Tibia, distal, with open growth plate, treatment of fracture of, by reduction with or without internal fixation by open or percutaneous means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50584)
+50588
+
+     Tibia and fibula, with open growth plates, treatment of fracture of, by internal fixation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50588)
+50592
+
+     Treatment of fracture of shaft of femur, by open or closed reduction, with internal or external fixation, for a patient with open growth plate (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50592)
+50596
+
+     Treatment of fracture of shaft of tibia, by open or closed reduction, including casting, for a patient with open growth plate (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50596)
+50654
+
+     Treatment of hip dysplasia or dislocation, for a patient under the age of 18 years, by examination or closed reduction (or both), with or without arthrography of the hip under anaesthesia, and with application or reapplication of a hip spica (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/50654)
+52056
+
+     HAEMATOMA, aspiration of (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52056)
+52057
+
+     LARGE HAEMATOMA, LARGE ABSCESS, CARBUNCLE, CELLULITIS or similar lesion, requiring admission to a hospital, INCISION WITH DRAINAGE OF (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52057)
+52058
+
+     PERCUTANEOUS DRAINAGE OF DEEP ABSCESS, usinginterventional imaging techniques - but not including imaging (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52058)
+52059
+
+     ABSCESS, DRAINAGE TUBE, exchange of using interventional imaging techniques - but not including imaging (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52059)
+52060
+
+     MUSCLE, excision of (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52060)
+52061
+
+     MUSCLE, RUPTURED, repair of (limited), not associated with external wound (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52061)
+52062
+
+     MUSCLE, RUPTURED, repair of (extensive), not associated with external wound (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52062)
+52063
+
+     BONE TUMOUR, INNOCENT, excision of, not being a service to which another item in Groups O3 to O9 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52063)
+52064
+
+     BONE CYST, injection into or aspiration of (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52064)
+52066
+
+     SUBMANDIBULAR GLAND, extirpation of (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52066)
+52069
+
+     SUBLINGUAL GLAND, extirpation of (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52069)
+52072
+
+     SALIVARY GLAND, DILATATION OR DIATHERMY of duct (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52072)
+52073
+
+     SALIVARY GLAND, repair of CUTANEOUS FISTULA OF (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52073)
+52075
+
+     SALIVARY GLAND, removal of CALCULUS from duct or meatotomy or marsupialisation, 1 or more such procedures (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52075)
+52078
+
+     TONGUE, partial excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52078)
+52081
+
+     TONGUE TIE, division or excision of frenulum (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52081)
+52084
+
+     TONGUE TIE, MANDIBULAR FRENULUM OR MAXILLARY FRENULUM, division or excision of frenulum, in a patient aged not less than 2 years (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52084)
+52087
+
+     RANULA OR MUCOUS CYST OF MOUTH, removal of (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52087)
+52090
+
+     OPERATION ON MANDIBLE OR MAXILLA (other than alveolar margins) for chronic osteomyelitis - 1 bone or in combination with adjoining bones (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52090)
+52092
+
+     OPERATION on SKULL for OSTEOMYELITIS (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52092)
+52094
+
+     OPERATION ON ANY COMBINATION OF ADJOINING BONES, being bones referred to in item 52092 (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52094)
+52095
+
+     BONE GROWTH STIMULATOR, insertion of (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52095)
+52096
+
+     ORTHOPAEDIC PIN OR WIRE, insertion of, into maxilla or mandible or zygoma, as an independent procedure (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52096)
+52097
+
+     EXTERNAL FIXATION, removal of, in the operating theatre of a hospital (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52097)
+52098
+
+     EXTERNAL FIXATION, removal of, in conjunction with operations involving internal fixation or bone grafting or both (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52098)
+52099
+
+     BURIED WIRE, PIN or SCREW, 1 or more, which were inserted for internal fixation purposes into maxilla or mandible or zygoma, removal of, requiring anaesthesia, incision, dissection and suturing, per bone, not being a service associated with a service to which item 52102 or 52105 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52099)
+52102
+
+     BURIED WIRE, PIN or SCREW, 1 or more, which were inserted for internal fixation purposes into maxilla or mandible or zygoma, removal of, requiring anaesthesia, incision, dissection and suturing, where undertaken in the operating theatre of a hospital, per bone (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52102)
+52105
+
+     PLATE, 1 or more of, and associated screw and wire which were inserted for internal fixation purposes into maxilla or mandible or zygoma, removal of, requiring anaesthesia, incision, dissection and suturing, per bone, not being a service associated with a service to which item 52099 or 52102 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52105)
+52114
+
+     MANDIBLE or MAXILLA, segmental resection of, for tumours or cysts (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52114)
+52126
+
+     MAXILLA, total resection of (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52126)
+52129
+
+     MAXILLA, total resection of both maxillae (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52129)
+52130
+
+     BONE GRAFT, not being a service to which another item in Groups O3 to O9 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52130)
+52131
+
+     BONE GRAFT WITH INTERNAL FIXATION, not being a service to which an item in the range (a)51900 to 52186; or (b)52303 to 53460 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52131)
+52180
+
+     MALIGNANT DISEASE AGGRESSIVE OR POTENTIALLY MALIGNANT BONE OR DEEP SOFT TISSUE TUMOUR, biopsy of (not including aftercare) (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/52180)
+52182
+
+     BONE OR MALIGNANT DEEP SOFT TISSUE TUMOUR, lesional or marginal excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52182)
+52184
+
+     BONE TUMOUR, lesional or marginal excision of, combined with any 1 of: liquid nitrogen freezing, autograft, allograft or cementation (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52184)
+52186
+
+     BONE TUMOUR, lesional or marginal excision of, combined with any 2 or more of: liquid nitrogen freezing, autograft, allograft or cementation (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/52186)
+53200
+
+     MANDIBLE, treatment of a dislocation of, not requiring open reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/53200)
+53203
+
+     MANDIBLE, treatment of a dislocation of, requiring open reduction (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/53203)
+53206
+
+     TEMPOROMANDIBULAR JOINT, manipulation of, performed in the operating theatre of a hospital, not being a service associated with a service to which another item in Groups O3 to O9 applies (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/53206)
+53209
+
+     GLENOID FOSSA, ZYGOMATIC ARCH and TEMPORAL BONE, reconstruction of (Obwegeser technique) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53209)
+53212
+
+     ABSENT CONDYLE and ASCENDING RAMUS in hemifacial microsomia, construction of, not including harvesting of graft material (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53212)
+53215
+
+     TEMPOROMANDIBULAR JOINT, arthroscopy of, with or without biopsy, not being a service associated with any other arthroscopic procedure of that joint (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53215)
+53218
+
+     TEMPOROMANDIBULAR JOINT, arthroscopy of, removal of loose bodies, debridement, or treatment of adhesions - 1 or more such procedures (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53218)
+53220
+
+     TEMPOROMANDIBULAR JOINT, arthrotomy of, not being a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53220)
+53221
+
+     TEMPOROMANDIBULAR JOINT, open surgical exploration of, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53221)
+53224
+
+     TEMPOROMANDIBULAR JOINT, open surgical exploration of, with condylectomy or condylotomy, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53224)
+53225
+
+     ARTHROCENTESIS, irrigation of temporomandibular joint after insertion of 2 cannuli into the appropriate joint space(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53225)
+53226
+
+     TEMPOROMANDIBULAR JOINT, synovectomy of, not being a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53226)
+53227
+
+     TEMPOROMANDIBULAR JOINT, open surgical exploration of, with or without meniscus or capsular surgery, including meniscectomy when performed, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53227)
+53230
+
+     TEMPOROMANDIBULAR JOINT, open surgical exploration of, with meniscus, capsular and condylar head surgery, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53230)
+53233
+
+     TEMPOROMANDIBULAR JOINT, surgery of, involving procedures to which items 53224, 53226, 53227 and 53230 apply and also involving the use of tissue flaps, or cartilage graft, or allograft implants, with or without microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53233)
+53236
+
+     TEMPOROMANDIBULAR JOINT, stabilisation of, involving 1 or more of: repair of capsule, repair of ligament or internal fixation, not being a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53236)
+53239
+
+     TEMPOROMANDIBULAR JOINT, arthrodesis of, not being a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53239)
+53400
+
+     MAXILLA, unilateral or bilateral, treatment of fracture of, not requiring splinting [](/dynamic/MBSItems/BoneJointMuscle/53400)
+53403
+
+     MANDIBLE, treatment of fracture of, not requiring splinting [](/dynamic/MBSItems/BoneJointMuscle/53403)
+53406
+
+     MAXILLA, treatment of fracture of, requiring splinting, wiring of teeth, circumosseous fixation or external fixation (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53406)
+53409
+
+     MANDIBLE, treatment of fracture of, requiringsplinting, wiring of teeth, circumosseous fixation or external fixation (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53409)
+53410
+
+     ZYGOMATIC BONE, treatment of fracture of, not requiring surgical reduction [](/dynamic/MBSItems/BoneJointMuscle/53410)
+53411
+
+     ZYGOMATIC BONE, treatment of fracture of, requiring surgical reduction by a temporal, intra-oral or other approach (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/53411)
+53412
+
+     ZYGOMATIC BONE, treatment of fracture of, requiring surgical reduction and involving internal or external fixation at 1 site (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53412)
+53413
+
+     ZYGOMATIC BONE, treatment of fracture of, requiring surgical reduction and involving internal or external fixation or both at 2 sites (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53413)
+53414
+
+     ZYGOMATIC BONE, treatment of fracture of, requiring surgical reduction and involving internal or external fixation or both at 3 sites (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53414)
+53415
+
+     MAXILLA, treatment of fracture of, requiring open reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53415)
+53416
+
+     MANDIBLE, treatment of fracture of, requiring open reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53416)
+53418
+
+     MAXILLA, treatment of fracture of, requiring open reduction and internal fixation not involving plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53418)
+53419
+
+     MANDIBLE, treatment of fracture of, requiring open reduction and internal fixation not involving plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53419)
+53422
+
+     MAXILLA, treatment of fracture of, requiring open reduction and internal fixation involving plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53422)
+53423
+
+     MANDIBLE, treatment of fracture of, requiring open reduction and internal fixation involving plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53423)
+53424
+
+     MAXILLA, treatment of a complicated fracture of, involving viscera, blood vessels or nerves, requiring open reduction not involving plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53424)
+53425
+
+     MANDIBLE, treatment of a complicated fracture of, involving viscera, blood vessels or nerves, requiring open reduction not involving plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53425)
+53427
+
+     MAXILLA, treatment of a complicated fracture of, involving viscera, blood vessels or nerves, requiring open reduction involving the use of plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53427)
+53429
+
+     MANDIBLE, treatment of a complicated fracture of, involving viscera, blood vessels or nerves, requiring open reduction involving the use of plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/BoneJointMuscle/53429)
+53439
+
+     MANDIBLE, treatment of a closed fracture of, involving a joint surface (Anaes.) [](/dynamic/MBSItems/BoneJointMuscle/53439)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

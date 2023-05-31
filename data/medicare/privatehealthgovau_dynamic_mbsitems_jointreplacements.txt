@@ -1,0 +1,247 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Joint replacements - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+46309
+
+     Prosthetic replacement arthroplasty or hemiarthroplasty of interphalangeal or metacarpophalangeal joint of hand, including any of the following (if performed): (a) ligament reconstruction; (b) ligament realignment; (c) synovectomy; (d) tendon transfer —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/46309)
+46312
+
+     Prosthetic replacement arthroplasty or hemiarthroplasty of interphalangeal or metacarpophalangeal joint of hand, including any of the following (if performed): (a) ligament reconstruction; (b) ligament realignment; (c) synovectomy; (d) tendon transfer —2 joints of one hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/46312)
+46315
+
+     Prosthetic replacement arthroplasty or hemiarthroplasty of interphalangeal or metacarpophalangeal joint of hand, including any of the following (if performed): (a) ligament reconstruction; (b) ligament realignment; (c) synovectomy; (d) tendon transfer —3 joints of one hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/46315)
+46318
+
+     Prosthetic replacement arthroplasty or hemiarthroplasty of interphalangeal or metacarpophalangeal joint of hand, including any of the following (if performed): (a) ligament reconstruction; (b) ligament realignment; (c) synovectomy; (d) tendon transfer —4 joints of one hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/46318)
+46321
+
+     Prosthetic replacement arthroplasty or hemiarthroplasty of interphalangeal or metacarpophalangeal joint of hand, including any of the following (if performed): (a) ligament reconstruction; (b) ligament realignment; (c) synovectomy; (d) tendon transfer; —5 joints of one hand (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/46321)
+46322
+
+     Revision of prosthetic replacement arthroplasty or hemiarthroplasty of interphalangeal or metacarpal joint of hand, including any of the following (if performed): (a) bone grafting; (b) ligament reconstruction; (c) ligament realignment; (d) synovectomy; (e) tendon or ligament reconstruction; (f) tendon transfer; —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/46322)
+48915
+
+     Shoulder, hemi-arthroplasty of (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/48915)
+48918
+
+     Anatomic or reverse total shoulder replacement, including any of the following (if performed): (a) associated rotator cuff repair; (b) biceps tenodesis; (c) tuberosity osteotomy; other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose ofperforming a procedure on the shoulder region by open or arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/48918)
+48921
+
+     Shoulder, total replacement arthroplasty, revision of (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/48921)
+48924
+
+     Revision of total shoulder replacement, including either or both of the following (if performed): (a) bone graft to humerus; (b) bone graft to scapula (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/48924)
+48927
+
+     Shoulder prosthesis, removal of (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/48927)
+49112
+
+     Radial head replacement of elbow, other than a service associated with a service to which item 49115 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49112)
+49115
+
+     Total or hemi humeral arthroplasty of elbow, excluding isolated radial head replacement and ligament stabilisation procedures, other than a service associated with a service to which item 49112 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49115)
+49116
+
+     ELBOW, total replacement arthroplasty of, revision procedure, including removal of prosthesis(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49116)
+49117
+
+     Revision of total replacement arthroplasty of elbow, including bone grafting and removal of prosthesis (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49117)
+49209
+
+     Prosthetic replacement of wrist or distal radioulnar joint, including either or both of the following (if performed): (a) ligament realignment; (b) tendon realignment (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49209)
+49210
+
+     Revision of total replacement arthroplasty of wrist or distal radioulnar joint, including any of the following (if performed): (a) ligament rebalancing; (b) removal of prosthesis; (c) tendon rebalancing (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49210)
+49315
+
+     Hip, arthroplasty of, unipolar or bipolar(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49315)
+49318
+
+     Total arthroplasty of hip, including minor bone grafting (if performed), other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49318)
+49319
+
+     Bilateral total arthroplasty of hip, including minor bone grafting (if performed), other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49319)
+49321
+
+     Total arthroplasty of hip, with internal fixation, including either or both of the following (if performed): (a) structural bone graft; (b) insertion of synthetic substitutes or metal augments; other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49321)
+49372
+
+     Revision arthroplasty of hip, with exchange of head or liner (or both) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49372)
+49374
+
+     Revision arthroplasty of hip, with exchange of head and acetabular shell or cup, including minor bone grafting (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49374)
+49376
+
+     Revision arthroplasty of hip, with exchange of head and acetabular shell or cup, including major bone grafting (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49376)
+49378
+
+     Revision arthroplasty of hip, with revision of femoral component (if there is no requirement for femoral osteotomy), including minor bone grafting (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49378)
+49380
+
+     Revision arthroplasty of hip, with revision of femoral and acetabular components (if femoral osteotomy is not required), including minor bone grafting (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49380)
+49382
+
+     Revision arthroplasty of hip, with revision of femoral and acetabular components (if femoral osteotomy is not required), including major bone grafting (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49382)
+49384
+
+     Revision arthroplasty of hip, for pelvic discontinuity, with revision of acetabular component (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49384)
+49386
+
+     Revision arthroplasty of hip, with revision of femoral component with femoral osteotomy, including minor bone grafting (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49386)
+49388
+
+     Revision arthroplasty of hip, including: (a) revision of both of the following: (i) femoral component with femoral osteotomy; (ii) acetabular component; and (b) minor bone grafting (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49388)
+49390
+
+     Revision arthroplasty of hip, including: (a) revision of both of the following: (i) femoral component with femoral osteotomy; (ii) acetabular component; and (b) major bone grafting (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49390)
+49392
+
+     Revision arthroplasty of hip, including: (a) either: (i) revision of femoral component with femoral osteotomy; or (ii) proximal femoral replacement; and (b) revision of acetabular component for pelvic discontinuity (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49392)
+49394
+
+     Revision arthroplasty of hip, including: (a) replacement of proximal femur; and (b) revision of the acetabular component; and (c) bone grafting (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49394)
+49396
+
+     Revision arthroplasty of hip, including: (a) removal of prosthesis as stage 1 of a 2-stage revision arthroplasty or as a definitive stage procedure; and (b) insertion of temporary prosthesis (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49396)
+49398
+
+     Revision arthroplasty of hip, including: (a) revision of femoral component for periprosthetic fracture; and (b) internal fixation; and (c) bone grafting (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49398)
+49515
+
+     Removal of cemented or uncemented knee prosthesis, performed as the first stage of a 2-stage procedure; including: (a) removal of associated cement; and (b) insertion of spacer (if required) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49515)
+49516
+
+     Bilateral unicompartmental arthroplasty of femur and proximal tibia of knee (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49516)
+49517
+
+     Unicompartmental arthroplasty of femur and proximal tibia of knee (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49517)
+49518
+
+     Total replacement arthroplasty of knee, including either or both of the following (if performed): (a) revision of patello-femoral joint replacement to total knee replacement; (b) patellar resurfacing; other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49518)
+49519
+
+     Bilateral total replacement arthroplasty of knee, including patellar resurfacing, other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49519)
+49521
+
+     Complex primary arthroplasty of knee, with revision of components to femur or tibia, including either or both of the following (if performed): (a) ligament reconstruction; (b) patellar resurfacing; other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49521)
+49524
+
+     Complex primary arthroplasty of knee, with revision of components to femur and tibia, including either or both of the following (if performed): (a) ligament reconstruction; (b) patellar resurfacing; other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49524)
+49525
+
+     Revision of uni-compartmental arthroplasty of the knee, with femoral or tibial components (or both) with uni-compartmental implants, other than a service associated with a service to which: (a) item 48245, 48248, 48251, 48254 or 48257 applies; or (b) another item in this Group applies if the service describedin the other item is for the purpose of performing surgery on a knee (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49525)
+49527
+
+     Minor revision of total or partial replacement of knee, including either or both of the following: (a) exchange of polyethylene component (including uni); (b) insertion of patellar component; other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49527)
+49530
+
+     Revision of total or partial replacement of knee, with exchange of femoral or tibial component: (a) excluding revision of unicompartmental with unicompartmental implants; and (b) including patellar resurfacing (if performed); other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49530)
+49533
+
+     Revision of total or partial replacement of knee, with exchange of femoral and tibial components, excluding revision of unicompartmental with unicompartmental implants, including patellar resurfacing (if performed), other than a service associated with a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49533)
+49534
+
+     Replacement of patella and trochlea of patello-femoral joint of knee, performed as a primary procedure (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49534)
+49554
+
+     Revision of total replacement of knee, by anatomic specific allograft of tibia or femur, other than a service to which item 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49554)
+49715
+
+     Total replacement of ankle, with prosthetic replacement of ankle joint, including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) removal of osteophytes at joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49715)
+49716
+
+     Revision of total ankle replacement: (a) including either: (i) exchange of tibial or talar components (or both) and plastic inserts; or (ii) removal of tibial or talar components (or both) and plastic inserts; and (b) including any of the following (if performed): (i) insertion of cement spacer for infection; (ii) capsulotomy; (iii) joint release; (iv) neurolysis; (v) debridement of cysts; (vi) synovectomy; (vii) joint debridement other than a service associated with a service to which 30023 applies. (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49716)
+49717
+
+     Revision of total ankle replacement: (a) including either: (i) exchange of tibial and talar components; or (ii) removal of tibial and talar components and conversion to ankle arthrodesis; and (b) including both of the following (iii) internal or external fixation, by any means; (iv) major bone grafting; and (c) including any of the following (if performed): (i) capsulotomy; (ii) joint release; (iii) neurolysis; (iv) debridement and extensive grafting of cysts; (v) synovectomy; (vi) joint debridement; other than a service associated with a service to which item 30023, 48245, 48248, 48251, 48254 or 48257 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49717)
+49782
+
+     Revision of total ankle replacement, including: (a) bone grafting of perioperative cysts to the tibia or talus (or both); and (b) retention of implants; and (c) any of the following (if performed): (i) capsulotomy; (ii) joint release; (iii) neurolysis; (iv) debridement and grafting of cysts; (v) synovectomy; (vi) joint debridement; other than a service associated with a service to which item 30023 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49782)
+49839
+
+     Total replacement of first metatarsophalangeal joint, with replacement of both joint surfaces, including any of the following (if performed): (a) capsulotomy; (b) synovectomy; (c) joint debridement (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49839)
+49857
+
+     Hemi joint replacement of first or lesser metatarsophalangeal joint, including any of the following (if performed): (a) capsulotomy; (b) synovectomy; (c) joint debridement (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReplacements/49857)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

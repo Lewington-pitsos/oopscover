@@ -1,0 +1,1006 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Heart and vascular system - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+6080
+
+     Coordination of a TAVI Case Conference by a TAVI Practitioner where the TAVI Case Conference has a duration of 10 minutes or more. (Not payable more than once per patient in a five year period.) [](/dynamic/MBSItems/HeartVascular/6080)
+6081
+
+     Attendance at a TAVI Case Conference by a specialist or consultant physician who does not also perform the service described in item 6080 for the same case conference where the TAVI Case Conference has a duration of 10 minutes or more. (Not payable more than twice per patient in a five year period.) [](/dynamic/MBSItems/HeartVascular/6081)
+6082
+
+     Attendance at a TMVr suitability case conference, by a cardiothoracic surgeon or an interventional cardiologist, to coordinate the conference, if: (a) the attendance lasts at least 10 minutes; and (b) the surgeon or cardiologist is accredited by the TMVr accreditation committee to perform the service Applicable once each 5 years [](/dynamic/MBSItems/HeartVascular/6082)
+6084
+
+     Attendance at a TMVr suitability case conference, by a specialist or consultant physician, other than to coordinate the conference, if the attendance lasts at least 10 minutes Applicable once each 5 years [](/dynamic/MBSItems/HeartVascular/6084)
+11607
+
+     Continuous ambulatory blood pressure recording for 24 hours or more for a patient if: (a) the patient has a clinic blood pressure measurement (using a sphygmomanometer or a validated oscillometric blood pressure monitoring device) of either or both of the following measurements: (i) systolic blood pressure greater than or equal to 140 mmHg and less than or equal to 180 mmHg; (ii) diastolic blood pressure greater than or equal to 90 mmHg and less than or equal to 110 mmHg; and (b) the patient has not commenced anti-hypertensive therapy; and (c) the recording includes the patient’s resting blood pressure; and (d) the recording is conducted using microprocessor-based analysis equipment; and (e) the recording is interpreted by a medical practitioner and a report is prepared by the same medical practitioner; and (f) a treatment plan is provided for the patient; and (g) the service: (i) is not provided in association with ambulatory electrocardiogram recording, and (ii) is not associated with a service to which any of the following items apply: (A) 177; (B) 224 to 228; (C) 229 to 244; (D) 699; (E) 701 to 707; (F) 715; (G) 721 to 732; (H) 735 to 758. Applicable only once in any 12 month period [](/dynamic/MBSItems/HeartVascular/11607)
+13400
+
+     Restoration of cardiac rhythm by electrical stimulation (cardioversion), other than in the course of cardiac surgery (H) (Anaes.) [](/dynamic/MBSItems/HeartVascular/13400)
+32500
+
+     Varicose veins, multiple injections of sclerosant using continuous compression techniques, including associated consultation, one or both legs, if: (a) proximal reflux of 0.5 seconds or longer has been demonstrated; and (b) the service is not for cosmetic purposes; and (c) the service is not associated with: (i) any other varicose vein operation on the same leg (excluding aftercare); or (ii) a service on the same leg (excluding aftercare) to which any of the following items apply: (A) 35200; (B) 59970 to 60078; (C) 60500 to 60509; (D) 61109 Applicable to a maximum of 6 treatments in a 12 month period (Anaes.) [](/dynamic/MBSItems/HeartVascular/32500)
+32504
+
+     VARICOSE VEINS, multiple excision of tributaries, with or without division of 1 or more perforating veins - 1 leg - not being a service associated with a service to which item 32507, 32508, 32511, 32514 or 32517 applies on the same leg (Anaes.) [](/dynamic/MBSItems/HeartVascular/32504)
+32507
+
+     Varicose veins, sub-fascial ligation of one or more incompetent perforating veins in one leg of a patient, if the service: (a) is performed by open surgical technique (not including endoscopic ligation) and the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (i) ache; (ii) pain; (iii) tightness; (iv) skin irritation; (v) heaviness; (vi) muscle cramps; (vii) limb swelling; (viii) discolouration; (ix) discomfort; (x) any other signs or symptoms attributable to venous dysfunction; and (b) is not associated with: (i) any other varicose vein operation on the same leg; or (ii) a service (on the same leg) to which item 35200, 60072, 60075 or 60078 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32507)
+32508
+
+     Varicose veins, complete dissection at the sapheno-femoral or sapheno-popliteal junction, with or without either ligation or stripping, or both, of the great or small saphenous veins in one leg of a patient, for the first time on the same leg, including excision or injection of either tributaries or incompetent perforating veins, or both, if the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (a) ache; (b) pain; (c) tightness; (d) skin irritation; (e) heaviness; (f) muscle cramps; (g) limb swelling; (h) discolouration; (i) discomfort; (j) any other signs or symptoms attributable to venous dysfunction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32508)
+32511
+
+     Varicose veins, complete dissection at the sapheno-femoral and sapheno-popliteal junction, with or without either ligation or stripping, or both, of the great or small saphenous veins in one leg of a patient, for the first time on the same leg, including excision or injection of either tributaries or incompetent perforating veins, or both, if the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (a) ache; (b) pain; (c) tightness; (d) skin irritation; (e) heaviness; (f) muscle cramps; (g) limb swelling; (h) discolouration; (i) discomfort; (j) any other signs or symptoms attributable to venous dysfunction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32511)
+32514
+
+     Varicose veins, ligation of the great or small saphenous vein in the same leg of a patient, with or without stripping, by re-operation for recurrent veins in the same territory—one leg—including excision or injection of either tributaries or incompetent perforating veins, or both, if the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (a) ache; (b) pain; (c) tightness; (d) skin irritation; (e) heaviness; (f) muscle cramps; (g) limb swelling; (h) discolouration; (i) discomfort; (j) any other signs or symptoms attributable to venous dysfunction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32514)
+32517
+
+     Varicose veins, ligation of the great and small saphenous vein in the same leg of a patient, with or without stripping, by re-operation for recurrent veins in either territory—one leg—including excision or injection of either tributaries or incompetent perforating veins, or both, if the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (a) ache; (b) pain; (c) tightness; (d) skin irritation; (e) heaviness; (f) muscle cramps; (g) limb swelling; (h) discolouration; (i) discomfort; (j) any other signs or symptoms attributable to venous dysfunction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32517)
+32520
+
+     Varicose veins, abolition of venous reflux by occlusion of a primary or recurrent great or small saphenous vein (and major tributaries of saphenous veins as necessary) in one leg of a patient, using a laser probe introduced by an endovenous catheter, if all of the following apply: (a) it is documented by duplex ultrasound that the great or small saphenous vein (whichever is to be treated) of the patient demonstrates reflux of 0.5 seconds or longer; (b) the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (i) ache; (ii) pain; (iii) tightness; (iv) skin irritation; (v) heaviness; (vi) muscle cramps; (vii) limb swelling; (viii) discolouration; (ix) discomfort; (x) any other signs or symptoms attributable to venous dysfunction; (c) the service does not include radiofrequency diathermy, radiofrequency ablation or cyanoacrylate adhesive; (d) the service is not associated with a service (on the same leg) to which any of the following items apply: (i) 32500 to 32507; (ii) 35200; (iii) 59970 to 60021; (iv) 60036 to 60045; (v) 60060 to 60078; (vi) 60500 to 60509; (vii) 61109 The service includes all preparation and immediate clinical aftercare (including excision or injection of either tributaries or incompetent perforating veins, or both) (Anaes.) [](/dynamic/MBSItems/HeartVascular/32520)
+32522
+
+     Varicose veins, abolition of venous reflux by occlusion of a primary or recurrent great and small saphenous vein (and major tributaries of saphenous veins as necessary) in one leg of a patient, using a laser probe introduced by an endovenous catheter, if all of the following apply: (a) it is documented by duplex ultrasound that the great and small saphenous veins of the patient demonstrate reflux of 0.5 seconds or longer; (b) the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (i) ache; (ii) pain; (iii) tightness; (iv) skin irritation; (v) heaviness; (vi) muscle cramps; (vii) limb swelling; (viii) discolouration; (ix) discomfort; (x) any other signs or symptoms attributable to venous dysfunction; (c) the service does not include radiofrequency diathermy, radiofrequency ablation or cyanoacrylate adhesive; (d) the service is not associated with a service (on the same leg) to which any of the following items apply: (i) 32500 to 32507; (ii) 35200; (iii) 59970 to 60021; (iv) 60036 to 60045; (v) 60060 to 60078; (vi) 60500 to 60509; (vii) 61109 The service includes all preparation and immediate clinical aftercare (including excision or injection of either tributaries or incompetent perforating veins, or both) (Anaes.) [](/dynamic/MBSItems/HeartVascular/32522)
+32523
+
+     Varicose veins, abolition of venous reflux by occlusion of a primary or recurrent great or small saphenous vein (and major tributaries of saphenous veins as necessary) in one leg of a patient, using a radiofrequency catheter introduced by an endovenous catheter, if all of the following apply: (a) it is documented by duplex ultrasound that the great or small saphenous vein (whichever is to be treated) demonstrates reflux of 0.5 seconds or longer; (b) the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (i) ache; (ii) pain; (iii) tightness; (iv) skin irritation; (v) heaviness; (vi) muscle cramps; (vii) limb swelling; (viii) discolouration; (ix) discomfort; (x) any other signs or symptoms attributable to venous dysfunction; (c) the service does not include endovenous laser therapy or cyanoacrylate adhesive; (d) the service is not associated with a service (on the same leg) to which any of the following items apply: (i) 32500 to 32507; (ii) 35200; (iii) 59970 to 60021; (iv) 60036 to 60045; (v) 60060 to 60078; (vi) 60500 to 60509; (vii) 61109 The service includes all preparation and immediate clinical aftercare (including excision or injection of either tributaries or incompetent perforating veins, or both) (Anaes.) [](/dynamic/MBSItems/HeartVascular/32523)
+32526
+
+     Varicose veins, abolition of venous reflux by occlusion of a primary or recurrent great and small saphenous vein (and major tributaries of saphenous veins as necessary) in one leg of a patient, using a radiofrequency catheter introduced by an endovenous catheter, if all of the following apply: (a) it is documented by duplex ultrasound that the great and small saphenous veins demonstrate reflux of 0.5 seconds or longer; (b) the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (i) ache; (ii) pain; (iii) tightness; (iv) skin irritation; (v) heaviness; (vi) muscle cramps; (vii) limb swelling; (viii) discolouration; (ix) discomfort; (x) any other signs or symptoms attributable to venous dysfunction; (c) the service does not include endovenous laser therapy or cyanoacrylate adhesive; (d) the service is not associated with a service (on the same leg) to which any of the following items apply: (i) 32500 to 32507; (ii) 35200; (iii) 59970 to 60021; (iv) 60036 to 60045; (v) 60060 to 60078; (vi) 60500 to 60509; (vii) 61109 The service includes all preparation and immediate clinical aftercare (including excision or injection of either tributaries or incompetent perforating veins, or both) (Anaes.) [](/dynamic/MBSItems/HeartVascular/32526)
+32528
+
+     Varicose veins, abolition of venous reflux by occlusion of a primary or recurrent great or small saphenous vein (and major tributaries of saphenous veins as necessary) in one leg of a patient, using cyanoacrylate adhesive, if all of the following apply: (a) it is documented by duplex ultrasound that the great or small saphenous vein (whichever is to be treated) demonstrates reflux of 0.5 seconds or longer; (b) the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (i) ache; (ii) pain; (iii) tightness; (iv) skin irritation; (v) heaviness; (vi) muscle cramps; (vii) limb swelling; (viii) discolouration; (ix) discomfort; (x) any other signs or symptoms attributable to venous dysfunction; (c) the service does not include radiofrequency diathermy, radiofrequency ablation or endovenous laser therapy; (d) the service is not associated with a service (on the same leg) to which any of the following items apply: (i) 32500 to 32507; (ii) 35200; (iii) 59970 to 60021; (iv) 60036 to 60045; (v) 60060 to 60078; (vi) 60500 to 60509; (vii) 61109 The service include all preparation and immediate clinical aftercare (including excision or injection of either tributaries or incompetent perforating veins, or both) (Anaes.) [](/dynamic/MBSItems/HeartVascular/32528)
+32529
+
+     Varicose veins, abolition of venous reflux by occlusion of a primary or recurrent great and small saphenous vein (and major tributaries of saphenous veins as necessary) in one leg of a patient, using cyanoacrylate adhesive, if all of the following apply: (a) it is documented by duplex ultrasound that the great and small saphenous veins demonstrate reflux of 0.5 seconds or longer; (b) the patient has significant signs or symptoms (including one or more of the following signs or symptoms) attributable to venous reflux: (i) ache; (ii) pain; (iii) tightness; (iv) skin irritation; (v) heaviness; (vi) muscle cramps; (vii) limb swelling; (viii) discolouration; (ix) discomfort; (x) any other signs or symptoms attributable to venous dysfunction; (c) the service does not include radiofrequency diathermy, radiofrequency ablation or endovenous laser therapy; (d) the service is not associated with a service (on the same leg) to which any of the following items apply: (i) 32500 to 32507; (ii) 35200; (iii) 59970 to 60021; (iv) 60036 to 60045; (v) 60060 to 60078; (vi) 60500 to 60509; (vii) 61109 The service includes all preparation and immediate clinical aftercare (including excision or injection of either tributaries or incompetent perforating veins, or both) (Anaes.) [](/dynamic/MBSItems/HeartVascular/32529)
+32700
+
+     ARTERY OF NECK, bypass using vein or synthetic material (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32700)
+32703
+
+     INTERNAL CAROTID ARTERY, transection and reanastomosis of, or resection of small length and reanastomosis of - with or without endarterectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32703)
+32708
+
+     AORTIC BYPASS for occlusive disease using a straight non-bifurcated graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32708)
+32710
+
+     AORTIC BYPASS for occlusive disease using a bifurcated graft with 1 or both anastomoses to the iliac arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32710)
+32711
+
+     AORTIC BYPASS for occlusive disease using a bifurcated graft with 1 or both anastomoses to the common femoral or profunda femoris arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32711)
+32712
+
+     ILIO-FEMORAL BYPASS GRAFTING (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32712)
+32715
+
+     AXILLARY or SUBCLAVIAN TO FEMORAL BYPASS GRAFTING to 1 or both FEMORAL ARTERIES (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32715)
+32718
+
+     FEMORO-FEMORAL OR ILIO-FEMORAL CROSS-OVER BYPASS GRAFTING (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32718)
+32721
+
+     RENAL ARTERY, bypass grafting to (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32721)
+32724
+
+     RENAL ARTERIES (both), bypass grafting to (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32724)
+32730
+
+     MESENTERIC VESSEL (single), bypass grafting to (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32730)
+32733
+
+     MESENTERIC VESSELS (multiple), bypass grafting to (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32733)
+32736
+
+     INFERIOR MESENTERIC ARTERY, operation on, when performed in conjunction with another intra-abdominal vascular operation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32736)
+32739
+
+     FEMORAL ARTERY BYPASS GRAFTING using vein, including harvesting of vein (when it is the ipsilateral long saphenous vein) with above knee anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32739)
+32742
+
+     FEMORAL ARTERY BYPASS GRAFTING using vein, including harvesting of vein (when it is the ipsilateral long saphenous vein) with distal anastomosis to below knee popliteal artery (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32742)
+32745
+
+     FEMORAL ARTERY BYPASS GRAFTING using vein, including harvesting of vein (when it is the ipsilateral long saphenous vein) with distal anastomosis to tibio peroneal trunk or tibial or peroneal artery (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32745)
+32748
+
+     FEMORAL ARTERY BYPASS GRAFTING using vein, including harvesting of vein (when it is the ipsilateral long saphenous vein) with distal anastomosis within 5cms of the ankle joint (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32748)
+32751
+
+     FEMORAL ARTERY BYPASS GRAFTING using synthetic graft, with lower anastomosis above or below the knee (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32751)
+32754
+
+     FEMORAL ARTERY BYPASS GRAFTING, using a composite graft (synthetic material and vein) with lower anastomosis above or below the knee, including use of a cuff or sleeve of vein at 1 or both anastomoses (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32754)
+32757
+
+     FEMORAL ARTERY SEQUENTIAL BYPASS GRAFTING, (using a vein or synthetic material) where an additional anastomosis is made to separately revascularise more than 1 artery - each additional artery revascularised beyond a femoral bypass (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32757)
+32760
+
+     VEIN, HARVESTING OF, FROM LEG OR ARM for bypass or replacement graft when not performed on the limb which is the subject of the bypass or graft - each vein (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32760)
+32763
+
+     ARTERIAL BYPASS GRAFTING, using vein or synthetic material, not being a service to which another item in this Sub-group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32763)
+32766
+
+     ARTERIAL OR VENOUS ANASTOMOSIS, not being a service to which another item in this Sub-group applies, as an independent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32766)
+32769
+
+     ARTERIAL OR VENOUS ANASTOMOSIS not being a service to which another item in this Sub-group applies, when performed in combination with another vascular operation (including graft to graft anastomosis) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/32769)
+33050
+
+     BYPASS GRAFTING to replace a popliteal aneurysm using vein, including harvesting vein (when it is the ipsilateral long saphenous vein) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33050)
+33055
+
+     BYPASS GRAFTING to replace a popliteal aneurysm using a synthetic graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33055)
+33070
+
+     ANEURYSM IN THE EXTREMITIES, ligation, suture closure or excision of, without bypass grafting (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33070)
+33075
+
+     ANEURYSM IN THE NECK, ligation, suture closure or excision of, without bypass grafting (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33075)
+33080
+
+     INTRA-ABDOMINAL OR PELVIC ANEURYSM, ligation, suture closure or excision of, without bypass grafting (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33080)
+33100
+
+     ANEURYSM OF COMMON OR INTERNAL CAROTID ARTERY, OR BOTH, replacement by graft of vein or synthetic material (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33100)
+33103
+
+     THORACIC ANEURYSM, replacement by graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33103)
+33109
+
+     THORACO-ABDOMINAL ANEURYSM, replacement by graft including re-implantation of arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33109)
+33112
+
+     SUPRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by graft including re-implantation of arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33112)
+33115
+
+     INFRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by tube graft, not being a service associated with a service to which item 33116 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33115)
+33116
+
+     INFRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by tube graft using endovascular repair procedure, excluding associated radiological services (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33116)
+33118
+
+     INFRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by bifurcation graft to iliac arteries (with or without excision of common iliac aneurysms) not being a service associated with a service to which item 33119 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33118)
+33119
+
+     INFRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by bifurcation graft to one or both iliac arteries using endovascular repair procedure, excluding associated radiological services (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33119)
+33121
+
+     INFRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by bifurcation graft to 1 or both femoral arteries (with or without excision or bypass of common iliac aneurysms) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33121)
+33124
+
+     ANEURYSM OF ILIAC ARTERY (common, external or internal), replacement by graft - unilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33124)
+33127
+
+     ANEURYSMS OF ILIAC ARTERIES (common, external or internal), replacement by graft - bilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33127)
+33130
+
+     ANEURYSM OF VISCERAL ARTERY, excision and repair by direct anastomosis or replacement by graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33130)
+33133
+
+     ANEURYSM OF VISCERAL ARTERY, dissection and ligation of arteries without restoration of continuity (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33133)
+33136
+
+     FALSE ANEURYSM, repair of, at aortic anastomosis following previous aortic surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33136)
+33139
+
+     FALSE ANEURYSM, repair of, in iliac artery and restoration of arterial continuity (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33139)
+33142
+
+     FALSE ANEURYSM, repair of, in femoral artery and restoration of arterial continuity (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33142)
+33145
+
+     RUPTURED THORACIC AORTIC ANEURYSM, replacement by graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33145)
+33148
+
+     RUPTURED THORACO-ABDOMINAL AORTIC ANEURYSM, replacement by graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33148)
+33151
+
+     RUPTURED SUPRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33151)
+33154
+
+     RUPTURED INFRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by tube graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33154)
+33157
+
+     RUPTURED INFRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by bifurcation graft to iliac arteries (with or without excision or bypass of common iliac aneurysms) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33157)
+33160
+
+     RUPTURED INFRARENAL ABDOMINAL AORTIC ANEURYSM, replacement by bifurcation graft to 1 or both femoral arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33160)
+33163
+
+     RUPTURED ILIAC ARTERY ANEURYSM, replacement by graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33163)
+33166
+
+     RUPTURED ANEURYSM OF VISCERAL ARTERY, replacement by anastomosis or graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33166)
+33169
+
+     RUPTURED ANEURYSM OF VISCERAL ARTERY, simple ligation of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33169)
+33172
+
+     ANEURYSM OF MAJOR ARTERY, replacement by graft, not being a service to which another item in this Sub-group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33172)
+33175
+
+     RUPTURED ANEURYSM IN THE EXTREMITIES, ligation, suture closure or excision of, without bypass grafting (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33175)
+33178
+
+     RUPTURED ANEURYSM IN THE NECK, ligation, suture closure or excision of, without bypass grafting (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33178)
+33181
+
+     RUPTURED INTRA-ABDOMINAL OR PELVIC ANEURYSM, ligation, suture closure or excision of, without bypass grafting (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33181)
+33500
+
+     ARTERY OR ARTERIES OF NECK, endarterectomy of, including closure by suture (where endarterectomy of 1 or more arteries is undertaken through 1 arteriotomy incision) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33500)
+33506
+
+     INNOMINATE OR SUBCLAVIAN ARTERY, endarterectomy of, including closure by suture (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33506)
+33509
+
+     AORTIC ENDARTERECTOMY, including closure by suture, not being a service associated with another procedure on the aorta (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33509)
+33512
+
+     AORTO-ILIAC ENDARTERECTOMY (1 or both iliac arteries), including closure by suture not being a service associated with a service to which item 33515 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33512)
+33515
+
+     AORTO-FEMORAL ENDARTERECTOMY (1 or both femoral arteries) or BILATERAL ILIO-FEMORAL ENDARTERECTOMY, including closure by suture, not being a service associated with a service to which item 33512 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33515)
+33518
+
+     ILIAC ENDARTERECTOMY, including closure by suture, not being a service associated with another procedure on the iliac artery (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33518)
+33521
+
+     ILIO-FEMORAL ENDARTERECTOMY (1 side), including closure by suture (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33521)
+33524
+
+     RENAL ARTERY, endarterectomy of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33524)
+33527
+
+     RENAL ARTERIES (both), endarterectomy of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33527)
+33530
+
+     COELIAC OR SUPERIOR MESENTERIC ARTERY, endarterectomy of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33530)
+33533
+
+     COELIAC AND SUPERIOR MESENTERIC ARTERY, endarterectomy of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33533)
+33536
+
+     INFERIOR MESENTERIC ARTERY, endarterectomy of, not being a service associated with a service to which another item in this Sub-group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33536)
+33539
+
+     ARTERY OF EXTREMITIES, endarterectomy of, including closure by suture (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33539)
+33542
+
+     EXTENDED DEEP FEMORAL ENDARTERECTOMY where the endarterectomy is at least 7cms long (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33542)
+33545
+
+     ARTERY, VEIN OR BYPASS GRAFT, patch grafting to by vein or synthetic material where patch is less than 3cm long (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33545)
+33548
+
+     ARTERY, VEIN OR BYPASS GRAFT, patch grafting to by vein or synthetic material where patch is 3cm long or greater (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33548)
+33551
+
+     VEIN, harvesting of from leg or arm for patch when not performed through same incision as operation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33551)
+33554
+
+     ENDARTERECTOMY, in conjunction with an arterial bypass operation to prepare the site for anastomosis - each site (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33554)
+33800
+
+     EMBOLUS, removal of, from artery of neck (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33800)
+33803
+
+     EMBOLECTOMY or THROMBECTOMY, by abdominal approach, of an artery or bypass graft of trunk (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33803)
+33806
+
+     Embolectomy or thrombectomy (including the infusion of thrombolytic or other agents) from an artery or bypass graft of extremities, or embolectomy of abdominal artery via the femoral artery, item to be claimed once per extremity, regardless of the number of incisions required to access the artery or bypass graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33806)
+33810
+
+     INFERIOR VENA CAVA OR ILIAC VEIN, closed thrombectomy by catheter via the femoral vein (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33810)
+33811
+
+     INFERIOR VENA CAVA OR ILIAC VEIN, open removal of thrombus or tumour (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33811)
+33812
+
+     THROMBUS, removal of, from femoral or other similar large vein (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33812)
+33815
+
+     MAJOR ARTERY OR VEIN OF EXTREMITY, repair of wound of, with restoration of continuity, by lateral suture (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33815)
+33818
+
+     MAJOR ARTERY OR VEIN OF EXTREMITY, repair of wound of, with restoration of continuity, by direct anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33818)
+33821
+
+     MAJOR ARTERY OR VEIN OF EXTREMITY, repair of wound of, with restoration of continuity, by interposition graft of synthetic material or vein (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33821)
+33824
+
+     MAJOR ARTERY OR VEIN OF NECK, repair of wound of, with restoration of continuity, by lateral suture (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33824)
+33827
+
+     MAJOR ARTERY OR VEIN OF NECK, repair of wound of, with restoration of continuity, by direct anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33827)
+33830
+
+     MAJOR ARTERY OR VEIN OF NECK, repair of wound of, with restoration of continuity, by interposition graft of synthetic material or vein (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33830)
+33833
+
+     MAJOR ARTERY OR VEIN OF ABDOMEN, repair of wound of, with restoration of continuity by lateral suture (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33833)
+33836
+
+     MAJOR ARTERY OR VEIN OF ABDOMEN, repair of wound of, with restoration of continuity by direct anastomosis (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33836)
+33839
+
+     MAJOR ARTERY OR VEIN OF ABDOMEN, repair of wound of, with restoration of continuity by means of interposition graft (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33839)
+33842
+
+     ARTERY OF NECK, re-operation for bleeding or thrombosis after carotid or vertebral artery surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33842)
+33845
+
+     LAPAROTOMY for control of post operative bleeding or thrombosis after intra-abdominal vascular procedure, where no other procedure is performed (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33845)
+33848
+
+     EXTREMITY, re-operation on, for control of bleeding or thrombosis after vascular procedure, where no other procedure is performed (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/33848)
+34100
+
+     MAJOR ARTERY OF NECK, elective ligation or exploration of, not being a service associated with any other vascular procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34100)
+34103
+
+     Great artery (aorta or pulmonary artery) or great vein (superior or inferior vena cava), ligation or exploration of immediate branches or tributaries, or ligation or exploration of the subclavian, axillary, iliac, femoral or popliteal arteries or veins, if the service is not associated with item 32508, 32511, 32520, 32522, 32523, 32526, 32528 or 32529 - for a maximum of 2 services provided to the same patient on the same occasion (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34103)
+34106
+
+     ARTERY OR VEIN (including brachial, radial, ulnar or tibial), ligation of, by elective operation, or exploration of, not being a service associated with any other vascular procedure except those services to which items 32508, 32511, 32514 or 32517 apply (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34106)
+34109
+
+     TEMPORAL ARTERY, biopsy of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34109)
+34112
+
+     ARTERIO-VENOUS FISTULA OF AN EXTREMITY, dissection and ligation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34112)
+34115
+
+     ARTERIO-VENOUS FISTULA OF THE NECK, dissection and ligation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34115)
+34118
+
+     ARTERIO-VENOUS FISTULA OF THE ABDOMEN, dissection and ligation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34118)
+34121
+
+     ARTERIO-VENOUS FISTULA OF AN EXTREMITY, dissection and repair of, with restoration of continuity (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34121)
+34124
+
+     ARTERIO-VENOUS FISTULA OF THE NECK, dissection and repair of, with restoration of continuity (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34124)
+34127
+
+     ARTERIO-VENOUS FISTULA OF THE ABDOMEN, dissection and repair of, with restoration of continuity (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34127)
+34130
+
+     SURGICALLY CREATED ARTERIO-VENOUS FISTULA OF AN EXTREMITY, closure of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34130)
+34142
+
+     COELIAC ARTERY, decompression of, for coeliac artery compression syndrome, as an independent procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34142)
+34145
+
+     POPLITEAL ARTERY, exploration of, for popliteal entrapment, with or without division of fibrous tissue and muscle (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34145)
+34148
+
+     CAROTID ASSOCIATED TUMOUR, resection of, with or without repair or reconstruction of internal or common carotid arteries, when tumour is 4cm or less in maximum diameter (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34148)
+34151
+
+     CAROTID ASSOCIATED TUMOUR, resection of, with or without repair or reconstruction of internal or common carotid arteries, when tumour is greater than 4cm in maximum diameter (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34151)
+34154
+
+     RECURRENT CAROTID ASSOCIATED TUMOUR, resection of, with or without repair or replacement of portion of internal or common carotid arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34154)
+34157
+
+     NECK, excision of infected bypass graft, including closure of vessel or vessels (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34157)
+34160
+
+     AORTO-DUODENAL FISTULA, repair of, by suture of aorta and repair of duodenum (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34160)
+34163
+
+     AORTO-DUODENAL FISTULA, repair of, by insertion of aortic graft and repair of duodenum (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34163)
+34166
+
+     AORTO-DUODENAL FISTULA, repair of, by oversewing of abdominal aorta, repair of duodenum and axillo-bifemoral grafting (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34166)
+34169
+
+     INFECTED BYPASS GRAFT FROM TRUNK, excision of, including closure of arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34169)
+34172
+
+     INFECTED AXILLO-FEMORAL OR FEMORO-FEMORAL GRAFT, excision of, including closure of arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34172)
+34175
+
+     INFECTED BYPASS GRAFT FROM EXTREMITIES, excision of including closure of arteries (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34175)
+34500
+
+     ARTERIOVENOUS SHUNT, EXTERNAL, insertion of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34500)
+34503
+
+     ARTERIOVENOUS ANASTOMOSIS OF UPPER OR LOWER LIMB, in conjunction with another venous or arterial operation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34503)
+34506
+
+     ARTERIOVENOUS SHUNT, EXTERNAL, removal of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34506)
+34509
+
+     ARTERIOVENOUS ANASTOMOSIS OF UPPER OR LOWER LIMB, not in conjunctionwith another venous or arterial operation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34509)
+34512
+
+     ARTERIOVENOUS ACCESS DEVICE, insertion of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34512)
+34515
+
+     ARTERIOVENOUS ACCESS DEVICE, thrombectomy of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34515)
+34518
+
+     STENOSIS OF ARTERIOVENOUS FISTULA OR PROSTHETIC ARTERIOVENOUS ACCESS DEVICE, correction of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34518)
+34800
+
+     INFERIOR VENA CAVA, plication, ligation, or application of caval clip (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34800)
+34803
+
+     INFERIOR VENA CAVA, reconstruction of or bypass by vein or synthetic material (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34803)
+34806
+
+     CROSS LEG BYPASS GRAFTING, saphenous to iliac or femoral vein (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34806)
+34809
+
+     SAPHENOUS VEIN ANASTOMOSIS to femoral or popliteal vein for femoral vein bypass (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34809)
+34812
+
+     VENOUS STENOSIS OR OCCLUSION, vein bypass for, using vein or synthetic material, not being a service associated with a service to which item 34806 or 34809 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34812)
+34815
+
+     VEIN STENOSIS, patch angioplasty for, (excluding vein graft stenosis)-using vein or synthetic material (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34815)
+34818
+
+     VENOUS VALVE, plication or repair to restore valve competency (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34818)
+34821
+
+     VEIN TRANSPLANT to restore valvular function (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34821)
+34824
+
+     EXTERNAL STENT, application of, to restore venous valve competency to superficial vein - 1 stent (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34824)
+34827
+
+     EXTERNAL STENTS, application of, to restore venous valve competency to superficial vein or veins - more than 1 stent (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34827)
+34830
+
+     EXTERNAL STENT, application of, to restore venous valve competency to deep vein (1 stent) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34830)
+34833
+
+     EXTERNAL STENTS, application of, to restore venous valve competency to deep vein or veins (more than 1 stent) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/34833)
+35100
+
+     ISCHAEMIC LIMB, debridement of necrotic material, gangrenous tissue, or slough in, in the operating theatre of a hospital, when debridement includes muscle, tendon or bone (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35100)
+35103
+
+     ISCHAEMIC LIMB, debridement of necrotic material, gangrenous tissue, or slough in, in the operating theatre of a hospital, superficial tissue only (Anaes.) [](/dynamic/MBSItems/HeartVascular/35103)
+35200
+
+     OPERATIVE ARTERIOGRAPHY OR VENOGRAPHY, 1 or more of, performed during the course of an operative procedure on an artery or vein, 1 site (Anaes.) [](/dynamic/MBSItems/HeartVascular/35200)
+35202
+
+     MAJOR ARTERIES OR VEINS IN THE NECK, ABDOMEN OR EXTREMITIES, access to, as part of RE-OPERATION after prior surgery on these vessels (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35202)
+35300
+
+     TRANSLUMINAL BALLOON ANGIOPLASTY of 1 peripheral artery or vein of 1 limb, percutaneous or by open exposure, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35300)
+35303
+
+     TRANSLUMINAL BALLOON ANGIOPLASTY of aortic arch branches, aortic visceral branches, or more than 1 peripheral artery or vein of 1 limb, percutaneous or by open exposure, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35303)
+35306
+
+     TRANSLUMINAL STENT INSERTION, 1 or more stents, including associated balloon dilatation for 1 peripheral artery or vein of 1 limb, percutaneous or by open exposure, excluding associated radiological services or preparation, and excluding aftercare. (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35306)
+35307
+
+     TRANSLUMINAL STENT INSERTION, 1 or more stents (not drug-eluting), with or without associated balloon dilatation, for 1 carotid artery, percutaneous (not direct), with or without the use of an embolic protection device, in patients who: -meet the indications for carotid endarterectomy; and -have medical or surgical comorbidities that would make them at high risk of perioperative complications from carotid endarterectomy, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35307)
+35309
+
+     TRANSLUMINAL STENT INSERTION, 1 or more stents, including associated balloon dilatation for visceral arteries or veins, or more than 1 peripheral artery or vein of 1 limb, percutaneous or by open exposure, excluding associated radiological services or preparation, and excluding aftercare. (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35309)
+35312
+
+     PERIPHERAL ARTERIAL ATHERECTOMY including associated balloon dilatation of 1 limb, percutaneous or by open exposure, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35312)
+35315
+
+     PERIPHERAL LASER ANGIOPLASTY including associated balloon dilatation of 1 limb, percutaneous or by open exposure, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35315)
+35317
+
+     PERIPHERAL ARTERIAL OR VENOUS CATHETERISATION with administration of thrombolytic or chemotherapeutic agents, BY CONTINUOUS INFUSION, using percutaneous approach, excluding associated radiological services or preparation, and excluding aftercare (not being a service associated with a service to which another item in Subgroup 11 of Group T1 or items 35319 or 35320 applies and not being a service associated with photodynamic therapy with verteporfin) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35317)
+35319
+
+     PERIPHERAL ARTERIAL OR VENOUS CATHETERISATION with administration of thrombolytic or chemotherapeutic agents, BY PULSE SPRAY TECHNIQUE, using percutaneous approach, excluding associated radiological services or preparation, and excluding aftercare (not being a service associated with a service to which another item in Subgroup 11 of Group T1 or items 35317 or 35320 applies and not being a service associated with photodynamic therapy with verteporfin) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35319)
+35320
+
+     PERIPHERAL ARTERIAL OR VENOUS CATHETERISATION with administration of thrombolytic or chemotherapeutic agents, BY OPEN EXPOSURE, excluding associated radiological services or preparation, and excluding aftercare (not being a service associated with a service to which another item in Subgroup 11 of Group T1 or items 35317 or 35319 applies and not being a service associated with photodynamic therapy with verteporfin) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35320)
+35321
+
+     PERIPHERAL ARTERIAL OR VENOUS CATHETERISATION to administer agents to occlude arteries, veins or arterio-venous fistulae or to arrest haemorrhage, (but not for the treatment of uterine fibroids or varicose veins) percutaneous or by open exposure, excluding associated radiological services or preparation, and excluding aftercare, not being a service associated with photodynamic therapy with verteporfin (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35321)
+35324
+
+     ANGIOSCOPY not combined with any other procedure, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35324)
+35327
+
+     ANGIOSCOPY combined with any other procedure, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35327)
+35330
+
+     INSERTION of INFERIOR VENA CAVAL FILTER, percutaneous or by open exposure, excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35330)
+35331
+
+     RETRIEVAL OF INFERIOR VENA CAVAL FILTER, percutaneous or by open exposure, not including associated radiological services or preparation, and not including aftercare (Anaes.) [](/dynamic/MBSItems/HeartVascular/35331)
+35360
+
+     Retrieval of foreign body in PULMONARY ARTERY, percutaneous or by open exposure, not including associated radiological services or preparation, and not including aftercare (foreign body does not include an instrument inserted for the purpose of a service being rendered) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35360)
+35361
+
+     Retrieval of foreign body in RIGHT ATRIUM, percutaneous or by open exposure, not including associated radiological services or preparation, and not including aftercare (foreign body does not include an instrument inserted for the purpose of a service being rendered) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35361)
+35362
+
+     Retrieval of foreign body in INFERIOR VENA CAVA or AORTA, percutaneous or by open exposure, not including associated radiological services or preparation, and not including aftercare (foreign body does not include an instrument inserted for the purpose of a service being rendered) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35362)
+35363
+
+     Retrieval of foreign body in PERIPHERAL VEIN or PERIPHERAL ARTERY, percutaneous or by open exposure, not including associated radiological services or preparation, and not including aftercare (foreign body does not include an instrument inserted for the purpose of a service being rendered) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/35363)
+38200
+
+     Right heart catheterisation with any one or more of the following: (a) fluoroscopy; (b) oximetry; (c) dye dilution curves; (d) cardiac output measurement by any method; (e) shunt detection; (f) exercise stress test; other than a service associated with a service to which item 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38254 or 38368 applies (Anaes.) [](/dynamic/MBSItems/HeartVascular/38200)
+38203
+
+     Left heart catheterisation by percutaneous arterial puncture, arteriotomy or percutaneous left ventricular puncture, with any one or more of the following: (a) fluoroscopy; (b) oximetry; (c) dye dilution curves; (d) cardiac output measurements by any method; (e) shunt detection; (f) exercise stress test; other than a service associated with a service to which item 38200, 38206, 38244, 38247, 38248, 38249, 38251, 38252 or 38254 applies (Anaes.) [](/dynamic/MBSItems/HeartVascular/38203)
+38206
+
+     Right heart catheterisation with left heart catheterisation via the right heart or by another procedure, with any one or more of the following: (a) fluoroscopy; (b) oximetry; (c) dye dilution curves; (d) cardiac output measurements by any method; (e) shunt detection; (f) exercise stress test; other than a service associated with a service to which item 38200, 38203, 38244, 38247, 38248, 38249, 38251, 38252 or 38254 applies (Anaes.) [](/dynamic/MBSItems/HeartVascular/38206)
+38209
+
+     CARDIAC ELECTROPHYSIOLOGICAL STUDYup to and including 3 catheter investigation of any 1 or more ofsyncope, atrioventricular conduction, sinus node function or simple ventricular tachycardia studies, not being a service associated with a service to which item 38212 or 38213 applies (Anaes.) [](/dynamic/MBSItems/HeartVascular/38209)
+38212
+
+     Cardiac electrophysiological study for: (a) the investigation of supraventricular tachycardia involving 4 or more catheters; or (b) complex tachycardia inductions; or (c) multiple catheter mapping; or (d) acute intravenous anti-arrhythmic drug testing with pre and post drug inductions; or (e) catheter ablation to intentionally induce complete atrioventricular block; or (f) intraoperative mapping; other than a service associated with a service to which item 38209 or 38213 applies (Anaes.) [](/dynamic/MBSItems/HeartVascular/38212)
+38213
+
+     Cardiac electrophysiological study, performed either: (a) during insertion of implantable defibrillator; or (b) for defibrillation threshold testing at a different time to implantation; other than a service associated with a service to which item 38209 or 38212 applies (Anaes.) [](/dynamic/MBSItems/HeartVascular/38213)
+38241
+
+     Use of a coronary pressure wire, if the service is: (a) performed during selective coronary angiography, percutaneous angioplasty or transluminal insertion of one or more stents; and (b) to measure fractional flow reserve, non-hyperaemic pressure ratios or coronary flow reserve in intermediate coronary artery or graft lesions (stenosis of 50 to 70%); and (c) to determine whether revascularisation is appropriate, if previous functional imaging: (i) has not been performed; or (ii) has been performed but the results are inconclusive or do not apply to the vessel being interrogated; and (d) performed on one or more coronary vascular territories (Anaes.) [](/dynamic/MBSItems/HeartVascular/38241)
+38244
+
+     Note: (acute coronary syndrome)the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.2 and TR.8.5 Selective coronary angiography: (a) for a patient who is eligible for the service under clause 5.10.17A; and (b) with placement of one or more catheters and injection of opaque material into native coronary arteries; and (c) with or without left heart catheterisation, left ventriculography or aortography; and (d) including all associated imaging; other than a service associated with a service to which 38200, 38203, 38206, 38247, 38248, 38249, 38251 or 38252 applies (Anaes.) [](/dynamic/MBSItems/HeartVascular/38244)
+38247
+
+     Note: (acute coronary syndrome - graft) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.2 and TR.8.5 Selective coronary and graft angiography: (a) for a patient who is eligible for the service under clause 5.10.17A; and (b) with placement of one or more catheters and injection of opaque material into the native coronary arteries; and (c) if free coronary grafts attached to the aorta or direct internal mammary artery grafts are present—with placement of one or more catheters and injection of opaque material into those grafts (irrespective of the number of grafts); and (d) with or without left heart catheterisation, left ventriculography or aortography; and (e) including all associated imaging; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38248, 38249, 38251 or 38252 applies (Anaes.) [](/dynamic/MBSItems/HeartVascular/38247)
+38248
+
+     Note: (stable coronary syndrome) the service only applies if the patient meets the requirements of the descriptor and the of Note: TR.8.3 and TR.8.5 Selective coronary angiography: (a) for a patient who is eligible for the service under clause 5.10.17B; and (b) as part of the management of the patient; and (c) with placement of catheters and injection of opaque material into native coronary arteries; and (d) with or without left heart catheterisation, left ventriculography or aortography; and (e) including all associated imaging; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38249, 38251 or 38252 applies—applicable each 3 months (Anaes.) [](/dynamic/MBSItems/HeartVascular/38248)
+38249
+
+     Note: (stable coronary syndrome - graft) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.3 and TR.8.5 Selective coronary and graft angiography: (a) for a patient who is eligible for the service under clause 5.10.17B; and (b) as part of the management of the patient; and (c) with placement of one or more catheters and injection of opaque material into native coronary arteries; and (d) if free coronary grafts attached to the aorta or direct internal mammary artery grafts are present—with placement of one or more catheters and injection of opaque material into those grafts (irrespective of the number of grafts);and (e) with or without left heart catheterisation, left ventriculography or aortography; and (f) including all associated imaging; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38251 or 38252 applies—applicable once each 3 months (Anaes.) [](/dynamic/MBSItems/HeartVascular/38249)
+38251
+
+     Note: (pre-operative assessment) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.5 Selective coronary angiography: (a) for a symptomatic patient with valvular or other non-coronary structural heart disease; and (b) as part of the management of the patient for: (i) pre-operative assessment for planning non-coronary cardiac surgery, including by transcatheter approaches; or (ii) evaluation of valvular heart disease or other non-coronary structural heart disease where clinical impression is discordant with non-invasive assessment; and (c) with placement of catheters and injection of opaque material into native coronary arteries; and (d) with or without left heart catheterisation, left ventriculography or aortography; and (e) including all associated imaging; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249 or 38252 applies—applicable once each 12 months (Anaes.) [](/dynamic/MBSItems/HeartVascular/38251)
+38252
+
+     Note: (pre-operative assessment - graft) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.5 Selective coronary and graft angiography: (a) for a symptomatic patient with valvular or other non-coronary structural heart disease; and (b) as part of the management of the patient for: (i) pre-operative assessment for planning non-coronary cardiac surgery, including by transcatheter approaches; or (ii) evaluation of valvular heart disease or other non-coronary structural heart disease where clinical impression is discordant with non-invasive assessment; and (c) with placement of one or more catheters and injection of opaque material into the native coronary arteries; and (d) if free coronary grafts attached to the aorta or direct internal mammary artery grafts are present—with placement of one or more catheters and injection of opaque material into those grafts (irrespective of the number of grafts); and (e) with or without left heart catheterisation, left ventriculography or aortography; and (f) including all associated imaging; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249 or 38251 applies—applicable once each 12 months (Anaes.) [](/dynamic/MBSItems/HeartVascular/38252)
+38254
+
+     Right heart catheterisation: (a) performed at the same time as a service to which item 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38311, 38313 or 38314 applies; and (b) including any of the following (if performed): (i) fluoroscopy; (ii) oximetry; (iii) dye dilution curves; (iv) cardiac output measurement; (v) shunt detection; (vi) exercise stress test (Anaes.) [](/dynamic/MBSItems/HeartVascular/38254)
+38256
+
+     TEMPORARY TRANSVENOUS PACEMAKING ELECTRODE, insertion of (Anaes.) [](/dynamic/MBSItems/HeartVascular/38256)
+38270
+
+     BALLOON VALVULOPLASTY OR ISOLATED ATRIAL SEPTOSTOMY, including cardiac catheterisations before and after balloon dilatation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38270)
+38272
+
+     Atrial septal defect or patent foramen closure: (a) for congenital heart disease in a patient with documented evidence of right heart overload or paradoxical embolism; and (b) using a septal occluder or similar device, by transcatheter approach; and (c) including right or left heart catheterisation (or both); other than a service associated with a service to which item 38200, 38203, 38206 or 38254 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38272)
+38273
+
+     Patent ductus arteriosus, transcatheter closure of, including cardiac catheterisation and any imaging associated with the service (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38273)
+38274
+
+     Ventricular septal defect, transcatheter closure of, with cardiac catheterisation, excluding imaging (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38274)
+38275
+
+     MYOCARDIAL BIOPSY, by cardiac catheterisation (Anaes.) [](/dynamic/MBSItems/HeartVascular/38275)
+38276
+
+     Transcatheter occlusion of left atrial appendage, and cardiac catheterisation performed by the same practitioner, for stroke prevention in a patient who has non-valvular atrial fibrillation, if: (a) the patient is at increased risk of thromboembolism demonstrated by: (i) a prior stroke (whether of an ischaemic or unknown type), transient ischaemic attack or non-central nervous system systemic embolism; or (ii) at least 2 of the following risk factors: (A) an age of 65 years or more; (B) hypertension; (C) diabetes mellitus; (D) heart failure or left ventricular ejection fraction of 35% or less (or both); (E) vascular disease (prior myocardial infarction, peripheral artery disease or aortic plaque); and (b) the patient has an absolute and permanent contraindication to oral anticoagulation (confirmed by written documentation that is provided by a medical practitioner, independent of the practitioner rendering the service); and (c) the service is not associated with a service to which item 38200, 38203, 38206 or 38254 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38276)
+38285
+
+     Insertion of implantable ECG loop recorder, by a specialist or consultant physician, for the diagnosis of a primary disorder, including initial programming and testing, if: (a) the patient has recurrent unexplained syncope and does not have a structural heart defect associated with a high risk of sudden cardiac death; and (b) a diagnosis has not been achieved through all other available cardiac investigations; and (c) a neurogenic cause is not suspected (Anaes.) [](/dynamic/MBSItems/HeartVascular/38285)
+38286
+
+     Removal of implantable ECG loop recorder (Anaes.) [](/dynamic/MBSItems/HeartVascular/38286)
+38287
+
+     ABLATION OF ARRHYTHMIA CIRCUIT OR FOCUS or isolation procedure involving 1 atrial chamber (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38287)
+38288
+
+     Implantable loop recorder, insertion of, for diagnosis of atrial fibrillation, if: (a) the patient to whom the service is provided has been diagnosed as having had an embolic stroke of undetermined source; and (b) the bases of the diagnosis included the following: (i) the medical history of the patient; (ii) physical examination; (iii) brain and carotid imaging; (iv) cardiac imaging; (v) surface ECG testing including 24-hour Holter monitoring; and (c) atrial fibrillation is suspected; and (d) the patient: (i) does not have a permanent indication for oral anticoagulants; or (ii) does not have a permanent oral anticoagulants contraindication; including initial programming and testing (Anaes.) [](/dynamic/MBSItems/HeartVascular/38288)
+38290
+
+     ABLATION OF ARRHYTHMIA CIRCUITS OR FOCI, or isolation procedure involving both atrial chambers and including curative procedures for atrial fibrillation (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38290)
+38293
+
+     VENTRICULAR ARRHYTHMIA with mapping and ablation, including all associated electrophysiological studies performed on the same day (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38293)
+38307
+
+     Note: (acute coronary syndrome -1 coronary territory with selective coronary angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.2 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible for the service under clause 5.10.17A; and (ii) for whom selective coronary angiography has not been completed in the previous 3 months; and (b) including selective coronary angiography and all associated imaging, catheter and contrast; and (c) including either or both: (i) percutaneous angioplasty; (ii) transluminal insertion of one or more stents; and (d) performed on one coronary vascular territory; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38308, 38310, 38311, 38313, 38314, 38316, 38317, 38319, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38307)
+38308
+
+     Note:(acute coronary syndrome -2 coronary territories with selective coronary angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.2 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible for the service under clause 5.10.17A; and (ii) for whom selective coronary angiography has not been completed in the previous 3 months; and (b) including selective coronary angiography and all associated imaging, catheter and contrast; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on 2 coronary vascular territories; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38310, 38311, 38313, 38314, 38316, 38317, 38319, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38308)
+38309
+
+     Percutaneous transluminal rotational atherectomy of one or more coronary arteries, including all associated imaging, if: (a) the target stenosis within at least one coronary artery is heavily calcified and balloon angioplasty with or without stenting is not feasible without rotational artherectomy; and (b) the service is performed in conjunction with a service to which item 38307, 38308, 38310, 38311, 38313, 38314, 38316, 38317, 38319, 38320, 38322 or 38323 applies Applicable only once on each occasion the service is performed (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38309)
+38310
+
+     Note: (acute coronary syndrome -3 coronary territories with selective coronary angiography)the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.2 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible for the service under clause 5.10.17A; and (ii) for whom selective coronary angiography has not been completed in the previous 3 months; and (b) including selective coronary angiography and all associated imaging, catheter and contrast; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on 3 coronary vascular territories; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38311, 38313, 38314, 38316, 38317, 38319, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38310)
+38311
+
+     Note: (stablemulti-vessel disease-1 coronary territory with selective angiography)the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.4 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible under clause 5.10.17C for the service and a service to which item 38314 applies; and (ii) for whom selective coronary angiography has not been completed in the previous 3 months; and (b) including selective coronary angiography and all associated imaging, catheter and contrast; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on one coronary vascular territory; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38313, 38314, 38316, 38317, 38319, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38311)
+38313
+
+     Note: (stablemulti-vessel disease-2 coronary territories with selective angiography)the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.4 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible under clause 5.10.17C for the service and a service to which item 38314 applies; and (ii) for whom selective coronary angiography has not been completed in the previous 3 months; and (b) including selective coronary angiography and all associated imaging, catheter and contrast; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on 2 coronary vascular territories; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38311, 38314, 38316, 38317, 38319, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38313)
+38314
+
+     Note: (stable multi-vessel disease - 3 coronary territory with selective angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.4 and TR.8.5Percutaneous coronary intervention: (a) for a patient: (i) eligible for the service under clause 5.10.17C; and (ii) for whom selective coronary angiography has not been completed in the previous 3 months; and (b) including selective coronary angiography and all associated imaging, catheter and contrast; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on 3 coronary vascular territories; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38311, 38313, 38316, 38317, 38319, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38314)
+38316
+
+     Note: (acute coronary syndrome -1 coronary territory without selective angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.2 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible for the service under clause 5.10.17A; and (ii) for whom selective coronary angiography has been completed in the previous 3 months; and (b) including any associated coronary angiography; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on one coronary vascular territory; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38311, 38313, 38314, 38317, 38319, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38316)
+38317
+
+     Note: (acute coronary syndrome -2 coronary territories without selective angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.2 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible for the service under clause 5.10.17A; and (ii) for whom selective coronary angiography has been completed in the previous 3 months; and (b) including any associated coronary angiography; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on 2 coronary vascular territories; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 3808, 38310, 38311, 38313, 38314, 38316, 38319, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38317)
+38319
+
+     Note: (acute coronary syndrome -3 coronary territories without selective angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.2 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible for the service under clause 5.10.17A; and (ii) for whom selective coronary angiography has been completed in the previous 3 months; and (b) including any associated coronary angiography; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on 3 coronary vascular territories; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38311, 38313, 38314, 38316, 38317, 38320, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38319)
+38320
+
+     Note: (stablemulti-vessel disease-1 coronary territory without selective angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.4 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible under clause 5.10.17C for the service and a service to which item 38323 applies; and (ii) for whom selective coronary angiography has been completed in the previous 3 months; and (b) including any associated coronary angiography; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on one coronary vascular territory; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38311, 38313, 38314, 38316, 38317, 38319, 38322 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38320)
+38322
+
+     Note: (stablemulti-vessel disease-2 coronary territories with selective angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.4 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible under clause 5.10.17C for the service and a service to which item 38323 applies; and (ii) for whom selective coronary angiography has been completed in the previous 3 months; and (b) including any associated coronary angiography; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on 2 coronary vascular territories; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38311, 38313, 38314, 38316, 38317, 38319, 38320 or 38323 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38322)
+38323
+
+     Note: (stablemulti-vessel disease-3 coronary territories with selective angiography) the service only applies if the patient meets the requirements of the descriptor and the requirements of Note: TR.8.4 and TR.8.5 Percutaneous coronary intervention: (a) for a patient: (i) eligible for the service under clause 5.10.17C; and (ii) for whom selective coronary angiography has been completed in the previous 3 months; and (b) including any associated coronary angiography; and (c) including either or both: (i) percutaneous angioplasty; and (ii) transluminal insertion of one or more stents; and (d) performed on 3 coronary vascular territories; and (e) excluding aftercare; other than a service associated with a service to which item 38200, 38203, 38206, 38244, 38247, 38248, 38249, 38251, 38252, 38307, 38308, 38310, 38311, 38313, 38314, 38316, 38317, 38319, 38320 or 38322 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38323)
+38350
+
+     SINGLE CHAMBER PERMANENT TRANSVENOUS ELECTRODE, insertion, removal or replacement of, including cardiac electrophysiological services where used for pacemaker implantation (Anaes.) [](/dynamic/MBSItems/HeartVascular/38350)
+38353
+
+     PERMANENT CARDIAC PACEMAKER, insertion, removal or replacement of, not for cardiac resynchronisation therapy, including cardiac electrophysiological services where used for pacemaker implantation (Anaes.) [](/dynamic/MBSItems/HeartVascular/38353)
+38356
+
+     DUAL CHAMBER PERMANENT TRANSVENOUS ELECTRODES, insertion, removal or replacement of, including cardiac electrophysiological services where used for pacemaker implantation (Anaes.) [](/dynamic/MBSItems/HeartVascular/38356)
+38358
+
+     Extraction of one or more chronically implanted transvenous pacing or defibrillator leads, by percutaneous method, with locking stylets and snares, with extraction sheaths (if any), if: (a) the leads have been in place for more than 6 months and require removal; and (b) the service is performed: (i) in association with a service to which item 61109 or 60509 applies; and (ii) by a specialist or consultant physician who has undertaken the training to perform the service; and (iii) in a facility where cardiothoracic surgery is available and a thoracotomy can be performed immediately and without transfer; and (c) if the service is performed by an interventional cardiologist—a cardiothoracic surgeon is in attendance during the service (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38358)
+38359
+
+     PERICARDIUM, paracentesis of (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/HeartVascular/38359)
+38362
+
+     INTRA-AORTIC BALLOON PUMP, percutaneous insertion of (Anaes.) [](/dynamic/MBSItems/HeartVascular/38362)
+38365
+
+     Insertion, removal or replacement of permanent cardiac synchronisation device, if the patient: (a) has all of the following: (i) chronic heart failure, classified as New York Heart Association class III or IV (despite optimised medical therapy); (ii) left ventricular ejection fraction of less than 35%; (iii) QRS duration of greater than or equal to 130 ms; or (b) has all of the following: (i) chronic heart failure, classified as New York Heart Association class II (despite optimised medical therapy); (ii) left ventricular ejection fraction of less than 35%; (iii) QRS duration of greater than or equal to 150 ms; other than a service associated with a service to which item 38212 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38365)
+38368
+
+     Insertion, removal or replacement of permanent transvenous left ventricular electrode, through the coronary sinus, for the purpose of cardiac resynchronisation therapy, including right heart catheterisation and any associated venograms, if the patient: (a) has all of the following: (i) chronic heart failure, classified as New York Heart Association class III or IV (despite optimised medical therapy); (ii) left ventricular ejection fraction of less than 35%; (iii) QRS duration of greater than or equal to 130 ms; or (b) has all of the following: (i) chronic heart failure, classified as New York Heart Association class II (despite optimised medical therapy); (ii) left ventricular ejection fraction of less than 35%; (iii) QRS duration of greater than or equal to 150 ms; other than a service associated with a service to which item 35200, 38200 or 38212 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38368)
+38461
+
+     TMVr, by transvenous or transeptal techniques, for permanent coaptation of mitral valve leaflets using one or more Mitraclips™, including intra-operative diagnostic imaging, if: (a) the patient has each of the following risk factors: (i) moderate to severe, or severe, symptomatic degenerative (primary) mitral valve regurgitation (grade 3+ or 4+); (ii) left ventricular ejection fraction of 20% or more; (iii) symptoms of mild, moderate or severe chronic heart failure (New York Heart Association class II, III or IV); and (b) as a result of a TMVr suitability case conference, the patient has been: (i) assessed as having an unacceptably high risk for surgical mitral valve replacement; and (ii) recommended as being suitable for the service; and (c) the service is performed: (i) by a cardiothoracic surgeon, or an interventional cardiologist, accredited by the TMVr accreditation committee to perform the service; and (ii) via transfemoral venous delivery, unless transfemoral venous delivery is contraindicated or not feasible; and (iii) in a hospital that is accredited by the TMVr accreditation committee as a suitable hospital for the service; and (d) a service to which this item, or item 38463, applies has not been provided to the patient in the previous 5 years (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38461)
+38463
+
+     TMVr, by transvenous or transeptal techniques, for permanent coaptation of mitral valve leaflets using one or more Mitraclips™, including intra-operative diagnostic imaging, if: (a) the patient has each of the following risk factors: (i) moderate to severe, or severe, symptomatic functional (secondary) mitral valve regurgitation (grade 3+ or 4+); (ii) left ventricular ejection fraction of 20% to 50%; (iii) left ventricular end systolic diameter of not more than 70mm; (iv) symptoms of mild, moderate or severe chronic heart failure (New York Heart Association class II, III or IV) that persist despite maximally tolerated guideline directed medical therapy; and (b) as a result of a TMVr suitability case conference, the patient has been: (i) assessed as having an unacceptably high risk for surgical mitral valve replacement; and (ii) recommended as being suitable for the service; and (c) the service is performed: (i) by a cardiothoracic surgeon, or an interventional cardiologist, accredited by the TMVr accreditation committee to perform the service; and (ii) via transfemoral venous delivery, unless transfemoral venous delivery is contraindicated or not feasible; and (iii) in a hospital that is accredited by the TMVr accreditation committee as a suitable hospital for the service; and (d) a service to which this item, or item 38461, applies has not been provided to the patient in the previous 5 years (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38463)
+38467
+
+     Insertion, removal or replacement of permanent myocardial electrode, by open surgical approach, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38467)
+38471
+
+     Insertion of implantable defibrillator, including insertion of patches for the insertion of one or more transvenous endocardial leads, if the patient has one of the following: (a) a history of haemodynamically significant ventricular arrhythmias in the presence of structural heart disease; (b) documented high-risk genetic cardiac disease; (c) ischaemic heart disease, with a left ventricular ejection fraction of less than 30% at least one month after experiencing a myocardial infarction and while on optimised medical therapy; (d) chronic heart failure, classified as New York Heart Association class II or III, with a left ventricular ejection fraction of less than 35% (despite optimised medical therapy); other than a service to which item 38212 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38471)
+38472
+
+     Insertion, replacement or removal of implantable defibrillator generator, if the patient has one of the following: (a) a history of haemodynamically significant ventricular arrhythmias in the presence of structural heart disease; (b) documented high-risk genetic cardiac disease; (c) ischaemic heart disease, with a left ventricular ejection fraction of less than 30% at least one month after experiencing a myocardial infarction and while on optimised medical therapy; (d) chronic heart failure, classified as New York Heart Association class II or III, with a left ventricular ejection fraction of less than 35% (despite optimised medical therapy); other than a service to which item 38212 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38472)
+38474
+
+     Repair, augmentation or replacement of branch pulmonary arteries—left or right (or both), with cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38474)
+38477
+
+     Valve annuloplasty with insertion of ring, other than: (a) a service to which item 38516 or 38517 applies; or (b) a service associated with a service to which to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38477)
+38484
+
+     Aortic or pulmonary valve replacement with bioprosthesis or mechanical prosthesis, including retrograde cardioplegia (if performed), other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38484)
+38485
+
+     MITRAL ANNULUS, reconstruction of, after decalcification, when performed in association with valve surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38485)
+38487
+
+     MITRAL VALVE, open valvotomy of (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38487)
+38490
+
+     Reconstruction and re-implantation of sub-valvular structures, if performed in conjunction with a service to which item 38499 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38490)
+38493
+
+     OPERATIVE MANAGEMENT of acute infective endocarditis, in association with heart valve surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38493)
+38495
+
+     TAVI, for the treatment of symptomatic severe aortic stenosis, performed via transfemoral delivery, unless transfemoral delivery is contraindicated or not feasible, if: the TAVI patient is at high risk for surgery; and the service: (i) is performed by a TAVI Practitioner in a TAVI Hospital ; and (ii) includes all intraoperative diagnostic imaging that the TAVI Practitioner performs upon the TAVI Patient; not being a service which has been rendered within 5 years of a service to which this item or item 38514 or 38522 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38495)
+38499
+
+     Mitral or tricuspid valve replacement with bioprothesis or mechanical prosthesis, including retrograde cardioplegia (if performed), other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38499)
+38502
+
+     Coronary artery bypass, including cardiopulmonary bypass, with or without retrograde cardioplegia, with or without vein grafts, and including at least one of the following: (a) harvesting of left internal mammary artery and vein graft material; (b) harvesting of left internal mammary artery; (c) harvesting of vein graft material; other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38502)
+38508
+
+     Repair or reconstruction of left ventricular aneurysm, including plication, resection and primary and patch repairs, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38508)
+38509
+
+     Repair of ischaemic ventricular septal rupture,, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38509)
+38510
+
+     Artery harvesting (other than of the left internal mammary), for coronary artery bypass, if: (a) more than one arterial graft is required; and (b) the service is performed in conjunction withcoronary artery bypass surgery performed by any medical practitioner (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38510)
+38511
+
+     Coronary artery bypass, with the aid of tissue stabilisers, if the service is performed: (a) without cardiopulmonary bypass; and (b) in conjunction with a service to which item 38502 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38511)
+38512
+
+     Division of accessory pathway, isolation procedure, procedure on atrioventricular node or perinodal tissues involving one atrial chamber only, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38512)
+38513
+
+     Creation of Y-graft, T-graft and graft-to-graft extensions, with micro-arterial or micro-venous anastomosis using microsurgical techniques, if: (a) the service is for one or more anastomoses; and (b) the service is performed in conjunction with a service to which item 38502 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38513)
+38514
+
+     TAVI, for the treatment of symptomatic severe aortic stenosis, performed via transfemoral delivery, unless transfemoral delivery is contraindicated or not feasible, if: the TAVI patient is at intermediate risk for surgery; and the service: is performed by a TAVI practitioner in a TAVI Hospital; and includes all intraoperative diagnostic imaging that the TAVI Practitioner performs upon the TAVI Patient; not being a service which has been rendered within 5 years of a service to which this item or item 38495or 38522 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38514)
+38515
+
+     Division of accessory pathway, isolation procedure, procedure on atrioventricular node or perinodal tissues involving both atrial chambers and including curative surgery for atrial fibrillation, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38515)
+38516
+
+     Simple valve repair: (a) with or without annuloplasty; and (b) including quadrangular resection, cleft closure or alfieri; and (c) including retrograde cardioplegia (if performed); other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38516)
+38517
+
+     Complex valve repair: (a) with or without annuloplasty; and (b) including retrograde cardioplegia (if performed); and (c) including one of the following: (i) neochords; (ii) chordal transfer; (iii) patch augmentation; (iv) multiple leaflets; other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38517)
+38518
+
+     Ventricular arrhythmia with mapping and muscle ablation, with or without aneurysmeotomy, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38518)
+38519
+
+     Valve explant of a previous prosthesis, if performed during open cardiac surgery, not being a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38519)
+38522
+
+     TAVI, for the treatment of symptomatic severe native calcific aortic stenosis,performed via transfemoral delivery, unless transfemoral delivery is contraindicated or not feasible,if: the TAVI Patient is at low risk for surgery; and the service: is performed by a TAVI Practitioner in a TAVI Hospital; and includes all intraoperative diagnostic imaging that the TAVI Practitioner performs upon the TAVI Patient; not being a service which has been rendered within 5 years of a service to which this item or item 38495 or 38514 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38522)
+38523
+
+     Percutaneous transcatheter delivery of dual-filter cerebral embolic protection system during a TAVI procedure, for the reduction of postoperative embolic ischaemic strokes, if: the service is performed upon a TAVI Patient in a TAVI Hospital; and where the service is performed by the practitioner performing the TAVI procedure, the service includes all intraoperative diagnostic imaging that the TAVI Practitioner performs upon the TAVI Patient (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38523)
+38550
+
+     Repair or replacement of ascending thoracic aorta: (a) including: (i) cardiopulmonary bypass; and (ii) retrograde cardioplegia (if performed); and (b) not including valve replacement or repair or implantation of coronary arteries; other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38550)
+38553
+
+     Repair or replacement of ascending thoracic aorta: (a) including: (i) aortic valve replacement or repair; and (i) cardiopulmonary bypass; and (ii) retrograde cardioplegia (if performed); and (b) not including implantation of coronary arteries; other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38553)
+38554
+
+     Valve sparing aortic root surgery, with reimplantation of aortic valve and coronary arteries and replacement of the ascending aorta, including cardiopulmonary bypass, and including retrograde cardioplegia (if performed), other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38554)
+38555
+
+     Simple replacement or repair of aortic arch, performed in conjunction with a service to which item 38550, 38553, 38554, 38556, 38568 or 38571 applies, including: (a) deep hypothermic circulatory arrest; and (b) peripheral cannulation for cardiopulmonary bypass; and (c) antegrade or retrograde cerebral perfusion (if performed); other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38603, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38555)
+38556
+
+     Repair or replacement of ascending thoracic aorta, including: (a) aortic valve replacement or repair; and (b) implantation of coronary arteries; and (c) cardiopulmonary bypass; and (d) retrograde cardioplegia (if performed); other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38603, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38556)
+38557
+
+     Complex replacement or repair of aortic arch, performed in conjunction with a service to which item 38550, 38553, 38554, 38556, 38568 or 38571 applies, including: (a) debranching and reimplantation of head and neck vessels; and (b) deep hypothermic circulatory arrest; and (c) peripheral cannulation for cardiopulmonary bypass; and (d) antegrade or retrograde cerebral perfusion (if performed); other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38557)
+38558
+
+     Aortic repair involving augmentation of hypoplastic or interrupted aortic arch, if: (a) the patient is a neonate; and (b) the service includes: (i) the use of antegrade cerebral perfusion or deep hypothermic circulatory arrest and associated myocardial preservation; and (ii) retrograde cardioplegia; other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38558)
+38568
+
+     Repair or replacement of descending thoracic aorta, without shunt or cardiopulmonary bypass, by open exposure, percutaneous or endovascular means, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38568)
+38571
+
+     Repair or replacement of descending thoracic aorta, with shunt or cardiopulmonary bypass, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38571)
+38572
+
+     Operative management of acute rupture or dissection, if the service: (a) is performed in conjunction with a service to which item 38550, 38553, 38554, 38555, 38556, 38557, 38558, 38568, 38571, 38706 or 38709 applies; and (b) is not associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38603, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38572)
+38600
+
+     CENTRAL CANNULATION for cardiopulmonary bypass excluding post-operative management, not being a service associated with a service to which another item in this Subgroup applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38600)
+38603
+
+     Peripheral cannulation for cardiopulmonary bypass, excluding post-operative management, other than a service: (a) in which peripheral cannulation is used in preference to central cannulation for valve or coronary bypass procedures; or (b) associated with a service to which item 38555 or 38572 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38603)
+38609
+
+     Insertion of intra-aortic balloon pump, by arteriotomy, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38609)
+38612
+
+     Removal of intra-aortic balloon pump, with closure of artery by direct suture, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 338816, 38828 or 45503 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38612)
+38615
+
+     Insertion of a left or right ventricular assist device, for use as: (a) a bridge to cardiac transplantation in patients with refractory heart failure who are: (i)currently on a heart transplant waiting list, or (ii)expected to be suitable candidates for cardiac transplantation following a period of support on the ventricularassist device; or (b) acute post cardiotomy support for failure to wean from cardiopulmonary transplantation; or (c)cardio-respiratory support for acute cardiac failure which is likely to recover with short term support of less than 6weeks; other than a service associated with a service to which: (d) item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies; or (e) another item in this Schedule applies if the service described in the item is for the use of a ventricular assist device as destination therapy in the management of a patient with heart failure who is not expected to be a suitable candidate for cardiac transplantation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38615)
+38618
+
+     Insertion of a left and right ventricular assist device, for use as: (a)a bridge to cardiac transplantation in patients with refractory heart failure who are: (i)currently on a heart transplant waiting list, or (ii)expected to be suitable candidates for cardiac transplantation following a period of support on the ventricular assist device; or (b)acute post cardiotomy support for failure to wean from cardiopulmonary transplantation; or (c)cardio-respiratory support for acute cardiac failure which is likely to recover with short term support of less than 6 weeks; other than a service associated with a service to which: (d) item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies; or (e) another item in this Schedule applies if the service described in the item is for the use of a ventricular assist device as destination therapy in the management of a patient with heart failure who is not expected to be a suitable candidate for cardiac transplantation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38618)
+38621
+
+     Left or right ventricular assist device, removal of, as an independent procedure, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38627,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38621)
+38624
+
+     Left and right ventricular assist device, removal of, as an independent procedure, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38627, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38624)
+38627
+
+     Extra-corporeal membrane oxygenation, bypass or ventricular assist device cannulae, adjustment and re-positioning of, by open operation, in patients supported by these devices, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38627, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38627)
+38637
+
+     Patent diseased coronary artery bypass vein graft or grafts, dissection, disconnection and oversewing of, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38637)
+38653
+
+     Open heart surgery, other than a service: (a) to which another item in this Group applies; or (b) associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38653)
+38670
+
+     Cardiac tumour, excision of, involving the wall of the atrium or inter-atrial septum, without patch or conduit reconstruction, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38670)
+38673
+
+     Cardiac tumour, excision of, involving the wall of the atrium or inter-atrial septum, requiring reconstruction with patch or conduit, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38673)
+38677
+
+     Cardiac tumour arising from ventricular myocardium, partial thickness excision of, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38677)
+38680
+
+     Cardiac tumour arising from ventricular myocardium, full thickness excision of including repair or reconstruction, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38680)
+38700
+
+     Patent ductus arteriosus, shunt, collateral or other single large vessel, division or ligation of, without cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38700)
+38703
+
+     Patent ductus arteriosus, shunt, collateral or other single large vessel, division or ligation of, with cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38703)
+38706
+
+     Aorta, anastomosis or repair of, without cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38706)
+38709
+
+     Anastomosis or repair of aorta, with cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38709)
+38715
+
+     Main Pulmonary Artery, banding, debanding or repair of, without cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38715)
+38718
+
+     Banding, debanding or repair of main pulmonary artery, with cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38718)
+38721
+
+     Vena Cava, anastomosis or repair of, without cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38721)
+38724
+
+     Vena cava, anastomosis or repair of, with cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38724)
+38727
+
+     Anastomosis or repair of intrathoracic vessels, without cardiopulmonary bypass, performed as a primary procedure, other than a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38700, 38703, 38706, 38709, 38715, 38718, 38721, 38724, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38727)
+38730
+
+     Anastomosis or repair of intrathoracic vessels, with cardiopulmonary bypass, performed as a primary procedure, other than a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38700, 38703, 38706, 38709, 38715, 38718, 38721, 38724, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38730)
+38733
+
+     Systemic pulmonary or Cavo-pulmonary shunt, creation of, without cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38733)
+38736
+
+     Systemic pulmonary or Cavo-pulmonary shunt, creation of, with cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38736)
+38739
+
+     Atrial septectomy, with or without cardiopulmonary bypass, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38739)
+38742
+
+     Atrial septal defect, closure by open exposure and direct suture or patch, for congenital heart disease in a patient with documented evidence of right heart overload or paradoxical embolism, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38742)
+38745
+
+     Intra-atrial baffle, insertion of, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38745)
+38748
+
+     Ventricular septectomy, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38748)
+38751
+
+     Ventricular septal defect, closure by direct suture or patch, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38751)
+38754
+
+     Intraventricular baffle or conduit, insertion of, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824, 38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38754)
+38757
+
+     Extracardiac conduit, insertion of, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38757)
+38760
+
+     Extracardiac conduit, replacement of, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38760)
+38764
+
+     Ventricular myectomy, for relief of right or left ventricular obstruction, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38764)
+38766
+
+     Ventricular augmentation, right or left, for congenital heart disease, other than a service associated with a service to which item 11704, 11705, 11707, 11714, 18260, 33824,38816, 38828 or 45503 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38766)
+38839
+
+     Pericardium, subxiphoid open surgical drainage of, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828 or 38840 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38839)
+38840
+
+     Pericardium, transthoracic (thoracotomy or thoracoscopy) open surgical drainage of, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828 or 38839 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38840)
+38841
+
+     Pericardiectomy via sternotomy or thoracoscopy or anterolateral thoracotomy without cardiopulmonary bypass, other than a service associated with a service to which item 18258, 18260, 38815, 38816 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38841)
+38842
+
+     Pericardiectomy via sternotomy or anterolateral thoracotomy with cardiopulmonary bypass, other than a service associated with a service to which item 18258, 18260, 38815, 38816 or 38828 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HeartVascular/38842)
+90300
+
+     Professional attendance by a cardiothoracic surgeon in the practice of the surgeon’s speciality, if: (a) the service is performed in conjunction with a service (the lead extraction service) to which item 38358 applies; and (b) the surgeon is: (i) providing surgical backup for the provider (who is not a cardiothoracic surgeon) who is performing, the lead extraction service; and (ii) present for the duration of the lead extraction service, other than during the low risk pre and post extraction phases; and (iii) able to immediately scrub in and perform a thoracotomy if major complications occur (H) [](/dynamic/MBSItems/HeartVascular/90300)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

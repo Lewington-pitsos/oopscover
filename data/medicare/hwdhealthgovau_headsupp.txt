@@ -1,0 +1,132 @@
+Skip to main content Skip to main navigation
+
+[ ![Australia Government Department of Health and Aged Care](
+
+                  ../images/DoHCrest-white.png
+  ) ![Health Workforce Data](../images/hwd-icon-light.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [Using our website](../using-our-website/using.html)
+  * [Contact Us](../contactus)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](../)
+  * [Data Tool](../datatool)
+  * [Resources](../resources)
+  * [HeaDS UPP](../headsupp)
+
+## You are here
+
+  1. [Home](../)
+  2. HeaDS UPP
+
+# HeaDS UPP
+
+  * Print 
+  * Share 
+
+    * [Twitter](https://twitter.com/share?url=https://hwd.health.gov.au/headsupp)
+    * [Facebook](https://facebook.com/sharer.php?u=https://hwd.health.gov.au/headsupp)
+    * [Email](mailto:?subject=Health Workforce Data&body=https://hwd.health.gov.au/headsupp)
+
+## About HeaDS UPP
+
+The Health Demand and Supply Utilisation Patterns Planning (HeaDS UPP) Tool is
+a new integrated source of health workforce and services data that informs
+workforce planning and analysis. It is currently being rolled out to select
+government and non-government organisations involved in workforce planning.
+
+### The HeaDS UPP Tool
+
+HeaDS UPP brings health data together to visually highlight how the community
+uses and accesses health services and the health workforce. It provides a
+single access point to workforce data from a number of data sets such the
+Medicare Benefits Schedule, Australian General Practitioner Training, Royal
+Flying Doctor Service Program, National Health Workforce data set, National
+Health Service Directory, and others.
+
+You can see this data mapped according to geographical regions, such as the
+newly created General Practitioner (GP) Catchment areas, and use this data to
+better understand workforce issues at a local level.
+
+Additional information is available in the [HeaDS UPP Tool
+Factsheet](../resources/primary/heads-upp-factsheet-jan-2021.pdf).
+
+The HeaDS UPP Tool
+
+[ ![](../images/headsupp-screenshot.png) ](../images/headsupp-screenshot.png)
+
+Source: [Health Data Portal](https://dataportal.health.gov.au/)
+
+Show description of image
+
+A screenshot of the HeaDS UPP tool
+
+HeaDS UPP will be available to a variety of government and non-government
+organisations involved in health workforce planning, including:
+
+  * [Rural Workforce Agencies](http://www.rhwa.org.au/ruralworkforceagencies)
+  * [Primary Health Networks](https://www1.health.gov.au/internet/main/publishing.nsf/Content/PHN-Home)
+  * [Medical Colleges](https://www.medicalboard.gov.au/Accreditation/Specialist-medical-colleges.aspx)
+  * States and Territory governments 
+  * [Regional Training Organisations](https://www.health.gov.au/initiatives-and-programs/australian-general-practice-training-agpt-program/how-to-apply-for-the-australian-general-practice-training-agpt-program/choose-a-regional-training-organisation-for-the-australian-general-practice-training-agpt-program#rto-training-opportunities)
+
+If you have any questions about the HeaDS UPP Tool project please contact the
+Department using the details below.
+
+![](../images/headsupp-icon.svg)
+
+HeaDS UPP
+
+Contact details for the HeaDS UPP tool
+
+[headsupp@health.gov.au](mailto:headsupp@health.gov.au)
+
+<https://hwd.health.gov.au/headsupp>
+
+Postal addresses:
+
+Health Workforce Division, Department of Health and Aged Care
+
+GPO Box 9848
+
+Canberra ACT 2601
+
+Australia
+
+### Resources
+
+  * [Publications](../resources/index.html?resourcetype=publications)
+  * [Dashboards](../resources/index.html?resourcetype=dashboards)
+  * [Data](../resources/index.html?resourcetype=data)
+  * [Information](../resources/index.html?resourcetype=information)
+
+### Applications
+
+  * [Data Tool](../datatool/index.html)
+  * [HeaDS UPP](../headsupp/index.html)
+
+### Contact us
+
+  * [Contact Us](../contactus/index.html)
+
+### Using our website
+
+  * [Using our website](../using-our-website/using.html)
+  * [Accessibility](../using-our-website/accessibility.html)
+  * [Copyright](../using-our-website/copyright.html)
+  * [Disclaimer](../using-our-website/disclaimer.html)
+  * [Privacy](../using-our-website/privacy.html)
+
+Â© Commonwealth of Australia
+
+Back to top
+

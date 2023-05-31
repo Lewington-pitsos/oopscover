@@ -1,0 +1,133 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Pain management - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+18280
+
+     Sphenopalatine ganglion, injection of an anaesthetic agent, not in association with a service to which an item in Group T8 applies, unless the nerve block is performed using a targeted percutaneous approach (Anaes.) [](/dynamic/MBSItems/PainManagement/18280)
+39013
+
+     Injection of one or more zygo-apophyseal or costo-transverse joints with one or more of contrast media, local anaesthetic or corticosteroid under image guidance (Anaes.) [](/dynamic/MBSItems/PainManagement/39013)
+39014
+
+     Medial branch block of one or more primary posterior rami, injection of an anaesthetic agent under image guidance (Anaes.) [](/dynamic/MBSItems/PainManagement/39014)
+39100
+
+     Injection of primary branch of trigeminal nerve (ophthalmic, maxillary or mandibular branches) with alcohol, cortisone, phenol, or similar neurolytic substance, under image guidance (Anaes.) [](/dynamic/MBSItems/PainManagement/39100)
+39109
+
+     Trigeminal gangliotomy by radiofrequency, balloon or glycerol, including stereotaxy (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagement/39109)
+39110
+
+     Left lumbar percutaneous zygapophyseal joint denervation by radio-frequency probe, or cryoprobe, using radiological imaging control Applicable to one or more services provided in a single attendance, for not more than 3 attendances in a 12 month period (Anaes.) [](/dynamic/MBSItems/PainManagement/39110)
+39111
+
+     Right lumbar percutaneous zygapophyseal joint denervation by radio-frequency probe, or cryoprobe, using radiological imaging control Applicable to one or more services provided in a single attendance, for not more than 3 attendances in a 12 month period (Anaes.) [](/dynamic/MBSItems/PainManagement/39111)
+39116
+
+     Left thoracic percutaneous zygapophyseal joint denervation by radio-frequency probe or cryoprobe using radiological imaging control Applicable to one or more services provided in a single attendance, for not more than 3 attendances in a 12 month period (Anaes.) [](/dynamic/MBSItems/PainManagement/39116)
+39117
+
+     Right thoracic percutaneous zygapophyseal joint denervation by radio-frequency probe, or cryoprobe, using radiological imaging control Applicable to one or more services provided in a single attendance, for not more than 3 attendances in a 12 month period (Anaes.) [](/dynamic/MBSItems/PainManagement/39117)
+39118
+
+     Left cervical percutaneous zygapophyseal joint denervation by radio-frequency probe, or cryoprobe, using radiological imaging control Applicable to one or more services provided in a single attendance, for not more than 3 attendances in a 12 month period (Anaes.) [](/dynamic/MBSItems/PainManagement/39118)
+39119
+
+     Right cervical percutaneous zygapophyseal joint denervation by radio-frequency probe, or cryoprobe, using radiological imaging control Applicable to one or more services provided in a single attendance, for not more than 3 attendances in a 12 month period (Anaes.) [](/dynamic/MBSItems/PainManagement/39119)
+39121
+
+     PERCUTANEOUS CORDOTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagement/39121)
+39124
+
+     CORDOTOMY OR MYELOTOMY, partial or total laminectomy for, or operation for dorsal root entry zone (Drez) lesion (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagement/39124)
+39140
+
+     EPIDURAL CATHETER, insertion of, under imaging control, with epidurogram and epidural therapeutic injection for lysis of adhesions (Anaes.) [](/dynamic/MBSItems/PainManagement/39140)
+39323
+
+     Percutaneous denervation (excluding medial branch nerve) by cryotherapy or radiofrequency probe, other than a service to which another item applies, applicable not more than 6 times for a given nerve in a 12 month period (Anaes.) [](/dynamic/MBSItems/PainManagement/39323)
+45939
+
+     PERIPHERAL BRANCHES OF THE TRIGEMINAL NERVE, cryosurgery of, for pain relief (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagement/45939)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

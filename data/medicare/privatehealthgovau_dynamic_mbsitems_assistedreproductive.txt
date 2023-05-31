@@ -1,0 +1,136 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Assisted reproductive services - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+13200
+
+     ASSISTED REPRODUCTIVE TECHNOLOGIES SUPEROVULATED TREATMENT CYCLE PROCEEDING TO OOCYTE RETRIEVAL, involving the use of drugs to induce superovulation, and including quantitative estimation of hormones, semen preparation, ultrasound examinations, all treatment counselling and embryology laboratory services but excluding artificial insemination or transfer of frozen embryos or donated embryos or ova or a service to which item 13201, 13202, 13203, 13218 applies - being services rendered during 1 treatment cycle - INITIAL cycle in a single calendar year [](/dynamic/MBSItems/AssistedReproductive/13200)
+13201
+
+     ASSISTED REPRODUCTIVE TECHNOLOGIES SUPEROVULATED TREATMENT CYCLE PROCEEDING TO OOCYTE RETRIEVAL, involving the use of drugs to induce superovulation, and including quantitative estimation of hormones, semen preparation, ultrasound examinations, all treatment counselling and embryology laboratory services but excluding artificial insemination or transfer of frozen embryos or donated embryos or ova or a service to which item 13200, 13202, 13203, 13218 applies - being services rendered during 1 treatment cycle - each cycle SUBSEQUENT to the first in a single calendar year [](/dynamic/MBSItems/AssistedReproductive/13201)
+13202
+
+     ASSISTED REPRODUCTIVE TECHNOLOGIES SUPEROVULATED TREATMENT CYCLE THAT IS CANCELLED BEFORE OOCYTE RETRIEVAL, involving the use of drugs to induce superovulation and including quantitative estimation of hormones, semen preparation, ultrasound examinations, but excluding artificial insemination or transfer of frozen embryos or donated embryos or ova or a service to which Item 13200, 13201, 13203, 13218, applies being services rendered during 1 treatment cycle [](/dynamic/MBSItems/AssistedReproductive/13202)
+13203
+
+     Ovulation monitoring services for artificial insemination or gonadotrophin, stimulated ovulation induction, including quantitative estimation of hormones and ultrasound examinations, being services rendered during one treatment cycle but excluding a service to which item 13200, 13201, 13202, 13212, 13215 or 13218 applies [](/dynamic/MBSItems/AssistedReproductive/13203)
+13209
+
+     PLANNING and MANAGEMENT of a referred patient by a specialist for the purpose of treatment by assisted reproductive technologies or for artificial insemination payable once only during 1 treatment cycle [](/dynamic/MBSItems/AssistedReproductive/13209)
+13212
+
+     Oocyte retrieval for the purpose of assisted reproductive technologies-only if rendered in connection with a service to which item 13200 or 13201 applies (Anaes.) [](/dynamic/MBSItems/AssistedReproductive/13212)
+13215
+
+     Transfer of embryos or both ova and sperm to the uterus or fallopian tubes, excluding artificial insemination-only if rendered in connection with a service to which item 13200, 13201 or 13218 applies, being services rendered in one treatment cycle (Anaes.) [](/dynamic/MBSItems/AssistedReproductive/13215)
+13218
+
+     PREPARATION of frozen or donated embryos or donated oocytes for transfer to the uterus or fallopian tubes, by any means and including quantitative estimation of hormones and all treatment counselling but excluding artificial insemination services rendered in 1 treatment cycle and excluding a service to which item 13200, 13201, 13202, 13203, 13212 applies (Anaes.) [](/dynamic/MBSItems/AssistedReproductive/13218)
+13221
+
+     Preparation of semen for the purpose of artificial insemination-only if rendered in connection with a service to which item 13203 applies [](/dynamic/MBSItems/AssistedReproductive/13221)
+13241
+
+     Open surgical testicular sperm retrieval, unilateral, using operating microscope, including the exploration of scrotal contents, with biopsy, for the purposes of intracytoplasmic sperm injection, for male factor infertility, not being a service associated with a service to which item 13218 or 37604 applies (H) (Anaes.) [](/dynamic/MBSItems/AssistedReproductive/13241)
+13251
+
+     INTRACYTOPLASMIC SPERM INJECTION for the purposes of assisted reproductive technologies, for male factor infertility, excluding a service to which Item 13203 or 13218 applies [](/dynamic/MBSItems/AssistedReproductive/13251)
+13260
+
+     Processing and cryopreservation of semen for fertility preservation treatment before or after completion of gonadotoxic treatment for malignant or non-malignant conditions, in a post-pubertal male in Tanner stages II-V, up to 60 years old, if the patient is referred by a specialist or consultant physician, initial cryopreservation of semen (not including storage) - one of a maximum of two semen collection cycles per patient in a lifetime. [](/dynamic/MBSItems/AssistedReproductive/13260)
+13290
+
+     SEMEN, collection of, from a patient with spinal injuries or medically induced impotence, for the purposes of analysis, storage or assisted reproduction, bya medical practitioner using a vibrator or electro-ejaculation device including catheterisation and drainage of bladder where required [](/dynamic/MBSItems/AssistedReproductive/13290)
+14203
+
+     HORMONE OR LIVING TISSUE IMPLANTATION, by direct implantation involving incision and suture (Anaes.) [](/dynamic/MBSItems/AssistedReproductive/14203)
+14206
+
+     HORMONE OR LIVING TISSUE IMPLANTATIONby cannula [](/dynamic/MBSItems/AssistedReproductive/14206)
+37605
+
+     Transcutaneous sperm retrieval, unilateral, from either the testis or the epididymis, for the purposes ofintracytoplasmic sperm injection, for male factor infertility, excluding a service to which item 13218 applies. (Anaes.) [](/dynamic/MBSItems/AssistedReproductive/37605)
+37606
+
+     Open surgical sperm retrieval, unilateral, including the exploration of scrotal contents, with our without biopsy, for the purposes of intracytoplasmic sperm injection, for male factor infertility, performed in a hospital, excluding a service to which item 13218 or 37604 applies. (Anaes.) [](/dynamic/MBSItems/AssistedReproductive/37606)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

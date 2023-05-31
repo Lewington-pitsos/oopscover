@@ -1,0 +1,730 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Ear, nose and throat - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+18368
+
+     Botulinum Toxin Type A Purified Neurotoxin Complex (Botox), injection of, for the treatment of spasmodic dysphonia, including all such injections on any one day [](/dynamic/MBSItems/EarNoseThroat/18368)
+30104
+
+     Pre-auricular sinus, excision of, on a patient 10 years of age or over (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30104)
+30105
+
+     Pre-auricular sinus, excision of, on a patient under 10 years of age (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30105)
+30246
+
+     PAROTID DUCT, repair of, using micro-surgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30246)
+30247
+
+     Parotid gland, total extirpation of, including removal of tumour, other than a service associated with a service to which item 39321, 39324, 39327 or 39330 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30247)
+30250
+
+     Parotid gland, total extirpation of, with preservation of facial nerve, including: (a) removal of tumour; and (b) exposure or mobilisation of facial nerve; other than a service associated with a service to which item 39321, 39324, 39327 or 39330 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30250)
+30251
+
+     Recurrent parotid tumour, excision of, with preservation of facial nerve, including: (a) removal of tumour; and (b) exposure or mobilisation of facial nerve; other than a service associated with a service to which item 39321, 39324, 39327 or 39330 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30251)
+30253
+
+     Parotid gland, superficial lobectomy of, with exposure of facial nerve, including: (a) removal of tumour; and (b) exposure or mobilisation of facial nerve; other than a service associated with a service to which item 39321, 39324, 39327 or 39330 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30253)
+30255
+
+     SUBMANDIBULAR DUCTS, relocation of, for surgical control of drooling (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30255)
+30256
+
+     Submandibular gland, extirpation of, other than a service associated with a service to which item 31423, 31426, 31429, 31432, 31435 or 31438 applies on the same side (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30256)
+30257
+
+     Sialendoscopy, of submandibular or parotid duct, with or without removal of calculus or treatment of stricture (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30257)
+30259
+
+     SUBLINGUAL GLAND, extirpation of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30259)
+30262
+
+     SALIVARY GLAND, DILATATION OR DIATHERMY of duct (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30262)
+30266
+
+     Salivary gland, removal of calculus from duct or meatotomy or marsupialisation, 1 or more such procedures. (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30266)
+30269
+
+     SALIVARY GLAND, repair of CUTANEOUS FISTULA OF (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30269)
+30272
+
+     TONGUE, partial excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30272)
+30275
+
+     Radical excision of intra oral tumour, with or without resection of mandible, including dissection of lymph glands of neck, unilateral, other than a service associated with a service to which item 31423, 31426, 31429, 31432, 31435 or 31438 applies on the same side (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30275)
+30278
+
+     Tongue tie, repair of, other than: (a) a service to which another item in this Subgroup applies; or (b) a service associated with a service to which item 45009 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30278)
+30281
+
+     Tongue tie, mandibular frenulum or maxillary frenulum, repair of, in a person aged 2 years and over, under general anaesthesia, other than a service associated with a service to which item 45009 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30281)
+30283
+
+     RANULA OR MUCOUS CYST OF MOUTH, removal of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30283)
+30286
+
+     Branchial cyst, removal of, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30286)
+30287
+
+     Branchial cyst, removal of, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30287)
+30289
+
+     Branchial fistula, removal of, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30289)
+30293
+
+     CERVICAL OESOPHAGOSTOMY or CLOSURE OF CERVICAL OESOPHAGOSTOMY with or without plastic repair (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30293)
+30294
+
+     CERVICAL OESOPHAGECTOMY with tracheostomy and oesophagostomy, with or without plastic reconstruction; or LARYNGOPHARYNGECTOMY with tracheostomy and plastic reconstruction (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30294)
+30296
+
+     THYROIDECTOMY, total (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30296)
+30297
+
+     THYROIDECTOMY following previous thyroid surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30297)
+30306
+
+     TOTAL HEMITHYROIDECTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30306)
+30310
+
+     Partial or subtotal thyroidectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30310)
+30314
+
+     Thyroglossal cyst or fistula or both, radical removal of, including thyroglossal duct and portion of hyoid bone, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30314)
+30315
+
+     Minimally invasive parathyroidectomy. Removal of 1 or more parathyroid adenoma through a small cervical incision for an image localised adenoma, including thymectomy. For any particular patient - applicable only once per occasion on which the service is provided. Not in association with a service to which item 30318, 30317 or 30320 applies. (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30315)
+30317
+
+     Redo parathyroidectomy. Cervical re-exploration for persistent or recurrent hyperparathyroidism, including thymectomy and cervical exploration of the mediastinum. For any particular patient - applicable only once per occasion on which the service is provided. Not in association with a service to which item 30315, 30318 or 30320 applies. (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30317)
+30318
+
+     Open parathyroidectomy, exploration and removal of 1 or more adenoma or hyperplastic glands via a cervical incision including thymectomy and cervical exploration of the mediastinum when performed. For any particular patient - applicable only once per occasion on which the service is provided. Not in association with a service to which item 30315, 30317 or 30320 applies. (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30318)
+30320
+
+     Removal of a mediastinal parathyroid adenoma via sternotomy or mediastinal thorascopic approach. For any particular patient - applicable only once per occasion on which the service is provided. Not in association with a service to which item 30315, 30317 or 30318 applies. (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30320)
+30326
+
+     Thyroglossal cyst or fistula or both, radical removal of, including thyroglossal duct and portion of hyoid bone, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30326)
+30618
+
+     Lymph nodes of neck, selective dissection of one or 2 lymph node levels involving removal of soft tissue and lymph nodes from one side of the neck, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/30618)
+30820
+
+     Lymph node of neck, biopsy of, by open procedure, if the specimen excised is sent for pathological examination (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/30820)
+31400
+
+     MALIGNANT UPPER AERODIGESTIVE TRACT TUMOUR up to and including 20mm in diameter (excluding tumour of the lip), excision of, where histological confirmation of malignancy has been obtained (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31400)
+31403
+
+     MALIGNANT UPPER AERODIGESTIVE TRACT TUMOUR more than 20mm and up to and including 40mm in diameter (excluding tumour of the lip), excision of, where histological confirmation of malignancy has been obtained (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31403)
+31406
+
+     MALIGNANT UPPER AERODIGESTIVE TRACT TUMOUR more than 40mm in diameter (excluding tumour of the lip), excision of, where histological confirmation of malignancy has been obtained (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31406)
+31409
+
+     PARAPHARYNGEAL TUMOUR, excision of, by cervical approach (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31409)
+31412
+
+     RECURRENT OR PERSISTENT PARAPHARYNGEAL TUMOUR, excision of, by cervical approach (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31412)
+31423
+
+     Lymph nodes of neck, selective dissection of one or 2 lymph node levels involving removal of soft tissue and lymph nodes from one side of the neck, on a patient 10 years of age or over, other than a service associated with a service to which item 30256 or 30275 applies on the same side (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31423)
+31426
+
+     Lymph nodes of neck, selective dissection of 3 lymph node levels involving removal of soft tissue and lymph nodes from one side of the neck,other than a service associated with a service to which item 30256 or 30275 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31426)
+31429
+
+     Lymph nodes of neck, selective dissection of 4 lymph node levels on one side of the neck with preservation of one or more of: internal jugular vein, sternocleido-mastoid muscle, or spinal accessory nerve, other than a service associated with a service to which item 30256 or 30275 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31429)
+31432
+
+     Lymph nodes of neck, bilateral selective dissection of levels I, II and III (bilateral supraomohyoid dissections),other than a service associated with a service to which item 30256 or 30275 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31432)
+31435
+
+     Lymph nodes of neck, comprehensive dissection of all 5 lymph node levels on one side of the neck,other than a service associated with a service to which item 30256 or 30275 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31435)
+31438
+
+     Lymph nodes of neck, comprehensive dissection of all 5 lymph node levels on one side of the neck with preservation of one or more of: internal jugular vein, sternocleido-mastoid muscle, or spinal accessory nerve,other than a service associated with a service to which item 30256 or 30275 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/31438)
+38419
+
+     Bronchoscopy, as an independent procedure (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/38419)
+38420
+
+     Bronchoscopy with one or more endobronchial biopsies or other diagnostic or therapeutic procedures (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/38420)
+38422
+
+     Bronchus, removal of foreign body in (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/38422)
+38423
+
+     Fibreoptic bronchoscopy with one or more transbronchial lung biopsies, with or without bronchial or broncho-alveolar lavage, with or without the use of interventional imaging (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/38423)
+38425
+
+     Endoscopic laser resection of endobronchial tumours for relief of obstruction including any associated endoscopic procedures (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/38425)
+38426
+
+     Trachea or bronchus, dilatation of stricture and endoscopic insertion of stent (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/38426)
+38428
+
+     Bronchoscopy withtreatment of tracheal stricture (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/38428)
+41500
+
+     EAR, foreign body (other than ventilating tube) in, removal of, other than by simple syringing (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41500)
+41501
+
+     Examination of glottal cycles and vibratory characteristics of the vocal folds by a specialist in the practice of the specialist’s specialty of otolaryngology using videostroboscopy, including capturing audio, video, frequency and intensity, for confirmation of diagnosis , or for confirmation of treatment effectiveness where there is failure to progress or respond as expected, for: dysphonia where non stroboscopic techniques of the visualising the larynx have failed to identify any frank abnormality of the vocal folds; or benign or malignant vocal fold lesions; or premalignant or malignant laryngeal lesions; or vocal fold motion impairment or glottal insufficiency; or evaluation of vocal fold function after treatment or phonosurgery other than a service associated with a service to which item 41764 applies or with a services associated with the administration of a general anaesthetic [](/dynamic/MBSItems/EarNoseThroat/41501)
+41503
+
+     Ear, foreign body in (other than ventilating tube), removal of, involving incision of external auditory canal, other than a service associated with a service to which another item in this Subgroup applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41503)
+41506
+
+     AURAL POLYP, removal of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41506)
+41509
+
+     External auditory meatus, surgical removal of keratosis obturans from, performed under general anaesthesia, other than: (a) a service to which another item in this Subgroup applies; or (b) a service associated with a service to which item 41647 applies (H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41509)
+41512
+
+     MEATOPLASTY involving removal of cartilage or bone or both cartilage and bone, not being a service to which item 41515 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41512)
+41515
+
+     MEATOPLASTY involving removal of cartilage or bone or both cartilage and bone, being a service associated with a service to which item 41530, 41548, 41557, 41560 or 41563 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41515)
+41518
+
+     EXTERNAL AUDITORY MEATUS, removal of EXOSTOSES IN (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41518)
+41521
+
+     Correction of auditory canal stenosis, including meatoplasty, with or without grafting, other than a service associated with a service to which an item in Subgroup 18 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41521)
+41524
+
+     Reconstruction of external auditory canal(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41524)
+41527
+
+     Myringoplasty, by transcanal approach, other than a service associated with a service to which another item in this Subgroup applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41527)
+41530
+
+     Myringoplasty, post-aural or endaural approach, with or without mastoid inspection, other than a service associated with a service to which another item in this Subgroup applies(H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41530)
+41533
+
+     Atticotomy without reconstruction of the bony defect, with or without myringoplasty,other than a service associated with a service to which another item in this Subgroup applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41533)
+41536
+
+     Atticotomy with reconstruction of the bony defect, with or without myringoplasty,other than a service associated with a service to which another item in this Subgroup applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41536)
+41539
+
+     Ossicular chain reconstruction, other than a service associated with a service to which item 41611 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41539)
+41542
+
+     Ossicular chain reconstruction and myringoplasty, other than a service associated with a service to which item 41611 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41542)
+41545
+
+     Mastoidectomy (cortical),other than a service associated with a service to which another item in this Subgroup applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41545)
+41548
+
+     OBLITERATION OF THE MASTOID CAVITY (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41548)
+41551
+
+     Mastoidectomy, intact wall technique, with myringoplasty,other than a service associated with a service to which another item in this Subgroup applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41551)
+41554
+
+     Mastoidectomy, intact wall technique, with myringoplasty and ossicular chain reconstruction,other than a service associated with a service to which item 41603 or another item in this Subgroup applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41554)
+41557
+
+     Mastoidectomy (radical or modified radical),other than a service associated with a service to which another item in this Subgroup applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41557)
+41560
+
+     Mastoidectomy (radical or modified radical) and myringoplasty,other than a service associated with a service to which another item in this Subgroup applies(H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41560)
+41563
+
+     Mastoidectomy (radical or modified radical), myringoplasty and ossicular chain reconstruction,other than a service associated with a service to which another item in this Subgroup applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41563)
+41564
+
+     Mastoidectomy (radical or modified radical), obliteration of the mastoid cavity, blind sac closure of external auditory canal and obliteration of eustachian tube,other than a service associated with a service to which another item in this Subgroup applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41564)
+41566
+
+     Revision of mastoidectomy(radical, modified radical or intact wall), including myringoplasty,other than a service associated with a service to which another item in this Subgroup applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41566)
+41569
+
+     Decompression of facial nervein its mastoid portion,other than a service associated with a service to which item 41617 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41569)
+41572
+
+     LABYRINTHOTOMY OR DESTRUCTION OF LABYRINTH (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41572)
+41575
+
+     CEREBELLOPONTINE ANGLE TUMOUR, removal of by 2 surgeons operating conjointly, by transmastoid, translabyrinthine or retromastoid approachtransmastoid, translabyrinthine or retromastoid procedure (including aftercare) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41575)
+41576
+
+     CEREBELLO - PONTINE ANGLE TUMOUR, removal of, by transmastoid, translabyrinthine or retromastoid approach - intracranial procedure (including aftercare) not being a service to which item 41578 or 41579 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41576)
+41578
+
+     CEREBELLOPONTINE ANGLE TUMOUR, removal of, by transmastoid, translabyrinthine or retromastoid approach, (intracranial procedure) - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41578)
+41579
+
+     CEREBELLO-PONTINE ANGLE TUMOUR, removal of, by transmastoid, translabyrinthine or retromastoid approach, (intracranial procedure) - conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41579)
+41581
+
+     TUMOUR INVOLVING INFRA-TEMPORAL FOSSA, removal of, involving craniotomy and radical excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41581)
+41584
+
+     PARTIAL TEMPORAL BONE RESECTION for removal of tumour involving mastoidectomy with or without decompression of facial nerve (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41584)
+41587
+
+     TOTAL TEMPORAL BONE RESECTION for removal of tumour (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41587)
+41590
+
+     ENDOLYMPHATIC SAC, TRANSMASTOID DECOMPRESSION with or without drainage of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41590)
+41593
+
+     TRANSLABYRINTHINE VESTIBULAR NERVE SECTION (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41593)
+41596
+
+     RETROLABYRINTHINE VESTIBULAR NERVE SECTION or COCHLEAR NERVE SECTION, or BOTH (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41596)
+41599
+
+     INTERNAL AUDITORY MEATUS, exploration by middle cranial fossa approach with cranial nerve decompression (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41599)
+41608
+
+     STAPEDECTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41608)
+41611
+
+     Stapes mobilisation, other than a service associated with a service to which item 41539, 41542, or an item in Subgroup 18, applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41611)
+41614
+
+     Round window surgery including repair of cochleotomy, other than a service associated with a service to which item 41617 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41614)
+41615
+
+     OVAL WINDOW SURGERY, including repair of fistula, not being a service associated with a service to which any other item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41615)
+41620
+
+     GLOMUS TUMOUR, transtympanic removal of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41620)
+41623
+
+     GLOMUS TUMOUR, transmastoid removal of, including mastoidectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41623)
+41626
+
+     Incision of tympanic membrane, or installation of therapeutic agent, to the middle ear through an intact drum: (a) not including local anaesthetic; and (b) excluding aftercare; and (c) other than a service associated with a service to which item 41632 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41626)
+41629
+
+     Middle ear, exploration of,other than a service associated with a service to which another item in this Subgroup applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41629)
+41635
+
+     Clearance of middle ear for granuloma, cholesteatoma and polyp, one or more, with or without myringoplasty,other than a service associated with a service to which another item in this Subgroup applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41635)
+41638
+
+     Clearance of middle ear for granuloma, cholesteatoma and polyp, one or more, with or without myringoplasty with ossicular chain reconstruction other than a service associated with a service to which another item in this Subgroup applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41638)
+41641
+
+     PERFORATION OF TYMPANUM, cauterisation or diathermy of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41641)
+41644
+
+     EXCISION OF RIM OF EARDRUM PERFORATION, not being a service associated with myringoplasty (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41644)
+41647
+
+     Micro inspection of tympanic membrane and auditory canal, requiring use of operating microscope or endoscope, including any removal of wax, with or without general anaesthesia, other than a service associated with a service to which item 41509 applies. Not applicable for the removal of uncomplicated wax in the absence of other disorders of the ear (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41647)
+41650
+
+     TYMPANIC MEMBRANE, microinspection of 1 or both ears under general anaesthesia, not being a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41650)
+41656
+
+     NASAL HAEMORRHAGE, POSTERIOR, ARREST OF, with posterior nasal packing with or without cauterisation and with or without anterior pack (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41656)
+41659
+
+     NOSE, removal of FOREIGN BODY IN, other than by simple probing (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41659)
+41662
+
+     Nasal polyp or polypi (simple), removal of, other than a service associated with a service to which item 41702, 41703 or 41705 applies on the same side [](/dynamic/MBSItems/EarNoseThroat/41662)
+41668
+
+     Nasal polyp or polypi,removal of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41668)
+41671
+
+     Septal surgery, including septoplasty, septal reconstruction, septectomy, closure of septal perforation or other modifications of the septum, not including cauterisation, by any approach, other than a service associated with a service to which item 41689, 41692 or 41693 applies (H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41671)
+41674
+
+     Cauterisation (other than by chemical means) or cauterisation by chemical means when performed under general anaesthesia or diathermy of septum or turbinates—one or more of these procedures (including any consultation on the same occasion) other than a service associated with another operation on the nose (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41674)
+41677
+
+     NASAL HAEMORRHAGE, arrest of during an episode of epistaxis by cauterisation or nasal cavity packing or both (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41677)
+41683
+
+     DIVISION OF NASAL ADHESIONS, with or without stenting not being a service associated with any other operation on the nose and not performed during the postoperative period of a nasal operation (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41683)
+41686
+
+     DISLOCATION OF TURBINATE OR TURBINATES, 1 or both sides, not being a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41686)
+41689
+
+     Turbinate reduction, partial or total, unilateral or bilateral, other than a service associated with a service to which item 41671, 41692 or 41693 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41689)
+41692
+
+     Turbinate, submucous resection with removal of bone, unilateral or bilateral, other than a service associated with a service to which item 41671, 41689 or 41693 applies (H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41692)
+41693
+
+     Septal surgery with submucous resection of turbinates, unilateral or bilateral, other than a service associated with a service to which item 41671, 41689, 41692 or 41764 applies (H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41693)
+41698
+
+     Maxillary antrum, proof puncture and lavage of, other than a service associated with a service to which item 41702, 41703, 41705, 41710, 41734 or 41737 applies on the same side (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41698)
+41701
+
+     MAXILLARY ANTRUM, proof puncture and lavage of, under general anaesthesia (requiring admission to hospital) not being a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41701)
+41702
+
+     Functional sinus surgery of the ostiomeatal unit, including ethmoid, unilateral, other than a service associated with a service to which item 41662, 41698, 41703, 41705, 41710 or 41764 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41702)
+41703
+
+     Functional sinus surgery, complete dissection of all 5 sinuses and creation of single sinus cavity, unilateral, other than a service associated with a service to which item 41662, 41698, 41702, 41705, 41710, 41734, 41737, 41752 or 41764 applies on the same side (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41703)
+41704
+
+     MAXILLARY ANTRUM, LAVAGE OFeach attendance at which the procedure is performed, including any associated consultation (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41704)
+41705
+
+     Functional sinus surgery, complete dissection of all 5 sinuses to create a single sinus cavity, with extended drilling of frontal sinuses, unilateral, other than a service associated with a service to which item 41662, 41698, 41702, 41703, 41710, 41734, 41737, 41752 or 41764 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41705)
+41707
+
+     Maxillaryor sphenopalatine artery, ligation of (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41707)
+41710
+
+     Antrostomyby any approach, other than a service associated with a service to which item 41702, 41703, 41705 or 41698 applies on the same side (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41710)
+41713
+
+     Vidian neurectomy or exposure of vidian canal (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41713)
+41719
+
+     Antrum, drainage of, through tooth socket, other than a service associated with a service to which item 41722 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41719)
+41722
+
+     Oroantral fistula, plastic closure of,other than a service associated with a service to which item 41719 or 45009 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41722)
+41725
+
+     Ligation of ethmoidal artery or arteries, anterior, posterior or both, by any approach (unilateral) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41725)
+41728
+
+     Removal of sinonasal or nasopharyngeal tumour, excluding inflammatory nasal polyps, by any approach (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41728)
+41734
+
+     Endoscopic Lothrop procedure or radical external frontal sinusotomy with osteoplastic flap, unilateral, other than a service associated with a service to which item 41698, 41703, 41705 or 41764 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41734)
+41737
+
+     Frontal sinus, unilateral, intranasal operation on, including complete dissection of frontal recess and exposure of frontal sinus ostium (excludes simple probing, dilatation or irrigation of frontal sinus), other than a service associated with a service to which item 41698, 41703, 41705 or 41764 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41737)
+41740
+
+     Frontal sinus, catheterisation of, other than a service associated with a service to which item 41749 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41740)
+41743
+
+     Frontal sinus, trephine of, other than a service associated with a service to which item 41749 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41743)
+41746
+
+     Paranasal sinus, radical obliteration of, including any graft harvest (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41746)
+41749
+
+     Paranasal sinus, external operation on, unilateral, other than a service associated with a service to which item 41740 or 41743 applies on the same side (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41749)
+41752
+
+     Sphenoidal sinus, unilateral, intranasal operation on, other than a service associated with a service to which item 41703 or 41705 applies on the same side(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41752)
+41755
+
+     EUSTACHIAN TUBE, catheterisation of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41755)
+41770
+
+     PHARYNGEAL POUCH, removal of, with or without cricopharyngeal myotomy (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41770)
+41776
+
+     Cricopharyngeal myotomyby any approach, including open inversion of pharyngeal pouch or endoscopic repair of pharyngeal pouch(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41776)
+41779
+
+     PHARYNGOTOMY (lateral), with or without total excision of tongue (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41779)
+41785
+
+     Partial pharyngectomy, by any approach, with or without partial glossectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41785)
+41786
+
+     UVULOPALATOPHARYNGOPLASTY, with or without tonsillectomy, by any means (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41786)
+41804
+
+     Removal of lingual tonsil (H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41804)
+41807
+
+     PERITONSILLAR ABSCESS (quinsy), incision of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41807)
+41810
+
+     UVULOTOMY or UVULECTOMY (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41810)
+41813
+
+     VALLECULAR OR PHARYNGEAL CYSTS, removal of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41813)
+41834
+
+     Total laryngectomy, including cricopharyngeal myotomy and tracheo oesophageal puncture (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41834)
+41837
+
+     Complete vertical hemi laryngectomy, involving removal of true and false vocal cords, including tracheostomy. Applicable only once per provider per patient per lifetime (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41837)
+41840
+
+     Total supraglottic laryngectomy, involving removal of ventricular folds, epiglottis and aryepiglottic folds including tracheostomy. Applicable only once per provider per patient per lifetime(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41840)
+41843
+
+     LARYNGOPHARYNGECTOMY or PRIMARY RESTORATION OF ALIMENTARY CONTINUITY after laryngopharyngectomy USING STOMACH OR BOWEL (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41843)
+41855
+
+     Microlaryngoscopy, by any approach, with or without biopsy(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41855)
+41861
+
+     Microlaryngoscopy with complete removal of benign or malignant lesions of the larynx, including papillomata, by any approach or technique, unilateral, other than a service associated with a service to which item 41870 applies on the same side (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41861)
+41867
+
+     Microlaryngoscopy, with partial or complete arytenoidectomy or arytenoid repositioning(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41867)
+41870
+
+     Laryngeal augmentation or modification by injection techniques, other than a service associated with a service to which item 41861 or 41879 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41870)
+41873
+
+     Larynx, fractured, operation for(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41873)
+41876
+
+     LARYNX, external operation on, OR LARYNGOFISSURE with or without cordectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41876)
+41879
+
+     Tracheoplasty, laryngoplasty or thyroplasty, not by injection techniques, including tracheostomy, other than a service associated with a service to which item 41870 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41879)
+41880
+
+     Tracheostomyby a percutaneous technique(H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41880)
+41881
+
+     Tracheostomyby open exposure of the trachea(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41881)
+41884
+
+     Cricothyrostomy(H) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41884)
+41885
+
+     TRACHE-OESOPHAGEAL FISTULA, formation of, as a secondary procedure following laryngectomy, including associated endoscopic procedures (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41885)
+41886
+
+     TRACHEA, removal of foreign body in (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41886)
+41887
+
+     Pituitary tumour, removal of, by trans-sphenoidal approach, including stereotaxy and dermis, dermofat or fascia grafting, as part of conjoint surgery, other than a service associated with a service to which item 40600 applies(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41887)
+41907
+
+     NASAL SEPTUM BUTTON, insertion of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/41907)
+41910
+
+     DUCT OF MAJOR SALIVARY GLAND, transposition of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/41910)
+43832
+
+     Branchial fistula, removal of, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/43832)
+45645
+
+     CHOANAL ATRESIA, repair of by puncture and dilatation (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/45645)
+45646
+
+     CHOANAL ATRESIA - correction by open operation with bone removal (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/45646)
+47735
+
+     Nasal bones, treatment of fracture of, other than a service to which item 47738 or 47741 applies—each attendance [](/dynamic/MBSItems/EarNoseThroat/47735)
+47738
+
+     Nasal bones, treatment of fracture of, by reduction (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/47738)
+47741
+
+     Nasal bones, treatment of fracture of, by open reduction involving osteotomies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/47741)
+51900
+
+     WOUND OF SOFT TISSUE, deep or extensively contaminated, debridement of, under general anaesthesia or regional or field nerve block, including suturing of that wound when performed (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/51900)
+51902
+
+     WOUNDS, DRESSING OF, under general anaesthesia, with or without removal of sutures, not being a service associated with a service to which another item in Groups O3 to O9 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/51902)
+52021
+
+     ASPIRATION BIOPSY of 1 or MORE JAW CYSTS as an independent procedure to obtain material for diagnostic purposes and not being a service associated with an operative procedure on the same day (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52021)
+52024
+
+     BIOPSY OF SKIN OR MUCOUS MEMBRANE, as an independent procedure (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52024)
+52025
+
+     LYMPH NODE OF NECK, biopsy of (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52025)
+52027
+
+     BIOPSY OF LYMPH NODE, MUSCLE OR OTHER DEEP TISSUE OR ORGAN, as an independent procedure and not being a service to which item 52025 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52027)
+52030
+
+     SINUS, excision of, involving superficial tissue only (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52030)
+52033
+
+     SINUS, excision of, involving muscle and deep tissue (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52033)
+52034
+
+     PREMALIGNANT LESIONS of the oral mucous, treatment by cryotherapy, diathermy or carbon dioxide laser [](/dynamic/MBSItems/EarNoseThroat/52034)
+52035
+
+     ENDOSCOPIC LASER THERAPY for neoplasia and benign vascular lesions of the oral cavity (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52035)
+52055
+
+     HAEMATOMA, SMALL ABSCESS OR CELLULITIS, not requiring admission to a hospital, INCISION WITH DRAINAGE OF (excluding after care) [](/dynamic/MBSItems/EarNoseThroat/52055)
+52132
+
+     TRACHEOSTOMY (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52132)
+52133
+
+     CRICOTHYROSTOMY by direct stab or Seldinger technique, using Minitrach or similar device (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52133)
+52135
+
+     POST-OPERATIVE or POST-NASAL HAEMORRHAGE, or both, control of, where undertaken in the operating theatre of a hospital (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/52135)
+52138
+
+     MAXILLARY ARTERY, ligation of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/52138)
+52141
+
+     FACIAL, MANDIBULAR or LINGUAL ARTERY or VEIN or ARTERY and VEIN, ligation of, not being a service to which item 52138 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/52141)
+52147
+
+     DUCT OF MAJOR SALIVARY GLAND, transposition of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/52147)
+52148
+
+     PAROTID DUCT, repair of, using micro-surgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/52148)
+52158
+
+     SUBMANDIBULAR DUCTS, relocation of, for surgical control of drooling (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/52158)
+53000
+
+     MAXILLARY ANTRUM, PROOF PUNCTURE AND LAVAGE OF (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53000)
+53003
+
+     MAXILLARY ANTRUM, proof puncture and lavage of, under general anaesthesia (requiring admission to hospital) not being a service associated with a service to which another item in Groups O3 to O9 applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53003)
+53004
+
+     MAXILLARY ANTRUM, LAVAGE OF - each attendance at which the procedure is performed, including any associated consultation (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53004)
+53006
+
+     ANTROSTOMY (RADICAL) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/53006)
+53009
+
+     ANTRUM, intranasal operation on, or removal of foreign body from (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/53009)
+53012
+
+     ANTRUM, drainage of, through tooth socket (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53012)
+53015
+
+     ORO-ANTRAL FISTULA, plastic closure of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/53015)
+53016
+
+     NASAL SEPTUM, septoplasty, submucous resection or closure of septal perforation (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/53016)
+53017
+
+     NASAL SEPTUM, reconstruction of (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/53017)
+53019
+
+     MAXILLARY SINUS, BONE GRAFT to floor of maxillary sinus following elevation of mucosal lining (sinus lift procedure), (unilateral) (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/53019)
+53052
+
+     POST-NASAL SPACE, direct examination of, with or without biopsy (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53052)
+53054
+
+     NASENDOSCOPY or SINOSCOPY or FIBREOPTIC EXAMINATION of NASOPHARYNX one or more of these procedures (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53054)
+53056
+
+     EXAMINATION OF NASAL CAVITY or POST-NASAL SPACE, or NASAL CAVITY AND POST-NASAL SPACE, UNDER GENERAL ANAESTHESIA, not being a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53056)
+53058
+
+     NASAL HAEMORRHAGE, POSTERIOR, ARREST OF, with posterior nasal packing with or without cauterisation and with or without anterior pack (excluding aftercare) (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53058)
+53060
+
+     CAUTERISATION (other than by chemical means) OR CAUTERISATION by chemical means when performed under general anaesthesia OR DIATHERMY OF SEPTUM, TURBINATES FOR OBSTRUCTION OR HAEMORRHAGE SECONDARY TO SURGERY (OR TRAUMA) - 1 or more of these procedures (including any consultation on the same occasion) not being a service associated with any other operation on the nose (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53060)
+53062
+
+     POST SURGICAL NASAL HAEMORRHAGE, arrest of during an episode of epistaxis by cauterisation or nasal cavity packing or both (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53062)
+53064
+
+     CRYOTHERAPY TO NOSE in the treatment of nasal haemorrhage (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53064)
+53068
+
+     TURBINECTOMY or TURBINECTOMIES, partial or total, unilateral (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53068)
+53070
+
+     TURBINATES, submucous resection of, unilateral (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53070)
+53458
+
+     NASAL BONES, treatment of fracture of, not being a service to which item 53459 or 53460 applies [](/dynamic/MBSItems/EarNoseThroat/53458)
+53459
+
+     NASAL BONES, treatment of fracture of, by reduction (Anaes.) [](/dynamic/MBSItems/EarNoseThroat/53459)
+53460
+
+     NASAL BONES, treatment of fractures of, by open reduction involving osteotomies (Anaes.) (Assist.) [](/dynamic/MBSItems/EarNoseThroat/53460)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

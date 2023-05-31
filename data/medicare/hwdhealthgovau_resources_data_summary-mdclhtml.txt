@@ -1,0 +1,143 @@
+Skip to main content Skip to main navigation
+
+[ ![Australia Government Department of Health and Aged Care](
+
+                  ../../images/DoHCrest-white.png
+  ) ![Health Workforce Data](../../images/hwd-icon-light.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [Using our website](../../using-our-website/using.html)
+  * [Contact Us](../../contactus)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](../../)
+  * [Data Tool](../../datatool)
+  * [Resources](../)
+  * [HeaDS UPP](../../headsupp)
+
+# Summary Statistics, Medical Profession
+
+Summary tables were generated using a statistical package that uses different
+rounding methodologies to the Health Workforce Data Tool. Percentages and/or
+averages may differ slightly to those extracted from the Health Workforce Data
+Tool.
+
+### Registered and Employed in Australia 2017 to 2021
+
+#### Interpreting 2021 Medical Practitioner data
+
+From 16 June 2021, Services Australia started using the Australian Health
+Practitioner Regulation Agencyâs (Ahpra) Register of practitioners to
+confirm General Practitioners (GPs) specialist registration, required so their
+patients were eligible to retain access to Medicare Rebates. This change saw a
+significant short-term increase in medical specialist applications from GPs.
+Please note that this change in registration practice does not represent an
+additional GP workforce and care should be taken when comparing figures
+between 2020 and 2021.
+
+  
+
+Clinician Status | Area | 2017 | 2018 | 2019 | 2020 | 2021  
+---|---|---|---|---|---|---  
+Clinician| General practitioner (GP)*| 29,455| 30,066| 31,102| 31,620| 31,842  
+Clinician| Hospital non-specialist| 10,516| 10,759| 12,098| 13,161| 13,671  
+Clinician| Specialist| 32,245| 33,303| 35,024| 36,189| 37,421  
+Clinician| Specialist-in-training| 16,334| 16,916| 16,526| 17,001| 17,735  
+Clinician| Other clinician| 1,867| 2,560| 2,289| 2,289| 2,527  
+Other| | 4,777| 4,791| 4,802| 5,033| 5,305  
+Total| | 95,194| 98,395| 101,841| 105,293| 108,501  
+  
+*General Practitioners refer to General practitioners using the NHWDS as defined in the method papers under Main job area : [General practitioners in Australia: Headcount & workload methods - Summary](../information/methods-gp-workload.html)
+
+### Registered and Employed in Australia, 2021
+
+Clinician Status | Area | Headcount | Total FTE | Average Age | Average Total
+Hours  
+---|---|---|---|---|---  
+Clinician| General practitioner (GP)*| 31,842| 29,264.6| 51.3| 36.8  
+Clinician| Hospital non-specialist| 13,671| 15,781.0| 33.1| 46.2  
+Clinician| Specialist| 37,421| 39,123.1| 50.0| 41.8  
+Clinician| Specialist-in-training| 17,735| 19,819.2| 34.2| 44.7  
+Clinician| Other clinician| 2,527| 2,369.6| 44.9| 37.5  
+Other| | 5,305| 4,874.9| 53.2| 36.8  
+Total| | 108,501| 111,232.2| 45.7| 41.0  
+  
+*General Practitioners refer to General practitioners using the NHWDS as defined in the method papers under Main job area : [General practitioners in Australia: Headcount & workload methods - Summary](../information/methods-gp-workload.html)
+
+### State and Territory, Registered and Employed in Australia, 2021
+
+State | Headcount | Total FTE | Average Age | Average Total Hours  
+---|---|---|---|---  
+NSW| 33,623| 34,593.5| 46.5| 41.2  
+VIC| 27,591| 28,035.3| 45.4| 40.6  
+QLD| 22,486| 23,214.8| 45.1| 41.3  
+SA| 7,641| 7,781.1| 46.3| 40.7  
+WA| 11,119| 11,311.8| 45.3| 40.7  
+TAS| 2,483| 2,532.9| 46.1| 40.8  
+ACT| 2,102| 2,219.7| 46.1| 42.2  
+NT| 1,340| 1,429.8| 42.2| 42.7  
+Australia| 108,501| 111,232.2| 45.7| 41.0  
+  
+*Australia data includes those where State or Territory is unknown
+
+### Remoteness Area, Registered and Employed in Australia, 2021
+
+Remoteness Area | Headcount | Total FTE | Average Age | Average Total Hours  
+---|---|---|---|---  
+Major cities| 85,430| 87,249.1| 45.8| 40.9  
+Inner regional| 15,514| 15,829.1| 45.7| 40.8  
+Outer regional| 6,090| 6,537.7| 44.9| 42.9  
+Remote| 923| 1,011.8| 44.6| 43.9  
+Very remote| 431| 495.2| 48.4| 46.0  
+Australia| 108,501| 111,232.2| 45.7| 41.0  
+  
+### Modified Monash Model (MMM), Registered and Employed in Australia, 2021
+
+Modified Monash Model | Headcount | Total FTE | Average Age | Average Total
+Hours  
+---|---|---|---|---  
+1| 85,430| 87,249.1| 45.8| 40.9  
+2| 10,085| 10,464.0| 44.3| 41.5  
+3| 6,858| 7,154.8| 45.8| 41.7  
+4| 2,424| 2,483.3| 47.0| 41.0  
+5| 2,222| 2,249.5| 48.1| 40.5  
+6| 918| 1,003.6| 44.6| 43.7  
+7| 451| 518.5| 48.2| 46.0  
+Total| 108,501| 111,232.2| 45.7| 41.0  
+  
+### Resources
+
+  * [Publications](../../resources/index.html?resourcetype=publications)
+  * [Dashboards](../../resources/index.html?resourcetype=dashboards)
+  * [Data](../../resources/index.html?resourcetype=data)
+  * [Information](../../resources/index.html?resourcetype=information)
+
+### Applications
+
+  * [Data Tool](../../datatool/index.html)
+  * [HeaDS UPP](../../headsupp/index.html)
+
+### Contact us
+
+  * [Contact Us](../../contactus/index.html)
+
+### Using our website
+
+  * [Using our website](../../using-our-website/using.html)
+  * [Accessibility](../../using-our-website/accessibility.html)
+  * [Copyright](../../using-our-website/copyright.html)
+  * [Disclaimer](../../using-our-website/disclaimer.html)
+  * [Privacy](../../using-our-website/privacy.html)
+
+Â© Commonwealth of Australia
+
+Back to top
+

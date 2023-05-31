@@ -1,0 +1,439 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Chemotherapy, radiotherapy and immunotherapy for cancer - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+13760
+
+     In vitro processing with cryopreservation of bone marrow or peripheral blood, for autologous stem cell transplantation for a patient receiving high-dose chemotherapy for management of: (a) aggressive malignancy; or (b) malignancy that has proven refractory to prior treatment [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/13760)
+13950
+
+     Parenteral administration of one or more antineoplastic agents, including agents used in cytotoxic chemotherapy or monoclonal antibody therapy but not agents used in anti-resorptive bone therapy or hormonal therapy, by or on behalf of a specialist or consultant physician—attendance for one or more episodes of administration Note: The fee for item 13950 contains a component which covers the accessing of a long-term drug delivery device. TN.1.27 refers [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/13950)
+14221
+
+     LONG-TERM IMPLANTED DEVICE FOR DELIVERY OF THERAPEUTIC AGENTS, accessing of, not being a service associated with a service to which item 13950 applies [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/14221)
+14245
+
+     IMMUNOMODULATING AGENT, administration of, by intravenous infusion for at least 2 hours duration - payable once only on the same day and where the agent is provided under section 100 of the Pharmaceutical Benefits Scheme [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/14245)
+14247
+
+     Extracorporeal photopheresis for the treatment of erythrodermic stage III-IVa T4 M0 cutaneous T-cell lymphoma; if the service is provided in the initial six months of treatment; and the service is delivered using an integrated, closed extracorporeal photopheresis system; and the patient is 18 years old or over; and the patient has received prior systemic treatment for this condition and experienced either disease progression or unacceptable toxicity while on this treatment; and the service is provided in combination with the use of Pharmaceutical Benefits Scheme-subsidised methoxsalen; and the service is supervised by a specialist or consultant physician in the speciality of haematology. Applicable once per treatment cycle [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/14247)
+14249
+
+     Extracorporeal photopheresis for the continuing treatment of erythrodermic stage III-IVa T4 M0 cutaneous T-cell lymphoma; if in the preceding 6 months:(i) a service to which item 14247 applies has been provided; and(ii) the patient has demonstrated a response to this service; and(iii)the patient requires further treatment; and the service is delivered using an integrated, closed extracorporeal photopheresis system; and the patient is 18 years old or over; and the service is provided in combination with the use of Pharmaceutical Benefits Scheme-subsidised methoxsalen; and the service is supervised by a specialist or consultant physician in the speciality of haematology. Applicable once per treatment cycle [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/14249)
+15000
+
+     (Benefits for administration of general anaesthetic for radiotherapy are payable under Group T10) RADIOTHERAPY, SUPERFICIAL (including treatment with xrays, radium rays or other radioactive substances), not being a service to which another item in this Group applies each attendance at which fractionated treatment is given - 1 field [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15000)
+15003
+
+     Radiotherapy, superficial (including treatment with x-rays, radium rays or other radioactive substances), not being a service to which another item in this Group applies - each attendance at which fractionated treatment is given - 2 or more fields up to a maximum of 5 additional fields [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15003)
+15006
+
+     RADIOTHERAPY, SUPERFICIAL, attendance at which single dose technique is applied - 1 field [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15006)
+15009
+
+     Radiotherapy, superficial attendance at which a single dose technique is applied - 2 or more fields up to a maximum of 5 additional fields [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15009)
+15012
+
+     RADIOTHERAPY, SUPERFICIALeach attendance at which treatment is given to an eye [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15012)
+15100
+
+     RADIOTHERAPY, DEEP OR ORTHOVOLTAGE each attendance at which fractionated treatment is given at 3 or more treatments per week - 1 field [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15100)
+15103
+
+     Radiotherapy, deep or orthovoltage each attendance at which fractionated treatment is given at 3 or more treatments per week - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15103)
+15106
+
+     RADIOTHERAPY, DEEP OR ORTHOVOLTAGEeach attendance at which fractionated treatment is given at 2 treatments per week or less frequently - 1 field [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15106)
+15109
+
+     Radiotherapy, deep or orthovoltage each attendance at which fractionated treatment is given at 2 treatments per week or less frequently - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15109)
+15112
+
+     RADIOTHERAPY, DEEP OR ORTHOVOLTAGEattendance at which single dose technique is applied 1 field [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15112)
+15115
+
+     Radiotherapy, deep or orthovoltage attendance at which a single dose technique is applied - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15115)
+15211
+
+     RADIATION ONCOLOGY TREATMENT, using cobalt unit or caesium teletherapy uniteach attendance at which treatment is given - 1 field [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15211)
+15214
+
+     Radiation oncology treatment, using cobalt unit or caesium teletherapy unit - each attendance at which treatment is given 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15214)
+15215
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to primary site (lung) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15215)
+15218
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to primary site (prostate) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15218)
+15221
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to primary site (breast) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15221)
+15224
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to primary site for diseases and conditions not covered by items 15215, 15218 and 15221 [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15224)
+15227
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to secondary site [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15227)
+15230
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to primary site (lung) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15230)
+15233
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to primary site (prostate) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15233)
+15236
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to primary site (breast) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15236)
+15239
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to primary site for diseases and conditions not covered by items 15230, 15233 or 15236 [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15239)
+15242
+
+     RADIATION ONCOLOGY TREATMENT, using a single photon energy linear accelerator with or without electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to secondary site [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15242)
+15245
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to primary site (lung) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15245)
+15248
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to primary site (prostate) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15248)
+15251
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to primary site (breast) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15251)
+15254
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to primary site for diseases and conditions not covered by items 15245, 15248 or 15251 [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15254)
+15257
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 1 field - treatment delivered to secondary site [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15257)
+15260
+
+     RADIATION ORADIATION ONCOLOGY treatment, using a dual photon energy linear accelerator with a minimum higher energy of at least 10mv photons, with electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to primary site (lung) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15260)
+15263
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to primary site (prostate) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15263)
+15266
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to primary site (breast) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15266)
+15269
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to primary site for diseases and conditions not covered by items 15260, 15263 or 15266 [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15269)
+15272
+
+     RADIATION ONCOLOGY TREATMENT, using a dual photon energy linear accelerator with a minimum higher energy of at least 10MV photons, with electron facilities - each attendance at which treatment is given - 2 or more fields up to a maximum of 5 additional fields (rotational therapy being 3 fields) - treatment delivered to secondary site [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15272)
+15275
+
+     RADIATION ONCOLOGY TREATMENT with IGRT imaging facilities undertaken: (a) to implement an IMRT dosimetry plan prepared in accordance with item 15565; and (b) utilising an intensity modulated treatment delivery mode (delivered by a fixed or dynamic gantry linear accelerator or by a helical non C-arm based linear accelerator), once only at each attendance at which treatment is given. [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15275)
+15303
+
+     INTRAUTERINE TREATMENT ALONE using radioactive sealed sources having a half-life greater than 115 days using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15303)
+15304
+
+     INTRAUTERINE TREATMENT ALONE using radioactive sealed sources having a half-life greater than 115 days using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15304)
+15307
+
+     INTRAUTERINE TREATMENT ALONE using radioactive sealed sources having a half-life of less than 115 days including iodine, gold, iridium or tantalum using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15307)
+15308
+
+     INTRAUTERINE TREATMENT ALONE using radioactive sealed sources having a half-life of less than 115 days including iodine, gold, iridium or tantalum using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15308)
+15311
+
+     INTRAVAGINAL TREATMENT ALONE using radioactive sealed sources having a half-life greater than 115 days using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15311)
+15312
+
+     INTRAVAGINAL TREATMENT ALONE using radioactive sealed sources having a half-life greater than 115 days using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15312)
+15315
+
+     INTRAVAGINAL TREATMENT ALONE using radioactive sealed sources having a half-life of less than 115 days including iodine, gold, iridium or tantalum using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15315)
+15316
+
+     INTRAVAGINAL TREATMENT ALONE using radioactive sealed sources having a half-life of less than 115 days including iodine, gold, iridium or tantalum using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15316)
+15319
+
+     COMBINED INTRAUTERINE AND INTRAVAGINAL TREATMENT using radioactive sealed sources having a half-life greater than 115 days using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15319)
+15320
+
+     COMBINED INTRAUTERINE AND INTRAVAGINAL TREATMENT using radioactive sealed sources having a half-life greater than 115 days using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15320)
+15323
+
+     COMBINED INTRAUTERINE AND INTRAVAGINAL TREATMENT using radioactive sealed sources having a half-life of less than 115 days including iodine, gold, iridium or tantalum using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15323)
+15324
+
+     COMBINED INTRAUTERINE AND INTRAVAGINAL TREATMENT using radioactive sealed sources having a half-life of less than 115 days including iodine, gold, iridium or tantalum using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15324)
+15327
+
+     IMPLANTATION OF A SEALED RADIOACTIVE SOURCE (having a half-life of less than 115 days including iodine, gold, iridium or tantalum) to a region, under general anaesthesia, or epidural or spinal (intrathecal) nerve block, requiring surgical exposure and using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15327)
+15328
+
+     IMPLANTATION OF A SEALED RADIOACTIVE SOURCE (having a half-life of less than 115 days including iodine, gold, iridium or tantalum) to a region, under general anaesthesia, or epidural or spinal (intrathecal) nerve block, requiring surgical exposure and using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15328)
+15331
+
+     IMPLANTATION OF A SEALED RADIOACTIVE SOURCE (having a half-life of less than 115 days including iodine, gold, iridium or tantalum) to a site (including the tongue, mouth, salivary gland, axilla, subcutaneous sites), where the volume treated involves multiple planes but does not require surgical exposure and using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15331)
+15332
+
+     IMPLANTATION OF A SEALED RADIOACTIVE SOURCE (having a half-life of less than 115 days including iodine, gold, iridium or tantalum) to a site (including the tongue, mouth, salivary gland, axilla, subcutaneous sites), where the volume treated involves multiple planes but does not require surgical exposure and using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15332)
+15335
+
+     IMPLANTATION OF A SEALED RADIOACTIVE SOURCE (having a half-life of less than 115 days including iodine, gold, iridium or tantalum) to a site where the volume treated involves only a single plane but does not require surgical exposure and using manual afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15335)
+15336
+
+     IMPLANTATION OF A SEALED RADIOACTIVE SOURCE (having a half-life of less than 115 days including iodine, gold, iridium or tantalum) to a site where the volume treated involves only a single plane but does not require surgical exposure and using automatic afterloading techniques (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15336)
+15338
+
+     Prostate, radioactive seed implantation of, radiation oncology component, using transrectal ultrasound guidance: (a) for a patient with: (i) localised prostatic malignancy at clinical stages T1 (clinically inapparent tumour not palpable or visible by imaging) or T2 (tumour confined within prostate); and (ii) a Gleason score of less than or equal to 7 (Grade Group 1 to Grade Group 3); and (iii) a prostate specific antigen (PSA) of not more than 10ng/ml at the time of diagnosis; and (b) performed by an oncologist at an approved site in association with a urologist; and (c) being a service associated with: (i) services to which items 37220 and 55603 apply; and (ii) a service to which item 60506or 60509 applies [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15338)
+15339
+
+     REMOVAL OF A SEALED RADIOACTIVE SOURCE under general anaesthesia, or under epidural or spinal nerve block (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15339)
+15342
+
+     CONSTRUCTION AND APPLICATION OF A RADIOACTIVE MOULD using a sealed source having a half-life of greater than 115 days, to treat intracavity, intraoral or intranasal site [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15342)
+15345
+
+     CONSTRUCTION AND APPLICATION OF A RADIOACTIVE MOULD using a sealed source having a half-life of less than 115 days including iodine, gold, iridium or tantalum to treat intracavity, intraoral or intranasal sites [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15345)
+15348
+
+     SUBSEQUENT APPLICATIONS OF RADIOACTIVE MOULD referred to in item 15342 or 15345each attendance [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15348)
+15351
+
+     CONSTRUCTION WITH OR WITHOUT INITIAL APPLICATION OF RADIOACTIVE MOULD not exceeding 5 cm. diameter to an external surface [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15351)
+15354
+
+     CONSTRUCTION AND INITIAL APPLICATION OF RADIOACTIVE MOULD 5 cm. or more in diameter to an external surface [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15354)
+15357
+
+     SUBSEQUENT APPLICATIONS OF RADIOACTIVE MOULD, attendance upon a patient to apply a radioactive mould constructed for application to an external surface of the patient other than an attendance which is the first attendance to apply the mould each attendance [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15357)
+15500
+
+     RADIOTHERAPY PLANNINGRADIATION FIELD SETTING using a simulator or isocentric xray or megavoltage machine or CT of a single area for treatment by a single field or parallel opposed fields (not being a service associated with a service to which item 15509 applies) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15500)
+15503
+
+     RADIATION FIELD SETTING using a simulator or isocentric xray or megavoltage machine or CT of a single area, where views in more than 1 plane are required for treatment by multiple fields, or of 2 areas (not being a service associated with a service to which item 15512 applies) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15503)
+15506
+
+     RADIATION FIELD SETTING using a simulator or isocentric xray or megavoltage machine or CT of 3 or more areas, or of total body or half body irradiation, or of mantle therapy or inverted Y fields, or of irregularly shaped fields using multiple blocks, or of offaxis fields or several joined fields (not being a service associated with a service to which item 15515 applies) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15506)
+15509
+
+     RADIATION FIELD SETTING using a diagnostic xray unit of a single area for treatment by a single field or parallel opposed fields (not being a service associated with a service to which item 15500 applies) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15509)
+15512
+
+     RADIATION FIELD SETTING using a diagnostic xray unit of a single area, where views in more than 1 plane are required for treatment by multiple fields, or of 2 areas (not being a service associated with a service to which item 15503 applies) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15512)
+15513
+
+     RADIATION SOURCE LOCALISATION using a simulator or x-ray machine or CT of a single area, where views in more than 1 plane are required, for brachytherapy treatment planning for I125 seed implantation of localised prostate cancer, in association with item 15338 [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15513)
+15515
+
+     RADIATION FIELD SETTING using a diagnostic xray unit of 3 or more areas, or of total body or half body irradiation, or of mantle therapy or inverted Y fields, or of irregularly shaped fields using multiple blocks, or of offaxis fields or several joined fields (not being a service associated with a service to which item 15506 applies) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15515)
+15518
+
+     RADIATION DOSIMETRY by a CT interfacing planning computer for megavoltage or teletherapy radiotherapy by a single field or parallel opposed fields to 1 area with up to 2 shielding blocks [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15518)
+15521
+
+     RADIATION DOSIMETRY by a CT interfacing planning computer for megavoltage or teletherapy radiotherapy to a single area by 3 or more fields, or by a single field or parallel opposed fields to 2 areas, or where wedges are used [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15521)
+15524
+
+     RADIATION DOSIMETRY by a CT interfacing planning computer for megavoltage or teletherapy radiotherapy to 3 or more areas, or by mantle fields or inverted Y fields or tangential fields or irregularly shaped fields using multiple blocks, or offaxis fields, or several joined fields [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15524)
+15527
+
+     RADIATION DOSIMETRY by a non CT interfacing planning computer for megavoltage or teletherapy radiotherapy by a single field or parallel opposed fields to 1 area with up to 2 shielding blocks [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15527)
+15530
+
+     RADIATION DOSIMETRY by a non CT interfacing planning computer for megavoltage or teletherapy radiotherapy to a single area by 3 or more fields, or by a single field or parallel opposed fields to 2 areas, or where wedges are used [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15530)
+15533
+
+     RADIATION DOSIMETRY by a non CT interfacing planning computer for megavoltage or teletherapy radiotherapy to 3 or more areas, or by mantle fields or inverted Y fields, or tangential fields or irregularly shaped fields using multiple blocks, or offaxis fields, or several joined fields [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15533)
+15536
+
+     BRACHYTHERAPY PLANNING, computerised radiation dosimetry [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15536)
+15539
+
+     BRACHYTHERAPY PLANNING, computerised radiation dosimetry for I125 seed implantation of localised prostate cancer, in association with item 15338 [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15539)
+15550
+
+     SIMULATION FOR THREE DIMENSIONAL CONFORMAL RADIOTHERAPY without intravenous contrast medium, where: (a)treatment set up and technique specifications are in preparations for three dimensional conformal radiotherapy dose planning; and (b)patient set up and immobilisation techniques are suitable for reliable CT image volume data acquisition and three dimensional conformal radiotherapy treatment; and (c)a high-quality CT-image volume dataset must be acquired for the relevant region of interest to be planned and treated; and (d)the image set must be suitable for the generation of quality digitally reconstructed radiographic images [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15550)
+15553
+
+     SIMULATION FOR THREE DIMENSIONAL CONFORMAL RADIOTHERAPY pre and post intravenous contrast medium, where: (a)treatment set up and technique specifications are in preparations for three dimensional conformal radiotherapy dose planning; and (b)patient set up and immobilisation techniques are suitable for reliable CT image volume data acquisition and three dimensional conformal radiotherapy treatment; and (c)a high-quality CT-image volume dataset must be acquired for the relevant region of interest to be planned and treated; and (d)the image set must be suitable for the generation of quality digitally reconstructed radiographic images [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15553)
+15555
+
+     SIMULATION FOR INTENSITY-MODULATED RADIATION THERAPY (IMRT), with or without intravenous contrast medium, if: 1.treatment set-up and technique specifications are in preparations for three-dimensional conformal radiotherapy dose planning; and 2.patient set-up and immobilisation techniques are suitable for reliable CT-image volume data acquisition and three-dimensional conformal radiotherapy; and 3.a high-quality CT-image volume dataset is acquired for the relevant region of interest to be planned and treated; and 4.the image set is suitable for the generation of quality digitally-reconstructed radiographic images. [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15555)
+15556
+
+     DOSIMETRY FOR THREE DIMENSIONAL CONFORMAL RADIOTHERAPY OF LEVEL 1 COMPLEXITY where: (a)dosimetry for a single phase three dimensional conformal treatment plan using CT image volume dataset and having a single treatment target volume and organ at risk; and (b)one gross tumour volume or clinical target volume, plus one planning target volume plus at least one relevant organ at risk as defined in the prescription must be rendered as volumes; and (c)the organ at risk must be nominated as a planning dose goal or constraint and the prescription must specify the organ at risk dose goal or constraint; and (d)dose volume histograms must be generated, approved and recorded with the plan; and (e)a CT image volume dataset must be used for the relevant region to be planned and treated; and (f)the CT images must be suitable for the generation of quality digitally reconstructed radiographic images [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15556)
+15559
+
+     DOSIMETRY FOR THREE DIMENSIONAL CONFORMAL RADIOTHERAPY OF LEVEL 2 COMPLEXITY where: (a)dosimetry for a two phase three dimensional conformal treatment plan using CT image volume dataset(s) with at least one gross tumour volume, two planning target volumes and one organ at risk defined in the prescription; or (b)dosimetry for a one phase three dimensional conformal treatment plan using CT image volume datasets with at least one gross tumour volume, one planning target volume and two organ at risk dose goals or constraints defined in the prescription; or (c)image fusion with a secondary image (CT, MRI or PET) volume dataset used to define target and organ at risk volumes in conjunction with and as specified in dosimetry for three dimensional conformal radiotherapy of level 1 complexity. All gross tumour targets, clinical targets, planning targets and organs at risk as defined in the prescription must be rendered as volumes. The organ at risk must be nominated as planning dose goals or constraints and the prescription must specify the organs at risk as dose goals or constraints. Dose volume histograms must be generated, approved and recorded with the plan. A CT image volume dataset must be used for the relevant region to be planned and treated. The CT images must be suitable for the generation of quality digitally reconstructed radiographic images [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15559)
+15562
+
+     DOSIMETRY FOR THREE DIMENSIONAL CONFORMAL RADIOTHERAPY OF LEVEL 3 COMPLEXITY - where: (a)dosimetry for a three or more phase three dimensional conformal treatment plan using CT image volume dataset(s) with at least one gross tumour volume, three planning target volumes and one organ at risk defined in the prescription; or (b)dosimetry for a two phase three dimensional conformal treatment plan using CT image volume datasets with at least one gross tumour volume, and (i) two planning target volumes; or (ii) two organ at risk dose goals or constraints defined in the prescription. or (c)dosimetry for a one phase three dimensional conformal treatment plan using CT image volume datasets with at least one gross tumour volume, one planning target volume and three organ at risk dose goals or constraints defined in the prescription; or (d)image fusion with a secondary image (CT, MRI or PET) volume dataset used to define target and organ at risk volumes in conjunction with and as specified in dosimetry for three dimensional conformal radiotherapy of level 2 complexity. All gross tumour targets, clinical targets, planning targets and organs at risk as defined in the prescription must be rendered as volumes. The organ at risk must be nominated as planning dose goals or constraints and the prescription must specify the organs at risk as dose goals or constraints. Dose volume histograms must be generated, approved and recorded with the plan. A CT image volume dataset must be used for the relevant region to be planned and treated. The CT images must be suitable for the generation of quality digitally reconstructed radiographic images [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15562)
+15565
+
+     Preparation of an IMRT DOSIMETRY PLAN, which uses one or more CT image volume datasets, if: (a)in preparing the IMRT dosimetry plan: (i)the differential between target dose and normal tissue dose is maximised, based on a review and assessmentby a radiation oncologist; and (ii)all gross tumour targets, clinical targets, planning targets and organs at risk are rendered as volumes as defined in the prescription; and (iii)organs at risk are nominated as planning dose goals or constraints and the prescription specifies the organs at risk as dose goals or constraints; and (iv)dose calculations and dose volume histograms are generated in an inverse planned process, using a specialised calculation algorithm, with prescription and plan details approved and recorded in the plan; and (v)a CT image volume dataset is used for the relevant region to be planned and treated; and (vi)the CT images are suitable for the generation of quality digitally reconstructed radiographic images; and (b) the final IMRT dosimetry plan is validated by the radiation therapist and the medical physicist, using robust quality assurance processes that include: (i)determination of the accuracy of the dose fluence delivered by the multi-leaf collimator and gantryposition (static or dynamic); and (ii)ensuring that the plan is deliverable, data transfer is acceptable and validation checks are completed on a linear accelerator; and (iii)validating the accuracy of the derived IMRT dosimetry plan; and (c)the final IMRT dosimetry plan is approved by the radiation oncologist prior to delivery. [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15565)
+15600
+
+     STEREOTACTIC RADIOSURGERY, including all radiation oncology consultations, planning, simulation, dosimetry and treatment [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15600)
+15700
+
+     RADIATION ONCOLOGY TREATMENT VERIFICATION - single projection (with single or double exposures) - when prescribed and reviewed by a radiation oncologist and not associated with item 15705 or 15710 - each attendance at which treatment is verified (ie maximum one per attendance). [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15700)
+15705
+
+     RADIATION ONCOLOGY TREATMENT VERIFICATION - multiple projection acquisition when prescribed and reviewed by a radiation oncologist and not associated with item 15700 or 15710 - each attendance at which treatment involving three or more fields is verified (ie maximum one per attendance). [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15705)
+15710
+
+     RADIATION ONCOLOGY TREATMENT VERIFICATION - volumetric acquisition, when prescribed and reviewedby a radiation oncologist and not associated with item 15700 or 15705 - each attendance at which treatment involving three fields or more is verified (ie maximum one per attendance). (see para T2.5 of explanatory notes to this Category) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15710)
+15715
+
+     RADIATION ONCOLOGY TREATMENT VERIFICATION of planar or volumetric IGRT for IMRT, involving the use of at least 2 planar image views or projections or 1 volumetric image set to facilitate a 3-dimensional adjustment to radiation treatment field positioning, if: (a) the treatment technique is classified as IMRT; and (b) the margins applied to volumes (clinical target volume or planning target volume) are tailored or reduced to minimise treatment related exposure of healthy or normal tissues; and (c) the decisions made using acquired images are based on action algorithms and are given effect immediately prior to or during treatment delivery by qualified and trained staff considering complex competing factors and using software driven modelling programs; and (d) the radiation treatment field positioning requires accuracy levels of less than 5mm (curative cases) or up to 10mm (palliative cases) to ensure accurate dose delivery to the target; and (e) the image decisions and actions are documented in the patient's record; and (f) the radiation oncologist is responsible for supervising the process, including specifying the type and frequency of imaging, tolerance and action levels to be incorporated in the process, reviewing the trend analysis and any reports and relevant images during the treatment course and specifying action protocols as required; and (g) when treatment adjustments are inadequate to satisfy treatment protocol requirements, replanning is required; and (h) the imaging infrastructure (hardware and software) is linked to the treatment unit and networked to an image database, enabling both on line and off line reviews. [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15715)
+15800
+
+     BRACHYTHERAPY TREATMENT VERIFICATION - maximum of one only for each attendance. [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15800)
+15850
+
+     RADIATION SOURCE LOCALISATION using a simulator, x-ray machine, CT or ultrasound of a single area, where views in more than one plane are required, for brachytherapy treatment planning, not being a service to which Item 15513 applies. [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15850)
+15900
+
+     BREAST, MALIGNANT TUMOUR, targeted intraoperative radiation therapy, using an Intrabeam®or Xoft® Axxent® device, delivered at the time of breast-conserving surgery (partial mastectomy or lumpectomy) for a patient who: a) is 45 years of age or more; and b) has a T1 or small T2 (less than or equal to 3cm in diameter) primary tumour; and c) has an histologic Grade 1 or 2 tumour; and d) has an oestrogen-receptor positive tumour; and e) has a node negative malignancy; and f) is suitable for wide local excision of a primary invasive ductal carcinoma that was diagnosed as unifocal on conventional examination and imaging; and g) has no contra-indications to breast irradiation Applicable only once per breast per lifetime (H) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/15900)
+16003
+
+     INTRACAVITY ADMINISTRATION OF A THERAPEUTIC DOSE OF YTTRIUM 90 not including preliminary paracentesis, not being a service associated with selective internal radiation therapy or to which item 35404, 35406 or 35408 applies (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/16003)
+16006
+
+     ADMINISTRATION OF A THERAPEUTIC DOSE OF IODINE 131 for thyroid cancer by single dose technique [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/16006)
+16009
+
+     ADMINISTRATION OF A THERAPEUTIC DOSE OF IODINE 131 for thyrotoxicosis by single dose technique [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/16009)
+16012
+
+     INTRAVENOUS ADMINISTRATION OF A THERAPEUTIC DOSE OF PHOSPHOROUS 32 [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/16012)
+16015
+
+     ADMINISTRATION OF STRONTIUM 89 for painful bony metastases from carcinoma of the prostate where hormone therapy has failed and either: (i)the disease is poorly controlled by conventional radiotherapy; or (ii)conventional radiotherapy is inappropriate, due to the wide distribution of sites of bone pain [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/16015)
+16018
+
+     ADMINISTRATION OF 153 SM-LEXIDRONAM for the relief of bone pain due to skeletal metastases (as indicated by a positive bone scan) where hormonal therapy and/or chemotherapy have failed and either the disease is poorly controlled by conventional radiotherapy or conventional radiotherapy is inappropriate, due to the wide distribution of sites of bone pain. [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/16018)
+30400
+
+     LAPAROTOMY WITH INSERTION OF PORTACATH for administration of cytotoxic therapy including placement of reservoir (Anaes.) (Assist.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/30400)
+34521
+
+     INTRA-ABDOMINAL ARTERY OR VEIN, cannulation of, for infusion chemotherapy, by open operation (excluding aftercare) (Anaes.) (Assist.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34521)
+34524
+
+     ARTERIAL CANNULATION for infusion chemotherapy by open operation, not being a service to which item 34521 applies (excluding after-care) (Anaes.) (Assist.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34524)
+34527
+
+     CENTRAL VEIN CATHETERISATION by open technique, using subcutaneous tunnel with pump or access port as with central venous line catheter or other chemotherapy delivery device, including any associated percutaneous central vein catheterisation, on apatient 10 years of age or over (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34527)
+34528
+
+     CENTRAL VEIN CATHETERISATION by percutaneous technique, using subcutaneous tunnel with pump or access port as with central venous line catheter or other chemotherapy delivery device, on a patient 10 years of age or over (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34528)
+34529
+
+     CENTRAL VEIN CATHETERISATION by open technique, using subcutaneous tunnel with pump or access port as with central venous line catheter or other chemotherapy delivery device, including any associated percutaneous central vein catheterisation, on apatient under 10 years of age (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34529)
+34530
+
+     CENTRAL VENOUS LINE, OR OTHER CHEMOTHERAPY DEVICE, removal of, by open surgical procedure in the operating theatre of a hospital on apatient 10 years of age or over (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34530)
+34533
+
+     ISOLATED LIMB PERFUSION, including cannulation of artery and vein at commencement of procedure, regional perfusion for chemotherapy, or other therapy, repair of arteriotomy and venotomy at conclusion of procedure (excluding aftercare) (Anaes.) (Assist.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34533)
+34534
+
+     CENTRAL VEIN CATHETERISATION by percutaneous technique, using subcutaneous tunnel with pump or access port as with central venous line catheter or other chemotherapy delivery device, on a patient under 10 years of age (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34534)
+34539
+
+     TUNNELLED CUFFED CATHETER, OR SIMILAR DEVICE, removal of, by open surgical procedure (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34539)
+34540
+
+     CENTRAL VENOUS LINE, OR OTHER CHEMOTHERAPY DEVICE, removal of, by open surgical procedure in the operating theatre of a hospital, on a patient under 10 years of age (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/34540)
+35404
+
+     DOSIMETRY, HANDLING AND INJECTION OF SIR-SPHERES for selective internal radiation therapy of hepatic metastases which are secondary to colorectal cancer and are not suitable for resection or ablation, used in combination with systemic chemotherapy using 5-fluorouracil (5FU) and leucovorin, not being a service to which item 35317, 35319, 35320 or 35321 applies The procedure must be performed by a specialist or consultant physician recognised in the specialties of nuclear medicine or radiation oncology on an admitted patient in a hospital. To be claimed once in the patient's lifetime only. [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/35404)
+35406
+
+     Trans-femoral catheterisation of the hepatic artery to administer SIR-Spheres to embolise the microvasculature of hepatic metastases which are secondary to colorectal cancer and are not suitable for resection or ablation, for selective internal radiation therapy used in combination with systemic chemotherapy using 5-fluorouracil (5FU) and leucovorin, not being a service to which item 35317, 35319, 35320 or 35321 applies excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/35406)
+35408
+
+     Catheterisation of the hepatic artery via a permanently implanted hepatic artery port to administer SIR-Spheres to embolise the microvasculature of hepatic metastases which are secondary to colorectal cancer and are not suitable for resection or ablation, for selective internal radiation therapy used in combination with systemic chemotherapy using 5-fluorouracil (5FU) and leucovorin, not being a service to which item 35317, 35319, 35320 or 35321 applies excluding associated radiological services or preparation, and excluding aftercare (Anaes.) (Assist.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/35408)
+50950
+
+     Unresectable primary malignant tumour of the liver, destruction of, by percutaneous ablation (including any associated imaging services), other than a service associated with a service to which item 30419 or 50952 applies (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/50950)
+50952
+
+     Unresectable primary malignant tumour of the liver, destruction of, by open or laparoscopic ablation (including any associated imaging services), if a multi-disciplinary team has assessed that percutaneous ablation cannot be performed or is not practical because of one or more of the following clinical circumstances:(a) percutaneous access cannot be achieved;(b) vital organs or tissues are at risk of damage from the percutaneousablationprocedure;(c) resection of one part of the liver is possible, however there is at least one primary liver tumour in an unresectable portion of the liver that is suitable for ablation;other than a service associated with a service to which item 30419 or 50950 applies (Anaes.) [](/dynamic/MBSItems/ChemotherapyRadiotherapyImmunotherapy/50952)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

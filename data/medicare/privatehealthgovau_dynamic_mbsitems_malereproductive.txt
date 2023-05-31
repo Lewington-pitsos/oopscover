@@ -1,0 +1,352 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Male reproductive system - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+30628
+
+     HYDROCELE, tapping of [](/dynamic/MBSItems/MaleReproductive/30628)
+30629
+
+     Orchidectomy, radical, including spermatic cord, unilateral, for tumour, inguinal approach, without insertion of testicular prosthesis, other than a service associated with a service to which item 30631, 30635, 30641, 30643 or 30644 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/30629)
+30630
+
+     Insertion of testicular prosthesis,at least 6 months following orchidectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/30630)
+30631
+
+     Hydrocele, removal of, other than a service associated with a service to which item 30641, 30642 or 30644 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/30631)
+30635
+
+     Varicocele, surgical correction of, including microsurgical techniques, other than a service associated with a service to which item 30390, 30627, 30641, 30642 or 30644 applies—one procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/30635)
+30641
+
+     Orchidectomy, simple or subcapsular, unilateral with or without insertion of testicular prosthesis (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/30641)
+30642
+
+     Orchidectomy, radical, including spermatic cord, unilateral, for tumour, inguinal approach, with insertion of testicular prosthesis, other than a service associated with a service to which item 30631, 30635, 30641, 30643, 30644 or 45051 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/30642)
+30643
+
+     Exploration of spermatic cord, inguinal approach, with or without testicular biopsy, with or without excision of spermatic cord lesion, for a patient under 10 years of age, other than a service associated with a service to which item 30629, 30630 or 30642 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/30643)
+30644
+
+     Exploration of spermatic cord, inguinal approach, with or without testicular biopsy, with or without excision of spermatic cord lesion, for a patient at least 10 years of age, other than a service associated with a service to which item 30629, 30630 or 30642 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/30644)
+30649
+
+     Haemorrhage, arrest of, following circumcision requiring general anaesthesia, on a patient under 10 years of age (Anaes.) [](/dynamic/MBSItems/MaleReproductive/30649)
+30654
+
+     Circumcision of the penis, with topical or local analgesia, other than a service to which item 30658 applies [](/dynamic/MBSItems/MaleReproductive/30654)
+30658
+
+     Circumcision of the penis, when performed under general or regional anaesthesia and in conjunction with a service to which an item in Group T7 or Group T10 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/30658)
+30661
+
+     Minor surgical repair following a complication from the circumcision of a penis, when performed in conjunction with a service to which an item in Group T7 or Group T10 applies, other than a service associated with a service to which item 45206 applies (H) (Anaes.) [](/dynamic/MBSItems/MaleReproductive/30661)
+30662
+
+     Complex surgical repair following a complication from the circumcision of a penis, including single stage local flap, if indicated, to repair one defect, on genitals (other than a service associated with a service to which item 37819, 37822, 45200, 45201, 45202, 45203 or 45206 applies) (H) (Anaes.) [](/dynamic/MBSItems/MaleReproductive/30662)
+30663
+
+     Haemorrhage, arrest of, following circumcision requiring general anaesthesia, on a patient 10 years of age or over (Anaes.) [](/dynamic/MBSItems/MaleReproductive/30663)
+30666
+
+     PARAPHIMOSIS or PHIMOSIS, reduction of, under general anaesthesia, with or without dorsal incision, not being a service associated with a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/30666)
+37200
+
+     Prostatectomy, by open, laparoscopic or robot-assisted approach (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37200)
+37201
+
+     PROSTATE, transurethral radio-frequency needle ablation of, with or without cystoscopy and with or without urethroscopy, in patients with moderate to severe lower urinary tract symptoms who are not medically fit for transurethral resection of the prostate (that is, prostatectomy using diathermy or cold punch) and including services to which item 36854, 37203, 37206, 37207, 37208, 37245, 37303, 37321 or 37324 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37201)
+37202
+
+     PROSTATE, transurethral radio-frequency needle ablation of, with or without cystoscopy and with or without urethroscopy, in patients with moderate to severe lower urinary tract symptoms who are not medically fit for transurethral resection of the prostate (that is prostatectomy using diathermy or cold punch) and including services to which item 36854, 37245, 37303, 37321 or 37324 applies, continuation of, within 10 days of the procedure described by item 37201, 37203 or 37207 which had to be discontinued for medical reasons (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37202)
+37203
+
+     Prostatectomy, transurethral resection using cautery, with or without cystoscopy and with or without urethroscopy, and including services to which item 36854, 37201, 37202, 37207, 37208, 37245, 37303, 37321 or 37324 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37203)
+37206
+
+     Prostatectomy, endoscopic, using diathermy or other ablative techniques: (a) with or without cystoscopy and with or without urethroscopy; and (b) including services to which one or more of items 36854, 37303, 37321 and 37324 apply; continuation, within 10 days, of treatment of benign prostatic hyperplasia that had to be discontinued for medical reasons (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37206)
+37207
+
+     PROSTATE, endoscopic non-contact (side firing) visual laser ablation, with or without cystoscopy and with or without urethroscopy, and including services to which items 36854, 37201, 37202, 37203, 37206, 37245, 37303, 37321 or 37324 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37207)
+37208
+
+     PROSTATE, endoscopic non-contact (side firing) visual laser ablation, with or without cystoscopy and with or without urethroscopy, and including services to which item 36854, 37303, 37321 or 37324 applies, continuation of, within 10 days of the procedure described by items 37201, 37203, 37207 or 37245 which had to be discontinued for medical reasons (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37208)
+37209
+
+     PROSTATE, and/or SEMINAL VESICLE/AMPULLA OF VAS, unilateral or bilateral, total excision of, not being a service associated with a service to which item number 37210 or 37211 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37209)
+37210
+
+     Prostatectomy, radical, involving total excision of the prostate, sparing of nerves around the prostate (where clinically indicated) with or without bladder neck reconstruction, other than a service associated with a service to which item 30390, 30627, 35551, 36502 or 37375 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37210)
+37211
+
+     Prostatectomy, radical, involving total excision of the prostate, sparing of nerves around the prostate (where clinically indicated): (a) with or without bladder neck reconstruction; and (b) with pelvic lymphadenectomy; other than a service associated with a service to which item 30390, 30627, 35551, 36502 or 37375 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37211)
+37213
+
+     Prostatectomy, radical, involving total excision of the prostate, sparing of nerves around the prostate (where clinically indicated): (a) complicated by: (i) previous radiation therapy (including brachytherapy) on the prostate; or (ii) previous ablative procedures on the prostate; and (b) with bladder neck reconstruction; other than a service associated with a service to which item 30390, 30627, 35551, 36502 or 37375 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37213)
+37214
+
+     Prostatectomy, radical, involving total excision of the prostate, sparing of nerves around the prostate (where clinically indicated): (a) complicated by: (i) previous radiation therapy (including brachytherapy) on the prostate; or (ii) previous ablative procedures on the prostate; and (b) with bladder neck reconstruction and pelvic lymphadenectomy; other than a service associated with a service to which item 30390, 30627, 35551, 36502 or 37375 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37214)
+37215
+
+     Prostate, biopsy of, endoscopic, with or without cystoscopy (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37215)
+37216
+
+     Prostate or prostatic bed, needle biopsy of, by the transrectal route, using prostatic ultrasound guidance and obtaining one or more prostatic specimens, being a service associated with a service to which item 55603 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37216)
+37217
+
+     Prostate, implantation of radio-opaque fiducial markers into the prostate gland or prostate surgical bed, under ultrasound guidance, being an item associated with a service to which item 55603 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37217)
+37218
+
+     Prostate, injection into, one or more, excluding insertion of fiduciary markers (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37218)
+37219
+
+     Prostate or prostatic bed, needle biopsy of, by the transperineal route, using prostatic ultrasound guidance and obtaining one or more prostatic specimens, being a service associated with a service to which item 55600 or 55603 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37219)
+37220
+
+     Prostate, radioactive seed implantation of, urological component, using transrectal ultrasound guidance: (a) for a patient with: (i) localised prostatic malignancy at clinical stages T1 (clinically inapparent tumour not palpable or visible by imaging) or T2 (tumour confined within prostate); and (ii) a Gleason score of less than or equal to 7 (Grade Group 1 to Grade Group 3); and (iii) a prostate specific antigen (PSA) of not more than 10ng/ml at the time of diagnosis; and (b) performed by a urologist at an approved site in association with a radiation oncologist; and (c) being a service associated with: (i) services to which items 15338 and 55603 apply; and (ii) a service to which item 60506 or 60509 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37220)
+37221
+
+     Prostatic abscess, endoscopic drainage of (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37221)
+37223
+
+     PROSTATIC COIL, insertion of, under ultrasound control (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37223)
+37224
+
+     Prostate, diathermy or cauterisation,other than a service associated with a service to which item 37201, 37202, 37203, 37206, 37207, 37208 or 37215 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37224)
+37226
+
+     Prostate or prostatic bed, needle biopsy of, using prostatic magnetic resonance imaging techniques and obtaining 1 or more prostatic specimens. (Anaes.) (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37226)
+37227
+
+     PROSTATE, transperineal insertion of catheters into, for high dose rate brachytherapy using ultrasound guidance including any associated cystoscopy. The procedure must be performed at an approved site in association with a radiation oncologist, and be associated with a service to which item 15331 or 15332 applies. (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37227)
+37230
+
+     Prostate, ablation by electrocautery or high-energy transurethral microwave thermotherapy, with or without cystoscopy and with or without urethroscopy (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37230)
+37233
+
+     Prostate, ablation by electrocautery or high-energy transurethral microwave thermotherapy, with or without cystoscopy and with or without urethroscopy, continuation, within 10 days, of a urological procedure of the prostate that had to be discontinued for medical reasons (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37233)
+37245
+
+     Prostate, endoscopic enucleation of, for the treatment of benign prostatic hyperplasia: (a) with morcellation, including mechanical morcellation or by an endoscopic technique; and (b) with or without cystoscopy; and (c) with or without urethroscopy; and other than a service associated with a service to which item 36827, 36854, 37008, 37201, 37202, 37203, 37206, 37207, 37208, 37303, 37321 or 37324 applies (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37245)
+37393
+
+     PRIAPISM, decompression by glanular stab cavernosospongiosum shunt or penile aspiration with or without lavage (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37393)
+37396
+
+     PRIAPISM, shunt operation for, not being a service to which item 37393 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37396)
+37402
+
+     PENIS, partial amputation of (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37402)
+37405
+
+     PENIS, complete or radical amputation of (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37405)
+37408
+
+     PENIS, repair of laceration of cavernous tissue, or fracture involving cavernous tissue (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37408)
+37411
+
+     PENIS, repair of avulsion (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37411)
+37415
+
+     Penis, injection of, for the investigation and treatment of erectile dysfunction. Applicable not more than twice in a 36-month period [](/dynamic/MBSItems/MaleReproductive/37415)
+37417
+
+     Penis, correction of chordee by plication techniques including Nesbit’s corporoplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37417)
+37418
+
+     Penis, correction of chordee with incision or excision of fibrous plaque or plaques, with or without mobilisation of one or both of the neuro-vascular bundle and urethra (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37418)
+37423
+
+     Penis, lengthening by translocation of corpora, in conjunction with partial penectomy or penile epispadias secondary repair, either as primary or secondary procedures (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37423)
+37426
+
+     PENIS, artificial erection device, insertion of, into 1 or both corpora (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37426)
+37429
+
+     PENIS, artificial erection device, insertion of pump and pressure regulating reservoir (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37429)
+37432
+
+     PENIS, artificial erection device, complete or partial revision or removal of components, with or without replacement (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37432)
+37435
+
+     PENIS, frenuloplasty as an independent procedure (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37435)
+37438
+
+     Scrotum, partial excision of, for histologically proven malignancy or infection (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37438)
+37601
+
+     SPERMATOCELE OR EPIDIDYMAL CYST, excision of, 1 or more of, on 1 side (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37601)
+37604
+
+     Exploration of scrotal contents, with or without fixation and with or without biopsy, unilateral or bilateral, other than a service associated with sperm harvesting for IVF (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37604)
+37607
+
+     Bilateral retroperitoneal lymph node dissection, for testicular tumour, other than a service associated with a service to which item 30390 or 30627 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37607)
+37610
+
+     Bilateral retroperitoneal lymph node dissection, for testicular tumour, following previous similar retroperitoneal dissection, retroperitoneal radiation therapy or chemotherapy, other than a service associated with a service to which item 30390 or 30627 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37610)
+37613
+
+     EPIDIDYMECTOMY (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37613)
+37616
+
+     VASOVASOSTOMY or VASOEPIDIDYMOSTOMY, unilateral, using operating microscope, not being a service associated with sperm harvesting for IVF (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37616)
+37619
+
+     VASOVASOSTOMY or VASOEPIDIDYMOSTOMY, unilateral, not being a service associated with sperm harvesting for IVF (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37619)
+37623
+
+     VASOTOMY OR VASECTOMY, unilateral or bilateral NOTE:Strict legal requirements apply in relation to sterilisation procedures on minors.Medicare benefits are not payable for services not rendered in accordance with relevant Commonwealth and State and Territory law.Observe the explanatory note before submitting a claim. (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37623)
+37803
+
+     UNDESCENDED TESTIS, orchidopexy for, not being a service to which item 37806 applies, on a patient 10 years of age or over. (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37803)
+37804
+
+     UNDESCENDED TESTIS, orchidopexy for, not being a service to which item 37807 applies, on apatient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37804)
+37806
+
+     UNDESCENDED TESTIS in inguinal canal close to deep inguinal ring or within abdominal cavity, orchidopexy for, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37806)
+37807
+
+     UNDESCENDED TESTIS in inguinal canal close to deep inguinal ring or within abdominal cavity, orchidopexy for, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37807)
+37809
+
+     UNDESCENDED TESTIS, revision orchidopexy for, on a patient 10 years of age or over. (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37809)
+37810
+
+     UNDESCENDED TESTIS, revision orchidopexy for, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37810)
+37812
+
+     IMPALPABLE TESTIS, exploration of groin for, not being a service associated with a service to which items 37803, 37806 and 37809 applies, on a patient 10 years of age or over. (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37812)
+37813
+
+     IMPALPABLE TESTIS, exploration of groin for, not being a service associated with a service to which items 37804, 37807 and 37810 applies, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37813)
+37815
+
+     HYPOSPADIAS, examination under anaesthesia with erection test on a patient 10 years of age or over. (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37815)
+37816
+
+     HYPOSPADIAS, examination under anaesthesia with erection test, on apatient under 10 years of age (Anaes.) [](/dynamic/MBSItems/MaleReproductive/37816)
+37818
+
+     HYPOSPADIAS, glanuloplasty incorporating meatal advancement, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37818)
+37819
+
+     HYPOSPADIAS, glanuloplasty incorporating meatal advancement, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37819)
+37821
+
+     HYPOSPADIAS, distal, 1 stage repair, on a patient 10 years of age or over. (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37821)
+37822
+
+     HYPOSPADIAS, distal, 1 stage repair, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37822)
+37824
+
+     HYPOSPADIAS, proximal, 1 stage repair, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37824)
+37825
+
+     HYPOSPADIAS, proximal, 1 stage repair, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37825)
+37827
+
+     HYPOSPADIAS, staged repair, first stage, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37827)
+37828
+
+     HYPOSPADIAS, staged repair, first stage, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37828)
+37830
+
+     HYPOSPADIAS, staged repair, second stage, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37830)
+37831
+
+     HYPOSPADIAS, staged repair, second stage, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37831)
+37833
+
+     Hypospadias, repair of urethral fistula, on apatient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37833)
+37834
+
+     Hypospadias, repair of urethral fistula, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37834)
+37836
+
+     EPISPADIAS, staged repair, first stage (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37836)
+37839
+
+     EPISPADIAS, staged repair, second stage (Anaes.) (Assist.) [](/dynamic/MBSItems/MaleReproductive/37839)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

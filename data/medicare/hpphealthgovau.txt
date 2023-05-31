@@ -1,0 +1,134 @@
+![web](https://content.powerapps.com/resource/powerappsportal/img/web.png)
+
+You’re offline. This is a read only version of the page.
+
+![close](https://content.powerapps.com/resource/powerappsportal/img/close.png)
+
+[ ![The Department of Health and Aged Care](/DHAC.svg)
+
+# Health Products Portal
+
+](/)
+
+  *   *   * 
+
+Menu
+
+Close
+
+  * [ Home ](/ "Home")
+  * [ User support ](/search/?logicalNames=knowledgearticle&q=User%2BSupport)
+  * [ Webinars ](/webinars/?id=a5be77cb-b39e-4c5e-a3bd-75ba23707b2a "Webinars")
+  * [ Terms and Conditions ](/termsandcondition/?id=a20dfef2-0e27-46a6-85e2-51a568ddd3b9 "Terms and Conditions")
+
+[Sign in]( https://business.health.gov.au/SignIn)
+
+user:  
+userid:  
+representing:  
+
+Health Products Portal
+
+The Health Products Portal (HPP) provides a single digital channel for
+industry to interact with us about regulated and reimbursed health-related
+products and services. See __[What can I use the HPP
+for](/hppusefor/?id=2432cc1b-873f-47d7-a637-285114bd3c7f)__ to view a current
+list of HPP services.
+
+**[Go to the HPP](https://business.health.gov.au/SignIn)**
+
+##
+
+About the HPP
+
+We launched the HPP in October 2019, focusing on the pharmaceutical industry
+and management of items on the PBS. We are expanding the HPP to digitise and
+simplify the processes to apply, track, pay and manage regulated and
+reimbursed health related products and services listed on the:
+
+  * [Pharmaceutical Benefits Scheme](https://www.pbs.gov.au/pbs/home) (PBS)
+    * Pharmaceutical Benefits Advisory Committee (PBAC)
+  * [Medicare Benefits Schedule](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home) (MBS)
+    * Medical Services Advisory Committee (MSAC)
+  * [Prostheses List](https://www.health.gov.au/health-topics/private-health-insurance/the-prostheses-list) (PL)
+    * Prostheses List Advisory Committee (PLAC)
+  * [National Immunisation Program](https://www.health.gov.au/health-topics/immunisation/immunisation-throughout-life/national-immunisation-program-schedule) (NIP)
+    * Australian Technical Advisory Group on Immunisation (ATAGI)
+
+The HPP aligns to the Australian Government’s Digital Service Standard. We
+also develop the HPP in consultation with industry groups and end users
+(through user research and beta testing activities) as part of a user-centred
+approach.
+
+##
+
+HPP Support
+
+Contact us if you need help with the Health Products Portal (HPP) or have a
+suggestion for improvement. HPP uses the Australian Government Digital
+Identity System to verify users. [myGovID](http://www.mygovid.gov.au/setup) is
+the Australian Government’s Digital Identity app. Download it to your smart
+device, enter your details and verify your identity. Once set up, link your
+Digital Identity, such as myGovID to an organisation using [Relationship
+Authorisation Manager (RAM)](https://info.authorisationmanager.gov.au/get-
+started) to access the HPP.
+
+**[HPP Support](mailto:HPP.Support@health.gov.au)**
+**[myGovID](https://www.mygovid.gov.au/)**
+
+### User support
+
+Find the latest information on using the HPP and answering your questions.
+
+[ ](/search/?logicalNames=knowledgearticle&q=User%2BSupport)
+
+### Webinars
+
+Attend an Industry Webinar to learn more about navigating the HPP.
+
+[ ](/webinars/?id=a5be77cb-b39e-4c5e-a3bd-75ba23707b2a "Webinars")
+
+### Terms and Conditions
+
+View the Terms and Conditions of the HPP.
+
+[ ](/termsandcondition/?id=a20dfef2-0e27-46a6-85e2-51a568ddd3b9 "Terms and
+Conditions")
+
+**Last Updated:** 20 May, 2022
+
+### About Health
+
+  * [About Health](https://www.health.gov.au/about-us)
+  * [Ministers](https://www.health.gov.au/ministers)
+  * [Careers](https://www.health.gov.au/about-us/work-with-us)
+  * [Corporate reporting](https://www.health.gov.au/about-us/corporate-reporting)
+  * [Freedom of information](https://www.health.gov.au/about-us/corporate-reporting/freedom-of-information-foi)
+  * [Portfolio agencies](https://www.health.gov.au/about-us/who-we-are/our-portfolio)
+  * [Contact us](https://www.health.gov.au/about-us/contact-us)
+  * [Directory](https://www.health.gov.au/contacts)
+
+### About the HPP
+
+  * [About us](/ "About us")
+  * [ HPP User support ](/search/?logicalNames=knowledgearticle&q=User%2BSupport)
+  * [ HPP Webinars ](/webinars/?id=a5be77cb-b39e-4c5e-a3bd-75ba23707b2a "HPP Webinars")
+  * [ HPP Terms and Conditions ](/termsandcondition/?id=a20dfef2-0e27-46a6-85e2-51a568ddd3b9 "HPP Terms and Conditions")
+  * [Sign in](https://business.health.gov.au/SignIn)
+  * [Contact us](mailto:HPP.Support@health.gov.au)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](mailto:HPP.Support@health.gov.au "Provide feedback")
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+
+Back to top
+

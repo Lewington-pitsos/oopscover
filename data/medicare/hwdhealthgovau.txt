@@ -1,0 +1,205 @@
+Skip to main content Skip to main navigation
+
+[ ![Australia Government Department of Health and Aged Care](
+
+                  images/DoHCrest-white.png
+  ) ![Health Workforce Data](images/hwd-icon-light.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [Using our website](using-our-website/using.html)
+  * [Contact Us](contactus)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home]()
+  * [Data Tool](datatool)
+  * [Resources](resources)
+  * [HeaDS UPP](headsupp)
+
+Welcome to the Departmentâs Health Workforce Data website.
+
+This website and integrated Health workforce data tool provide access to
+reports and summary tables about the health workforce in Australia.
+
+[ Health workforce data tool ](/datatool)
+
+[ Health workforce dashboard](/mdcl-dashboards)
+
+## Featured
+
+[ ![Avatar](assets/icons/hwd/datatool.png)
+
+Health Workforce Data Tool
+
+](/datatool) [ ![Avatar](assets/icons/hwd/HU.png)
+
+HeaDS UPP Health Workforce Demand and Supply tool
+
+](/headsupp) [ ![Avatar](assets/icons/hwd/nmws.png)
+
+National Medical Workforce Strategy 2021-2030
+
+](https://www.health.gov.au/initiatives-and-programs/national-medical-
+workforce-strategy-2021-2031)
+
+## Dashboards
+
+  * [
+
+Allied Health
+
+View the interactive dashboard with the 2021 Allied Health National Health
+Workforce Dataset (NHWDS)
+
+](resources/dashboards/nhwds-alld-factsheets.html)
+
+  * [
+
+Medical Education and Training (MET)
+
+View the 5th edition of the Medical Education and Training data now as an
+interactive dashboard
+
+](met-primary/index.html)
+
+  * [
+
+Medical Practitioner
+
+View National Health Workforce Dataset (NHWDS) for all medical practitioners
+in an interactive dashboard
+
+](resources/dashboards/nhwds-mdcl-factsheets.html)
+
+  * [
+
+Nursing and Midwifery
+
+View the interative dashboard with latest 2021 nursing and midwifery National
+Health Workforce Dataset (NHWDS)
+
+](resources/dashboards/nhwds-nursing-factsheets.html)
+
+[View more](resources)
+
+## Summary Statistics
+
+  * [
+
+GP Primary Care
+
+Download statistics on General Practitioners providing primary care services
+through the Medicare Benefits Schedule (MBS)
+
+](resources/data/gp-primarycare.html)
+
+  * [
+
+Nursing and Midwifery
+
+View summary tables on nursing and midwifery professions from the latest
+National Health Workforce Dataset (NHWDS)
+
+](resources/data/summary-nrmw.html)
+
+  * [
+
+Medical Profession
+
+View summary tables on the Medical Profession from the latest National Health
+Workforce Dataset (NHWDS)
+
+](resources/data/summary-mdcl.html)
+
+  * [
+
+NHWDS Summary
+
+View key data from the latest National Health Workforce Dataset (NHWDS) by
+State, Modified Monash Model (MMM) and more
+
+](resources/dashboards/nhwds-summary-metrics.html)
+
+[View more](resources)
+
+## Tools
+
+  * [
+
+Data Tool
+
+Find and analyse National Health Workforce Data
+
+](datatool)
+
+  * [
+
+HeaDS UPP
+
+Learn more about the Health Workforce Demand and Supply tool
+
+](headsupp)
+
+## Browse by Topics
+
+  * [ ![](assets/icons/hwd/IconSuite-03-topic-nrmw.svg)
+
+###  Nursing and Midwifery
+
+](resources/index.html?topic=nrmw)
+
+  * [ ![](assets/icons/hwd/IconSuite-04-topic-mdcl.svg)
+
+###  Medical
+
+](resources/index.html?topic=mdcl)
+
+  * [ ![](assets/icons/hwd/IconSuite-05-topic-alld.svg)
+
+###  Allied Health
+
+](resources/index.html?topic=alld)
+
+  * [ ![](assets/icons/hwd/IconSuite-06-topic-met.svg)
+
+###  Medical Education and Training
+
+](resources/index.html?topic=met)
+
+[Go to all](resources)
+
+### Resources
+
+  * [Publications](resources/index.html?resourcetype=publications)
+  * [Dashboards](resources/index.html?resourcetype=dashboards)
+  * [Data](resources/index.html?resourcetype=data)
+  * [Information](resources/index.html?resourcetype=information)
+
+### Applications
+
+  * [Data Tool](datatool/index.html)
+  * [HeaDS UPP](headsupp/index.html)
+
+### Contact us
+
+  * [Contact Us](contactus/index.html)
+
+### Using our website
+
+  * [Using our website](using-our-website/using.html)
+  * [Accessibility](using-our-website/accessibility.html)
+  * [Copyright](using-our-website/copyright.html)
+  * [Disclaimer](using-our-website/disclaimer.html)
+  * [Privacy](using-our-website/privacy.html)
+
+Â© Commonwealth of Australia
+
+Back to top
+

@@ -1,0 +1,354 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Aboriginal and Torres Strait Islander health](/topics/aboriginal-and-torres-strait-islander-health)
+
+[Aboriginal and Torres Strait Islander health](/topics/aboriginal-and-torres-
+strait-islander-health)
+
+# Aboriginal and Torres Strait Islander health reporting
+
+Where to find reports on Aboriginal and Torres Strait Islander health, how we
+collect and use standard sets of data to help us track progress towards
+Closing the Gap health targets, and how Indigenous health services can sign up
+for newsletters alerting them to changes in reporting processes.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Aboriginal and Torres Strait Islander health reporting&url=https://www.health.gov.au/topics/aboriginal-and-torres-strait-islander-health/reporting)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/aboriginal-and-torres-strait-islander-health/reporting)
+    * [Email](mailto:?subject=Aboriginal and Torres Strait Islander health reporting&body=https://www.health.gov.au/topics/aboriginal-and-torres-strait-islander-health/reporting)
+
+Loading...
+
+On this page
+
+## **Australian Indigenous Health InfoNet**
+
+We provide core services funding for the [Australian Indigenous
+HealthInfoNet](https://healthinfonet.ecu.edu.au/).
+
+HealthInfoNet makes research and other information readily available in a form
+that is useful for people working in the Aboriginal and Torres Strait Islander
+health sector.
+
+By sharing Aboriginal and Torres Strait Islander expertise, HealthInfoNet
+helps to:
+
+  * support capacity building and knowledge-informed decision-making within the health workforce
+  * promote evidence-informed practice across sectors
+  * encourage greater integration between policy, practice and research.
+
+## **Reports**
+
+You can find reports related to Aboriginal and Torres Strait Islander health
+from:
+
+  * [Australian Government Department of Health](https://www.health.gov.au/resources/publications?f%5B0%5D=field_publication_type%3A201&f%5B1%5D=field_related_health_topics%3A1471)
+  * [Australian Institute of Health and Welfare (AIHW)](https://www.aihw.gov.au/reports-data/population-groups/indigenous-australians/reports)
+  * [Health Performance Framework](https://www.indigenoushpf.gov.au/publications)
+  * [HealthInfoNet](https://healthinfonet.ecu.edu.au/key-resources/publications/).
+
+## **Newsletters**
+
+We also produce newsletters to keep stakeholders updated about changes:
+
+  * [Health Data Portal newsletter](/using-our-websites/subscriptions/subscribe-to-health-data-portal-newsletters "Subscribe to Health Data Portal newsletters")
+  * [Aboriginal and Torres Strait Islander Partnership Forums updates](/resources/collections/aboriginal-and-torres-strait-islander-health-partnership-forums-updates "Aboriginal and Torres Strait Islander Health Partnership Forums updates").
+
+## **Health data collection and review**
+
+Aboriginal and Torres Strait Islander health services and other providers
+funded by the Indigenous Australians’ Health Programme regularly report 3 sets
+of data to us. These are the:
+
+  * [National Key Performance Indicators (nKPIs)](/topics/aboriginal-and-torres-strait-islander-health/reporting/nkpis "National Key Performance Indicators for Aboriginal and Torres Strait Islander primary health care"), in January and July each year
+  * [Online Services Report (OSR),](/topics/aboriginal-and-torres-strait-islander-health/reporting/osr "Online Services Report \(OSR\)") in July each year
+  * Health Care Provider Number (HCP) report, in July each year.
+
+We use this data to:
+
+  * track and monitor Closing the Gap health targets
+  * monitor uptake of Medicare services by Aboriginal and Torres Strait Islander people
+  * develop and manage evidence-based policy and programs to improve the health of Aboriginal and Torres Strait Islander people
+  * inform our longer-term strategic planning
+  * shape our investments in Indigenous primary health care.
+
+### **National Key Performance Indicator data**
+
+The [nKPI data](/topics/aboriginal-and-torres-strait-islander-
+health/reporting/nkpis "National Key Performance Indicators for Aboriginal and
+Torres Strait Islander primary health care") provides a measure of maternal
+and child health, chronic disease management and preventive health outcomes.
+Over 230 organisations have submitted nKPI data since June 2012. The AIHW uses
+this data to produce a range of [indicator-based
+reports](https://www.aihw.gov.au/reports-data/population-groups/indigenous-
+australians/indicators) and [annual reports on primary
+care](https://www.aihw.gov.au/reports/indigenous-australians/indigenous-
+primary-health-care-results-osr-nkpi/overview/about-this-report).
+
+### **Online Services Report data**
+
+The [OSR data](/topics/aboriginal-and-torres-strait-islander-
+health/reporting/osr "Online Services Report \(OSR\)") provides a measure of
+activity, volume and coverage of a range of health services delivered to
+Aboriginal and Torres Strait Islander people.
+
+### **Health Care Provider Number data**
+
+The HCP data reports changes to Medicare provider numbers for staff who worked
+at Aboriginal Community Controlled Health Services in the previous year,
+including:
+
+  * doctors
+  * nurse practitioners
+  * Aboriginal and Torres Strait Islander health practitioners
+  * allied health staff
+  * optometrists
+  * dental professionals.
+
+We use this to estimate the number and value of services claimed from Medicare
+under the [special Medicare arrangements](/topics/aboriginal-and-torres-
+strait-islander-health/primary-care/medicare-and-medicines "Access to Medicare
+and pharmaceutical benefits for Aboriginal and Torres Strait Islander
+people").
+
+### **Reviews and redesign**
+
+Over the years, we have moved from paper-based reporting to electronic
+reporting through the [Health Data Portal](https://dataportal.health.gov.au).
+Regular reviews mean that we are continually improving the data reporting
+process.
+
+The AIHW conducted a comprehensive review of the nKPI and OSR data in 2019.
+Since the release of the review’s recommendations, we commissioned the [nKPI
+and OSR Implementation Roadmap](/resources/publications/nkpi-and-osr-roadmap-
+recommendations "nKPI and OSR Roadmap Recommendations") to ensure that these
+datasets remain current and useful.
+
+We are working with the [Aboriginal and Torres Strait Islander Health Services
+Data Advisory Group (HS DAG)](/committees-and-groups/aboriginal-and-torres-
+strait-islander-health-services-data-advisory-group "Aboriginal and Torres
+Strait Islander Health Services Data Advisory Group") to implement the
+roadmap’s 36 recommendations.
+
+A [national baseline data quality audit](/resources/publications/aboriginal-
+community-controlled-health-services-data-quality-assessment-and-support-
+stage-2 "Aboriginal Community Controlled Health Services Data Quality
+Assessment and Support – Stage 2") at the individual service level identified
+issues affecting data quality and reporting in 2020. The audit found that 30%
+of health services had effective and mature processes in place to collect,
+sustain, improve and use their data. We are implementing the report’s
+recommendations on how to support improved data management in health services.
+
+## **Health Data Portal**
+
+The [Health Data Portal](https://dataportal.health.gov.au) is a web-based tool
+that Aboriginal and Torres Strait Islander Health Services use to submit
+nKPIs, OSR and HCP data. It has been co-designed with the sector.
+
+Users access the portal with their [myGovID and the Relationship Authorisation
+Manager (RAM)](https://www.abr.gov.au/general-information/accessing-our-
+online-services-with-mygovid-and-ram). We worked with stakeholders to design
+the portal to meet their needs and be easy to use. The portal connects with a
+range of clinical information systems that Indigenous health services use in
+their practices. View mapping documents for:
+
+  * [Best Practice](http://kb.bpsoftware.net/au/bppremier/jade/Content/ThirdPartyInterfaces/nKPI.htm?Highlight=nkpi)
+  * [Communicare](https://portal.healthconnex.com.au/)
+  * [MedicalDirector](https://www.medicaldirector.com/help/#t=topics-insights%2FInsights_Reporting_nKPI_OSR_and_HCP_Reports.htm&rhsearch=nkpi&rhhlterm=nkpi&rhsyns=%20)
+  * [MMEx](https://manual.mmex.net.au/manual:nkpiandosr).
+
+Primary health care services can [subscribe to our monthly Health Data Portal
+newsletter](/using-our-websites/subscriptions/subscribe-to-health-data-portal-
+newsletters "Subscribe to Health Data Portal newsletters") to keep up to date
+with improvements to the portal.
+
+We welcome [feedback on the
+portal](https://dataportal.health.gov.au/wps/portal/dataportalcontent/contactus)
+at any time.
+
+### **Health services using their own data**
+
+We have developed and integrated data analytics capabilities using the Qlik
+Sense platform with the [Health Data
+Portal](https://dataportal.health.gov.au). Services can access their nKPI data
+via the Qlik Interactive Reports link in the Health Data Portal to:
+
+  * see graphs of their nKPI data back to December 2014
+  * view near-real-time reports on their indicator data, overlaid with a wide range of comparator data
+  * create reports with comparison groups through various filters
+  * analyse their data trends
+  * compare their latest results to those of other Health Services as part of their continuous quality improvement activities.
+
+### **Data ownership**
+
+Primary care health services continue to own the data they submit to the
+Health Data Portal. The Indigenous primary health care sector is developing a
+set of data governance arrangements to outline conditions for collection,
+review, storage and access of this data. Owning their data means that
+Indigenous organisations can:
+
+  * analyse their data
+  * extract value from it to benefit their communities
+  * actively control and monitor its release for other purposes.
+
+## **Voluntary Indigenous Identifier (VII) Framework - Framework for the
+Collection, Release, Use and Publication of Voluntary Indigenous Identifier
+Data**
+
+Since 2002, Aboriginal and Torres Strait Islander people have been able to
+have their status recorded confidentially on a database called the Voluntary
+Indigenous Identifier (VII). The VII is primarily used to estimate use of the
+Medicare Benefits Scheme by Aboriginal and Torres Strait Islander people. This
+information, grouped together for statistical or reporting purposes, is
+published in a range of reports and is used to:
+
+  * improve policies focused on access to health programs and services
+  * target funding to specific areas of need
+  * improve access to benefits and payments
+  * improve the Department’s future health plans and policies for First Nations People.
+
+The [Framework for the Collection, Release, Use and Publication of Voluntary
+Indigenous Identifier Data](/resources/publications/voluntary-indigenous-
+identifier-vii-framework "Voluntary Indigenous Identifier \(VII\) Framework")
+(VII Data Framework) is a set of guidelines that direct how VII data is
+collected and used. This document is intended for data users and potential
+data users to set out the rules and principles used by the Department when
+making decisions about the collection, release, use and publication of VII
+data. It also sets out the legal and ethical obligations for data users, and
+provides information about the quality of VII data and estimates of Medicare
+data produced using the VII.
+
+## Contact
+
+![](/themes/custom/hga/images/contact-aus-gov.png)
+
+###  [ Indigenous reporting contact ](/contacts/indigenous-reporting-
+contact?language=en)
+
+Email us with questions or comments about Health's Indigenous data
+collections. This includes updates to the national key performance indicators
+and online services report.
+
+[indigenousreporting@health.gov.au](mailto:indigenousreporting@health.gov.au)
+
+Last updated:
+
+23 August 2021
+
+Tags:
+
+  * [Aboriginal and Torres Strait Islander health](/topics/aboriginal-and-torres-strait-islander-health)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Aboriginal and Torres Strait Islander health](/topics/aboriginal-and-
+torres-strait-islander-health)
+
+  * [Status and determinants of health](/topics/aboriginal-and-torres-strait-islander-health/status-and-determinants)
+  * [How we support health](/topics/aboriginal-and-torres-strait-islander-health/how-we-support-health)
+  * [Who we work with](/topics/aboriginal-and-torres-strait-islander-health/who-we-work-with-to-support-aboriginal-and-torres-strait-islander-health)
+  * [Primary care](/topics/aboriginal-and-torres-strait-islander-health/primary-care)
+  * [Lifestyle and family health support](/topics/aboriginal-and-torres-strait-islander-health/lifestyle-and-family-health-support)
+  * [Aged care support](/topics/aboriginal-and-torres-strait-islander-health/aged-care-support)
+  * [Reporting](/topics/aboriginal-and-torres-strait-islander-health/reporting)
+    * [National Key Performance Indicators](/topics/aboriginal-and-torres-strait-islander-health/reporting/nkpis)
+    * [Online Services Report](/topics/aboriginal-and-torres-strait-islander-health/reporting/osr)
+  * [Research](/topics/aboriginal-and-torres-strait-islander-health/research)
+  * [News](/topics/aboriginal-and-torres-strait-islander-health/news)
+  * [Initiatives and programs](/topics/aboriginal-and-torres-strait-islander-health/initiatives-and-programs)
+  * [Resources](/topics/aboriginal-and-torres-strait-islander-health/resources)
+  * [Contacts](/topics/aboriginal-and-torres-strait-islander-health/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

@@ -1,0 +1,282 @@
+Skip to main content
+
+[ Australian Digital Health Agency ](/) [ Australian Digital Health Agency for
+Healthcare Providers ](/healthcare-providers)
+
+Open Search
+
+Open Menu
+
+  * Open/Close Menu [ COVID-19 ](/covid-19-support)
+    * [ Your COVID-19 information in one place ](/initiatives-and-programs/my-health-record/covid-19-dashboard)
+    * [ Get proof of vaccination from My Health Record ](/initiatives-and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-record)
+    * [ What to do if information is missing ](/initiatives-and-programs/my-health-record/whats-inside/incorrect-or-missing-information)
+    * [ Get a My Health Record without a Medicare or DVA card ](/initiatives-and-programs/my-health-record/getting-started/set-up-a-record-without-medicare-or-dva-benefits)
+    * [ View My Health Record using an app ](/initiatives-and-programs/my-health-record/manage-your-record/view-my-health-record-using-an-app)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+  * Open/Close Menu [ Initiatives ](/initiatives-and-programs#Initiatives)
+    * [ My Health Record ](/initiatives-and-programs/my-health-record)
+    * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+    * [ Telehealth ](/initiatives-and-programs/telehealth)
+    * [ my health app ](/myhealth)
+  * Open/Close Menu [ Programs ](/initiatives-and-programs#Programs)
+    * [ Cyber security ](/initiatives-and-programs/cyber-security)
+    * [ National Digital Health Strategy ](/about-us/strategies-and-plans/national-digital-health-strategy-and-framework-for-action "National Digital Health Strategy")
+  * Open/Close Menu [ Newsroom ](/newsroom)
+    * [ Media releases ](/newsroom/media-releases)
+    * [ Podcasts ](/newsroom/podcasts)
+    * [ Newsletters ](/newsroom/newsletters "Find the latest information, news and insights on digital health in our newsletter series.")
+    * [ Digital Bytes ](/newsroom/digital-bytes "Get the latest insights and news from key healthcare providers, organisations and leaders.")
+    * [ Blogs ](/newsroom/blogs)
+  * Open/Close Menu [ Support ](/support "Support")
+    * [ Contact us ](/support/contact-us)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+    * [ Subscribe ](/support/subscribe)
+    * [ Glossary ](/support/glossary)
+    * [ Reporting fraud ](/support/reporting-fraud)
+  * Open/Close Menu [ About ](/about-us)
+    * [ Strategies and plans ](/about-us/strategies-and-plans)
+    * [ Organisational structure ](/about-us/board-members-and-executive-team)
+    * [ Policies, privacy and reporting ](/about-us/policies-privacy-and-reporting)
+    * [ Annual reports ](/about-us/annual-reports)
+    * [ Our websites ](/about-us/our-websites)
+    * [ Careers ](/careers)
+
+Search
+
+  * [For everyone](/)
+  * [For healthcare providers](/healthcare-providers)
+  * [For mhr everybody](/initiatives-and-programs/my-health-record)
+  * [For mhr hcp](/node/1688)
+  * [For ndhs](/ndhs)
+
+  * [ Careers ](/careers)
+  * [ Contact ](/support/contact-us)
+  * [ My Health Record (myGov) ](https://my.gov.au)
+
+## Breadcrumb
+
+  * [Initiatives and programs](/initiatives-and-programs)
+  * [Home](/initiatives-and-programs/my-health-record)
+  * [Getting started](/initiatives-and-programs/my-health-record/getting-started)
+  * Set up a record without Medicare or DVA benefits 
+
+!['Immunisations'
+screenshot](/sites/default/files/styles/hero_1_up/public/2021-03/MHR%20without%20Medicare%20details.png?h=9dd951d5&itok=d7Un-
+Hb6)
+
+#  Set up a record without Medicare or DVA benefits
+
+If you're not eligible for Medicare or Department of Veteran's Affairs (DVA)
+benefits, you can still get My Health Record and access proof of your
+vaccinations and other key health information.
+
+### Helpful resources
+
+Forms
+
+  * [Register for a My Health Record (PDF, 554.72 KB)](/sites/default/files/form/register-for-a-my-health-record.pdf)
+
+View your record using an app
+
+If you have a My Health Record and are set up for online access, you have the
+option of using a mobile app. Mobile apps are a secure and simple way to
+access your details.
+
+[Learn more about accessing your record via a mobile app.](/initiatives-and-
+programs/my-health-record/manage-your-record/view-my-health-record-using-an-
+app "View My Health Record using an app")
+
+Set up your record using Medicare details
+
+If you have a Medicare card, you can set up your record online.
+
+[Learn how to set up and access your record online.](/initiatives-and-
+programs/my-health-record/getting-started/set-up-your-record-online "Set up
+your record online")
+
+### Contact us
+
+#### My Health Record enquiries
+
+Phone: [1800 723 471](tel:1800723471) (select option 1)  
+Available 24 hours a day, 7 days a week
+
+[More information](/support/contact-us "Contact us")
+
+## Steps to get a My Health Record
+
+Below is a summary of the steps to set up My Health record without Medicare or
+DVA benefits. Click each step for more details:
+
+### Step 1. Apply for an individual healthcare identifier (IHI)
+
+How to apply for an individual healthcare identifier (IHI) from Services
+Australia, if you don't already have one:
+
+An individual healthcare identifier (IHI) is a number that identifies you for
+healthcare purposes and My Health Record.
+
+The quickest way to [get an
+IHI](https://www.servicesaustralia.gov.au/individuals/services/medicare/individual-
+healthcare-identifiers/how-get-ihi) is online using the IHI service through
+your [myGov account](https://my.gov.au/).
+
+If you don’t have a myGov account, it’s easy to [create
+one](https://www.servicesaustralia.gov.au/online-help/create-mygov-account).
+
+Once you have your IHI, you can:
+
+  * get proof of vaccination through the Individual Healthcare Identifier service in myGov. Find out [how to get proof of vaccination](https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/how-get-proof-your-covid-19-vaccinations).
+  * register for a My Health Record so you can get proof of vaccination and see other important health information in your record. See step 2 below.
+
+### Step 2. Register for My Health Record with your IHI
+
+We are currently receiving a high number of application forms, and processing
+may take up to 6 weeks. We will send you a letter when we have processed your
+registration.
+
+You must print and post the registration form and certified copies of identity
+documents. You cannot register for My Health Record online or by telephone.
+
+#### 1\. Complete the registration form
+
+**If registering for yourself,** print and complete the [Register for a My
+Health Record (PDF, 554.72 KB)](/sites/default/files/form/register-for-a-my-
+health-record.pdf "Form - Register for a My Health Record") form.
+
+Complete all questions on the form.
+
+  * Question 6: Write your IHI number provided by Services Australia.
+  * Question 7: Write your address as recorded with Medicare, DVA or Healthcare Identifiers Service.
+  * Question 9: If you want to see details of your COVID-19 vaccination, ensure that the last box “Do not include details of my vaccinations sourced from the Australian Immunisation Register (AIR)” remains unticked.
+
+Sign and date the form on page 3.
+
+**Identity documents**  
+You will need to provide 100 points of identification when you submit the
+form. Copies of your identity documents must be certified. The form provides
+details about what documents you can provide and who can certify them.
+
+If any of these documents are not in English, you need to provide **certified
+copies of both** the
+
+  * original document **and**
+  * the English translation of the document.
+
+Copies of foreign language documents without an English translation cannot be
+processed.
+
+If you need help with the form, call the Helpline on  
+[1800 723 471](tel:1800 723 471) (option 1).
+
+#### 2\. Send the completed signed form and certified copies of identity
+documents to:
+
+My Health Record  
+GPO Box 9942  
+Sydney NSW 2000
+
+Once your application has been processed, you will receive a letter with your
+Identity Verification Code. You will need this code to view your record.
+
+### Step 3. Link My Health Record in myGov
+
+This takes about 15 minutes online. Before you can do this, you must complete
+both steps above and have your Identity Verification Code from step 2.
+
+There are some additional steps you need to do online before you can view your
+record. This helps protect your sensitive health information.
+
+You will need your:
+
+  * Identity Verification Code and
+  * individual healthcare identifier (IHI).
+
+  1. Sign in to My Health Record via myGov: [Sign in to myGov](https://my.gov.au/en/myaccount/dashboard)
+  2. Select **My profile** and then select **Linked services**.
+  3. Select **My Health Record** from the **Link a service** list. Then, select **Link** for My Health Record.
+  4. Before you can access My Health Record, you need to verify your identity using your Identity Verification Code. Select **Use my access code** and then click **Continue**. 
+
+![How do you want to link to My Health
+Record?](/sites/default/files/styles/original/public/images/mhr_3_screenshot_use_my_access_code.png?itok=dl8rRDBz)
+
+  5. Enter your Identity Verification Code, family name and date of birth, IHI number and click **Next**.  
+
+![Verify your
+identity](/sites/default/files/styles/original/public/images/identify-
+verification-code-or-personal-access-code-002.png?itok=WYaydcSY)
+
+  
+If all details are correct, you will see the Welcome message below.  
+
+!['Welcome'
+screenshot](/sites/default/files/styles/original/public/2021-03/Welcome_0.png?itok=ipvFtCMU)
+
+  6. Click **Next** through the four pop-up messages.
+  7. From the Welcome page, click on your name.
+
+Watch the video below to learn how to find information in your record.
+
+​​​​​Check out our [frequently asked questions](/support/frequently-asked-
+questions "Frequently asked questions") on getting proof of your vaccination.
+
+### Did you find this page helpful?
+
+Yes No
+
+Feedback (required)
+
+## Follow
+
+  * [ Twitter ](https://twitter.com/AuDigitalHealth)
+  * [ Facebook ](https://www.facebook.com/AuDigitalHealth)
+  * [ LinkedIn ](https://au.linkedin.com/company/australian-digital-health-agency)
+  * [ YouTube ](https://www.youtube.com/user/eHealthAus)
+
+## Australian Digital Health Agency
+
+  * [ About us ](/about-us)
+  * [ Careers ](/careers)
+  * [ Contact us ](/support/contact-us)
+  * [ Newsroom ](/newsroom)
+  * [ National Provider Portal login ](https://provider.ehealth.gov.au/login.html)
+  * [ Developer Centre ](https://developer.digitalhealth.gov.au/)
+  * [ National Clinical Terminology Service ](https://www.healthterminologies.gov.au/)
+
+## Initiatives and programs
+
+  * [ My Health Record ](/healthcare-providers/my-health-record)
+  * [ Electronic prescribing ](/healthcare-providers/initiatives-and-programs/electronic-prescribing)
+  * [ Telehealth ](/healthcare-providers/initiatives-and-programs/telehealth)
+  * [ More digital health tools ](/healthcare-providers/initiatives-and-programs)
+
+By operation of the _Public Governance, Performance and Accountability
+(Establishing the Australian Digital Health Agency) Rule 2016_ , on 1 July
+2016, all the assets and liabilities of NEHTA will vest in the Australian
+Digital Health Agency. In this website, on and from 1 July 2016, all
+references to "National E-Health Transition Authority" or "NEHTA" will be
+deemed to be references to the Australian Digital Health Agency. PCEHR means
+the My Health Record, formerly the "Personally Controlled Electronic Health
+Record", within the meaning of the _My Health Records Act 2012_ (Cth),
+formerly called the _Personally Controlled Electronic Health Records Act 2012_
+(Cth).
+
+The Australian Digital Health Agency acknowledges the Traditional Owners of
+Country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to Elders past,
+present and emerging.
+
+© 2023 Australian Digital Health Agency
+
+  * [ Sitemap ](/sitemap)
+  * [ Privacy policy ](/about-us/policies-privacy-and-reporting/privacy-policy)
+  * [ Terms of use ](/about-us/policies-privacy-and-reporting/terms-of-use)
+
+![](/themes/custom/adha_theme/src/virtual-assistant/images/va-chat-bubble.svg)
+Chat
+
+Close chat
+
+Your browser does not support iframes.
+

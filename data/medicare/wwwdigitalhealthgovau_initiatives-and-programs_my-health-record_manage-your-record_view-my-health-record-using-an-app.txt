@@ -1,0 +1,330 @@
+Skip to main content
+
+[ Australian Digital Health Agency ](/) [ Australian Digital Health Agency for
+Healthcare Providers ](/healthcare-providers)
+
+Open Search
+
+Open Menu
+
+  * Open/Close Menu [ COVID-19 ](/covid-19-support)
+    * [ Your COVID-19 information in one place ](/initiatives-and-programs/my-health-record/covid-19-dashboard)
+    * [ Get proof of vaccination from My Health Record ](/initiatives-and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-record)
+    * [ What to do if information is missing ](/initiatives-and-programs/my-health-record/whats-inside/incorrect-or-missing-information)
+    * [ Get a My Health Record without a Medicare or DVA card ](/initiatives-and-programs/my-health-record/getting-started/set-up-a-record-without-medicare-or-dva-benefits)
+    * [ View My Health Record using an app ](/initiatives-and-programs/my-health-record/manage-your-record/view-my-health-record-using-an-app)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+  * Open/Close Menu [ Initiatives ](/initiatives-and-programs#Initiatives)
+    * [ My Health Record ](/initiatives-and-programs/my-health-record)
+    * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+    * [ Telehealth ](/initiatives-and-programs/telehealth)
+    * [ my health app ](/myhealth)
+  * Open/Close Menu [ Programs ](/initiatives-and-programs#Programs)
+    * [ Cyber security ](/initiatives-and-programs/cyber-security)
+    * [ National Digital Health Strategy ](/about-us/strategies-and-plans/national-digital-health-strategy-and-framework-for-action "National Digital Health Strategy")
+  * Open/Close Menu [ Newsroom ](/newsroom)
+    * [ Media releases ](/newsroom/media-releases)
+    * [ Podcasts ](/newsroom/podcasts)
+    * [ Newsletters ](/newsroom/newsletters "Find the latest information, news and insights on digital health in our newsletter series.")
+    * [ Digital Bytes ](/newsroom/digital-bytes "Get the latest insights and news from key healthcare providers, organisations and leaders.")
+    * [ Blogs ](/newsroom/blogs)
+  * Open/Close Menu [ Support ](/support "Support")
+    * [ Contact us ](/support/contact-us)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+    * [ Subscribe ](/support/subscribe)
+    * [ Glossary ](/support/glossary)
+    * [ Reporting fraud ](/support/reporting-fraud)
+  * Open/Close Menu [ About ](/about-us)
+    * [ Strategies and plans ](/about-us/strategies-and-plans)
+    * [ Organisational structure ](/about-us/board-members-and-executive-team)
+    * [ Policies, privacy and reporting ](/about-us/policies-privacy-and-reporting)
+    * [ Annual reports ](/about-us/annual-reports)
+    * [ Our websites ](/about-us/our-websites)
+    * [ Careers ](/careers)
+
+Search
+
+  * [For everyone](/)
+  * [For healthcare providers](/healthcare-providers)
+  * [For mhr everybody](/initiatives-and-programs/my-health-record)
+  * [For mhr hcp](/node/1688)
+  * [For ndhs](/ndhs)
+
+  * [ Careers ](/careers)
+  * [ Contact ](/support/contact-us)
+  * [ My Health Record (myGov) ](https://my.gov.au)
+
+## Breadcrumb
+
+  * [Initiatives and programs](/initiatives-and-programs)
+  * [Home](/initiatives-and-programs/my-health-record)
+  * [Manage your record](/initiatives-and-programs/my-health-record/manage-your-record)
+  * View My Health Record using an app 
+
+# View My Health Record using an app
+
+You can securely view health information in your record through an app. You
+can also access your proof of vaccination and immunisation history.
+
+### Quick facts
+
+What's the difference between 'access' and 'viewing access'?
+
+Apps connected to the My Health Record system give you secure **‘view only’**
+access to your record. When accessing your record through myGov, you can
+manage and update your record.
+
+What to do if you think information is missing
+
+If there are documents missing that you think should be there, ask your doctor
+to upload them.
+
+[Find out what to do if immunisation information is missing](/node/1423 "What
+to do if information is missing").
+
+### Get in touch
+
+Contact My Health Record Help line: [1800 723 471](tel:1800%C2%A0723 471).  
+The Help line is available 24 hours, 7 days a week.  
+Free call (call charges apply from mobile phones).
+
+If you need an interpreter, please call [TIS
+National](https://www.tisnational.gov.au/) on 131 450.  
+For hearing or speech assistance, contact the [National Relay
+Service](https://www.communications.gov.au/what-we-do/phone/services-people-
+disability/accesshub/national-relay-service) or call 1300 555 727
+
+I don't have a smartphone and internet
+
+If you would like to get proof of your COVID-19 vaccinations as a hardcopy,
+you can call the Australian Immunisation Register on [1800 653 809](tel:1800
+653 809) (Monday to Friday 8 am to 5 pm) and ask them to send your
+immunisation history statement to you. It can take up to 14 days to arrive in
+the post.
+
+## Getting started
+
+If you have already set up a My Health Record, you can view information in
+your record using a mobile app.
+
+There are 3 apps to choose from:
+
+## Using the new my health app
+
+Access My Health Record information on your mobile via the new **my health**
+app.
+
+**my health** is an Agency-owned and managed app, and is the latest digital
+tool developed by the Agency to help consumers and their carers engage with
+and be proactive in managing their health. Put your health in your hands with
+the new **my health** app.
+
+Learn more about [**my health**](/myhealth "my health app")
+
+## Using the healthdirect app
+
+The healthdirect app helps you make informed decisions about your health. It
+provides easy access to many user-friendly self-help tools and functions
+including a symptom checker, health service finder, medicines information
+library, searchable health topics and quick-call health and emergency phone
+numbers.
+
+The app also integrates with My Health Record, proving you with an easy way to
+access your health record.
+
+### Step 1.
+
+Download the healthdirect app from the [Google
+Play](https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp&hl=en&gl=US)
+or [App Store](https://apps.apple.com/au/app/healthdirect/id1021494621)
+
+![HDA app step 1](/sites/default/files/styles/original/public/images/hda-
+app-01.png?itok=bFyDdzz_)
+
+###  
+Step 2.
+
+Create a healthdirect account to view your health record
+
+![HDA app step 2](/sites/default/files/styles/original/public/images/hda-
+app-02.png?itok=CVh9TmdD)
+
+###  
+Step 3.
+
+Provide consent for healthdirect to access your health record by signing-in
+with MyGov
+
+![HDA app step 3](/sites/default/files/styles/original/public/images/hda-
+app-03.png?itok=xQwwxfol)
+
+###  
+Step 4.
+
+View your COVID-19 documents, immunisations, pathology reports and Medicare
+items
+
+![HDA app step 4](/sites/default/files/styles/original/public/images/hda-
+app-04.png?itok=ZS-PxRt-)
+
+## Using the HealthNow app
+
+#### ​
+
+### Step 1.
+
+Download HealthNow from the [App
+Store](https://apps.apple.com/au/app/healthnow/id1171312949) or [Google
+Play](https://play.google.com/store/apps/details?id=com.telstrahealth.healthnow)
+and create your account
+
+![​Step 1. Download HealthNow from the App Store or Google Play and create
+your
+account](/sites/default/files/styles/original/public/2021-03/HealthNow_Step1_0.png?itok=wTHNrI7O)
+
+###  
+Step 2.
+
+Check your email to verify your account
+
+![Step 2. Check your email to verify your
+account](/sites/default/files/styles/original/public/2021-03/HealthNow_Step2.png?itok=dm5xgH1Y)
+
+###  
+**Step 3.**
+
+You can now log in
+
+![Step 3. You can now log
+in](/sites/default/files/styles/original/public/2021-03/HealthNow_Step3.png?itok=rNn7qSI4)
+
+###  
+​​​​​Step 4.
+
+'Connect’ to link your record and 'Confirm'
+
+![Step 4. 'Connect' to link your record, by giving your
+consent](/sites/default/files/styles/original/public/2021-03/HealthNow_Step4.png?itok=l02lcgFp)
+
+###  
+Step 5.
+
+Sign in to your myGov account
+
+![Step 5. Sign in to your myGov
+account](/sites/default/files/styles/original/public/2021-03/HealthNow_Step5.png?itok=J2a66C4r)
+
+###  
+Step 6.
+
+Give HealthNow permission to access your record​​
+
+![Step 6. Give HealthNow permission to access your
+record](/sites/default/files/styles/original/public/2021-03/HealthNow_Step6.png?itok=gwbRn_m5)
+
+###  
+Step 7.
+
+You can now view your health information including immunisations on the go
+
+![Step 7. You can now view your health information including immunisations on
+the
+go](/sites/default/files/styles/original/public/2021-03/HealthNow_Step7.png?itok=y7IdBf7t)
+
+######
+
+#### [Go to the App
+Store](https://apps.apple.com/au/app/healthnow/id1171312949) [Go to the Google
+Play](https://play.google.com/store/apps/details?id=com.telstrahealth.healthnow)​​​
+
+Check out our [frequently asked questions](/support/frequently-asked-questions
+"Frequently asked questions") about My Health Record and more.
+
+## The new my health app
+
+### A secure and convenient way to access **My Health Record**
+
+[Discover the app](/myhealth "Discover the app")
+
+Scan to download
+
+## Popular links
+
+### Set up your record online
+
+[Set up your record online](/initiatives-and-programs/my-health-
+record/getting-started/set-up-your-record-online)
+
+### Getting proof of your vaccinations from My Health Record
+
+[Getting proof of your vaccinations from My Health Record](/initiatives-and-
+programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-
+from-my-health-record)
+
+### Frequently asked questions
+
+[Frequently asked questions](/support/frequently-asked-questions)
+
+### Contact us
+
+[Contact us](/support/contact-us)
+
+### Did you find this page helpful?
+
+Yes No
+
+Feedback (required)
+
+## Follow
+
+  * [ Twitter ](https://twitter.com/AuDigitalHealth)
+  * [ Facebook ](https://www.facebook.com/AuDigitalHealth)
+  * [ LinkedIn ](https://au.linkedin.com/company/australian-digital-health-agency)
+  * [ YouTube ](https://www.youtube.com/user/eHealthAus)
+
+## Australian Digital Health Agency
+
+  * [ About us ](/about-us)
+  * [ Careers ](/careers)
+  * [ Contact us ](/support/contact-us)
+  * [ Newsroom ](/newsroom)
+  * [ National Provider Portal login ](https://provider.ehealth.gov.au/login.html)
+  * [ Developer Centre ](https://developer.digitalhealth.gov.au/)
+  * [ National Clinical Terminology Service ](https://www.healthterminologies.gov.au/)
+
+## Initiatives and programs
+
+  * [ My Health Record ](/healthcare-providers/my-health-record)
+  * [ Electronic prescribing ](/healthcare-providers/initiatives-and-programs/electronic-prescribing)
+  * [ Telehealth ](/healthcare-providers/initiatives-and-programs/telehealth)
+  * [ More digital health tools ](/healthcare-providers/initiatives-and-programs)
+
+By operation of the _Public Governance, Performance and Accountability
+(Establishing the Australian Digital Health Agency) Rule 2016_ , on 1 July
+2016, all the assets and liabilities of NEHTA will vest in the Australian
+Digital Health Agency. In this website, on and from 1 July 2016, all
+references to "National E-Health Transition Authority" or "NEHTA" will be
+deemed to be references to the Australian Digital Health Agency. PCEHR means
+the My Health Record, formerly the "Personally Controlled Electronic Health
+Record", within the meaning of the _My Health Records Act 2012_ (Cth),
+formerly called the _Personally Controlled Electronic Health Records Act 2012_
+(Cth).
+
+The Australian Digital Health Agency acknowledges the Traditional Owners of
+Country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to Elders past,
+present and emerging.
+
+© 2023 Australian Digital Health Agency
+
+  * [ Sitemap ](/sitemap)
+  * [ Privacy policy ](/about-us/policies-privacy-and-reporting/privacy-policy)
+  * [ Terms of use ](/about-us/policies-privacy-and-reporting/terms-of-use)
+
+![](/themes/custom/adha_theme/src/virtual-assistant/images/va-chat-bubble.svg)
+Chat
+
+Close chat
+
+Your browser does not support iframes.
+

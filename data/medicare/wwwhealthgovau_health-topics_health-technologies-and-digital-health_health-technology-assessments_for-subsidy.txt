@@ -1,0 +1,290 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Health technologies and digital health](/topics/health-technologies-and-digital-health)
+  4. [Health technology assessments](/topics/health-technologies-and-digital-health/health-technology-assessments)
+
+[Health technology assessments (HTAs)](/topics/health-technologies-and-
+digital-health/health-technology-assessments)
+
+# HTA for Australian Government subsidy
+
+We use health technology assessment processes to decide if approved products
+or services should be included in our subsidy programs.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=HTA for Australian Government subsidy&url=https://www.health.gov.au/topics/health-technologies-and-digital-health/health-technology-assessments/for-subsidy)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/health-technologies-and-digital-health/health-technology-assessments/for-subsidy)
+    * [Email](mailto:?subject=HTA for Australian Government subsidy&body=https://www.health.gov.au/topics/health-technologies-and-digital-health/health-technology-assessments/for-subsidy)
+
+Loading...
+
+On this page
+
+## Main subsidy programs
+
+A manufacturer or sponsor of a health technology can apply for it to be listed
+on one of our subsidy programs, such as the:
+
+  * [Pharmaceutical Benefits Scheme](https://www.pbs.gov.au/pbs/home) (PBS)
+  * [Medicare Benefits Schedule](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home) (MBS)
+  * [Prostheses List](/topics/private-health-insurance/the-prostheses-list "The Prostheses List") (PL).
+
+This reduces the cost to Australians, which means more people can access the
+technology.
+
+## Purpose of HTA for subsidy
+
+The Australian Government cannot financially support every new health
+technology that comes onto the market.
+
+We use HTAs to direct Government subsidies to health technologies that are
+clinically relevant, cost effective and safe.
+
+The HTA process provides our principal HTA committees with information they
+use when providing advice to the Government on whether a health technology
+should be subsidised.
+
+## What HTAs assess for
+
+HTAs for subsidy purposes analyse evidence of the benefits, harms and costs of
+a health technology to determine its value. Value involves:
+
+  * clinical effectiveness – does the health technology work?
+  * safety – is it safe to use?
+  * costs – how much will it cost to use?
+  * economic implications – is it good value for money?
+  * other information – what are the relevant clinical needs, or social or ethical issues?
+
+Assessors measure health impacts and costs against what is already used
+(called the comparator). This helps decide whether the extra benefits from a
+new health technology are enough to justify any extra costs to the healthcare
+system.
+
+## Principal HTA committees
+
+Three principal health technology assessment committees advise the Minister
+for Health about subsidy decisions.
+
+**Principal HTA committee**
+
+|
+
+**Types of health technology assessed**
+
+|
+
+**Related Australian Government subsidy programs**  
+  
+---|---|---  
+  
+[Pharmaceutical Benefits Advisory
+Committee](https://www.pbs.gov.au/info/industry/listing/participants/pbac)
+(PBAC)
+
+|
+
+Medicines
+
+Vaccines
+
+|
+
+[Pharmaceutical Benefits Scheme](https://www.pbs.gov.au/pbs/home) (PBS)
+
+[National Immunisation Program](/node/3381) (NIP)  
+  
+[Medical Services Advisory
+Committee](http://msac.gov.au/internet/msac/publishing.nsf/Content/about-msac)
+(MSAC)
+
+|
+
+Medical services
+
+Health technologies
+
+Blood products
+
+Screening programs
+
+|
+
+[Medicare Benefits
+Schedule](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home)
+(MBS)
+
+[National Blood Agreement](https://www.blood.gov.au/national-blood-agreement)  
+  
+[Prostheses List Advisory Committee](/node/10076) (PLAC)
+
+|
+
+Prostheses
+
+|
+
+[Prostheses List](/node/10065) (PL)  
+  
+## Codependent technologies
+
+A codependent technology is a medical technology or service that relies on
+another technology to work properly. The principal HTA committees work
+together as needed to assess codependent technologies.
+
+An example is a test (which MSAC considers) that guides the use of a medicine
+(which PBAC considers).
+
+Sponsors need to submit codependent applications to each relevant committee.
+
+## How to apply
+
+See the following guides for details on how to apply for listing on the:
+
+  * PBS – [Procedure guidance for listing medicines on the PBS](https://www.pbs.gov.au/info/industry/listing/listing-steps)
+  * MBS – [How to apply for public funding](http://www.msac.gov.au/internet/msac/publishing.nsf/Content/how-to-apply-for-public-funding)
+  * PL – [Prostheses List Guide](/resources/publications/prostheses-list-guide "Prostheses List Guide") and [Prostheses List Management System](https://prostheses.health.gov.au/wps/portal/register/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTT29PQ1MDIy8_Z2cXAwcPX1CfVwtDY0M_E31wwkpiAJKG-AAjgZA_VGElBTkRhikOyoqAgCQuY7S/dz/d5/L2dBISEvZ0FBIS9nQSEh/).
+
+## Monitoring and review of health technologies
+
+We have systems and process in place to review and monitor the use of health
+technologies.
+
+### Therapeutic goods
+
+The [TGA’s postmarket monitoring system](https://www.tga.gov.au/postmarket-
+monitoring) continually evaluates the safety, efficacy or performance of
+therapeutic goods that are available on the market.
+
+### PBS-subsidised medicines
+
+[Post-market reviews of PBS-subsidised
+medicines](https://www.pbs.gov.au/info/reviews/subsidised-medicines-reviews)
+are part of our commitment to the quality use of medicines in Australia.
+
+### MBS items
+
+We carry out an ongoing review of MBS items through the [MBS Continuous
+Review](/our-work/medicare-benefits-schedule-mbs-continuous-review "Medicare
+Benefits Schedule \(MBS\) Continuous Review"). We report to MSAC on [predicted
+versus actual use of MBS
+items](http://www.msac.gov.au/internet/msac/publishing.nsf/Content/Predicted-
+versus-Actual), to check if they are being used as intended.
+
+Last updated:
+
+13 April 2022
+
+Tags:
+
+  * [Health technologies and digital health](/topics/health-technologies-and-digital-health)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Health technologies and digital health](/topics/health-technologies-and-
+digital-health)
+
+  * [About health technologies and digital health](/topics/health-technologies-and-digital-health/about)
+  * [What we do](/topics/health-technologies-and-digital-health/what-we-do)
+  * [Health technology assessments (HTAs)](/topics/health-technologies-and-digital-health/health-technology-assessments)
+    * [Market authorisation](/topics/health-technologies-and-digital-health/health-technology-assessments/market-authorisation-for-regulation)
+    * [HTA for Australian Government subsidy](/topics/health-technologies-and-digital-health/health-technology-assessments/for-subsidy)
+    * [How to get involved with HTAs](/topics/health-technologies-and-digital-health/health-technology-assessments/get-involved)
+    * [HTA reforms and reviews](/topics/health-technologies-and-digital-health/health-technology-assessments/reviews)
+  * [News](/topics/health-technologies-and-digital-health/news)
+  * [Initiatives and programs](/topics/health-technologies-and-digital-health/initiatives-and-programs)
+  * [Resources](/topics/health-technologies-and-digital-health/resources)
+  * [Contacts](/topics/health-technologies-and-digital-health/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

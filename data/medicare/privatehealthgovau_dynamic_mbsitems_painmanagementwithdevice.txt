@@ -1,0 +1,133 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Pain management with device - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+14218
+
+     Implanted infusion pump, refilling of reservoir with a therapeutic agent or agents for infusion to the subarachnoid space or accessing the side port to assess catheter patency, with or without pump reprogramming, for the management of chronic pain, including cancer pain [](/dynamic/MBSItems/PainManagementWithDevice/14218)
+39125
+
+     Spinal catheter, insertion or replacement of, and connection to a subcutaneous implanted infusion pump, for the management of chronic pain, including cancer pain (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39125)
+39126
+
+     All of the following:(a) infusion pump, subcutaneous implantation or replacement of;(b) connection of the pump to a spinal catheter;(c) filling of reservoir with a therapeutic agent or agents;with or without programming the pump, for the management of chronic pain, including cancer pain (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39126)
+39127
+
+     Subcutaneous reservoir and spinal catheter, insertion of, for the management of chronic pain, including cancer pain (H) (Anaes.) [](/dynamic/MBSItems/PainManagementWithDevice/39127)
+39128
+
+     All of the following:(a) infusion pump, subcutaneous implantation of;(b) spinal catheter, insertion of;(c) connection of pump to catheter;(d) filling of reservoir with a therapeutic agent or agents;with or without programming the pump, for the management of chronic pain, including cancer pain (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39128)
+39129
+
+     Peripheral lead or leads, percutaneous placement of, including intraoperative test stimulation, for the management of chronic neuropathic pain (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39129)
+39130
+
+     Epidural lead or leads, percutaneous placement of, including intraoperative test stimulation, for the management of chronic neuropathic pain or pain from refractory angina pectoris (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39130)
+39131
+
+     Epidural or peripheral nerve electrodes (management, adjustment, or reprogramming of neurostimulator), with a medical practitioner attending, for the management of chronic neuropathic pain or pain from refractory angina pectoris—each day [](/dynamic/MBSItems/PainManagementWithDevice/39131)
+39133
+
+     Either:(a) subcutaneously implanted infusion pump, removal of; or(b) spinal catheter, removal or repositioning of;for the management of chronic pain, including cancer pain (H) (Anaes.) [](/dynamic/MBSItems/PainManagementWithDevice/39133)
+39134
+
+     Neurostimulator or receiver, subcutaneous placement of, including placement and connection of extension wires to epidural or peripheral nerve electrodes, for the management of chronic neuropathic pain or pain from refractory angina pectoris (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39134)
+39135
+
+     Neurostimulator or receiver that was inserted for the management of chronic neuropathic pain or pain from refractory angina pectoris, open surgical removal of, performed in the operating theatre of a hospital (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39135)
+39136
+
+     Epidural or peripheral nerve lead that was implanted for the management of chronic neuropathic pain or pain from refractory angina pectoris, open surgical removal of, performed in the operating theatre of a hospital (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39136)
+39137
+
+     Epidural or peripheral nerve lead that was implanted for the management of chronic neuropathic pain or pain from refractory angina pectoris, open surgical repositioning of, to correct displacement or unsatisfactory positioning, including intraoperative test stimulation, other than a service to which item 39130, 39138 or 39139 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39137)
+39138
+
+     Peripheral nerve lead or leads, surgical placement of, including intraoperative test stimulation, for the management of chronic neuropathic pain where the leads are intended to remain in situ long term (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39138)
+39139
+
+     Epidural lead, surgical placement of one or more of by partial or total laminectomy, including intraoperative test stimulation, for the management of chronic neuropathic pain or pain from refractory angina pectoris (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PainManagementWithDevice/39139)
+39141
+
+     Epidural or peripheral nerve electrodes (management, adjustment, or reprogramming of neurostimulator), with a medical practitioner attending remotely by video conference, for the management of chronic neuropathic pain or pain from refractory angina pectoris—each day [](/dynamic/MBSItems/PainManagementWithDevice/39141)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

@@ -1,0 +1,359 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Medicare](/topics/medicare)
+  4. [Medicare compliance](/topics/medicare/compliance)
+
+[Compliance](/topics/medicare/compliance)
+
+# Our Medicare compliance activities
+
+We are accountable for payments made under Medicare programs. We review and
+audit health practitioners’ claims to make sure they are legitimate. We
+support health practitioners to comply with Medicare requirements, with a
+focus on prevention and early intervention.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Our Medicare compliance activities&url=https://www.health.gov.au/topics/medicare/compliance/our-activities)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/medicare/compliance/our-activities)
+    * [Email](mailto:?subject=Our Medicare compliance activities&body=https://www.health.gov.au/topics/medicare/compliance/our-activities)
+
+Loading...
+
+On this page
+
+## **Education and support**
+
+We provide educational resources and personal support to help you meet your
+legal obligations as a health practitioner and reduce the risk of incorrect
+billing under Medicare.
+
+This includes:
+
+  * the [introduction to compliance within Medicare](http://www.medicareaust.com/compliance/Welcome/index.html) eLearning module, which shows how you can meet your obligations
+  * the [Medicare billing compliance](https://www.dplearning.com.au/cpd-learning/medicare-billing-compliance) eLearning module, which explains obligations, relevant legislation, and procedures in case of an incorrect claim
+  * the [billing Medicare in public hospitals](http://medicareaust.com/PublicHospitals/index.html) eLearning module, which explains how to bill and claim for services provided to patients in public hospitals
+  * information to help you identify, manage and prevent incorrect billing, and improve your practices, including our [Medicare billing assurance toolkit](https://www.health.gov.au/resources/collections/medicare-billing-assurance-toolkit)
+  * [Medicare Benefits Schedule](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home) (MBS) and [Pharmaceutical Benefits Scheme](https://www.pbs.gov.au/pbs/home) (PBS) item notes, which explain the conditions for each item
+  * the [Child Dental Benefits Schedule](https://www.health.gov.au/initiatives-and-programs/child-dental-benefits-schedule) (CDBS) guide, which explains the requirements of the CDBS
+  * [AskMBS advisories](https://www.health.gov.au/resources/collections/askmbs-advisories), which provide advice on common issues
+  * [AskMBS email advice service](https://www.health.gov.au/resources/publications/askmbs-email-advice-service), which advises on how to interpret and apply MBS items, explanatory notes, and associated legislation, with no involvement in MBS compliance
+  * [Services Australia](https://www.servicesaustralia.gov.au/organisations/health-professionals), which provide support about Medicare claims, claims adjustments or obtaining a Medicare provider number.
+
+Our educational resources can earn you continuing professional development
+points.
+
+## **Behavioural insights and interventions**
+
+We use our knowledge of behaviour to improve compliance through:
+
+  * finding behaviours of concern and what might influence that behaviour, then removing the barriers to its change
+  * developing interventions based on research and behavioural science
+  * using robust evaluation, such as randomised controlled trials, to decide whether interventions are working.
+
+For example, to help combat [antimicrobial
+resistance](https://www.health.gov.au/initiatives-and-programs/antimicrobial-
+resistance-amr), we trialled sending general practitioners who prescribed a
+lot of antibiotics a comparison of their data and that of their peers.
+
+This resulted in a significant reduction of antibiotic prescriptions. Read the
+Nudge vs Superbugs – [6-month report](/resources/publications/nudge-vs-
+superbugs "Nudge vs Superbugs") and [12-month follow-up
+report](https://www.health.gov.au/resources/publications/nudge-vs-
+superbugs-12-months-on).
+
+## **Data matching**
+
+We do routine data matching of health practitioners’ MBS and PBS claiming data
+to find possible incorrect billing, inappropriate practice and fraud.
+
+When working with practitioners’ data, we:
+
+  * transfer it securely
+  * match it in secure environments
+  * apply strict security controls
+  * only allow authorised staff to access it when required for their duties.
+
+If data matching identifies potential wrongdoing, our compliance officers
+carry out audits or investigations through prescribed and legislated
+compliance processes.
+
+Data matching does not:
+
+  * expand our compliance powers
+  * change how we do compliance activities
+  * impose any changes or new obligations on health providers
+  * authorise the automation of compliance outcomes or the raising of debts.
+
+The following legislation and regulations dictate how we can data match:
+
+  * The [National Health Act 1953](https://www.legislation.gov.au/Details/C2022C00298) enables us to data match in specific circumstances for a permitted purpose.
+
+  * The [National Health (Data-matching) Principles 2020](https://www.legislation.gov.au/Details/F2021L00006) set out the governance requirements for data matching, including requiring: 
+    * a [public notice](https://www.health.gov.au/resources/publications/data-matching-notice-data-matching-for-medicare-compliance-purposes) to provide transparency and awareness of data matching
+    * a [public register](https://www.health.gov.au/resources/publications/public-register-data-matching-activities) describing the kinds of information we match.
+
+We also publish a [privacy impact
+assessment](https://www.health.gov.au/resources/publications/data-matching-
+foundational-privacy-impact-assessment-executive-summary) of our data matching
+activities.
+
+Our data matching activities comply with the:
+
+  * [Attorney-General's Department's Protective Security Policy Framework](https://www.protectivesecurity.gov.au/about)
+  * [Department of Defence's Information Security Manual](https://acsc.gov.au/infosec/ism/).
+
+## **Targeted letter campaigns**
+
+We send targeted letters to alert you when your claiming patterns show you are
+at risk of non-compliance.
+
+Many instances of incorrect payments are accidental. Targeted letters help
+you:
+
+  * review your claims
+  * find and correct any errors by making a [voluntary acknowledgement](/topics/medicare/compliance/voluntary-acknowledgement-of-incorrect-payments "Voluntary acknowledgement of incorrect payments")
+  * repay any accrued debt.
+
+Responding to a targeted letter is voluntary, but it is in your best interest
+to do so. When monitoring future claiming and deciding whether to undertake an
+audit or other intervention, we will consider any:
+
+  * information you provided to explain your claiming
+  * corrections you made to claims
+  * changes in your claiming patterns following our letter.
+
+## **Audits**
+
+We conduct compliance audits and reviews for the MBS, PBS, CDBS and incentive
+programs.
+
+If we have reasonable concerns about your Medicare claiming, we may issue a
+notice asking you to produce relevant documents to substantiate your Medicare
+claims.
+
+We will raise a debt for the service if:
+
+  * you don't provide the documents we asked for
+  * the documents do not prove your professional service or claims were legitimate.
+
+You may also face civil penalties if you have the records requested in the
+notice and don’t produce them.
+
+If you’re being audited, read our fact sheets for the:
+
+  * [MBS audit process](https://www.health.gov.au/resources/publications/about-the-medicare-audit-process)
+  * [PBS audit process](https://www.health.gov.au/resources/publications/about-the-pharmaceutical-benefits-scheme-pbs-audit-process)
+  * [DBS audit process](/resources/publications/about-the-dental-benefits-schedule-dbs-audit-process "About the Dental Benefits Schedule \(DBS\) audit process").
+
+### **Review of decision**
+
+If we make a decision that amounts are recoverable following a compliance
+activity that you don't agree with, you can ask for a formal review.
+
+You can ask for a [review of
+decision](https://www.health.gov.au/resources/publications/application-to-
+review-compliance-audit-decision) if:
+
+  * an amount of money can be recovered from the decision 
+  * we have not already reviewed the decision at your request.
+
+When applying:
+
+  * apply within 28 days of getting our ‘notice of decision to claim a debt’ letter
+  * use the approved [application form](https://www.health.gov.au/resources/publications/application-to-review-compliance-audit-decision)
+  * make sure the application form is accurate and complete
+  * attach relevant additional information so that the review officer has everything they need.
+
+If you are unsatisfied with the review officer’s decision, you may seek
+further review through the [Administrative Appeals
+Tribunal](https://www.aat.gov.au/) or other appropriate jurisdiction.
+
+You cannot ask for a review of decision if the person or estate has waived the
+right to review in writing.
+
+## **Practitioner Review Program reviews**
+
+The [Practitioner Review Program](/our-work/practitioner-review-program
+"Practitioner Review Program") identifies potential inappropriate practice by
+health practitioners who bill, claim or prescribe under the MBS, CDBS and PBS.
+
+Through routine monitoring of Medicare billing and prescribing, we identify
+health practitioners whose patterns:
+
+  * vary significantly from those of their peers, which might indicate inappropriate practice
+  * show a large number of daily services, which might indicate a prescribed pattern of services. 
+
+## **Case referral to the Professional Services Review**
+
+If, after we finalise a review, we believe the [80/20 or 30/20
+rule](https://www.health.gov.au/health-topics/medicare-compliance/how-we-
+ensure-compliance/practitioner-review#inappropriate-practice) may have been
+breached, or we still can’t be sure that inappropriate practice has not
+occurred, we refer cases to the Professional Services Review (PSR) for an
+independent professional review.
+
+The PSR’s peer review processes ensure that appropriately qualified people
+decide whether your conduct would be unacceptable to most members of your
+profession or specialty.
+
+## **Fraud investigations**
+
+We investigate suspected Medicare fraud from health practitioners, such as
+claiming for medication or services that were not provided.
+
+Our investigations follow the:
+
+  * [Australian Government Investigation Standards](https://www.ag.gov.au/integrity/publications/australian-government-investigations-standards-2011)
+  * [Commonwealth Fraud Control Framework](https://www.ag.gov.au/integrity/publications/commonwealth-fraud-control-framework).
+
+We will offer you the opportunity to attend an interview to explain your
+practice.
+
+If necessary, we can use powers under the national [Human Services (Medicare)
+Act 1973](https://www.legislation.gov.au/Details/C2020C00382) to require you
+to provide information or conduct search warrants.
+
+We sometimes work with the police, and might refer matters to the
+[Commonwealth Director of Public
+Prosecutions](https://www.bing.com/ck/a?!&&p=c8232d57b7fd752bJmltdHM9MTY2MTE0MzQzMyZpZ3VpZD1jNGUwYzAzMC0xZWJkLTQwYjUtOGRlNS05ZDAzZDc1M2QyOWQmaW5zaWQ9NTE5Nw&ptn=3&hsh=3&fclid=061b279d-21d5-11ed-
+bc19-20232f4decbd&u=a1aHR0cHM6Ly93d3cuY2RwcC5nb3YuYXUv&ntb=1) for possible
+criminal prosecution.
+
+## **Learn more**
+
+[ ![Health Provider compliance strategy
+2021-22](/sites/default/files/styles/h_thumbnail_max_width/public/images/publications/2021/09/health-
+provider-compliance-strategy-2021-22.png?itok=nXnHcIUn)
+](/resources/publications/health-provider-compliance-strategy-2021-22)
+
+###  [Health Provider Compliance Strategy 2021–22
+](/resources/publications/health-provider-compliance-
+strategy-2021-22?language=en)
+
+The Health Provider Compliance Strategy aims to help health providers
+understand their responsibilities in relation to compliance. It outlines the
+Department's compliance priorities for the 2021-22 financial year and
+describes the tools and methods used to identify and treat non-compliance.
+
+Last updated:
+
+6 March 2023
+
+Tags:
+
+  * [Medicare](/topics/medicare)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Medicare](/topics/medicare)
+
+  * [About Medicare](/topics/medicare/about)
+  * [For practitioners and industry](/topics/medicare/access-practitioners-industry)
+  * [Compliance](/topics/medicare/compliance)
+    * [About](/topics/medicare/compliance/about)
+    * [When it applies](/topics/medicare/compliance/when-it-applies)
+    * [How to comply](/topics/medicare/compliance/how-to-comply)
+    * [Our compliance activities](/topics/medicare/compliance/our-activities)
+    * [Voluntary acknowledgement](/topics/medicare/compliance/voluntary-acknowledgement-of-incorrect-payments)
+    * [Debts and penalties](/topics/medicare/compliance/debts-and-penalties)
+    * [Reporting incorrect billing or claiming, or suspected fraud](/topics/medicare/compliance/reporting-incorrect-billing-claiming-or-suspected-fraud)
+  * [Reforms and reviews](/topics/medicare/reforms-and-reviews)
+  * [Data, statistics and reporting](/topics/medicare/data-statistics-reporting)
+  * [Initiatives and programs](/topics/medicare/programs)
+  * [News](/topics/medicare/news)
+  * [Resources](/topics/medicare/resources)
+  * [Contacts](/topics/medicare/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

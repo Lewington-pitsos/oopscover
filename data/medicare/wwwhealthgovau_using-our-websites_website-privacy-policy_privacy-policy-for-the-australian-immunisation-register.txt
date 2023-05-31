@@ -1,0 +1,391 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Using our websites](/using-our-websites)
+  3. [Website privacy policy](/using-our-websites/website-privacy-policy)
+
+[Privacy](/using-our-websites/website-privacy-policy)
+
+# Privacy Policy for the Australian Immunisation Register
+
+Find out how we manage any personal information we collect in the Australian
+Immunisation Register.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Privacy Policy for the Australian Immunisation Register &url=https://www.health.gov.au/using-our-websites/website-privacy-policy/privacy-policy-for-the-australian-immunisation-register)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/using-our-websites/website-privacy-policy/privacy-policy-for-the-australian-immunisation-register)
+    * [Email](mailto:?subject=Privacy Policy for the Australian Immunisation Register &body=https://www.health.gov.au/using-our-websites/website-privacy-policy/privacy-policy-for-the-australian-immunisation-register)
+
+Loading...
+
+On this page
+
+This privacy policy sets out how we (the Australian Government Department of
+Health and Aged Care) handle the personal information that is collected about
+you in the Australian Immunisation Register (Register) in accordance with the
+[Privacy Act 1988](https://www.legislation.gov.au/Details/C2021C00024)
+(Privacy Act) and the [Australian Immunisation Register Act
+2015](https://www.legislation.gov.au/Details/C2021C00122) (Register Act). This
+policy also provides information on the role played by Services Australia with
+respect to the Register.
+
+This policy may be updated from time to time.
+
+## What is the Register?
+
+The Register is a whole of life, national immunisation register which records
+vaccines given to all people in Australia. The Register includes vaccines
+given under the National Immunisation Program, through school based programs,
+and privately, such as for seasonal influenza or travel. The Register may also
+include details of vaccines administered outside of Australia.
+
+The Register came into existence in 2016 when the Australian Childhood
+Immunisation Register was expanded to become the Register. The Australian
+Childhood Immunisation Register began in 1996.
+
+## What role does Services Australia have in relation to the Register?
+
+Services Australia administers the Register on our behalf, and handles your
+information in accordance with the Register Act and the Privacy Act.
+
+This means that Services Australia is responsible for the operational, day-to-
+day running of the Register. This includes helping you access your
+immunisation history statement and providing telephone and processing services
+for customers and vaccination providers.
+
+## What personal information is collected in the Register?
+
+When you receive a vaccine, the person administering the vaccine (who must be
+a ‘recognised vaccination provider’), or someone on their behalf, may report
+personal information about you to the Register.
+
+The personal information that may be reported to the Register includes your
+name, date of birth, contact details, gender, and Indigenous status, as well
+as your Medicare number (if any) and healthcare identifier (if any). Other
+information may also be reported to the Register, including details of the
+vaccination, and information about the person who administered the vaccine.
+
+For COVID-19 and influenza vaccinations, the recognised vaccination provider
+will be required by law to report information to the Register.
+
+Information collected by your vaccination provider will only be reported to
+the Register where it is authorised or required by the Register Act.
+
+## When can information in the Register be used and disclosed?
+
+The Register Act contains protections and restrictions on how information in
+the Register can be handled.
+
+Personal information in the Register can only be used and disclosed for the
+purposes set out in the Register Act. These purposes include:
+
+  * monitoring vaccination coverage across Australia and parts of Australia
+  * collecting, analysing and publishing statistics and other information about vaccination coverage across Australia and parts of Australia
+  * identifying any parts of Australia at risk during disease outbreaks, because of the number of unvaccinated individuals in those parts
+  * an individual or a recognised vaccination provider checking an individual’s vaccination status
+  * advising an individual when they are, or were, due to receive a vaccine
+  * certifying when a course of vaccination has been completed
+  * monitoring the effectiveness of vaccines and vaccination programs in preventing vaccine preventable diseases
+  * promoting individuals’ health and well‑being by giving information on new developments associated with vaccinations to them and to recognised vaccination providers
+  * making payments relating to vaccinations
+  * conducting research relating to vaccinations
+  * checking vaccination status to determine eligibility for family assistance.
+
+Personal information in the Register can also be used and disclosed in other
+circumstances permitted by the Register Act, including where the use or
+disclosure:
+
+  * has been authorised by the Minister for Health and Aged Care and is for a public interest purpose
+  * is for the purposes of the National Cancer Screening Register Act 2016
+  * is authorised by law or court or tribunal proceedings.
+
+We only ever use or disclose your personal information in accordance with the
+Register Act and the Privacy Act.
+
+## Who can access, use and disclose personal information in the Register?
+
+The Register Act governs who can access, use and disclose your personal
+information in the Register.
+
+For example, access is permitted by:
+
+  * the individuals to whom the information relates
+  * recognised vaccination providers
+  * authorised Commonwealth personnel, including officers and contractors engaged by us or Services Australia to work on the Register
+  * prescribed bodies, which include state and territory health departments.
+
+Information in the Register is only accessed and transmitted through secure
+channels.
+
+Information in the Register is also regularly uploaded to and stored in our
+Enterprise Data Warehouse. The Enterprise Data Warehouse is an established
+platform already in use that supports our storage of data in a secure
+environment within Australia.
+
+We, and the above individuals and entities, can only use and disclose your
+personal information for a purpose permitted by the Register Act. Your
+information may be de-identified before it is used to prepare aggregated
+reports, for example, about vaccination coverage in Australia.
+
+The Register has mechanisms which interact with the Medicare Online, myGov,
+the Medicare Express Plus app and My Health Record systems, so that you can
+access your information through those systems.
+
+## How is my personal information stored?
+
+Information in the Register is securely stored in Services Australia’s IT
+environment, and our Enterprise Data Warehouse.
+
+All of your information will be stored within Australia and will not be sent
+overseas.
+
+## Can I opt out from my vaccination information being included in the
+Register?
+
+No. Once you have been vaccinated, you cannot opt out of your information
+being put into the Register where the Register Act requires reporting of the
+information.
+
+However, under the Register Act you can **** opt out of having your
+vaccination information being made available to third parties. You can find
+further information about this on Services Australia’s website, accessible at
+this
+[link](https://www.servicesaustralia.gov.au/individuals/services/medicare/australian-
+immunisation-register/update-your-details-your-medicare-card-and-air). The
+relevant form to opt out is accessible at this
+[link](https://www.servicesaustralia.gov.au/organisations/health-
+professionals/forms/im017).
+
+If you do opt-out, this means that no third parties (including your healthcare
+providers) will be able to view any of your information in the Register. Your
+decision to opt out will apply to all of your vaccination information (you
+cannot opt out for specific vaccines).
+
+## How can I access and correct my information in the Register?
+
+You can access your immunisation history contained in the Register through
+your [Medicare Online
+account](https://www.servicesaustralia.gov.au/individuals/services/medicare/medicare-
+online-accounts) through myGov, the Medicare Express Plus app, or your My
+Health Record.
+
+Alternatively, you can [contact Services
+Australia](https://www.servicesaustralia.gov.au/individuals/services/medicare/australian-
+immunisation-register/how-get-immunisation-history-statement) to request
+access to your immunisation history in the Register. This includes by calling
+the [Australian Immunisation Register
+line](https://www.servicesaustralia.gov.au/individuals/contact-us/phone-
+us#acir) on 1800 653 809 (Monday to Friday 8am to 5pm).
+
+You will not be able to access specific details of the vaccine product (such
+as the vaccine batch number) that was administered to you. In the event that
+you require specific details of the vaccine product your vaccination provider
+can assist you.
+
+If your personal details in the Register are incorrect, you can correct some
+details through your Medicare Online account or you should contact Services
+Australia.
+
+If any of the immunisation details shown on your immunisation history
+statement are incorrect or missing, you should contact your vaccination
+provider. Information on your record about the vaccinations you have received
+can only be changed if the changes are made or authorised by a recognised
+vaccination provider.
+
+## Further information about privacy
+
+As well as this policy, we have an Australian Department of Health and Aged
+Care privacy policy.
+
+In addition to this [link to the
+policy](https://www.health.gov.au/resources/publications/privacy-policy), you
+can obtain a copy of the privacy policy by contacting us using the contact
+details set out below.
+
+For further information about the use of information in relation to COVID-19
+vaccines, see our [Privacy Notice for COVID-19
+vaccinations](https://www.health.gov.au/using-our-websites/privacy/privacy-
+notice-for-covid-19-vaccinations).
+
+## Complaints
+
+If you wish to make a complaint about the way your personal information has
+been managed, you can lodge a complaint with us using the details listed
+below. Please provide as much information as possible so we can investigate
+and respond.
+
+We will:
+
+  * let you know that we have received your complaint
+  * do our best to respond within 30 days of receiving your complaint. If we can’t respond within this timeframe we will let you know.
+
+If you are not satisfied with our response, you can contact the [Office of the
+Australian Information Commissioner.](https://www.oaic.gov.au/privacy/privacy-
+complaints/)
+
+![](/themes/custom/hga/images/contact-aus-gov.png)
+
+###  [ Departmental privacy enquiries ](/contacts/departmental-privacy-
+enquiries?language=en)
+
+Contact to find out more about privacy within the department, or to make a
+privacy enquiry or complaint.
+
+Privacy officer:
+
+[privacy@health.gov.au](mailto:privacy@health.gov.au)
+
+Phone:
+
+[02 6289 1555](tel:02 6289 1555)
+
+Freecall:
+
+[1800 020 103](tel:1800 020 103)
+
+Last updated:
+
+9 July 2022
+
+Tags:
+
+  * [Communicable diseases](/topics/communicable-diseases)
+  * [Emergency health management](/topics/emergency-health-management)
+  * [COVID-19 vaccines](/our-work/covid-19-vaccines)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Using our websites](/using-our-websites)
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+    * [Privacy impact assessment register](/using-our-websites/website-privacy-policy/privacy-impact-assessment-register)
+    * [Privacy notice for aged care reform webinars](/using-our-websites/website-privacy-policy/privacy-notice-for-aged-care-reform-webinars)
+    * [Privacy notice for aged care announcements and newsletters](/using-our-websites/website-privacy-policy/privacy-notice-for-the-aged-care-sector-newsletters-and-alerts)
+    * [Privacy notice for consumers using the booking platform for COVID 19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-consumers-using-the-commonwealth-procured-booking-platform-for-covid-19-vaccinations)
+    * [Privacy notice for COVID-19 training](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-training)
+    * [Privacy notice for COVID-19 mental health updates](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-mental-health-updates)
+    * [Privacy notice for COVID-19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-vaccinations)
+    * [Privacy notice for COVID-19 vaccines update](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-vaccines-update)
+    * [Privacy notice for COVID-19 weekly updates](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-updates-for-gps)
+    * [Privacy notice for Health Portfolio Federal Budget Information](/using-our-websites/website-privacy-policy/privacy-notice-for-health-portfolio-federal-budget-information)
+    * [Privacy notice for MRFF newsletter](/using-our-websites/website-privacy-policy/privacy-notice-for-mrff-newsletter)
+    * [Privacy notice for National Immunisation Program (NIP) updates](/using-our-websites/website-privacy-policy/privacy-notice-for-national-immunisation-program-nip-updates)
+    * [Privacy notice for the Bonded Medical Program – BRoSS](/using-our-websites/website-privacy-policy/privacy-notice-for-the-bonded-medical-program-bross)
+    * [Privacy notice for the Bonded Medical Program – BRoSS – participants and family members](/using-our-websites/website-privacy-policy/privacy-notice-for-the-bonded-medical-program-bross-participants-and-family-members)
+    * [Collection notice for the Clinician Vaccine Integration Platform (CVIP)](/using-our-websites/website-privacy-policy/collection-notice-for-the-clinician-vaccine-integrated-platform-cvip)
+    * [Privacy notice for the contact a minister form](/using-our-websites/website-privacy-policy/privacy-notice-for-the-contact-a-minister-form)
+    * [Privacy policy for the COVIDSafe app](https://covidsafe.gov.au/privacy-policy.html)
+    * [Privacy notice for the Inborn Errors of Metabolism program – healthcare professionals](/using-our-websites/website-privacy-policy/privacy-notice-for-the-inborn-errors-of-metabolism-program-health-care-professionals)
+    * [Privacy notice for the Inborn Errors of Metabolism program – patients](/using-our-websites/website-privacy-policy/privacy-notice-for-the-inborn-errors-of-metabolism-program-patients)
+    * [Privacy notice for the National Epidermolysis Bullosa Dressing Scheme – healthcare professionals](/using-our-websites/website-privacy-policy/privacy-notice-for-the-national-epidermolysis-bullosa-dressing-scheme-health-care-professionals)
+    * [Privacy notice for the National Epidermolysis Bullosa Dressing Scheme – patients](/using-our-websites/website-privacy-policy/privacy-notice-for-the-national-epidermolysis-bullosa-dressing-scheme-patients)
+    * [Privacy Notice for Australian Immunisation Handbook updates](/using-our-websites/website-privacy-policy/privacy-notice-for-australian-immunisation-handbook-updates)
+    * [Privacy Notice for the Register of Interest for COVID-19 vaccinations](/using-our-websites/website-privacy-policy/privacy-notice-for-the-register-of-interest-for-covid-19-vaccinations)
+    * [Privacy Policy for the Australian Immunisation Register](/using-our-websites/website-privacy-policy/privacy-policy-for-the-australian-immunisation-register)
+    * [Privacy notice for COVID-19 and COVID-19 vaccines updates for multicultural communities](/using-our-websites/website-privacy-policy/privacy-notice-for-covid-19-and-covid-19-vaccines-updates-for-multicultural-communities)
+    * [Privacy notice for My Aged Care Learning Management System (MAClearning)](/using-our-websites/website-privacy-policy/privacy-notice-for-my-aged-care-learning-management-system-maclearning)
+    * [Privacy notice for the COVID-19 pandemic response workforce expression of interest form](/using-our-websites/website-privacy-policy/privacy-notice-for-the-covid-19-pandemic-response-workforce-expression-of-interest-form)
+    * [Privacy notice for the Government Provider Management System](/using-our-websites/website-privacy-policy/privacy-notice-for-gpms)
+    * [Privacy notice for the MBS Review newsletter](/using-our-websites/website-privacy-policy/privacy-notice-for-the-mbs-review-newsletter)
+    * [Privacy notice for the MRAC communique](/using-our-websites/website-privacy-policy/privacy-notice-for-the-mbs-review-advisory-committee-communique)
+    * [Privacy notice for the Re-engaging Volunteers into Residential Aged Care Facilities program](/using-our-websites/website-privacy-policy/privacy-notice-for-the-re-engaging-volunteers-into-residential-aged-care-facilities-program)
+    * [Privacy notice for vaccination providers using the COVID-19 Vaccine Administration System (CVAS)](/using-our-websites/website-privacy-policy/privacy-notice-for-vaccination-providers-using-the-covid-19-vaccine-administration-system-cvas)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

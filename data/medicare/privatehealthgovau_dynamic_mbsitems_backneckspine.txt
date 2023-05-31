@@ -1,0 +1,295 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Back, neck and spine - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+30672
+
+     COCCYX, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/30672)
+35401
+
+     Vertebroplasty, for one or more fractures in one or more vertebrae, performed by an interventional radiologist, for the treatment of a painful osteoporotic thoracolumbar vertebral compression fracture of the thoracolumbar spinal segment (T11, T12, L1 or L2), if: (a) pain is severe (numeric rated pain score greater than or equal to 7 out of 10); and (b) symptoms are poorly controlled by opiate therapy; and (c) severe pain duration is 3 weeks or less; and (d) there is MRI (or SPECT-CT if MRI unavailable) evidence of acute vertebral fracture Applicable only once for the same fracture, but is applicable for a new fracture of the same vertebra or vertebrae (H) (Anaes.) [](/dynamic/MBSItems/BackNeckSpine/35401)
+44133
+
+     TORTICOLLIS, open division of sternomastoid muscle for (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/44133)
+50600
+
+     Scoliosis or kyphosis, in a child, manipulation of deformity and application of a localiser cast, under general anaesthesia, in a hospital (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50600)
+50604
+
+     Scoliosis or kyphosis, in a child or adolescent, spinal fusion for (without instrumentation) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50604)
+50608
+
+     Scoliosis or kyphosis, in a child or adolescent, treatment by segmental instrumentation and fusion of the spine, other than a service to which any of items 51011 to 51171 apply (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50608)
+50612
+
+     Scoliosis or kyphosis, in a child or adolescent, with spinal deformity, treatment by segmental instrumentation, utilising separate anterior and posterior approaches, other than a service to which any of items 51011 to 51171 apply (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50612)
+50616
+
+     Scoliosis, in a child or adolescent, re-exploration for adjustment or removal of segmental instrumentation used for correction of spine deformity (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50616)
+50620
+
+     Scoliosis, in a child or adolescent, revision of failed scoliosis surgery, involving more than one of osteotomy, fusion, removal of instrumentation or instrumentation, other than a service to which any of items 51011 to 51171 apply (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50620)
+50624
+
+     Scoliosis, in a child or adolescent, anterior correction of, with fusion and segmental fixation (Dwyer, Zielke or similar) - not more than 4 levels (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50624)
+50628
+
+     Scoliosis, in a child or adolescent, anterior correction of, with fusion and segmental fixation (Dwyer, Zielke or similar)—more than 4 levels (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50628)
+50632
+
+     Scoliosis or kyphosis, in a child or adolescent, requiring segmental instrumentation and fusion of the spine down to and including the pelvis or sacrum, other than a service to which any of items 51011 to 51171 apply (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50632)
+50636
+
+     Scoliosis, in a child or adolescent, requiring anterior decompression of the spinal cord with vertebral resection and instrumentation in the presence of spinal cord involvement, other than a service to which any of items 51011 to 51171 apply (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50636)
+50640
+
+     Scoliosis, in a child or adolescent, congenital, resection and fusion of abnormal vertebra via an anterior or posterior approach, other than a service to which any of items 51011 to 51171 apply (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50640)
+50644
+
+     Spine, bone graft to, for a child or adolescent, associated with surgery for correction of scoliosis or kyphosis or both (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/50644)
+51020
+
+     Simple fixation of part of one vertebra (not motion segment) including pars interarticularis, spinous process or pedicle, or simple interspinous wiring between 2 adjacent vertebral levels, not being a service associated with: (a) interspinous dynamic stabilisation devices; or (b) a service to which item 51021, 51022, 51023, 51024, 51025 or 51026 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51020)
+51021
+
+     Fixation of motion segment with vertebral body screw, pedicle screw or hook instrumentation including sublaminar tapes or wires, one motion segment, not being a service associated with a service to which item 51020, 51022, 51023, 51024, 51025 or 51026 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51021)
+51022
+
+     Fixation of motion segment with vertebral body screw, pedicle screw or hook instrumentation including sublaminar tapes or wires, 2 motion segments, not being a service associated with a service to which item 51020, 51021, 51023, 51024, 51025 or 51026 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51022)
+51023
+
+     Fixation of motion segment with vertebral body screw, pedicle screw or hook instrumentation including sublaminar tapes or wires, 3 or 4 motion segments, not being a service associated with a service to which item 51020, 51021, 51022, 51024, 51025 or 51026 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51023)
+51024
+
+     Fixation of motion segment with vertebral body screw, pedicle screw or hook instrumentation including sublaminar tapes or wires, 5 or 6 motion segments, not being a service associated with a service to which item 51020, 51021, 51022, 51023, 51025 or 51026 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51024)
+51025
+
+     Fixation of motion segment with vertebral body screw, pedicle screw or hook instrumentation including sublaminar tapes or wires, 7 to 12 motion segments, not being a service associated with a service to which item 51020, 51021, 51022, 51023, 51024 or 51026 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51025)
+51026
+
+     Fixation of motion segment with vertebral body screw, pedicle screw or hook instrumentation including sublaminar tapes or wires, more than 12 motion segments, not being a service associated with a service to which item 51020, 51021, 51022, 51023, 51024 or 51025 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51026)
+51031
+
+     Spine, posterior and/or posterolateral bone graft to, one motion segment, not being a service associated with a service to which item 51032, 51033, 51034, 51035 or 51036 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51031)
+51032
+
+     Spine, posterior and/or posterolateral bone graft to, 2 motion segments, not being a service associated with a service to which item 51031, 51033, 51034, 51035 or 51036 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51032)
+51033
+
+     Spine, posterior and/or posterolateral bone graft to, 3 motion segments, not being a service associated with a service to which item 51031, 51032, 51034, 51035 or 51036 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51033)
+51034
+
+     Spine, posterior and/or posterolateral bone graft to, 4 to 7 motion segments, not being a service associated with a service to which item 51031, 51032, 51033, 51035 or 51036 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51034)
+51035
+
+     Spine, posterior and/or posterolateral bone graft to, 8 to 11 motion segments, not being a service associated with a service to which item 51031, 51032, 51033, 51034 or 51036 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51035)
+51036
+
+     Spine, posterior and/or posterolateral bone graft to, 12 or more motion segments, not being a service associated with a service to which item 51031, 51032, 51033, 51034 or 51035 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51036)
+51041
+
+     Spinal fusion, anterior column (anterior, direct lateral or posterior interbody), one motion segment, not being a service associated with a service to which item 51042, 51043, 51044 or 51045 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51041)
+51042
+
+     Spinal fusion, anterior column (anterior, direct lateral or posterior interbody), 2 motion segments, not being a service associated with a service to which item 51041, 51043, 51044 or 51045 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51042)
+51043
+
+     Spinal fusion, anterior column (anterior, direct lateral or posterior interbody), 3 motion segments, not being a service associated with a service to which item 51041, 51042, 51044 or 51045 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51043)
+51044
+
+     Spinal fusion, anterior column (anterior, direct lateral or posterior interbody), 4 motion segments, not being a service associated with a service to which item 51041, 51042, 51043 or 51045 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51044)
+51045
+
+     Spinal fusion, anterior column (anterior, direct lateral or posterior interbody), 5 or more motion segments, not being a service associated with a service to which item 51041, 51042, 51043 or 51044 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51045)
+51051
+
+     Pedicle subtraction osteotomy, one vertebra, not being a service associated with a service to which item 51052, 51053, 51054, 51055, 51056, 51057, 51058 or 51059 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51051)
+51052
+
+     Pedicle subtraction osteotomy, 2 vertebrae, not being a service associated with a service to which item 51051, 51053, 51054, 51055, 51056, 51057, 51058 or 51059 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51052)
+51053
+
+     Vertebral column resection osteotomy performed through single posterior approach, one vertebra, not being a service associated with a service to which item 51051, 51052, 51054, 51055, 51056, 51057, 51058 or 51059 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51053)
+51054
+
+     Vertebral body, piecemeal or subtotal excision of (where piecemeal or subtotal excision is defined as removal of more than 50% of the vertebral body), one vertebra, not being a service associated with: (a) anterior column fusion when at the same motion segment; or (b) a service to which item 51051, 51052, 51053, 51055, 51056, 51057, 51058 or 51059 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51054)
+51055
+
+     Vertebral body, piecemeal or subtotal excision of (where piecemeal or subtotal excision is defined as removal of more than 50% of the vertebral body), 2 vertebrae, not being a service associated with: (a) anterior column fusion when at the same motion segment; or (b) a service to which item 51051, 51052, 51053, 51054, 51056, 51057, 51058 or 51059 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51055)
+51056
+
+     Vertebral body, piecemeal or subtotal excision of (where piecemeal or subtotal excision is defined as removal of more than 50% of the vertebral body), 3 or more vertebrae, not being a service associated with: (a) anterior column fusion when at the same motion segment; or (b) a service to which item 51051, 51052, 51053, 51054, 51055, 51057, 51058 or 51059 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51056)
+51057
+
+     Vertebral body, en bloc excision of (complete spondylectomy), one vertebra, not being a service associated with: (a) anterior column fusion when at the same motion segment; or (b) a service to which item 51051, 51052, 51053, 51054, 51055, 51056, 51058 or 51059 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51057)
+51058
+
+     Vertebral body, en bloc excision of (complete spondylectomy), 2 vertebrae, not being a service associated with: (a) anterior column fusion when at the same motion segment; or (b) a service to which item 51051, 51052, 51053, 51054, 51055, 51056, 51057 or 51059 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51058)
+51059
+
+     Vertebral body, en bloc excision of (complete spondylectomy), 3 or more vertebrae, not being a service associated with: (a) anterior column fusion when at the same motion segment; or (b) a service to which item 51051, 51052, 51053, 51054, 51055, 51056, 51057 or 51058 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51059)
+51061
+
+     Spinal fusion, anterior and posterior, including spinal instrumentation at one motion segment, posterior and/or posterolateral bone graft, and anterior column fusion, not being a service associated with a service to which item 51062, 51063, 51064, 51065 or 51066 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51061)
+51062
+
+     Spinal fusion, anterior and posterior, including spinal instrumentation at 2 motion segments, posterior and/or posterolateral bone graft, and anterior column fusion, not being a service associated with a service to which item 51061, 51063, 51064, 51065 or 51066 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51062)
+51063
+
+     Spinal fusion, anterior and posterior, including spinal instrumentation at 3 motion segments, posterior and/or posterolateral bone graft, and anterior column fusion, not being a service associated with a service to which item 51061, 51062, 51064, 51065 or 51066 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51063)
+51064
+
+     Spinal fusion, anterior and posterior, including spinal instrumentation at 4 to 7 motion segments, posterior and/or posterolateral bone graft, and anterior column fusion, not being a service associated with a service to which item 51061, 51062, 51063, 51065 or 51066 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51064)
+51065
+
+     Spinal fusion, anterior and posterior, including spinal instrumentation at 8 to 11 motion segments, posterior and/or posterolateral bone graft, and anterior column fusion, not being a service associated with a service to which item 51061, 51062, 51063, 51064 or 51066 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51065)
+51066
+
+     Spinal fusion, anterior and posterior, including spinal instrumentation at 12 or more motion segments, posterior and/or posterolateral bone graft, and anterior column fusion not being a service associated with a service to which item 51061, 51062, 51063, 51064 or 51065 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51066)
+51071
+
+     Removal of intradural lesion, or primary extradural tumour or lesion, where the pathology is confirmed by histology - not including removal of synovial or juxtafacet cyst and not being a service associated with a service to which item 51072 or 51073 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51071)
+51072
+
+     Craniocervical junction lesion, transoral approach for, not being a service associated with a service to which item 51071 or 51073 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51072)
+51073
+
+     Removal of intramedullary tumour or arteriovenous malformation, not being a service associated with a service to which item 51071 or 51072 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51073)
+51102
+
+     Thoracoplasty in combination with thoracic scoliosis correction—3 or more ribs (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51102)
+51103
+
+     Odontoid screw fixation (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51103)
+51110
+
+     Spine, treatment of fracture, dislocation or fracture dislocation, with immobilisation by calipers or halo, not including application of skull tongs or calipers as part of operative positioning (Anaes.) [](/dynamic/MBSItems/BackNeckSpine/51110)
+51111
+
+     Skull calipers or halo, insertion of, as an independent procedure (Anaes.) [](/dynamic/MBSItems/BackNeckSpine/51111)
+51112
+
+     Plaster jacket, application of, as an independent procedure (Anaes.) [](/dynamic/MBSItems/BackNeckSpine/51112)
+51113
+
+     Halo, application of, in addition to spinal fusion for scoliosis, or other conditions (Anaes.) [](/dynamic/MBSItems/BackNeckSpine/51113)
+51114
+
+     Halo thoracic orthosis—application of both halo and thoracic jacket (Anaes.) [](/dynamic/MBSItems/BackNeckSpine/51114)
+51115
+
+     Halo femoral traction, as an independent procedure (Anaes.) [](/dynamic/MBSItems/BackNeckSpine/51115)
+51120
+
+     Bone graft, harvesting of autogenous graft, via separate incision or via subcutaneous approach, in conjunction with spinal fusion, other than for the purposes of bone graft obtained from the cervical, thoracic, lumbar or sacral spine (Anaes.) [](/dynamic/MBSItems/BackNeckSpine/51120)
+51130
+
+     Lumbar artificial intervertebral total disc replacement, at one motion segment only, including removal of disc and marginal osteophytes: (a) for a patient who: (i) has not had prior spinal fusion surgery at the same lumbar level; and (ii) does not have vertebral osteoporosis; and (iii) has failed conservative therapy; and (b) not being a service associated with a service to which item 51011, 51012, 51013, 51014 or 51015 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51130)
+51131
+
+     Cervical artificial intervertebral total disc replacement, at one motion segment only, including removal of disc and marginal osteophytes, for a patient who: (a) has not had prior spinal surgery at the same cervical level; and (b) is skeletally mature; and (c) has symptomatic degenerative disc disease with radiculopathy; and (d) does not have vertebral osteoporosis; and (e) has failed conservative therapy (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51131)
+51140
+
+     Previous spinal fusion, re-exploration for, involving adjustment or removal of instrumentation up to 3 motion segments, not being a service associated with a service to which item 51141 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51140)
+51141
+
+     Previous spinal fusion, re-exploration for, involving adjustment or removal of instrumentation more than 3 motion segments, not being a service associated with a service to which item 51140 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51141)
+51145
+
+     Wound debridement or excision for post operative infection or haematoma following spinal surgery (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51145)
+51150
+
+     Coccyx, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51150)
+51160
+
+     Anterior exposure of thoracic or lumbar spine, one motion segment, not being a service to which item 51165 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51160)
+51165
+
+     Anterior exposure of thoracic or lumbar spine, more than one motion segment, not being a service to which item 51160 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51165)
+51170
+
+     Syringomyelia or hydromyelia, craniotomy for, with or without duraplasty, intradural dissection, plugging of obex or local cerebrospinal fluid shunt (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51170)
+51171
+
+     Syringomyelia or hydromyelia, treatment by direct cerebrospinal fluid shunt (for example, syringosubarachnoid shunt, syringopleural shunt or syringoperitoneal shunt) (Anaes.) (Assist.) [](/dynamic/MBSItems/BackNeckSpine/51171)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

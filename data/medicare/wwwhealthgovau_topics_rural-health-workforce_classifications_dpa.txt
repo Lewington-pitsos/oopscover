@@ -1,0 +1,431 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Rural health workforce](/topics/rural-health-workforce)
+  4. [Health workforce classifications](/topics/rural-health-workforce/classifications)
+
+[Health workforce classifications](/topics/rural-health-
+workforce/classifications)
+
+# Distribution Priority Area
+
+The Distribution Priority Area (DPA) classification identifies locations in
+Australia with a shortage of medical practitioners. International medical
+graduates work in a DPA to be eligible for Medicare. Read about the DPA
+classification and learn how to find locations classified as DPA.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Distribution Priority Area&url=https://www.health.gov.au/topics/rural-health-workforce/classifications/dpa)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/rural-health-workforce/classifications/dpa)
+    * [Email](mailto:?subject=Distribution Priority Area&body=https://www.health.gov.au/topics/rural-health-workforce/classifications/dpa)
+
+Loading...
+
+On this page
+
+**The DPA was updated on 21 July 2022. The Health locator tool reflects
+updates to DPA including recent exceptional circumstances outcomes. This
+update will be reflected under[Changes to
+DPA](https://health.govcms.gov.au/health-topics/rural-health-
+workforce/classifications/dpa#changes-in-dpa).**
+
+## About the DPA classification
+
+The DPA classification system identifies areas experiencing lower levels of GP
+services, compared with a benchmark of GP services. A range of initiatives
+aimed at increasing the supply of doctors are then implemented in these areas.
+Learn more about how we use DPA.
+
+### **What’s new in 2022**
+
+The Government committed to increasing the supply of General Practitioners
+(GPs) in outer suburban areas and regions. From 21 July 2022:
+
+  * All areas classified as MM2 under the Modified Monash Model (MMM) classification system will now be automatically classified as DPA.
+  * All catchments classified as DPA through an exceptional circumstances review in 2021-22 will have their classification extended for 12 months until 30 June 2023.
+  * A number of additional catchments in MM1 outer metropolitan areas identified by Government will also be classified as DPA.
+
+## How DPA classifications are determined
+
+The DPA classification system’s methodology takes into account Medicare
+billings by gender and age demographics, and the socio-economic status of
+patients living in an area, along with the remoteness of the area through the
+[Modified Monash Model](https://www.health.gov.au/health-topics/rural-health-
+workforce/classifications/mmm) (MMM) geographical classification system. DPA
+is assessed for more than 800 GP catchment areas.
+
+### Assessments
+
+All areas are assessed for GP services access using the DPA. This is
+calculated by:
+
+  * the level of Medicare billed GP services for the population (for the latest calendar year).
+  * DPA for each GP catchment is determined based on the composition of their communities, considering their demographics, including their age, gender and Socio-Economic Indexes for Areas (SEIFA), using the latest available data.
+  * if the actual billing level is lower than the relevant benchmark the area is given DPA status.
+
+The DPA system applies the following automatic rules to take into account the
+location of the catchment area:
+
+  * areas classified as MM 2 – 7 under the MMM are automatically classified DPA.
+  * MM 1 inner metropolitan areas are automatically classified non-DPA.
+  * the Northern Territory is automatically classified as DPA.
+
+Other areas are listed as DPA/not DPA. With these automatic rules applied, DPA
+applies to MM1 outer metropolitan areas for specific Australian Government
+programs.
+
+### Benchmarks
+
+Each GP catchment has two benchmarks – one for [International Medical
+Graduates](https://www.health.gov.au/initiatives-and-
+programs/doctorconnect/for-employers-of-international-medical-graduates)
+(IMGs) and another for [Bonded Medical
+Places](https://www.health.gov.au/internet/main/publishing.nsf/Content/work-
+st-bmp) (BMP) participants.
+
+The benchmarks are based on a:
+
+  * Modified Monash Model (MMM) 2 average of access to GP services for IMGs.
+  * national average of access to GP services for BMP.
+
+### GP catchments
+
+The DPA uses 827 non overlapping geographical GP catchment areas. These were
+developed to provide a more accurate picture of where patients access their
+health services. The creation of the GP catchments include:
+
+  * patient flows using MBS patient and provider data over a five-year period
+  * population demographics, e.g. population size and distribution
+  * GP workforce, e.g. location and number of GPs
+  * GP infrastructure, e.g. location and number of practices
+  * accessibility, e.g. catchment size, travel distance and road networks
+  * topography, e.g. mountain ranges, national parks, water bodies, islands
+  * recognition of other boundaries, e.g. state and territory borders, local government areas.
+
+### Data
+
+The DPA uses the latest available data. The DPA was most recently updated on
+21 July 2022 and uses:
+
+  * MBS calendar year 2021 patient billing for GP services
+  * population statistics from the ABS 2020-21 Estimated Residential Population (ERP).
+
+The ERP data is at Statistical Area (SA) 1 level by gender group and in 1-year
+age blocks. This information provided by the ABS is more granular than is
+publicly available.
+
+## Annual update of DPA (for GPs)
+
+The DPA is updated each year. The DPA classification of an area can change
+when there has been a significant shift in access to health care since the
+previous annual update. This might be due to changes in the workforce, or in
+the size or makeup of the population.
+
+Removal of DPA from an area signals that there has been a positive increase in
+GP services access for patients in that GP catchment.
+
+To provide practices and communities with greater transparency we publish, for
+each GP catchment the:
+
+  * DPA classification
+  * level of variance above and below the DPA benchmark.
+
+This will help you understand service access levels as they compare with
+benchmarks and other areas. The higher an area is above the benchmark, the
+greater the access to GP services for that population.
+
+## Changes in DPA
+
+View the assessment of [each GP catchment](/resources/publications/dpa-
+classifications-for-gps-2022 "DPA classifications for GPs 2022") which also
+shows the catchments that had a change in DPA classification as part of the
+latest annual update.
+
+If an area loses DPA, doctors who hold an existing exemption under section
+19AB of the [Health Insurance Act
+1973](https://www.legislation.gov.au/Latest/C2021C00231) can continue to
+practise at their location provided they continue to meet the conditions of
+their exemption.
+
+In addition, doctors already in employment negotiations with a practice prior
+to DPA changes will still be eligible for an exemption if they provide
+documentary evidence of this with their application.
+
+Practices unable to employ restricted medical practitioners can still employ
+Australian trained doctors or doctors not subject to s19AB.
+
+Read about [more about section 19AB](https://www.health.gov.au/health-
+topics/doctors-and-specialists/what-we-do/19ab).
+
+## How we use DPA
+
+There are two main programs that the DPA assessment is important for in
+2022-23. Medical practices in an area classified as DPA can access a broader
+recruitment pool of GP doctors.
+
+DPA status is used as part of the [section 19AB
+provisions](https://www.health.gov.au/health-topics/doctors-and-
+specialists/what-we-do/19ab) within the Health Insurance Act 1973 which
+targets International Medical Graduates and Foreign Graduates of Accredited
+Medical Schools (FGAMS) to rural areas by providing these doctors with access
+to Medicare in these areas only.
+
+The Bonded Medical Program (BMP) also uses the DPA to identify where program
+participants can work when returning their service obligations and access the
+Medicare Benefits Schedule. Practices located in a DPA location can employ
+these doctors.
+
+Note: there are also a range of Australian Government incentives for doctors
+seeking to work in regional and rural areas.
+
+![Incentives and support for GPs and general practices in MM
+locations](/sites/default/files/styles/h_thumbnail_max_width/public/images/collections/2022/02/incentives-
+and-support-for-gps-and-general-practices-in-mm-locations.jpg?itok=Oz3vifyK)
+
+###  [Incentives and support for GPs and general practices in MM locations
+](/resources/collections/incentives-and-support-for-gps-and-general-practices-
+in-mm-locations?language=en)
+
+This collection contains the Modified Monash (MM) categories MM 1 to MM 7 fact
+sheets.
+
+## Exceptional circumstances reviews
+
+You can request a review of a GP catchment’s DPA if you feel that there are
+exceptional circumstances, since the last DPA update, that have impacted on
+the level of GP services across the local area.
+
+Any request to review a DPA classification will consider the level of GP
+services experienced across the catchment. If approved, medical practices in
+the GP catchment area can access several workforce programs, until the next
+scheduled DPA review.
+
+### Who can request a review?
+
+Medical Practices can apply for a DPA exceptional circumstance review after
+consulting with their local Rural Workforce Agency. Once the application has
+been completed, the Rural Workforce Agency will submit the application to the
+Department on behalf of the practice.
+
+Note that MM 1 inner-metro locations – such as major Australian cities – are
+not eligible for a review. MM 2 to 7 areas are automatically DPA.
+
+Enter your address to check your area’s geographical classification on the
+[Health Workforce Locator](https://www.health.gov.au/resources/apps-and-
+tools/health-workforce-locator) map.
+
+If you would like to submit a request for an exceptional circumstances review,
+contact the [Rural Workforce Agency](https://www.health.gov.au/contacts/rural-
+health-workforce-australia-rhwa-contact) (RWA) in your state or territory.
+
+### How we consider review requests
+
+Once an application is submitted to the Department of Health and Ageing by the
+Rural Workforce Agency, an assessment is undertaken. Further information may
+also be sought from the Rural Workforce Agency or Primary Health Network as to
+the workforce situation in the catchment.
+
+The [Distribution Working Group](https://www.health.gov.au/committees-and-
+groups/distribution-working-group) (DWG) analyses the application, agency
+information and a range of GP related data related to health workforce
+distribution and provides independent advice to the Australian Government. The
+Minister with responsibility for rural health decides the outcome of the
+assessment.
+
+### Exceptional circumstances framework
+
+The consideration of applications for a review of the DPA classification of an
+area will take into account the following principles.
+
+#### Changes to health services, workforce, or health syste
+
+When a recent unexpected large change to the health workforce has resulted in
+a substantial decrease in health services to the community across the GP
+catchment.
+
+#### Patient demographics or changes
+
+When areas have experienced a significant recent shift in patient demographics
+that has resulted in a demand for higher levels of GP services. The assessment
+also considers changes in an area’s:
+
+  * socio-economic status
+  * proportion of senior people
+  * Aboriginal and Torres Strait Islander population.
+
+#### Absence of services
+
+This applies when areas have experienced recent and demonstrated difficulties
+in recruiting or retaining doctors.
+
+### Outcomes of DPA exceptional circumstances assessments
+
+The outcomes, including a summary of the assessment, to ensure transparency
+are published online.
+
+We update the [Health Workforce
+Locator](https://www.health.gov.au/resources/apps-and-tools/health-workforce-
+locator) map frequently to incorporate these changes.
+
+[See DPA exceptional circumstances review outcome
+summaries](https://www.health.gov.au/committees-and-groups/distribution-
+working-group#exceptional-circumstances-reviews-and-outcomes)
+
+## 2021 Review of the DPA Classification System
+
+In late 2021, a wide-ranging and thorough review of the DPA mechanism was
+completed. The review included evaluating the DPA’s effectiveness in
+identifying areas of Australia experiencing GP service shortages relative to
+the needs of the community.
+
+The report made eight recommendations to improve the accuracy and efficiency
+of the DPA mechanism to better achieve the goal of equitable access to GP
+services for all Australians, no matter where they live.
+
+On 30 March 2022, the Government published the Review of the Distribution
+Priority Area (DPA) Classification report and the Government response to the
+review. The DPA was introduced in 2019 to replace the previously used
+Districts of Workforce Shortage for general practice system.
+
+A copy of the report and the Government’s response to the review is available
+[online](https://www.health.gov.au/resources/publications/review-of-the-dpa-
+classification-system).
+
+## How DPA is different to other classifications
+
+DPA shows the GP services of a GP catchment compared to a benchmark.
+
+[District of Workforce Shortage](https://www.health.gov.au/health-
+topics/rural-health-workforce/classifications/dws) (DWS) shows the number of
+non-GP specialists compared to the population of an area.
+
+The [Modified Monash Model](https://www.health.gov.au/health-topics/rural-
+health-workforce/classifications/mmm) shows the remoteness of a location.
+
+## How to find locations classified DPA
+
+To see areas classified DPA, search the [Health Workforce
+Locator](https://www.health.gov.au/resources/apps-and-tools/health-workforce-
+locator).
+
+Last updated:
+
+8 March 2023
+
+Tags:
+
+  * [Rural health workforce](/topics/rural-health-workforce)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Rural health workforce](/topics/rural-health-workforce)
+
+  * [About Australia's rural health workforce](/topics/rural-health-workforce/about)
+  * [How we support](/topics/rural-health-workforce/how-we-support)
+  * [Stronger Rural Health Strategy](/topics/rural-health-workforce/stronger-rural-health-strategy)
+  * [Health workforce classifications](/topics/rural-health-workforce/classifications)
+    * [Distribution Priority Areas (DPAs)](/topics/rural-health-workforce/classifications/dpa)
+    * [Request a review of a DPA classification](/topics/rural-health-workforce/classifications/dpa/request-review)
+    * [District of Workforce Shortage](/topics/rural-health-workforce/classifications/dws)
+    * [Modified Monash Model (MMM)](/topics/rural-health-workforce/classifications/mmm)
+    * [Area of Need (AoN)](/topics/rural-health-workforce/classifications/aon)
+    * [ASGS Remoteness Areas](/topics/rural-health-workforce/classifications/asgs-ra)
+    * [ASGC Remoteness Area](/topics/rural-health-workforce/classifications/asgc-ra)
+    * [Rural, Remote and Metropolitan Areas](/topics/rural-health-workforce/classifications/rrma)
+  * [Initiatives and programs](/topics/rural-health-workforce/programs)
+  * [News](/topics/rural-health-workforce/rural-health-workforce-news)
+  * [Resources](/topics/rural-health-workforce/resources)
+  * [Contacts](/topics/rural-health-workforce/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

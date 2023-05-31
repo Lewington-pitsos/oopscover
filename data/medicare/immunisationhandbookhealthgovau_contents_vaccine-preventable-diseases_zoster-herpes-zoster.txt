@@ -1,0 +1,1919 @@
+Skip to main content Skip to main navigation Skip to main content
+
+[ ![Back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH2x.png)
+![Going back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH-
+standard_0.png) ](/ "Home")
+
+### Sub menu
+
+  * [About the Handbook](/contents/about-the-handbook "About the handbook")
+  * [Contact us](/contact-us "Contact us")
+
+Search  
+
+Menu  Search
+
+Close
+
+  * [Home](/home)
+  * [Contents](/contents)
+  * [Diseases](/contents/vaccine-preventable-diseases)
+  * [Vaccines](/vaccines)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Resources](/resources)
+
+## You are here
+
+  1. [Home](/)
+  2. [Table of contents](/contents)
+  3. [Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+
+[Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+
+# Zoster (herpes zoster)
+
+Information about herpes zoster (shingles) disease, vaccines and
+recommendations for vaccination from the Australian Immunisation Handbook.
+
+  * [ Listen ](//app-oc.readspeaker.com/cgi-bin/rsent?customerid=5802&lang=en_au&voice=Jack&readclass=main-content&url=https%3A%2F%2Fimmunisationhandbook.health.gov.au%2Fcontents%2Fvaccine-preventable-diseases%2Fzoster-herpes-zoster "Listen to this page using ReadSpeaker webReader")
+
+  * Print 
+  * Share 
+
+    * [Twitter](https://twitter.com/share?text=Zoster \(herpes zoster\)&url=https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/zoster-herpes-zoster "Share to Twitter")
+    * [Facebook](https://facebook.com/sharer.php?u=https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/zoster-herpes-zoster "Share to Facebook")
+    * [Email](mailto:?subject= The Australian Immunisation Handbook | Zoster \(herpes zoster\)&body=https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/zoster-herpes-zoster "Share via email")
+
+Recently added
+
+This page was added on **06 June 2018**.
+
+Updates made
+
+This page was updated on **07 December 2022**. View history of updates
+
+Zostavax is funded under the National Immunisation Program (NIP) at 70 years
+of age. Shingrix is not currently funded under the NIP, or by states and
+territories. A rebate is available for Shingrix from some private health
+funds.
+
+On this page:
+
+On this page
+
+## Overview
+
+### What
+
+Herpes zoster, commonly known as shingles, is a reactivation of the varicella-
+zoster [virus](/technical-terms#virus) (VZV) in a person who has previously
+had varicella (chickenpox). Herpes zoster commonly presents as a painful,
+self-limiting vesicular rash in a dermatomal distribution.
+
+### Who
+
+Zoster vaccines are recommended for:
+
+  * people aged ≥50 years who are immunocompetent
+  * people aged ≥18 years who are immunocompromised
+  * people aged ≥50 years who are household contacts of a person who is immunocompromised
+
+### How
+
+For Zostavax, a single dose is recommended. For Shingrix, 2 doses are
+recommended.
+
+There is currently no booster recommendation for either zoster vaccine.
+
+### Why
+
+The lifetime risk of reactivation of VZV is about 50%. The risk and severity
+of outcomes increases with age, affecting half of people who live to 80 years
+of age. The risk is higher in those who are immunocompromised.
+
+See [Infographic. Vaccination for healthy ageing](/node/483).
+
+## Recommendations
+
+### People aged ≥50 years who are immunocompetent
+
+People aged ≥50 years who are immunocompetent are recommended to receive a
+zoster vaccine
+
+[All people aged ≥50 years who are immunocompetent should be offered zoster
+vaccine](https://www.ncirs.org.au/our-work/australian-immunisation-
+handbook/zoster-grade-assessments). The optimal timing of zoster vaccination
+from 50 years of age should be determined on a case-by-case basis. See
+Considerations for timing of zoster vaccination.
+
+People who are immunocompetent are recommended to receive a 2-dose schedule of
+Shingrix, 2–6 months apart, for the prevention of herpes zoster and associated
+complications. See Considerations for timing of zoster vaccination.
+
+Both Shingrix and Zostavax have good efficacy in preventing herpes zoster.
+They have not been directly compared in clinical trials. However, studies of
+each vaccine against placebo suggest that Shingrix may be substantially more
+efficacious,1 particularly in the elderly, and may offer longer-lasting
+protection against herpes zoster.2-7
+
+A single dose of Zostavax is an effective alternative to Shingrix in people
+who are immunocompetent. The individual’s immune status should be carefully
+assessed before administering Zostavax, using the [Live zoster vaccine
+(Zostavax) screening for contraindications tool](/resources/tables/table-live-
+zoster-vaccine-zostavax-screening-for-contraindications "Table. Live zoster
+vaccine \(Zostavax\) screening for contraindications"), to confirm that they
+are not immunocompromised. See [Contraindications and
+precautions](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#contraindications-and-precautions).
+If the person’s immune status is uncertain, **do not** administer Zostavax,
+and consult the person’s specialist or an immunisation specialist before
+proceeding.
+
+See [Vaccine
+information](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#vaccine-information).
+
+_Considerations for timing of zoster vaccination_
+
+The optimal time to receive zoster vaccination depends on individual
+circumstances.
+
+## Age-related risk of herpes zoster and its complications
+
+Herpes zoster can occur at any age, but the risk increases with age. The risk
+of herpes zoster in the general population increases from an estimated annual
+rate of 6 per 1000 in people aged 50–59 years to 15 per 1000 in people aged
+70–79 years.8 The likelihood of complications such as post-herpetic neuralgia
+also increases with age.8
+
+## Duration of protection
+
+Shingrix has demonstrated high vaccine efficacy for at least 7 years after
+vaccination in people without apparent immunocompromise,9 and immunogenicity
+data suggest that protection may persist for at least 10 years.2-4
+Effectiveness of Zostavax appears to wane more quickly, decreasing
+significantly by 5–10 years after vaccination.5-7
+
+A person vaccinated at a younger age (such as in their 50s or 60s) could
+possibly have reduced protection from vaccination as they age, when the risk
+of zoster is higher. This should be balanced with consideration of reduced
+effectiveness for some zoster vaccines when administered at older age and the
+risk of zoster while unvaccinated.
+
+There is no current recommendation for boosters for either vaccine.
+
+## Individual’s immune status
+
+People who are immunocompromised are at significantly higher risk of herpes
+zoster and severe complications than those who are immunocompetent.10-12
+However, the duration of protection provided by zoster vaccines in people who
+are immunocompromised is less certain. If there is uncertainty about the
+optimal timing of vaccination in people who are immunocompromised, this should
+be discussed with the patient’s specialist. See [Vaccination for people who
+are
+immunocompromised](https://immunisationhandbook.health.gov.au/contents/vaccination-
+for-special-risk-groups/vaccination-for-people-who-are-immunocompromised) and
+See [Contraindications and
+precautions](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#contraindications-and-precautions)
+
+## Individual’s personal preferences
+
+People’s desire to protect themselves from herpes zoster and related
+complications may vary, and this will influence decision-making on when they
+should receive zoster vaccination.
+
+See [Vaccine
+information](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#vaccine-information).
+
+[View recommendation details](/recommendations/people-aged-50-years-who-are-
+immunocompetent-are-recommended-to-receive-a-zoster-vaccine)
+
+### People aged ≥18 years who are immunocompromised or shortly expected to be
+immunocompromised
+
+People aged ≥18 years who are immunocompromised or shortly expected to be
+immunocompromised are recommended to receive a zoster vaccine
+
+[People aged ≥18 years who are immunocompromised or shortly expected to be
+immunocompromised are recommended to receive a 2-dose schedule of
+Shingrix](https://www.ncirs.org.au/our-work/australian-immunisation-
+handbook/zoster-grade-assessments), 1–2 months apart, for the prevention of
+herpes zoster and associated complications. This includes people who are
+currently or soon to be immunocompromised as a result of a primary or acquired
+medical condition, or medical treatment (including treatment that has recently
+ceased). See Considerations for timing of zoster vaccination.
+
+Compared with immunocompetent people, people who are immunocompromised have
+higher rates of herpes zoster and of complications such as post-herpetic
+neuralgia (PHN).13,14 Herpes zoster can occur at a younger age in people who
+are immunocompromised, and there is also a higher risk of recurrence.15-18
+
+In people who are immunocompromised or shortly expected to be
+immunocompromised Zostavax is **not recommended** , particularly in those with
+severe immunocompromise, in whom it is contraindicated. However, when Shingrix
+is not accessible, Zostavax may be used in people aged over 50 with **mild**
+immunocompromise where a patient is fully informed, has been instructed about
+monitoring for significant adverse events and what to do if they occur, and
+the anticipated benefit outweighs risk. Before use of Zostavax in people with
+mild immunocompromise, the degree of immunocompromise should be carefully
+assessed [using the Live zoster vaccine (Zostavax) screening for
+contraindications
+tool](//immunisationhandbook.health.gov.au/resources/tables/table-live-
+shingles-vaccine-zostavax-screening-for-contraindications). See
+[Contraindications and
+precautions](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#contraindications-and-precautions).
+This is because of the risk of disseminated varicella disease from the Oka
+strain vaccine virus in Zostavax, which can lead to death.19-22 The risk
+increases with the level of immunosuppression.
+
+In people who are immunocompromised or shortly expected to be
+immunocompromised aged 18–49 years, Shingrix is the only vaccine available to
+prevent herpes zoster.
+
+Shingrix provides good protection against herpes zoster and associated
+complications in some highly immunocompromised people aged ≥18 years for up to
+2 years after vaccination,23,24 including people with a history of
+haematopoietic stem cell transplantation or haematologic malignancies.
+
+See [Vaccine
+information](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#vaccine-information).
+
+_Considerations for timing of zoster vaccination_
+
+The optimal time to receive zoster vaccination depends on individual
+circumstances.
+
+## Age-related risk of herpes zoster and its complications
+
+Herpes zoster can occur at any age, but the risk increases with age. The risk
+of herpes zoster in the general population increases from an estimated annual
+rate of 6 per 1000 in people aged 50–59 years to 15 per 1000 in people aged
+70–79 years.8 The likelihood of complications such as PHN also increases with
+age.
+
+## Duration of protection
+
+Shingrix has demonstrated high vaccine efficacy for at least 7 years after
+vaccination in people without apparent immunocompromise,9 and immunogenicity
+data suggest that protection may persist for at least 10 years.2-4
+Effectiveness of Zostavax appears to wane more quickly, decreasing
+significantly by 5–10 years after vaccination.5-7
+
+A person vaccinated at a younger age (such as in their 50s or 60s) could
+possibly have reduced protection from vaccination as they age, when the risk
+of zoster is higher. This should be balanced with consideration of reduced
+effectiveness for some zoster vaccines when administered at older age and the
+risk of zoster while unvaccinated.
+
+There is no current recommendation for boosters for either vaccine.
+
+## Individual’s immune status
+
+People who are immunocompromised are at significantly higher risk of herpes
+zoster and severe complications than those who are immunocompetent.10-12
+However, the duration of protection provided by zoster vaccines in people who
+are immunocompromised is less certain. If there is uncertainty about the
+optimal timing of vaccination in people who are immunocompromised, this should
+be discussed with the patient’s specialist. See [Vaccination for people who
+are
+immunocompromised](//immunisationhandbook.health.gov.au/contents/vaccination-
+for-special-risk-groups/vaccination-for-people-who-are-immunocompromised ) and
+See [Contraindications and
+precautions](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#contraindications-and-precautions).
+
+## Individual’s personal preferences
+
+People’s desire to protect themselves from herpes zoster and related
+complications may vary, and this will influence decision-making on when they
+should receive zoster vaccination.
+
+See [Vaccine
+information.](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#contraindications-and-precautions)
+
+[View recommendation details](/recommendations/people-aged-18-years-who-are-
+immunocompromised-or-shortly-expected-to-be-immunocompromised-are-recommended-
+to-receive-a-zoster-vaccine)
+
+### Receiving Shingrix if previously vaccinated with Zostavax
+
+People who have previously received Zostavax can receive Shingrix
+
+People who have previously received Zostavax can receive Shingrix to increase
+their protection against herpes zoster, since protection using Zostavax wanes
+rapidly.
+
+An interval of at least 12 months is recommended between receiving Zostavax
+and a subsequent dose of Shingrix. The person will still need to complete the
+2-dose schedule of Shingrix.
+
+No specific data are available to inform the optimal interval between receipt
+of Zostavax and Shingrix. As there is currently no recommendation for booster
+doses for either vaccine, consideration should be given to the suitable timing
+of vaccination. See Considerations for timing of zoster vaccination.
+
+[View recommendation details](/recommendations/people-who-have-previously-
+received-zostavax-can-receive-shingrix)
+
+### Receiving Zostavax if previously vaccinated with Shingrix
+
+People who have previously received Shingrix need to be assessed on a case-by-
+case basis to receive Zostavax
+
+Zostavax® is not recommended for people who have already received a zoster
+vaccine. Vaccination of a person with Zostavax if they have previously
+received Shingrix should be assessed on a case-by case basis including: the
+reason Zostavax is required e.g. medical contraindication to previous dose of
+Shingrix, and potential benefits and risks consider the person’s age and level
+of immunocompromise. There is currently no evidence on the use of Zostavax
+following Shingrix.
+
+[View recommendation details](/recommendations/people-who-have-previously-
+received-shingrix-need-to-be-assessed-on-a-case-by-case-basis-to-receive-
+zostavax)
+
+### Household contacts of people who are immunocompromised
+
+People aged ≥50 years who are household contacts of a person who is
+immunocompromised are recommended to receive a zoster vaccine
+
+People who are immunocompromised should receive Shingrix to reduce their risk
+of zoster. To further increase protection, people aged ≥50 years who are
+household contacts of a person who is, or is expected to become,
+immunocompromised are recommended to receive a zoster vaccine. This indirectly
+protects the immunocompromised household member from exposure to varicella-
+zoster virus. Shingrix is recommended but Zostavax is also acceptable for use.
+Any person receiving Zostavax should be assessed using the [Live zoster
+vaccine (Zostavax) screening for contraindications
+tool.](https://immunisationhandbook.health.gov.au/resources/tables/table-live-
+shingles-vaccine-zostavax-screening-for-contraindications)
+
+Although Zostavax is a live virus vaccine, the rate of varicella-like rashes
+from Zostavax is very low. It is unlikely that vaccine-associated virus would
+be transmitted from a recently vaccinated person to a susceptible
+immunocompromised contact.25
+
+If a vaccinated person develops a varicella- or zoster-like rash, they should:
+
+  * cover the rash
+  * avoid contact with people who are immunocompromised until the rash clears
+
+[View recommendation details](/recommendations/people-aged-50-years-who-are-
+household-contacts-of-a-person-who-is-immunocompromised-are-recommended-to-
+receive-a-zoster-vaccine)
+
+### People who have had a previous episode of herpes zoster
+
+People who have had a previous episode of herpes zoster can receive zoster
+vaccine
+
+People who have had a previous episode of herpes zoster can receive zoster
+vaccine at the recommended age.
+
+For up to 8 years after an initial episode of zoster, the risk of a repeat
+episode in immunocompetent people is 6–8%.17,26,27 Note that a history of
+previous zoster may be inaccurate.
+
+It is suggested that immunocompetent people should wait at least 12 months
+after an episode of herpes zoster before they receive a zoster vaccine. An
+episode of herpes zoster boosts cellular and humoral immunity above baseline
+levels in most people. Studies suggest that this boost persists for at least 1
+year and up to 3 years,28 and a lower recurrence rate is observed in the first
+12 months11 after the initial episode. Studies have not established an optimal
+time for vaccination after zoster, but no safety or immunogenicity concerns
+have been identified.29,30
+
+Immunocompromised people are at higher risk of recurrence of zoster10,31-33
+and can receive Shingrix from 3 months after the acute illness. The length of
+this interval should be determined on an individual basis and should consider:
+
+  * the uncertainty about duration of protection after vaccination in people who are immunocompromised
+  * the absence of recommendations for booster doses later in life
+
+[View recommendation details](/recommendations/people-who-have-had-a-previous-
+episode-of-herpes-zoster-can-receive-zoster-vaccine)
+
+### People previously vaccinated with varicella vaccine
+
+People who inadvertently received a varicella vaccine when a zoster vaccine
+was indicated are recommended to receive a subsequent zoster vaccine
+
+If a person received varicella vaccine inadvertently when a zoster vaccine was
+indicated, there are no specific safety concerns unless the person was
+immunocompromised, but the dose should not be considered valid.
+
+A dose of zoster vaccine should be given at the same visit. If this is not
+possible, Shingrix can be given at any time after the varicella vaccine, or
+Zostavax can be given at least 4 weeks after the varicella vaccine. If the
+individual is administered Shingrix, they will still need to complete the
+2-dose schedule.
+
+[View recommendation details](/recommendations/people-who-inadvertently-
+received-a-varicella-vaccine-when-a-zoster-vaccine-was-indicated-are-
+recommended-to-receive-a-subsequent-zoster-vaccine)
+
+People who have received varicella vaccine when it was indicated and have no
+history of prior or subsequent varicella infection are not recommended to
+receive a zoster vaccine
+
+People who have received varicella vaccine when it was indicated are not
+recommended to receive a zoster vaccine. Studies of the safety and
+immunogenicity of zoster vaccines in this setting are limited, and data are
+currently insufficient to suggest a benefit from vaccination. Preliminary
+information suggests that the incidence of herpes zoster in people who have
+received varicella vaccine is lower than in people infected with wild-type
+varicella.34-36
+
+People who are uncertain if they have received a previous varicella vaccine,
+or have a history of varicella infection before or after varicella vaccination
+can be considered for zoster vaccination.
+
+[View recommendation details](/recommendations/people-who-have-received-
+varicella-vaccine-when-it-was-indicated-and-have-no-history-of-prior-or-
+subsequent-varicella-infection-are-not-recommended-to-receive-a-zoster-
+vaccine)
+
+### Serological testing before and after zoster vaccination
+
+Serological testing is recommended before administration of Zostavax in people
+who are immunocompromised or shortly expected to be immunocompromised
+
+If a provider chooses to administer Zostavax to a person who is
+immunocompromised or shortly expected to be immunocompromised, where there are
+no other contraindications after assessment with the [Live zoster vaccine
+(Zostavax) screening for contraindications tool](/resources/tables/table-live-
+zoster-vaccine-zostavax-screening-for-contraindications "Table. Live zoster
+vaccine \(Zostavax\) screening for contraindications"), serological testing
+should be performed before vaccination to confirm that the person is
+varicella-zoster virus (VZV) IgG-positive.
+
+People who are immunocompromised or shortly expected to be immunocompromised
+and are seronegative for VZV IgG **should not** receive Zostavax. This is
+because they may have very severe outcomes after receiving Zostavax.41 See
+also [Contraindications and
+precautions.](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#contraindications-and-precautions)
+If there is uncertainty, consult with the patient’s specialist or immunologist
+before administering Zostavax. A cautious approach, with detailed individual
+clinical assessment, is required before administering Zostavax.
+
+See recommendations for adolescents and adults in the [Varicella
+chapter](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/varicella-chickenpox) for more information about
+vaccination for people who are seronegative for VZV IgG.
+
+Serological testing is not required before administration of Shingrix in
+people who are immunocompromised or shortly expected to be immunocompromised.
+
+[View recommendation details](/recommendations/serological-testing-is-
+recommended-before-administration-of-zostavax-in-people-who-are-
+immunocompromised-or-shortly-expected-to-be-immunocompromised)
+
+Serological testing is not recommended before zoster vaccination in people who
+are immunocompetent
+
+It is not necessary to have serological evidence of immunity to varicella-
+zoster virus (VZV) or a history of previous varicella infection before
+administering zoster vaccine in immunocompetent people. More than 97% of
+people in Australia are seropositive to VZV by 30 years of age,37 even if they
+cannot recall having varicella at a younger age.
+
+Zoster vaccine effectively boosts humoral and cellular immune responses.
+However, it is not known how this correlates with protection against the
+virus. In some small studies, high-dose VZV-containing vaccine (comparable to
+Zostavax) was given to healthy VZV-seronegative people and previously infected
+people. The limited data suggest that Zostavax was well tolerated and
+immunogenic in seronegative people.38,39 Large clinical trials administering
+Shingrix to immunocompetent people did not require confirmation of VZV
+seropositivity as part of their inclusion criteria, and no safety or
+immunogenicity concerns were identified.2,3,40
+
+A person’s immune status should be carefully assessed before administration of
+Zostavax using the [Live zoster vaccine (Zostavax) screening for
+contraindications tool](/resources/tables/table-live-zoster-vaccine-zostavax-
+screening-for-contraindications "Table. Live zoster vaccine \(Zostavax\)
+screening for contraindications").
+
+[View recommendation details](/recommendations/serological-testing-before-
+zoster-vaccination-is-recommended-for-some-people)
+
+Serological testing after Zostavax is not recommended
+
+Laboratory testing to check for an immune response after Zostavax is not
+recommended.
+
+Zostavax boosts both humoral and cellular immune responses. It is not
+necessary to confirm an immune response because it does not predict the level
+of protection against zoster.
+
+In addition, routinely available serological assays are not designed to detect
+antibody levels after zoster vaccination, which may be lower than antibody
+levels after natural infection.
+
+[View recommendation details](/recommendations/serological-testing-after-
+zoster-vaccination-is-not-recommended)
+
+## Vaccines, dosage and administration
+
+### Zoster vaccines available in Australia
+
+There are 2 vaccines available in Australia for the prevention of herpes
+zoster and associated complications — Zostavax and Shingrix.
+
+The Therapeutic Goods Administration website provides [product information for
+each
+vaccine](https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=varicella&r=/).
+
+See also [Vaccine
+information](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#vaccine-information) and [Variations
+from product
+information](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#variations-from-product-information)
+for more details.
+
+### Zoster vaccines
+
+Shingrix
+
+Sponsor:
+
+GlaxoSmithKline Australia
+
+Administration route:
+
+Intramuscular injection
+
+Registered for use in:
+
+  * adults aged ≥50 years
+  * adults aged ≥18 years who are at increased risk of herpes zoster 
+
+Recombinant Varicella Zoster Virus glycoprotein E antigen (ASO1B adjuvanted
+vaccine)
+
+Powder and suspension
+
+Each 0.5 mL reconstituted dose contains:
+
+  * 50 micrograms of gE antigen
+  * Sucrose
+  * Polysorbate 80
+  * Monobasic sodium phosphate dihydrate
+  * Dibasic potassium phosphate
+
+These are adjuvanted with ASO1B Adjuvant System (Suspension). The adjuvant
+includes:
+
+  * plant extract Quillaja saponaria saponin (QS-21) (50 micrograms) 
+  * 3-O-desacyl-4’-monophosphoryl lipid A (MPL) from Salmonella minnesota (50 micrograms)
+  * Dioleoylphosphatidylcholine 
+  * Cholesterol
+  * Sodium chloride 
+  * Dibasic sodium phosphate 
+  * Monobasic potassium phosphate
+
+For Product Information and Consumer Medicine Information about Shingrix visit
+the [Therapeutic Goods
+Administration](https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=shingrix&r=/)
+website.
+
+[View vaccine details](/vaccines/shingrix)
+
+Zostavax
+
+Sponsor:
+
+Merck Sharp & Dohme (Australia)
+
+Administration route:
+
+Subcutaneous injection
+
+Registered for use in people aged ≥50 years.
+
+Live herpes zoster vaccine
+
+Lyophilised powder in a monodose vial with separate diluent.
+
+Each 0.65 mL reconstituted dose contains:
+
+  * ≥19,400 plaque-forming units of live attenuated varicella-zoster virus (Oka/Merck strain)
+  * 41.05 mg sucrose
+  * 20.53 mg hydrolysed porcine gelatin
+  * 8.55 mg urea
+  * 0.82 mg monosodium glutamate
+  * residual components of MRC-5 cells
+
+Also contains traces of:
+
+  * neomycin
+  * bovine serum albumin
+
+For Product Information and Consumer Medicine Information about Zostavax visit
+the [Therapeutic Goods Administration
+website](https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm&t=&q=Zostavax).
+
+[View vaccine details](/vaccines/zostavax)
+
+### Dose and route
+
+The dose of Zostavax is 0.65 mL given by [subcutaneous injection](/technical-
+terms#subcutaneous-injection).
+
+Shingrix consists of 2 doses of 0.5 mL given 2–6 months apart in
+immunocompetent people or 1–2 months apart in people who are immunocompromised
+or shortly expected to be immunocompromised, given by [intramuscular
+injection](/technical-terms#intramuscular-injection), preferably in the
+deltoid muscle.
+
+### Co-administration with other vaccines
+
+#### Zostavax
+
+People can receive Zostavax with other inactivated vaccines (such as tetanus-
+containing vaccines, influenza vaccine42 and pneumococcal [polysaccharide
+vaccine](/technical-terms#polysaccharide-vaccine)43-45), either:
+
+  * at the same time, or
+  * at any time after
+
+If a person needs both Zostavax and another live parenteral vaccine (such as
+measles-mumps-rubella or yellow fever), they can receive the vaccines either:
+
+  * on the same day, or
+  * at least 4 weeks apart
+
+#### Shingrix
+
+People can receive Shingrix with other inactivated vaccines (such as tetanus-
+containing vaccines, pneumococcal vaccines, influenza vaccines and COVID-19
+vaccines), either:46-48
+
+  * at the same time, or
+  * at any time after
+
+There is the potential for an increase in mild to moderate adverse events when
+more than one vaccine is given at the same time. Separation of Shingrix from
+other vaccines is preferable, where possible, particularly for vaccines for
+which co-administration data are currently limited — for example, adjuvanted
+influenza vaccine and COVID-19 vaccines.
+
+## Contraindications and precautions
+
+### Contraindications
+
+#### Anaphylaxis to vaccine components
+
+Zostavax is contraindicated in people who have had:
+
+  * [anaphylaxis](/technical-terms#anaphylaxis) after a previous dose of any live varicella-zoster [virus](/technical-terms#virus) (VZV)–containing vaccine (Zostavax or varicella vaccine)
+  * [anaphylaxis](/technical-terms#anaphylaxis) after any component of a live VZV-containing vaccine
+
+Shingrix is contraindicated in people who have had:
+
+  * [anaphylaxis](/technical-terms#anaphylaxis) after a previous dose of Shingrix
+  * [anaphylaxis](/technical-terms#anaphylaxis) after any component of Shingrix
+
+#### People who are immunocompromised or shortly expected to be
+immunocompromised
+
+Zostavax is not recommended in people who are immunocompromised or shortly
+expected to be immunocompromised. It is contraindicated in people who are
+considered severely immunocompromised because it contains live attenuated VZV.
+Shingrix is the recommended vaccine for people aged ≥18 years who are
+immunocompromised or shortly expected to be immunocompromised because it is
+safe and efficacious in this population. See [People aged ≥18 years who are
+immunocompromised or shortly expected to be
+immunocompromised](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#people-aged-18-years-who-are-
+immunocompromised-or-shortly-expected-to-be-immunocompromised).
+
+Severe immunocompromise may be from either:
+
+  * a primary or acquired medical condition, or
+  * medical treatment
+
+People who are immunocompromised include those who:
+
+  * are receiving high-dose systemic [immunosuppressive therapy](/technical-terms#immunosuppressive-therapy), such as chemotherapy, radiation therapy or oral corticosteroids (≥20 mg per day of prednisolone equivalent dose)
+  * are receiving biologic or targeted synthetic disease-modifying anti-rheumatic drugs (bDMARDs or tsDMARDs)
+  * have malignant conditions of the reticuloendothelial system (such as lymphoma, leukaemia or Hodgkin disease, even if they are not receiving active treatment)
+  * have AIDS or symptomatic HIV [infection](/technical-terms#infection)
+  * have similar immunocompromising conditions due to a disease or treatment
+
+Refer to [Table. Recommendations for use of Zostavax in people aged ≥50 years
+on immunosuppressive therapy](/resources/tables/table-recommendations-for-use-
+of-zostavax-in-people-aged-50-years-on-immunosuppressive-therapy "Table.
+Recommendations for use of Zostavax in people aged ≥50 years on
+immunosuppressive therapy ") and see [Live zoster vaccine (Zostavax) screening
+for contraindications tool](/resources/tables/table-live-zoster-vaccine-
+zostavax-screening-for-contraindications "Table. Live zoster vaccine
+\(Zostavax\) screening for contraindications"). If there is uncertainty about
+the person’s level of immunocompromise and whether vaccination is safe, **do
+not** administer Zostavax.
+
+People aged ≥50 years who have stopped treatment with high-dose systemic
+[immunosuppressive therapy](/technical-terms#immunosuppressive-therapy) may
+receive Zostavax after an appropriate time. See [Table. Recommendations for
+use of Zostavax in people aged ≥50 years on immunosuppressive
+therapy](/resources/tables/table-recommendations-for-use-of-zostavax-in-
+people-aged-50-years-on-immunosuppressive-therapy "Table. Recommendations for
+use of Zostavax in people aged ≥50 years on immunosuppressive therapy ") and
+[Vaccination for people who are immunocompromised](/contents/vaccination-for-
+special-risk-groups/vaccination-for-people-who-are-immunocompromised
+"Vaccination for people who are immunocompromised"). See [Live zoster vaccine
+(Zostavax) screening for contraindications tool](/resources/tables/table-live-
+zoster-vaccine-zostavax-screening-for-contraindications "Table. Live zoster
+vaccine \(Zostavax\) screening for contraindications").
+
+In some cases, the level of immunocompromise that absolutely contraindicates
+live attenuated vaccines can last for 1 year or longer after the previous dose
+of therapy. This can occur after therapy with biologics such as rituximab,
+which can have long-term effects on the immune system. Blood tests may be
+needed before considering vaccination with Zostavax to ensure that the immune
+system has recovered and biologic drug levels are low. If there is uncertainty
+about the level of immunocompromise in any person who has received a biologic
+therapy, **do not** give Zostavax or any other live attenuated vaccine.
+Consult with a medical specialist who can help determine the appropriate
+interval since last treatment and, in some cases, can assess the person’s
+immunological recovery.
+
+Table. Recommendations for use of Zostavax in people aged ≥50 years on
+immunosuppressive therapy
+
+Immunosuppressive therapy | Safe dose to vaccinate | Dose at which Zostavax is
+contraindicated  | Acceptable timing of Zostavax if dose is contraindicated  
+---|---|---|---  
+Corticosteroid monotherapy | ≤20 mg per day of prednisolone or equivalenta |
+≥20 mg/day of prednisolone or equivalent for less than 14 days |
+
+  * At least 1 month before treatment starts, or
+  * Any time after treatment stops
+
+  
+≥20 mg per day of prednisolone or equivalent for 14 days or longer |
+
+  * At least 1 month before treatment starts, or
+  * At least 1 month after treatment stops
+
+  
+csDMARD — azathioprine | ≤3.0 mg per kg per day (if used as a single agent,
+with or without low-dose corticosteroids) | >3.0 mg per kg per day |
+
+  * At least 1 month before treatment starts, or
+  * At least 3 months after treatment stops
+
+  
+csDMARD — 6-mercaptopurine | ≤1.5 mg per kg per day (if used as a single
+agent, with or without low-dose corticosteroids) | >1.5 mg per kg per day |
+
+  * At least 1 month before treatment starts, or
+  * At least 3 months after treatment stops
+
+  
+csDMARD — methotrexate | ≤0.4 mg per kg per week (if used as a single agent,
+with or without low-dose corticosteroids) | >0.4 mg per kg per week |
+
+  * At least 1 month before treatment starts, or
+  * At least 3 months after treatment stops
+
+  
+csDMARDs — sulfasalazine or hydroxychloroquine | Any dose | None | Not
+applicable  
+csDMARD — mycophenolate | None | All regimens |
+
+  * At least 1 month before treatment starts, or
+  * At least 12 months after treatment stops
+
+  
+Other csDMARDs | None | All regimens |
+
+  * At least 1 month before treatment starts, or
+  * At least 3 months after treatment stops
+
+  
+T-cell inhibitors or activators (eg tacrolimus, cyclosporine; except
+denosumab, for which there is no evidence of significant
+[immunosuppression](/technical-terms#immunosuppression)) | None | All regimens
+|
+
+  * At least 1 month before treatment starts, or
+  * At least 3 months after treatment stops
+
+  
+Other unspecified immunosuppressants (eg chemotherapy, radiotherapy) | None |
+All regimens |
+
+  * At least 1 month before treatment starts, or
+  * At least 3 months after treatment stops, and at least 6 months for people who have received chemotherapy or radiotherapy (based on an individual patient risk assessment)
+
+  
+Anti-TNF agents (eg etanercept, infliximab, adalimumab) | None | All regimens
+|
+
+  * At least 1 month before treatment starts, or
+  * At least 12 months after treatment stops
+
+  
+tsDMARDs — Janus kinase inhibitors (eg tofacitinib), phosphodiesterase-4
+inhibitors (eg apremilast), or  
+bDMARDs — monoclonal antibodies, IL inhibitors (eg anakinra, tocilizumab),  
+costimulation blockers (eg abatacept), B-cell depleting agents (eg rituximab)
+| None | All regimens |
+
+  * 1 month before treatment starts, or
+  * At least 12 months after treatment stops — this must be discussed with the treating physician
+
+  
+Haematopoietic stem cell transplant | None | All regimens |
+
+  * At least 1 month before transplant, or
+  * At least 24 months after transplant
+
+  
+  
+b = biologic; cs = conventional synthetic; DMARD = disease-modifying anti-
+rheumatic drug; IL = interleukin; TNF = tumour necrosis factor; ts = target
+synthetic
+
+a If person is on long-term [corticosteroid](/technical-terms#corticosteroid)
+monotherapy or [corticosteroid](/technical-terms#corticosteroid) therapy
+combined with other disease-modulating or [immunosuppressive
+therapy](/technical-terms#immunosuppressive-therapy), consider delaying
+Zostavax and consulting with both the treating doctor and an immunisation
+specialist.  
+  
+#### Managing people who are immunocompromised and who inadvertently receive
+Zostavax
+
+If an immunocompromised person is inadvertently vaccinated with Zostavax:
+
+  * promptly assess them and monitor closely for symptoms or signs of disseminated VZV [infection](/technical-terms#infection), such as fever or a chickenpox-like rash, within 2–4 weeks of receiving the vaccine
+  * discuss their appropriate management with an infectious diseases and/or immunisation expert
+  * notify the relevant [state or territory health authority](https://health.gov.au/health-topics/immunisation/immunisation-contacts), and the Therapeutic Goods Administration (TGA)
+
+For mechanisms for reporting to the TGA, see [Adverse events following
+immunisation](/contents/fundamentals-of-immunisation#adverse-events-following-
+immunisation).
+
+It is important to establish the person’s degree of immunocompromise and risk
+of vaccine-associated adverse effects. Patient management may include:
+
+  * pre-emptive or therapeutic use of antiviral medication as soon as possible after inadvertent administration of Zostavax
+  * consider the use of ZIG in people with severe immunocompromise
+  * clinical investigations, such as laboratory testing for VZV from any rash or other affected sites
+
+#### Women who are pregnant or breastfeeding
+
+Because Zostavax contains live attenuated VZV, it is contraindicated in
+pregnant women.
+
+Women should avoid pregnancy for 28 days after vaccination with Zostavax. See
+also [Varicella](/node/163).
+
+People can still receive Zostavax if they have a household contact who is
+pregnant.
+
+See [Table. Vaccines contraindicated in pregnancy: live attenuated
+vaccines](/node/546) in [Vaccination for women who are planning pregnancy,
+pregnant or breastfeeding](/node/441) for more details.
+
+Breastfeeding women can receive Zostavax if they are eligible for vaccination.
+
+There are no data on the use of Shingrix in pregnant or breastfeeding women.
+
+Women of child-bearing age who are immunocompromised are recommended to
+receive Shingrix vaccine either:
+
+  * before a planned pregnancy, or
+  * as soon as practicable after delivery
+
+### Precautions
+
+ **Zoster vaccines should not be used for the prevention of primary
+varicella[infection](/technical-terms#infection) (chickenpox). Varicella
+vaccine should be considered (see [Varicella](/contents/vaccine-preventable-
+diseases/varicella-chickenpox "Varicella \(chickenpox\)")). They also should
+not be used for the treatment of acute herpes zoster illness or post-herpetic
+neuralgia.**
+
+#### People with mild immunocompromising conditions or who are shortly
+expected to be immunocompromised
+
+People aged ≥18 years with any level of immunocompromise are recommended to
+receive Shingrix.
+
+For people aged 18–49 years with any level of immunocompromise, or who are
+shortly expected to be immunocompromised, Shingrix is the only available
+vaccine.
+
+Zostavax is not recommended in people who are immunocompromised and is
+contraindicated in those who are severely immunocompromised. Where Shingrix is
+not accessible, people aged ≥50 years with **mild** immunocompromising
+conditions or who are shortly expected to be immunocompromised may receive
+Zostavax. They are recommended to:
+
+  * be assessed on a case-by-case basis
+  * undergo [serological testing](/technical-terms#serological-testing) before vaccination to confirm that they are VZV IgG-positive
+
+Appropriate specialist advice should be sought before vaccinating. See [Table.
+Recommendations for use of Zostavax in people aged ≥50 years on
+immunosuppressive therapy](/resources/tables/table-recommendations-for-use-of-
+zostavax-in-people-aged-50-years-on-immunosuppressive-therapy "Table.
+Recommendations for use of Zostavax in people aged ≥50 years on
+immunosuppressive therapy "), [Live zoster vaccine (Zostavax) screening for
+contraindications tool](/resources/tables/table-live-zoster-vaccine-zostavax-
+screening-for-contraindications "Table. Live zoster vaccine \(Zostavax\)
+screening for contraindications") and Vaccination for people who are
+immunocompromised. If uncertain about the person’s level of immunocompromise
+and whether vaccination is safe, **do not** administer Zostavax.
+
+People who are shortly expected to be immunocompromised may include those:
+
+  * anticipating solid organ transplantation49
+  * with solid tumours that will require future chemotherapy or radiation therapy
+  * with inflammatory diseases, such as rheumatoid arthritis, systemic lupus erythematosus, inflammatory bowel disease or psoriasis, that may need further immunosuppressive medical treatment
+
+These people may have a functioning immune system now, but may be
+significantly immunocompromised in the future because of their disease or
+treatment. Because they have a high risk of developing zoster in the future,
+it is recommended to vaccinate them with a zoster vaccine at least 4 weeks
+before they become immunocompromised.50 If a 4-week interval is not possible,
+Shingrix can be considered. **Do not** give Zostavax, and seek specialist
+advice.
+
+See [Adverse events in people with immunocompromising conditions or on
+immunosuppressive
+therapy](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#adverse-events-in-people-with-
+immunocompromising-conditions-or-on-immunosuppressive-therapy).
+
+ _Serological confirmation of VZV[infection](/technical-terms#infection)_
+
+For people aged ≥50 years with **mild** immunocompromising conditions or who
+are shortly expected to be immunocompromised, it is recommended to confirm
+previous VZV [infection](/technical-terms#infection) using [serological
+testing](/technical-terms#serological-testing) before vaccination with
+Zostavax. Detection of VZV-specific antibody may help confirm previous VZV
+[infection](/technical-terms#infection) and therefore immune memory. In
+someone with a **mild** level of immunocompromise, pre-existing immunity
+provides additional reassurance about the safe use of Zostavax in that person.
+See [Live zoster vaccine (Zostavax) screening for contraindications
+tool](/resources/tables/table-live-zoster-vaccine-zostavax-screening-for-
+contraindications "Table. Live zoster vaccine \(Zostavax\) screening for
+contraindications"). If uncertain about the person’s level of immunocompromise
+and whether vaccination is safe, **do not** administer Zostavax. See
+[Serological testing before and after zoster
+vaccination](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#serological-testing-before-and-
+after-zoster-vaccination) and Considerations for timing of zoster vaccination.
+
+#### People with HIV infection
+
+People with asymptomatic HIV [infection](/technical-terms#infection) are
+likely to have a higher relative risk of developing herpes zoster in the
+future.51 People aged ≥18 years with HIV [infection](/technical-
+terms#infection) can receive Shingrix, which is the preferred vaccine.
+Shingrix is safe and immunogenic in people with HIV52[infection](/technical-
+terms#infection).
+
+People aged ≥50 years with asymptomatic HIV [infection](/technical-
+terms#infection) can receive Zostavax, if Shingrix is not accessible, if they:
+
+  * are on antiretroviral therapy and
+  * have a very low or undetectable viral load and
+  * have a CD4+ count ≥350 per µL
+
+If there is a strong indication to vaccinate, some experts suggest that a CD4+
+count >200 per µL is safe.50
+
+Before vaccinating a person with asymptomatic HIV [infection](/technical-
+terms#infection) with Zostavax:
+
+  * seek expert advice from the treating physician and/or an immunisation specialist (see also [People with HIV](https://immunisationhandbook.health.gov.au/contents/vaccination-for-special-risk-groups/vaccination-for-people-who-are-immunocompromised#people-with-hiv) in [Vaccination for people who are immunocompromised](/contents/vaccination-for-special-risk-groups/vaccination-for-people-who-are-immunocompromised "Vaccination for people who are immunocompromised"))
+  * check for previous VZV [infection](/technical-terms#infection) using [serological testing](/technical-terms#serological-testing)
+  * see [Live zoster vaccine (Zostavax) screening for contraindications tool](/resources/tables/table-live-zoster-vaccine-zostavax-screening-for-contraindications "Table. Live zoster vaccine \(Zostavax\) screening for contraindications")
+
+See [Serological testing before and after zoster
+vaccination](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#serological-testing-before-and-
+after-zoster-vaccination) and Considerations for timing of zoster vaccination.
+
+#### Vaccination before or after administration of immunoglobulin or a blood
+product
+
+People aged ≥50 years can receive Zostavax at any time before or after
+receiving [immunoglobulin](/technical-terms#immunoglobulin) or any antibody-
+containing blood product. This is because Zostavax is indicated in people who,
+because of their age, are assumed to have had previous [infection](/technical-
+terms#infection) with VZV. This means they already have serum antibody levels
+that are comparable to those found in blood products. See also [Vaccination
+for people who have recently received normal human immunoglobulin and other
+blood products](/contents/vaccination-for-special-risk-groups/vaccination-for-
+people-who-have-recently-received-normal-human-immunoglobulin-and-other-blood-
+products "Vaccination for people who have recently received normal human
+immunoglobulin and other blood products").
+
+No precautions are required around immunoglobulins and blood product
+administration and administration of Shingrix in people aged ≥18 years.
+
+#### People receiving long-term aspirin or salicylate therapy
+
+People aged ≥18 years receiving long-term salicylate therapy (aspirin) can
+receive any registered zoster vaccine for their age. Natural varicella
+[infection](/technical-terms#infection) and salicylate use has been associated
+with an increased risk of developing Reye syndrome. There have been no reports
+of an association between Reye syndrome and varicella vaccination.
+
+#### People receiving antiviral medicines
+
+Antivirals with anti-VZV activity may interfere with the replication of the
+Zostavax live attenuated [virus](/technical-terms#virus). These antivirals
+include:
+
+  * aciclovir
+  * famciclovir
+  * valaciclovir
+
+People taking an antiviral medicine should:50,53
+
+  * stop taking it at least 24 hours before vaccination with Zostavax
+  * start taking it again at least 14 days after vaccination with Zostavax
+
+See [Live zoster vaccine (Zostavax) screening for contraindications
+tool](/resources/tables/table-live-zoster-vaccine-zostavax-screening-for-
+contraindications "Table. Live zoster vaccine \(Zostavax\) screening for
+contraindications").
+
+No precautions are required around antiviral medications and administration of
+Shingrix.
+
+## Adverse events
+
+### Adverse events after Zostavax
+
+The Shingles Prevention Study was a very large clinical trial on live
+attenuated zoster vaccine (Zostavax). Together with other smaller studies, it
+demonstrated that Zostavax is safe and generally well tolerated among people
+aged ≥50 years.25,54
+
+Injection site reactions occurred in 48% of clinical trial participants who
+received Zostavax, regardless of their history of herpes zoster, compared with
+17% of participants who received placebo. Injection site symptoms included
+erythema, pain, swelling and itching at the injection site.54,55
+
+Mild to moderate adverse events, particularly injection site reactions, were
+more common in vaccine recipients aged 50–59 years than in those aged ≥60
+years.54,55
+
+Fever of >38.3°C was not more common in vaccine recipients than in placebo
+recipients, and occurred in <0.1% of clinical trial participants overall.25
+
+Systemic symptoms occurred in vaccine recipients (6.3%) more commonly than in
+placebo recipients (4.9%). The most common systemic symptoms reported were
+headache54 and fatigue.25
+
+Zostavax is a live attenuated vaccine and is contraindicated in people who
+are, or are soon to be, severely immunocompromised.
+
+A thorough assessment of each person’s immune status should be undertaken
+before administering Zostavax. See [Live zoster vaccine (Zostavax) screening
+for contraindications tool](/resources/tables/table-live-zoster-vaccine-
+zostavax-screening-for-contraindications "Table. Live zoster vaccine
+\(Zostavax\) screening for contraindications") and Adverse events in people
+with immunocompromising conditions or on [immunosuppressive
+therapy](/technical-terms#immunosuppressive-therapy).
+
+In clinical trials, both non-localised and localised (injection site)
+varicella-like rashes in Zostavax recipients were rare: 0.1% of vaccine
+recipients developed a rash, and this was more common than in placebo
+recipients.25
+
+A non-localised varicella-like rash can occur around 2–4 weeks after
+vaccination with Zostavax.56 This type of rash may be due to disseminated VZV
+[infection](/technical-terms#infection) from the Oka vaccine strain. Always
+advise people who have received Zostavax to:
+
+  * seek immediate medical attention if they develop a generalised varicella-like rash
+  * inform their medical practitioner that they have recently received Zostavax
+
+If the person has suspected disseminated VZV [infection](/technical-
+terms#infection):
+
+  * collect a sample for appropriate diagnostic testing and notify testing laboratory to conduct sequencing for Oka vaccine strain
+  * start empirical antiviral treatment
+  * consult with an infectious diseases specialist
+  * stop [immunosuppressive therapy](/technical-terms#immunosuppressive-therapy), if relevant
+  * notify the relevant state or territory health authority and the Therapeutic Goods Administration (TGA) — see [Reporting AEFIs](https://immunisationhandbook.health.gov.au/contents/vaccination-procedures/after-vaccination#reporting-aefis)
+
+Post-marketing surveillance of Zostavax in the United States found that the
+most common adverse events were injection site reactions and that vaccination
+did not increase the risk of adverse events such as cerebrovascular events or
+[encephalitis](/technical-terms#encephalitis).57
+
+### Adverse events after Shingrix
+
+Shingrix is a non-[live vaccine](/technical-terms#live-vaccine) and is safe
+for use in both immunocompetent and immunocompromised people. Local and
+systemic adverse events following vaccination with Shingrix are substantially
+more common than after placebo but generally do not prevent normal activities.
+It is important for people to receive the second dose of Shingrix to be
+adequately protected against herpes zoster.
+
+Injection site reactions were experienced by 82% of trial participants aged
+≥50 years who received Shingrix (compared with 12% who received placebo) and
+74% of participants aged ≥70 years (compared with 10% who received placebo).
+2,3
+
+Systemic adverse events (such as fever, fatigue, gastrointestinal symptoms,
+headache, shivering or myalgia) were experienced by 66% of trial participants
+aged ≥50 years who received Shingrix (compared with 30% who received placebo)
+and 53% of participants aged ≥70 years (compared with 25% who received
+placebo). There was no difference in the rates of serious adverse events
+compared with placebo.2,3
+
+In a small proportion of people (approximately 10%), reactions may be severe
+enough to disrupt normal daily activities; these are generally short-lived
+(1–3 days) and go away without treatment.
+
+Rates of local and systemic reactions appear to be slightly higher after
+Shingrix than after Zostavax.25,54,58
+
+Before vaccination with Shingrix, immunisation providers should counsel people
+about what local and systemic reactions to expect, and the importance of
+completing the 2-dose schedule for an adequate level and duration of
+protection.
+
+### Guillain–Barré syndrome
+
+Data from the United States suggest a possible but very rare risk of
+[Guillain–Barré syndrome](/technical-
+terms#guillain%E2%80%93barr%C3%A9-syndrome) (GBS), a demyelinating
+neurological condition, following Shingrix (an estimated 3 additional cases
+per million doses administered).59 However, GBS may also be triggered by
+zoster itself,60 and modelling suggests that the overall benefits of
+vaccination outweigh the risks of GBS.61
+
+### Adverse events in people with immunocompromising conditions or on
+immunosuppressive therapy
+
+Zostavax is contraindicated in severely immunocompromised people.
+Administering Zostavax to people who are severely immunocompromised can result
+in disseminated disease from the Oka vaccine [virus](/technical-terms#virus).  
+Without an adequate immune response, the vaccine [virus](/technical-
+terms#virus) can replicate unchecked.62,63 There have been 2 case reports,
+including one in Australia, of disseminated Oka vaccine [virus](/technical-
+terms#virus) disease, leading to death, in people with chronic lymphocytic
+leukaemia who were given Zostavax.41,62,63 They were not receiving
+immunosuppressive treatment when they were vaccinated. Two further cases of
+vaccine-related deaths in Australia and one in Canada in people with varying
+levels of [immunosuppression](/technical-terms#immunosuppression) have been
+reported, occurring several weeks after receiving Zostavax. 64,65 66 These
+cases highlight the difficulty of assessing immunocompromise and the
+significant consequences that can result from inadvertent administration in an
+immunocompromised person. It is recommended that all people due to receive
+Zostavax are screened with the [Live zoster vaccine (Zostavax) screening for
+contraindications tool](/resources/tables/table-live-zoster-vaccine-zostavax-
+screening-for-contraindications "Table. Live zoster vaccine \(Zostavax\)
+screening for contraindications") before vaccination.
+
+The TGA and the Australian Technical Advisory Group on Immunisation continue
+to monitor global evidence on the safety of Zostavax.
+
+There are no additional safety concerns for people with immunocompromising
+conditions or on [immunosuppressive therapy](/technical-
+terms#immunosuppressive-therapy) who receive Shingrix.
+
+## Nature of the disease
+
+Varicella-zoster [virus](/technical-terms#virus) (VZV) is a DNA
+[virus](/technical-terms#virus) of the Herpesviridae family.
+
+### Pathogenesis
+
+Primary [infection](/technical-terms#infection) with VZV is known as varicella
+or chickenpox.67 After primary [infection](/technical-terms#infection), the
+[virus](/technical-terms#virus) resides in the sensory ganglia.67
+
+Herpes zoster, or shingles, occurs when latent VZV reactivates. This could be
+due, in part, to a decline in cellular immunity to the [virus](/technical-
+terms#virus).15 Virus-specific cellular immunity most commonly declines with
+ageing or with immunocompromising medical conditions or immunosuppressive
+treatment.
+
+### Transmission
+
+VZV spreads through direct contact with fluid from the rash blisters caused by
+herpes zoster. This can cause primary varicella in exposed susceptible
+people.50
+
+## Clinical features
+
+Most cases present with a unilateral vesicular rash in a dermatomal
+distribution.
+
+80% of cases have a prodromal phase 48–72 hours before the rash appears.15
+Associated symptoms may include:68,69
+
+  * headache
+  * photophobia
+  * malaise
+  * itching, tingling or severe pain in the affected dermatome
+
+In most people, herpes zoster is an acute and self-limiting disease. The rash
+usually lasts 10–15 days.18,67 However, complications can occur, especially
+with increasing age.
+
+### PHN and other complications
+
+Post-herpetic neuralgia (PHN) is the most frequent debilitating complication
+of herpes zoster. PHN is a neuropathic pain syndrome that persists or develops
+after the dermatomal rash has healed.
+
+PHN is most commonly defined as the persistence of pain for longer than 3
+months after the onset of the rash. But definitions can vary by the period of
+persistent pain.70,71
+
+Other complications depend on the site of reactivation, and may include:72
+
+  * ophthalmic disease, such as keratitis and chorioretinitis
+  * neurological complications, such as meningoencephalitis and myelitis
+  * secondary bacterial skin [infection](/technical-terms#infection)
+  * scarring
+  * pneumonia
+
+Rarely, some people may develop disseminated herpes zoster. This is
+characterised by widespread vesicular rash, and visceral, central nervous
+system and pulmonary involvement. Disseminated disease is more common in
+people who are immunocompromised, and may be fatal.69
+
+Some people may also experience dermatomal pain without a rash. This is known
+as zoster siné herpéte.
+
+### Treating herpes zoster
+
+Antiviral therapy can reduce the severity and duration of herpes zoster if
+therapy starts within 3 days of onset.
+
+Antiviral therapy may also reduce the risk of developing PHN.73-77 However,
+PHN can be difficult to treat and may persist for years.78
+
+## Epidemiology
+
+Herpes zoster occurs most commonly in people who:
+
+  * are older — particularly >50 years
+  * are immunocompromised
+  * had varicella in the 1st year of life
+
+The lifetime risk of reactivation of varicella-zoster [virus](/technical-
+terms#virus) is about 50%. It affects half of people who live to 80
+years.67,79-81
+
+For up to 8 years after an initial episode of zoster, the risk of a repeat
+episode in immunocompetent people is 6–8%.26,27 Repeat episodes of herpes
+zoster are more common in people who are immunocompromised.33
+
+In a large clinical trial of Zostavax in the United States (the Shingles
+Prevention Study), active surveillance in the unimmunised (placebo)
+participants estimated the herpes zoster incidence at 1112 cases per 100,000
+person-years in people ≥60 years of age.25
+
+### Herpes zoster in Australia
+
+In Australia, there are about 560 cases of herpes zoster per 100,000
+population per year in all age groups.8
+
+In comparison, there are about 1174 cases per 100,000 population in people
+aged ≥50 years.8 Herpes zoster incidence increases with age, from an estimated
+rate of 630 per 100,000 population in people aged 50–59 years to 1531 per
+100,000 population in people aged 70–79 years.8
+
+### Herpes zoster in people who are immunocompromised
+
+People who are immunocompromised have an increased risk of herpes zoster
+compared with non-immunocompromised people. Rates of herpes zoster are up to
+15 times higher in people who are immunocompromised due to HIV
+[infection](/technical-terms#infection). In the 1st year after haematopoietic
+stem cell transplantation, up to 30% of patients may develop herpes
+zoster.18,51
+
+### Rate of complications from herpes zoster
+
+Overall, 13–26% of patients with herpes zoster develop complications.
+Complications occur more often in older people and people who are
+immunocompromised.13,14
+
+Post-herpetic neuralgia (PHN) is the most common complication of herpes
+zoster, but it occurs very infrequently in children and young adults. PHN
+occurs in approximately 1 in 5 herpes zoster cases in people aged >80 years,
+compared with approximately 1 in 10 cases in people aged 50–59 years.26,82,83
+The population-based incidence of PHN is 3 times higher in people aged 70–79
+years (235 per 100,000) than in people aged 50–59 years (73 per 100,000).82
+
+## Vaccine information
+
+Two zoster vaccines are available for use in Australia for the prevention of
+herpes zoster.
+
+Zostavax is a live attenuated vaccine formulated from the same varicella-
+zoster [virus](/technical-terms#virus) (VZV) strain (Oka) as the registered
+varicella (chickenpox) vaccine Varivax. But Zostavax has higher potency (on
+average, at least 14 times greater) than Varivax. The higher viral titre in
+Zostavax is needed to boost the immune response in people who usually remain
+seropositive for VZV after primary [infection](/technical-terms#infection),
+but have declining cellular immunity as they get older.84
+
+It is important to review a person’s medical history and medication use before
+vaccination with Zostavax because it is contraindicated in people who are
+immunocompromised. See [Contraindications and
+precautions](https://immunisationhandbook.health.gov.au/contents/vaccine-
+preventable-diseases/zoster-herpes-zoster#contraindications-and-precautions).
+
+Shingrix is a recombinant VZV glycoprotein E (gE) subunit vaccine, with AS01B
+[adjuvant](/technical-terms#adjuvant) to stimulate the vaccine-related immune
+response. Shingrix is the preferred vaccine for use in people who are
+immunocompromised.
+
+### Vaccine formulation
+
+In Australia, a refrigerated form of Zostavax is registered based on
+comparable [immunogenicity](/technical-terms#immunogenicity) and safety to the
+frozen vaccine formulation that was used in the Shingles Prevention Study.85
+
+Zostavax is also registered for use in people 50–59 years of age based on a
+study that demonstrated similar [immunogenicity](/technical-
+terms#immunogenicity) in this age group compared with those ≥60 years of
+age.55 Zostavax has since been shown to reduce the incidence of herpes zoster
+in people 50–59 years of age.54
+
+### Shingrix
+
+#### Efficacy
+
+In 2 large clinical trials, Shingrix provided 97% protection against herpes
+zoster in immunocompetent people ≥50 years of age and 91% protection in
+immunocompetent people ≥70 years2,3 of age.
+
+Vaccine [efficacy](/technical-terms#efficacy) of Shingrix against post-
+herpetic neuralgia (PHN), a persistent pain syndrome after herpes zoster, was
+91% in immunocompetent people ≥50 years of age and 89% in immunocompetent
+people ≥70 years2,3 of age.
+
+In a small number of clinical trials of highly immunocompromised populations
+(autologous haematopoietic stem cell transplantation and haematological
+malignancy), including patients ≥18 years of age, Shingrix provided good
+protection against herpes zoster, PHN and herpes zoster–related
+hospitalisation.23,24
+
+Although data are lacking on the [efficacy](/technical-terms#efficacy) of
+Shingrix in a broad range of immunocompromised groups, trials demonstrate a
+robust immune response to the vaccine in a sufficient range of
+immunocompromised populations (HIV [infection](/technical-terms#infection),
+renal transplant, solid organ malignancies receiving
+immunosuppressant/cytotoxic medications) to support a recommendation for the
+vaccine’s use in immunocompromised populations more generally.23,24,52,86,87
+
+#### Duration of immunity
+
+High vaccine [efficacy](/technical-terms#efficacy) (>80%) has been
+demonstrated for at least 7 years after vaccination with 2 doses of Shingrix,9
+and [immunogenicity](/technical-terms#immunogenicity) data suggest that
+protection may persist beyond 10 years.2-4 In contrast, the effectiveness of
+Zostavax appears to decrease significantly by 5–10 years after
+vaccination.1,5-7
+
+### Zostavax
+
+#### Efficacy
+
+The Shingles Prevention Study was a single large, randomised, double-blind,
+placebo-controlled [efficacy](/technical-terms#efficacy) study of the frozen
+formulation of Zostavax. The study included 38,546 people aged ≥60 years.
+Zostavax significantly reduced the likelihood of developing both herpes zoster
+and PHN.25 Over a median of more than 3 years follow-up, Zostavax vaccination
+of people aged ≥60 years reduced the:25
+
+  * incidence of herpes zoster by 51.3%
+  * incidence of PHN by 66.5%
+  * burden of illness associated with herpes zoster by 61.1%
+
+Zostavax was better at reducing herpes zoster in people aged 60–69 years (64%
+[efficacy](/technical-terms#efficacy)) than in those aged 70–79 years (41%
+[efficacy](/technical-terms#efficacy)). However, [efficacy](/technical-
+terms#efficacy) against PHN was similar in both age groups.25 Efficacy against
+herpes zoster in the ≥80 years age group was lower (18% and not statistically
+different from placebo). However, there were fewer participants of this age in
+the study.50
+
+In people who developed herpes zoster despite vaccination with Zostavax, the
+pain associated with the episode was less severe.88
+
+Another randomised controlled study in >22,000 people aged 50–59 years showed
+that compared to placebo, the incidence of herpes zoster was lower in those
+who received Zostavax over an average follow-up period of 1.3 years (range 0–2
+years). The vaccine [efficacy](/technical-terms#efficacy) for preventing
+herpes zoster was 69.8%.54
+
+#### Duration of immunity
+
+A single dose of Zostavax appears to lose [efficacy](/technical-
+terms#efficacy) over time. One short-term follow-on study of Shingles
+Prevention Study participants showed a decline in vaccine
+[efficacy](/technical-terms#efficacy). However, estimates remained
+statistically significant for up to 5 years after vaccination, with uncertain
+[efficacy](/technical-terms#efficacy) beyond that.7,89
+
+A longer-term study of Shingles Prevention Study participants suggested that
+Zostavax significantly protected against herpes zoster for up to 8 years after
+vaccination. However, the study’s methods limit confidence in this result.5
+
+## Transporting, storing and handling zoster vaccines
+
+Transport according to National Vaccine Storage Guidelines: Strive for 5.90
+Store at +2°C to +8°C. **Do not** freeze. Protect from light.
+
+Zostavax and Shingrix **must be reconstituted**. Add the entire contents of
+the diluent container to the vial and shake until the powder completely
+dissolves. Reconstitute immediately after taking the vaccine out of the
+refrigerator.
+
+For Zostavax, the reconstituted vaccine must be used within 30 minutes.
+
+For Shingrix, the reconstituted vaccine can be kept up to 6 hours if
+refrigerated at +2°C to +8°C.
+
+## Public health management
+
+Herpes zoster is a notifiable disease in most states and territories in
+Australia.
+
+[State and territory public health authorities](https://health.gov.au/health-
+topics/immunisation/immunisation-contacts) can provide advice about the public
+health management of herpes zoster, including management of cases and their
+contacts.
+
+## Variations from product information
+
+### Co-administration of Zostavax with influenza vaccine and 23vPPV
+
+The product information for Zostavax states that the vaccine can be given
+concurrently with inactivated influenza vaccine but not with 23-valent
+pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine)
+(23vPPV).
+
+The Australian Technical Advisory Group on Immunisation (ATAGI) recommends
+that Zostavax may be given concurrently with other vaccines, including 23vPPV.
+
+### Administration of Zostavax in people with HIV infection
+
+The product information for Zostavax states that the safety and
+[efficacy](/technical-terms#efficacy) of Zostavax have not been established in
+people with known HIV [infection](/technical-terms#infection), with or without
+evidence of [immunosuppression](/technical-terms#immunosuppression).
+
+ATAGI recommends that Zostavax may be given to people who have HIV
+[infection](/technical-terms#infection) but are not immunocompromised, after
+confirming pre-existing immunity to varicella-zoster [virus](/technical-
+terms#virus).
+
+### Co-administration of Shingrix with influenza vaccine
+
+The product information for Shingrix states that the vaccine can be given
+concurrently with unadjuvanted seasonal influenza vaccine.
+
+ATAGI recommends that Shingrix may be given concurrently with any influenza
+vaccine.
+
+### Administration of Shingrix to people with immunosuppression or
+immunodeficient conditions
+
+The product information for Shingrix states that [immunogenicity](/technical-
+terms#immunogenicity) data for use of Shingrix in people with HIV
+[infection](/technical-terms#infection) or haematopoietic stem cell
+transplantation are available. Immunogenicity is still under investigation for
+people with other confirmed or suspected immunosuppressive or immunodeficient
+conditions.
+
+ATAGI recommends that Shingrix is the preferred vaccine for people aged ≥50
+years who are, or are soon to be, immunocompromised. Shingrix is the only
+vaccine available for use in people aged 18–49 years who are
+immunocompromised.
+
+### Administration of Shingrix to people previously vaccinated with a live
+attenuated zoster vaccine
+
+The product information for Shingrix states that clinical trial data on the
+use of Shingrix in people who were previously vaccinated with a live
+attenuated zoster vaccine was in people aged ≥65 years, with an interval of ≥5
+years between a live attenuated zoster vaccine and Shingrix.
+
+ATAGI recommends that Shingrix can be administered to people aged ≥50 years
+who have previously received a live attenuated zoster vaccine when the
+interval between the live attenuated vaccine and the 1st dose of Shingrix is
+at least 12 months.
+
+## References
+
+  1. Tricco AC, Zarin W, Cardoso R, et al. Efficacy, effectiveness, and safety of herpes zoster vaccines in adults aged 50 and older: systematic review and network meta-analysis. BMJ 2018;363:k4029.
+  2. Cunningham AL, Lal H, Kovac M, et al. Efficacy of the Herpes Zoster Subunit Vaccine in Adults 70 Years of Age or Older. New England Journal of Medicine 2016;375:1019-32.
+  3. Lal H, Cunningham AL, Godeaux O, et al. Efficacy of an adjuvanted herpes zoster subunit vaccine in older adults. New England Journal of Medicine 2015;372:2087-96.
+  4. Hastie A, Catteau G, Enemuo A, et al. Immunogenicity of the adjuvanted recombinant zoster vaccine: persistence and anamnestic response to additional doses administered 10 years after primary vaccination. Journal of Infectious Diseases 2020.
+  5. Morrison VA, Johnson GR, Schmader KE, et al. Long-term persistence of zoster vaccine [efficacy](/technical-terms#efficacy). Clinical Infectious Diseases 2015;60:900-9.
+  6. Schmader KE, Oxman MN, Levin MJ, et al. Persistence of the [efficacy](/technical-terms#efficacy) of zoster vaccine in the Shingles Prevention Study and the Short-Term Persistence Substudy. Clinical Infectious Diseases 2012;55:1320-8.
+  7. Tseng HF, Harpaz R, Luo Y, et al. Declining effectiveness of herpes zoster vaccine in adults aged ≥60 years. Journal of Infectious Diseases 2016;213:1872-5.
+  8. MacIntyre R, Stein A, Harrison C, et al. Increasing trends of herpes zoster in Australia. PLoS One 2015;10(4):e0125025.
+  9. Boutry C, Hastie A, Diez-Domingo J, et al. The adjuvanted recombinant zoster vaccine confers long-term protection against herpes zoster: Interim results of an extension study of the pivotal phase 3 clinical trials ZOE-50 and ZOE-70. Clinical Infectious Diseases 2022;74:1459-67.
+  10. Liu B, Heywood AE, Reekie J, et al. Risk factors for herpes zoster in a large cohort of unvaccinated older adults: a prospective cohort study. Epidemiology and Infection 2015;143:2871-81.
+  11. Qian J, Heywood AE, Karki S, et al. Risk of Herpes Zoster Prior to and Following Cancer Diagnosis and Treatment: A Population-Based Prospective Cohort Study. Journal of Infectious Diseases 2019;220:3-11.
+  12. Forbes HJ, Bhaskaran K, Thomas SL, et al. Quantification of risk factors for herpes zoster: population based case-control study. BMJ 2014;348:g2911.
+  13. Edmunds WJ, Brisson M, Rose JD. The epidemiology of herpes zoster and potential cost-effectiveness of vaccination in England and Wales. Vaccine 2001;19:3076-90.
+  14. Scott FT, Johnson RW, Leedham-Green M, et al. The burden of herpes zoster: a prospective population based study. Vaccine 2006;24:1308-14.
+  15. Dworkin RH, Johnson RW, Breuer J, et al. Recommendations for the management of herpes zoster. Clinical Infectious Diseases 2007;44 Suppl 1:S1-26.
+  16. Ragozzino MW, Melton LJ, III, Kurland LT, Chu CP, Perry HO. Population-based study of herpes zoster and its sequelae. Medicine 1982;61:310-6.
+  17. Yawn BP, Wollan PC, Kurland MJ, St Sauver JL, Saddier P. Herpes zoster recurrences more frequent than previously reported. Mayo Clinic Proceedings 2011;86:88-93.
+  18. Whitley RJ. Chickenpox and herpes zoster (varicella-zoster [virus](/technical-terms#virus)). In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. 8th ed. Philadelphia, PA: Elsevier Saunders; 2015.
+  19. Australian Technical Advisory Group on Immunisation (ATAGI). The Australian Immunisation Handbook 10th ed. Canberra: The Australian Government Department of Health and Ageing; 2018.
+  20. Therapeutic Goods Administration. Zostavax vaccine safety advisory – not to be used in patients with compromised immune function. The Therapeutic Goods Administration,; 2017. (Accessed 3 July 2020). <https://www.tga.gov.au/alert/zostavax-vaccine>
+  21. Therapeutic Goods Administration. Zostavax vaccine safety advisory July 2020 - not to be used in people with compromised immune function. Therapeutic Goods Administration,; 2020. (Accessed 8 September 2022). <https://www.tga.gov.au/alert/zostavax-vaccine-0>
+  22. Therapeutic Goods Administration. Zostavax vaccine safety advisory December 2020 - risk of [infection](/technical-terms#infection) with the vaccine [virus](/technical-terms#virus). Therapeutic Goods Administration; 2020. (Accessed 8 September 2022). <https://www.tga.gov.au/news/safety-alerts/zostavax-vaccine-0>
+  23. Bastidas A, de la Serna J, El Idrissi M, et al. Effect of Recombinant Zoster Vaccine on Incidence of Herpes Zoster After Autologous Stem Cell Transplantation: A Randomized Clinical Trial. JAMA 2019;322:123-33.
+  24. Dagnew AF, Ilhan O, Lee WS, et al. Immunogenicity and safety of the adjuvanted recombinant zoster vaccine in adults with haematological malignancies: a phase 3, randomised, clinical trial and post-hoc [efficacy](/technical-terms#efficacy) analysis. Lancet Infectious Diseases 2019;19:988-1000.
+  25. Oxman MN, Levin MJ, Johnson GR, et al. A vaccine to prevent herpes zoster and postherpetic neuralgia in older adults. New England Journal of Medicine 2005;352:2271-84.
+  26. Yawn BP, Saddier P, Wollan PC, et al. A population-based study of the incidence and complication rates of herpes zoster before zoster vaccine introduction. Mayo Clinic Proceedings 2007;82:1341-9.
+  27. Tseng HF, Bruxvoort K, Ackerson B, et al. The Epidemiology of Herpes Zoster in Immunocompetent, Unvaccinated Adults ≥50 Years Old: Incidence, Complications, Hospitalization, Mortality, and Recurrence. Journal of Infectious Diseases 2020;222:798-806.
+  28. Arvin A. Aging, immunity, and the varicella-zoster [virus](/technical-terms#virus). New England Journal of Medicine 2005;352:2266-7.
+  29. Mills R, Tyring SK, Levin MJ, et al. Safety, tolerability, and [immunogenicity](/technical-terms#immunogenicity) of zoster vaccine in subjects with a history of herpes zoster. Vaccine 2010;28:4204-9.
+  30. Godeaux O, Kovac M, Shu D, et al. Immunogenicity and safety of an adjuvanted herpes zoster subunit candidate vaccine in adults ≥ 50 years of age with a prior history of herpes zoster: A phase III, non-randomized, open-label clinical trial. Human Vaccines and Immunotherapeutics 2017;13:1051-8.
+  31. Yanni EA, Ferreira G, Guennec M, et al. Burden of herpes zoster in 16 selected immunocompromised populations in England: a cohort study in the Clinical Practice Research Datalink 2000-2012. BMJ Open 2018;8:e020528.
+  32. Imafuku S, Matsuki T, Mizukami A, et al. Burden of herpes zoster in the Japanese population with immunocompromised/chronic disease conditions: Results from a cohort study claims database from 2005-2014. Dermatol Ther (Heidelb) 2019;9:117-33.
+  33. Muñoz-Quiles C, López-Lacort M, Díez-Domingo J, Orrico-Sánchez A. Herpes zoster risk and burden of disease in immunocompromised populations: a population-based study using health system integrated databases, 2009-2014. BMC Infectious Diseases 2020;20:905.
+  34. Weinmann S, Naleway AL, Koppolu P, et al. Incidence of herpes zoster among children: 2003-2014. Pediatrics 2019;144.
+  35. Hardy I, Gershon AA, Steinberg SP, LaRussa P. The incidence of zoster after immunization with live attenuated varicella vaccine. A study in children with leukemia. Varicella Vaccine Collaborative Study Group. New England Journal of Medicine 1991;325:1545-50.
+  36. Centers for Disease Control and Prevention (CDC), Marin M, Guris D, et al. Prevention of varicella: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR. Recommendations and Reports 2007;56(RR-4):1-40.
+  37. Gidding HF, MacIntyre CR, Burgess MA, Gilbert GL. The seroepidemiology and transmission dynamics of varicella in Australia. Epidemiology and Infection 2003;131:1085-9.
+  38. Diaz C, Dentico P, Gonzalez R, et al. Safety, tolerability, and [immunogenicity](/technical-terms#immunogenicity) of a two-dose regimen of high-titer varicella vaccine in subjects ≥13 years of age. Vaccine 2006;24:6875-85.
+  39. Macaladad N, Marcano T, Guzman M, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) of a zoster vaccine in varicella-zoster [virus](/technical-terms#virus) seronegative and low-seropositive healthy adults. Vaccine 2007;25:2139-44.
+  40. Cunningham AL, Heineman TC, Lal H, et al. Immune responses to a recombinant glycoprotein E herpes zoster vaccine in adults aged 50 years or older. Journal of Infectious Diseases 2018;217:1750-60.
+  41. Alexander KE, Tong PL, Macartney K, et al. Live zoster vaccination in an immunocompromised patient leading to death secondary to disseminated varicella zoster [virus](/technical-terms#virus) [infection](/technical-terms#infection). Vaccine 2018;36:3890-3.
+  42. Kerzner B, Murray AV, Cheng E, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) profile of the concomitant administration of ZOSTAVAX and inactivated influenza vaccine in adults aged 50 and older. Journal of the American Geriatrics Society 2007;55:1499-507.
+  43. Tseng HF, Smith N, Sy LS, Jacobsen SJ. Evaluation of the incidence of herpes zoster after concomitant administration of zoster vaccine and polysaccharide pneumococcal vaccine. Vaccine 2011;29:3628-32.
+  44. Baylor NW. Perspective of the U.S. Food and Drug Administration on concomitant administration of Zostavax and Pneumovax [letter]. Vaccine 2011;29:8771.
+  45. Centers for Disease Control and Prevention (CDC). Update on herpes zoster vaccine: licensure for persons aged 50 through 59 years. MMWR. Morbidity and Mortality Weekly Report 2011;60:1528.
+  46. Maréchal C, Lal H, Poder A, et al. Immunogenicity and safety of the adjuvanted recombinant zoster vaccine co-administered with the 23-valent pneumococcal [polysaccharide vaccine](/technical-terms#polysaccharide-vaccine) in adults ≥50 years of age: A randomized trial. Vaccine 2018;36:4278-86.
+  47. Strezova A, Lal H, Enweonye I, et al. The adjuvanted recombinant zoster vaccine co-administered with a tetanus, diphtheria and pertussis vaccine in adults aged ≥50 years: A randomized trial. Vaccine 2019;37:5877-85.
+  48. Schwarz TF, Aggarwal N, Moeckesch B, et al. Immunogenicity and safety of an adjuvanted herpes zoster subunit vaccine coadministered with seasonal influenza vaccine in adults aged 50 years or older. Journal of Infectious Diseases 2017;216:1352-61.
+  49. Gourishankar S, McDermid JC, Jhangri GS, Preiksaitis JK. Herpes zoster [infection](/technical-terms#infection) following solid organ transplantation: incidence, risk factors and outcomes in the current immunosuppressive era. American Journal of Transplantation 2004;4:108-15.
+  50. Centers for Disease Control and Prevention (CDC), Harpaz R, Ortega-Sanchez IR, Seward JF. Prevention of herpes zoster: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR. Recommendations and Reports 2008;57(RR-5):1-30.
+  51. Vafai A, Berger M. Zoster in patients infected with HIV: a review. American Journal of the Medical Sciences 2001;321:372-80.
+  52. Berkowitz EM, Moyle G, Stellbrink HJ, et al. Safety and [immunogenicity](/technical-terms#immunogenicity) of an adjuvanted herpes zoster subunit candidate vaccine in HIV-infected adults: a phase 1/2a randomized, placebo-controlled study. Journal of Infectious Diseases 2015;211:1279-87.
+  53. Kroger AT, Duchin J, Vázquez M. General best practice guidelines for immunization. Best practices guidance of the Advisory Committee on Immunization Practices (ACIP). Atlanta, GA: Centers for Disease Control and Prevention; 2017. <https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/index.html>
+  54. Schmader KE, Levin MJ, Gnann JW, Jr., et al. Efficacy, safety, and tolerability of herpes zoster vaccine in persons aged 50–59 years. Clinical Infectious Diseases 2012;54:922-8.
+  55. Sutradhar SC, Wang WW, Schlienger K, et al. Comparison of the levels of [immunogenicity](/technical-terms#immunogenicity) and safety of Zostavax in adults 50 to 59 years old and in adults 60 years old or older. Clinical and Vaccine Immunology: CVI 2009;16:646-52.
+  56. Simberkoff MS, Arbeit RD, Johnson GR, et al. Safety of herpes zoster vaccine in the shingles prevention study: a randomized trial. Annals of Internal Medicine 2010;152:545-54.
+  57. Tseng HF, Liu A, Sy L, et al. Safety of zoster vaccine in adults from a large managed-care cohort: a Vaccine Safety Datalink study. Journal of Internal Medicine 2012;271:510-20.
+  58. Hata A, Inoue F, Hamamoto Y, et al. Efficacy and safety of live varicella zoster vaccine in diabetes: a randomized, double-blind, placebo-controlled trial. Diabetic Medicine 2016;33:1094-101.
+  59. Goud R, Lufkin B, Duffy J, et al. Risk of Guillain-Barré syndrome following recombinant zoster vaccine in Medicare beneficiaries. JAMA Intern Med 2021;181:1623-30.
+  60. Kang JH, Sheu JJ, Lin HC. Increased risk of Guillain-Barré Syndrome following recent herpes zoster: a population-based study across Taiwan. Clinical Infectious Diseases 2010;51:525-30.
+  61. Janusz CB, Anderson TC, Leidner AJ, et al. Projected risks and health benefits of vaccination against herpes zoster and related complications in US adults. Human Vaccines and Immunotherapeutics 2022;18:2060668.
+  62. Australian Government Department of Health, Therapeutic Goods Administration. Zostavax vaccine: Safety advisory – not to be used in patients with compromised immune function. 7 March 2017. <https://www.tga.gov.au/alert/zostavax-vaccine>
+  63. Costa E, Buxton J, Brown J, et al. Fatal disseminated varicella zoster [infection](/technical-terms#infection) following zoster vaccination in an immunocompromised patient. BMJ Case Reports 2016; May 4: doi:10.1136/bcr-2015-212688.
+  64. Dubey V, MacFadden D. Disseminated varicella zoster [virus](/technical-terms#virus) [infection](/technical-terms#infection) after vaccination with a live attenuated vaccine. CMAJ Canadian Medical Association Journal 2019;191:E1025-e7.
+  65. Therapeutic Goods Administration (TGA). Safety advisory - not to be used in people with compromised immune function. Therapeutic Goods Administration (TGA); 2020. (Accessed 21 July 2020). <https://www.tga.gov.au/alert/zostavax-vaccine-0>
+  66. Therapeutic Goods Administration (TGA). Safety advisory - risk of [infection](/technical-terms#infection) with the vaccine [virus](/technical-terms#virus). Canberra, Australia: TGA; 2020. (Accessed 11 January 2020). <https://www.tga.gov.au/alert/zostavax-vaccine-1>
+  67. Levin MJ. Zoster vaccines. In: Plotkin SA, Orenstein WA, Offit PA, Edwards KM, eds. Plotkin's vaccines. 7th ed. Philadelphia, PA: Elsevier; 2018.
+  68. Whitley RJ. Varicella-zoster [virus](/technical-terms#virus). In: Mandell GL, Bennett JE, Dolin R, eds. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. 7th ed. Philadelphia: Churchill Livingstone; 2010.
+  69. Gnann JW, Jr., Whitley RJ. Clinical practice. Herpes zoster. New England Journal of Medicine 2002;347:340-6.
+  70. Dworkin RH, Portenoy RK. Proposed classification of herpes zoster pain. The Lancet 1994;343:1648.
+  71. Kost RG, Straus SE. Postherpetic neuralgia – pathogenesis, treatment, and prevention. New England Journal of Medicine 1996;335:32-42.
+  72. Gross G, Doerr HW. Herpes zoster guidelines of the German Dermatological Society [letter]. Journal of Clinical Virology 2003;27:308-9.
+  73. Tyring SK, Beutner KR, Tucker BA, Anderson WC, Crooks RJ. Antiviral therapy for herpes zoster: randomized, controlled clinical trial of valacyclovir and famciclovir therapy in immunocompetent patients 50 years and older. Archives of Family Medicine 2000;9:863-9.
+  74. Johnson RW, Dworkin RH. Treatment of herpes zoster and postherpetic neuralgia. BMJ 2003;326:748-50.
+  75. Jackson JL, Gibbons R, Meyer G, Inouye L. The effect of treating herpes zoster with oral acyclovir in preventing postherpetic neuralgia: a meta-analysis. Archives of Internal Medicine 1997;157:909-12.
+  76. Meister W, Neiss A, Gross G, et al. Demography, symptomatology, and course of disease in ambulatory zoster patients: a physician-based survey in Germany. Intervirology 1998;41:272-7.
+  77. Simmons A. Management of shingles and post-herpetic neuralgia. Current Therapeutics 2000;41:61-6.
+  78. Dworkin RH, Schmader KE. Treatment and prevention of postherpetic neuralgia. Clinical Infectious Diseases 2003;36:877-82.
+  79. Schmader K. Herpes zoster in older adults. Clinical Infectious Diseases 2001;32:1481-6.
+  80. Brisson M, Edmunds WJ, Law B, et al. Epidemiology of varicella zoster [virus](/technical-terms#virus) [infection](/technical-terms#infection) in Canada and the United Kingdom. Epidemiology and Infection 2001;127:305-14.
+  81. Thomas SL, Hall AJ. What does epidemiology tell us about risk factors for herpes zoster? The Lancet Infectious Diseases 2004;4:26-33.
+  82. Stein AN, Britt H, Harrison C, et al. Herpes zoster burden of illness and health care resource utilisation in the Australian population aged 50 years and older. Vaccine 2009;27:520-9.
+  83. Gauthier A, Breuer J, Carrington D, Martin M, Rémy V. Epidemiology and cost of herpes zoster and post-herpetic neuralgia in the United Kingdom. Epidemiology and Infection 2009;137:38-47.
+  84. Oxman MN. Vaccination to prevent herpes zoster and postherpetic neuralgia. Human Vaccines 2007;3:64-8.
+  85. Gilderman LI, Lawless JF, Nolen TM, et al. A double-blind, randomized, controlled, multicenter safety and [immunogenicity](/technical-terms#immunogenicity) study of a refrigerator-stable formulation of Zostavax. Clinical and Vaccine Immunology: CVI 2008;15:314-9.
+  86. Vink P, Delgado Mingorance I, Maximiano Alonso C, et al. Immunogenicity and safety of the adjuvanted recombinant zoster vaccine in patients with solid tumors, vaccinated before or during chemotherapy: A randomized trial. Cancer 2019;125:1301-12.
+  87. Vink P, Ramon Torrell JM, Sanchez Fructuoso A, et al. Immunogenicity and Safety of the Adjuvanted Recombinant Zoster Vaccine in Chronically Immunosuppressed Adults Following Renal Transplant: A Phase 3, Randomized Clinical Trial. Clinical Infectious Diseases 2020;70:181-90.
+  88. Schmader KE, Johnson GR, Saddier P, et al. Effect of a zoster vaccine on herpes zoster–related interference with functional status and health-related quality-of-life measures in older adults. Journal of the American Geriatrics Society 2010;58:1634-41.
+  89. Hales CM, Harpaz R, Ortega-Sanchez I, Bialek SR. Update on recommendations for use of herpes zoster vaccine. MMWR. Morbidity and Mortality Weekly Report 2014;63:729-31.
+  90. National vaccine storage guidelines: Strive for 5. 2nd ed. Canberra: Australian Government Department of Health and Ageing; 2013. [https://beta.health.gov.au/resources/publications/national-vaccine-stor…](https://beta.health.gov.au/resources/publications/national-vaccine-storage-guidelines-strive-for-5-2nd-edition)
+
+Related vaccines
+
+[Zostavax](/vaccines/zostavax)
+
+[Shingrix](/vaccines/shingrix)
+
+Related immunoglobulins
+
+[Zoster immunoglobulin (ZIG)](/immunoglobulins/zoster-immunoglobulin-zig)
+
+## Page history
+
+Last updated
+
+7 December 2022
+
+Last reviewed
+
+7 December 2022
+
+Show all page updates (4)
+
+7 December 2022
+
+Funding information update
+
+Recommendation updates and additions including
+
+  * Recommendation updates for all Recommendations
+  * Recommendation added for people ages ≥18 years who are immunocompromised
+  * Recommendation added for People who have previously received Zostavax can receive Shingrix
+  * Recommendation added for People who have previously received Shingrix need to be assessed on a case-by-case basis to receive Zostavax
+
+Chapter updates have occurred throughout the document in detail, including
+detailed changes to accommodate the Shingrix vaccine. Sections of particular
+note are:
+
+  * Women who are pregnant or breastfeeding,
+  * People who are immunocompromised
+  * Precautions
+  * Adverse events
+  * Transporting, storing and handling zoster vaccines
+  * Variations from product information
+  * References
+
+19 May 2022
+
+There is updated clinical guidance on the use of both zoster vaccines,
+Zostavax and Shingrix, that is relevant for people aged ≥18 years. Please
+refer to the [ATAGI clinical statement on the clinical use of Zoster vaccine
+in Australia](https://www.health.gov.au/resources/publications/statement-on-
+the-clinical-use-of-zoster-vaccine-in-older-adults-in-australia).
+
+27 September 2021
+
+More detailed guidance provided on the use of Zostavax in people who are
+immunocompromised or on immunosuppressive therapy, including:
+
+  * more details on pre-vaccination screening, including serological testing for past varicella-zoster virus (VZV) infection when relevant
+  * expanded list of immunosuppressive therapies that are considered safe for administration of Zostavax
+
+Adverse events section updated to include:
+
+  * detailed information on VZV-like rash that could rarely occur following Zostavax administration
+  * relevant advice to vaccine recipients
+  * management and reporting of these episodes 
+
+1 August 2017
+
+Changes to 4.24.7 Recommendations, 4.24.9 Contraindications, 4.24.10
+Precautions, and 4.24.11 Adverse events
+
+**4.24.7 Recommendations**
+
+Addition of text reiterating importance of obtaining a medical history in
+patients prior to vaccination, to reiterate the contraindications regarding
+use of Zostavax in immunocompromised people and to provide further detail on
+what constitutes immunocompromise and how to manage inadvertent vaccination in
+these people.
+
+**4.24.9 Contraindications**
+
+Addition of text and table to reiterate the contraindications regarding use of
+Zostavax in immunocompromised people and to provide further detail on what
+constitutes immunocompromise and how to manage inadvertent vaccination in
+these people.
+
+**4.24.10 Precautions**
+
+Addition of text providing more specific detail of CD4 levels at which a
+person infected with HIV can receive Zostavax. (Refer also Chapter [3.3 Groups
+with special vaccination
+requirements](http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/Handbook10-home%7Ehandbook10part3%7Ehandbook10-3-3)).
+
+**4.24.11 Adverse events**
+
+Addition of text providing details of select serious outcomes where
+immunocompromised people have received Zostavax.
+
+7 December 2022
+
+Funding information update
+
+Recommendation updates and additions including
+
+  * Recommendation updates for all Recommendations
+  * Recommendation added for people ages ≥18 years who are immunocompromised
+  * Recommendation added for People who have previously received Zostavax can receive Shingrix
+  * Recommendation added for People who have previously received Shingrix need to be assessed on a case-by-case basis to receive Zostavax
+
+Chapter updates have occurred throughout the document in detail, including
+detailed changes to accommodate the Shingrix vaccine. Sections of particular
+note are:
+
+  * Women who are pregnant or breastfeeding,
+  * People who are immunocompromised
+  * Precautions
+  * Adverse events
+  * Transporting, storing and handling zoster vaccines
+  * Variations from product information
+  * References
+
+19 May 2022
+
+There is updated clinical guidance on the use of both zoster vaccines,
+Zostavax and Shingrix, that is relevant for people aged ≥18 years. Please
+refer to the [ATAGI clinical statement on the clinical use of Zoster vaccine
+in Australia](https://www.health.gov.au/resources/publications/statement-on-
+the-clinical-use-of-zoster-vaccine-in-older-adults-in-australia).
+
+27 September 2021
+
+More detailed guidance provided on the use of Zostavax in people who are
+immunocompromised or on immunosuppressive therapy, including:
+
+  * more details on pre-vaccination screening, including serological testing for past varicella-zoster virus (VZV) infection when relevant
+  * expanded list of immunosuppressive therapies that are considered safe for administration of Zostavax
+
+Adverse events section updated to include:
+
+  * detailed information on VZV-like rash that could rarely occur following Zostavax administration
+  * relevant advice to vaccine recipients
+  * management and reporting of these episodes 
+
+1 August 2017
+
+Changes to 4.24.7 Recommendations, 4.24.9 Contraindications, 4.24.10
+Precautions, and 4.24.11 Adverse events
+
+**4.24.7 Recommendations**
+
+Addition of text reiterating importance of obtaining a medical history in
+patients prior to vaccination, to reiterate the contraindications regarding
+use of Zostavax in immunocompromised people and to provide further detail on
+what constitutes immunocompromise and how to manage inadvertent vaccination in
+these people.
+
+**4.24.9 Contraindications**
+
+Addition of text and table to reiterate the contraindications regarding use of
+Zostavax in immunocompromised people and to provide further detail on what
+constitutes immunocompromise and how to manage inadvertent vaccination in
+these people.
+
+**4.24.10 Precautions**
+
+Addition of text providing more specific detail of CD4 levels at which a
+person infected with HIV can receive Zostavax. (Refer also Chapter [3.3 Groups
+with special vaccination
+requirements](http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/Handbook10-home%7Ehandbook10part3%7Ehandbook10-3-3)).
+
+**4.24.11 Adverse events**
+
+Addition of text providing details of select serious outcomes where
+immunocompromised people have received Zostavax.
+
+[ Previous Yellow fever ](/contents/vaccine-preventable-diseases/yellow-fever
+"Go to previous page")
+
+## In this section
+
+##  [Table of contents](/contents)
+
+  * [About the handbook](/contents/about-the-handbook)
+  * [Fundamentals of immunisation](/contents/fundamentals-of-immunisation)
+  * [Vaccination procedures](/contents/vaccination-procedures)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Vaccination for special risk groups](/contents/vaccination-for-special-risk-groups)
+  * [Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+    * [Cholera](/contents/vaccine-preventable-diseases/cholera)
+    * [COVID-19](/contents/vaccine-preventable-diseases/covid-19)
+    * [Diphtheria](/contents/vaccine-preventable-diseases/diphtheria)
+    * [Haemophilus influenzae type b (Hib)](/contents/vaccine-preventable-diseases/haemophilus-influenzae-type-b-hib)
+    * [Hepatitis A](/contents/vaccine-preventable-diseases/hepatitis-a)
+    * [Hepatitis B](/contents/vaccine-preventable-diseases/hepatitis-b)
+    * [Human papillomavirus (HPV)](/contents/vaccine-preventable-diseases/human-papillomavirus-hpv)
+    * [Influenza (flu)](/contents/vaccine-preventable-diseases/influenza-flu)
+    * [Japanese encephalitis](/contents/vaccine-preventable-diseases/japanese-encephalitis)
+    * [Measles](/contents/vaccine-preventable-diseases/measles)
+    * [Meningococcal disease](/contents/vaccine-preventable-diseases/meningococcal-disease)
+    * [Mumps](/contents/vaccine-preventable-diseases/mumps)
+    * [Pertussis (whooping cough)](/contents/vaccine-preventable-diseases/pertussis-whooping-cough)
+    * [Pneumococcal disease](/contents/vaccine-preventable-diseases/pneumococcal-disease)
+    * [Poliomyelitis](/contents/vaccine-preventable-diseases/poliomyelitis)
+    * [Q fever](/contents/vaccine-preventable-diseases/q-fever)
+    * [Rabies and other lyssaviruses](/contents/vaccine-preventable-diseases/rabies-and-other-lyssaviruses)
+    * [Rotavirus](/contents/vaccine-preventable-diseases/rotavirus)
+    * [Rubella](/contents/vaccine-preventable-diseases/rubella)
+    * [Tetanus](/contents/vaccine-preventable-diseases/tetanus)
+    * [Tuberculosis](/contents/vaccine-preventable-diseases/tuberculosis)
+    * [Typhoid fever](/contents/vaccine-preventable-diseases/typhoid-fever)
+    * [Varicella (chickenpox)](/contents/vaccine-preventable-diseases/varicella-chickenpox)
+    * [Yellow fever](/contents/vaccine-preventable-diseases/yellow-fever)
+    * Zoster (herpes zoster)
+
+Is there anything wrong with this page?
+
+## Help us improve the Australian Immunisation Handbook
+
+What you were doing? (required)
+
+What went wrong? (required)
+
+Leave this field blank
+
+Printed content may be out of date. For up to date information, always refer
+to the digital version:
+
+https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-
+diseases/zoster-herpes-zoster
+
+**[All vaccine preventable diseases](/node/27)**
+
+## Who's responsible for the Handbook
+
+  * [ATAGI](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi)
+  * [NHMRC](https://www.nhmrc.gov.au/)
+  * [Chief Medical Officer](https://www.health.gov.au/about-us/who-we-are/leadership#chief-medical-officer)
+  * [Department of Health and Aged Care](https://www.health.gov.au/)
+
+## Useful links and tools
+
+  * [Announcements](/contents/about-the-handbook/announcements "Announcements")
+  * [Handbook tables](/resources/tables "Handbook tables")
+  * [Handbook figures](/resources/figures "Handbook figures")
+  * [Technical terms](/technical-terms "Glossary of technical terms")
+  * [Abbreviations](/abbreviations "Abbreviations")
+
+## More about Immunisation
+
+  * [National Immunisation Program](https://www.health.gov.au/initiatives-and-programs/national-immunisation-program)
+  * [NIP Schedule](https://www.health.gov.au/health-topics/immunisation/immunisation-throughout-life/national-immunisation-program-schedule)
+  * [ATAGI statements](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi#statements)
+  * [Immunisation news](https://www.health.gov.au/news?f%5B0%5D=field_related_health_topics%3A1021)
+  * [Immunisation resources](https://www.health.gov.au/resources?f%5B0%5D=field_related_health_topics%3A1021&f%5B1%5D=field_audience%3A446)
+  * [NCIRS Factsheets](http://www.ncirs.org.au/health-professionals/ncirs-fact-sheets-faqs)
+
+## Help us improve
+
+We are always looking for ways to improve our website, the NICC and mobile
+app.
+
+[Provide feedback](/provide-feedback)
+
+## Using the Handbook
+
+  * [Accessibility](https://www.health.gov.au/using-our-websites/accessibility)
+  * [Copyright](https://www.health.gov.au/using-this-website/copyright)
+  * [Disclaimers](https://www.health.gov.au/using-this-website/disclaimers)
+  * [Privacy](https://www.health.gov.au/using-this-website/privacy)
+
+## Mobile apps
+
+[![Download from Apple App
+Store](/sites/default/files/2021-05/App_Store_Badge_v2.svg)](https://apps.apple.com/au/app/immunisationhandbook/id1484584970)
+
+[![Get it on Google
+Play](/sites/default/files/2021-05/Google_Play_Store_badge_EN_v2.svg)](https://play.google.com/store/apps/details?id=au.gov.health.immunisationhandbook.immunisation_handbook&hl=en_AU&gl=AU&utm_source=Website&utm_campaign=AIH)
+
+## Acknowledgement
+
+The Department of Health and Aged Care acknowledges First Nations peoples as
+the Traditional Owners of Country throughout Australia, and their continuing
+connection to land, sea and community. We pay our respects to them and their
+cultures, and to all Elders both past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged
+Care](https://www.health.gov.au/)
+
+Back to top
+
+Link copied
+
+**Link** , **share** or **bookmark** directly to this section of the page.
+
+  *[AIDS]: acquired immunodeficiency syndrome
+  *[ZIG]: zoster immunoglobulin
+  *[GBS]: Guillain-Barré syndrome
+  *[DNA]: deoxyribonucleic acid
+  *[PHN]: post-herpetic neuralgia
+  *[23vPPV]: 23-valent pneumococcal polysaccharide vaccine
+  *[ATAGI]: Australian Technical Advisory Group on Immunisation
+  *[JE]: Japanese encephalitis
+  *[SC]: subcutaneous
+

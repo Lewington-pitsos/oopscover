@@ -1,0 +1,307 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Joint reconstructions - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+46324
+
+     Trapezium replacement arthroplasty or prosthetic interpositional replacement of carpometacarpal joint of thumb, including either or both of the following (if performed): (a) ligament and tendon transfers; (b) rebalancing procedures (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46324)
+46325
+
+     Excisional arthroplasty of carpometacarpal joint of thumb, with excision of adjacent trapezoid, including either or both of the following (if performed): (a) ligament and tendon transfers; (b) realignment procedures (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46325)
+46345
+
+     Resection arthroplasty of distal radioulnar joint of hand, partial or complete, including any of the following (if performed): (a) ligament or tendon reconstruction; (b) joint stabilisation; (c) synovectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46345)
+46408
+
+     Reconstruction of tendon of hand or wrist, by tendon graft, including either or both of the following (if performed): (a) harvest of graft; (b) tenolysis; other than a service associated with a service to which item 30023 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46408)
+46411
+
+     Reconstruction of complete flexor tendon pulley of hand or wrist, with graft, including harvest of graft (if performed)—one pulley (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46411)
+46414
+
+     Insertion of artificial tendon prosthesis in preparation for grafting of tendon of hand or wrist, including tenolysis (if performed), other than a service associated with a service to which item 30023 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46414)
+46417
+
+     Transfer of tendon of hand or wrist, for restoration of hand or digit motion, including harvest of donor motor unit (if performed)—one transfer (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46417)
+46420
+
+     Primary repair of extensor tendon of hand or wrist—one tendon (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46420)
+46423
+
+     Delayed repair of extensor tendon of hand or wrist, including tenolysis (if performed), other than a service associated with a service to which item 30023 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46423)
+46426
+
+     Primary repair of flexor tendon of hand or wrist, proximal to A1 pulley, other than a service to repair a tendon of a digit if 2 tendons of the same digit have been repaired during the same procedure—one tendon (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46426)
+46432
+
+     Primary repair of flexor tendon of hand or wrist, distal to A1 pulley, other than a service to repair a tendon of a digit if 2 tendons of the same digit have been repaired during the same procedure—one tendon (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46432)
+46434
+
+     Delayed repair of flexor tendon of hand or wrist, including tenolysis (if performed), other than a service associated with a service to which item 30023 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46434)
+46438
+
+     Closed pin fixation of mallet finger (Anaes.) [](/dynamic/MBSItems/JointReconstructions/46438)
+46441
+
+     Open reduction of mallet finger, including any of the following (if performed): (a) joint release; (b) pin fixation; (c) tenolysis (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46441)
+46442
+
+     MALLET FINGER with intra articular fracture involving more than one third of base of terminal phalanx - open reduction (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46442)
+46444
+
+     Reconstruction of Boutonniere or swan neck deformity of hand, including either or both of the following (if performed): (a) tendon graft harvest; (b) tendon transfer —one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46444)
+46450
+
+     Tenolysis of extensor tendon of hand or wrist, following tendon injury or graft, other than a service: (a) for acute, traumatic injury; or (b) associated with a service to which item 30023 applies —one ray (H) (Anaes.) [](/dynamic/MBSItems/JointReconstructions/46450)
+46453
+
+     Tenolysis of flexor tendon of hand or wrist, following tendon injury, repair or graft, other than a service: (a) for acute, traumatic injury; or (b) associated with a service to which item 30023 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46453)
+46456
+
+     Percutaneous tenotomy of digit of hand (Anaes.) [](/dynamic/MBSItems/JointReconstructions/46456)
+46492
+
+     Surgical correction of contracture of joint of hand, flexor or extensor tendon, involving tissues deeper than skin and subcutaneous tissue—one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46492)
+46495
+
+     Complete excision of one or more ganglia or mucous cysts of interphalangeal, metacarpophalangeal or carpometacarpal joint of hand, including any of the following (if performed): (a) arthrotomy; (b) osteophyte resections (c) synovectomy other than a service associated with a service to which item 30107 or 46336 applies—one joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46495)
+46498
+
+     Excision of ganglion of flexor tendon sheath of hand, including any of the following (if performed): (a) flexor tenosynovectomy; (b) sheath excision; (c) skin closure by any method other than a service associated with a service to which item 30107 or 46363 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46498)
+46500
+
+     Excision of ganglion of dorsal wrist joint of hand, including any of the following (if performed): (a) arthrotomy; (b) capsular or ligament repair (or both); (c) synovectomy other than a service associated with a service to which item 30107 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46500)
+46501
+
+     Excision of ganglion of volar wrist joint of hand, including any of the following (if performed): (a) arthrotomy; (b) capsular or ligament repair (or both); (c) synovectomy; other than a service associated with a service to which item 30107 or 46325 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46501)
+46502
+
+     Excision of recurrent ganglion of dorsal wrist joint of hand, including any of the following (if performed): (a) arthrotomy; (b) capsular or ligament repair (or both); (c) synovectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46502)
+46503
+
+     Excision of recurrent ganglion of volar wrist joint of hand, including any of the following (if performed): (a) arthrotomy; (b) capsular or ligament repair (or both); (c) synovectomy; other than a service associated with a service to which item 30107 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46503)
+46504
+
+     Neurovascular island flap, heterodigital, for pulp re-innervation and soft tissue cover (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46504)
+46507
+
+     Transposition or transfer of digit or ray on vascular pedicle of hand, including any of the following (if performed): (a) nerve transfer; (b) skin closure, by any means; (c) rebalancing procedures (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46507)
+46510
+
+     Surgical reduction of enlarged elements resulting from macrodactyly, including any of the following (if performed): (a) nerve transfer; (b) skin closure, by any means; (c) rebalancing procedures —one digit (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46510)
+46522
+
+     Open operation and drainage of infection for flexor tendon sheath of finger or thumb, including either or both of the following (if performed): (a) synovectomy; (b) tenolysis; other than a service associated with a service to which item 30023 applies—one digit (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/46522)
+47592
+
+     Repair or reconstruction (or both) of acute traumatic chondral injury to the distal femoral or proximal tibial articular surfaces of the knee, when chondral or osteochondral implants or transfers are utilised (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/47592)
+47593
+
+     Repair or reconstruction (or both) of acute traumatic chondral injury to the distal femoral and proximal tibial articular surfaces of the knee, using chondral or osteochondral implants or transfers (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/47593)
+47792
+
+     Joint stabilisation procedure of acromio-clavicular joint or scapulo-thoracic joint, including any of the following (if performed): (a) arthrotomy; (b) osteotomy, with or without fixation; (c) local tendon transfer; (d) local tendon lengthening or release; (e) ligament repair; (f) joint debridement; not being a service associated with a service to which another item in this Group applies (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/47792)
+48900
+
+     Shoulder, excision of coraco-acromial ligament or removal of calcium deposit from cuff or both (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48900)
+48903
+
+     Shoulder, decompression of subacromial space by acromioplasty, excision of coraco-acromial ligament and distal clavicle, or any combination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48903)
+48906
+
+     Shoulder, repair of rotator cuff, including excision of coraco-acromial ligament or removal of calcium deposit from cuff, or both—other than a service associated with a service to which item 48900 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48906)
+48909
+
+     Shoulder, repair of rotator cuff, including decompression of subacromial space by acromioplasty, excision of coraco-acromial ligament and distal clavicle, or any combination, other than a service associated with a service to which item 48903 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48909)
+48939
+
+     Shoulder, arthrodesis of, with synovectomy if performed (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48939)
+48948
+
+     SHOULDER, arthroscopic surgery of, involving any 1 or more of: removal of loose bodies; decompression of calcium deposit; debridement of labrum, synovium or rotator cuff; or chondroplasty - not being a service associated with any other arthroscopic procedure of the shoulder region(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48948)
+48951
+
+     SHOULDER, arthroscopic division of coraco-acromial ligament including acromioplasty - not being a service associated with any other arthroscopic procedure of the shoulder region(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48951)
+48958
+
+     Joint stabilisation procedure for multi-directional instability of shoulder, anterior or posterior repair, by open or arthroscopic means, including labral repair or reattachment (if performed), excluding bone grafting and removal of hardware, other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of performing a procedure on the shoulder region by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48958)
+48960
+
+     SHOULDER, reconstruction or repair of, including repair of rotator cuff by arthroscopic, arthroscopic assisted or mini open means; arthroscopic acromioplasty; or resection of acromioclavicular joint by separate approach when performed - not being a service associated with any other procedure of the shoulder region(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/48960)
+49104
+
+     Repair of one or more ligaments of the elbow, for acute instability—within 6 weeks after the time of injury (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49104)
+49105
+
+     Stabilisation of one or more ligaments of the elbow, for chronic instability, including harvesting of tendon graft—6 weeks or more after the time of injury (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49105)
+49121
+
+     Surgery of the elbow, by arthroscopic means, including any of the following (if performed): (a) chondroplasty; (b) drilling of defect; (c) osteoplasty; (d) removal of loose bodies; (e) release of contracture or adhesions; (f) treatment of epicondylitis; other than a service associated witha service to which another item in this Schedule applies if the service described in the other item is for the purpose of an arthroscopic procedure of the elbow (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49121)
+49215
+
+     Reconstruction of single or multiple ligaments or capsules of wrist, including any of the following (if performed): (a) arthrotomy; (b) ligament harvesting and grafting; (c) synovectomy; (d) tendon harvesting and grafting; (e) insertion of synthetic ligament substitute (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49215)
+49221
+
+     Treatment of wrist, by arthroscopic means, including any of the following (if performed): (a) drilling of defect; (b) removal of loose bodies; (c) release of adhesions; (d) synovectomy; (e) debridement; (f) resection of dorsal or volar ganglia; other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of performing an arthroscopic procedure of the wrist joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49221)
+49224
+
+     Osteoplasty of wrist, by arthroscopic means, including either or both of the following (if performed): (a) excision of the distal ulna; (b) total synovectomy; other than a service associated with a service to which another item in this Schedule applies if the service described in the other item is for the purpose of performing an arthroscopic procedure of the wrist joint—2 or more distinct areas (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49224)
+49227
+
+     Treatment of wrist by one of the following: (a) pinning of osteochondral fragment, by arthroscopic means; (b) stabilisation procedure for ligamentous disruption; (c) partial wrist fusion or carpectomy, by arthroscopic means; (d) fracture management; other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of performing an arthroscopic procedure of the wrist joint (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49227)
+49230
+
+     Total, hemi or interpositional prosthetic replacement of carpal bone of wrist, for trauma or emergency, including all of the following: (a) ligament and tendon rebalancing procedures; (b) limited wrist fusions; (c) limited bone grafting (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49230)
+49233
+
+     Excisional arthroplasty of single (or part of) carpal bone of wrist, when transfers of ligaments or tendons, or rebalancing procedures, are not required, including all of the following: (a) radial styloidectomy; (b) ulnar styloidectomy; (c) proximal hamate; (d) partial scaphoid; other than a service associated with a service to which another item in this Schedule applies if the service describedin the other item is for the purpose of performing a distal radial ulnar joint reconstruction, a proximal row carpectomy or another wrist procedure—applicable once for a single operation (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49233)
+49236
+
+     Stabilisation of soft tissue of distal radioulnar joint, with or without ligament or tendon grafting, including either or both of the following (if performed): (a) graft harvest; (b) triangular fibrocartilage complex repair or reconstruction (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49236)
+49503
+
+     Arthrotomy of knee, including one of the following: (a) meniscal surgery; (b) repair of collateral or cruciate ligament; (c) patellectomy; (d) single transfer of ligament or tendon; (e) repair or replacement of chondral or osteochondral surface (excluding prosthetic replacement); other than a service associated with a service to which another item in this Group applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49503)
+49506
+
+     Arthrotomy of knee, including 2 or more of the following: (a) meniscal surgery; (b) repair of collateral or cruciate ligament; (c) patellectomy; (d) single transfer of ligament or tendon; (e) repair or replacement of chondral or osteochondral surface (excluding prosthetic replacement); other than a service associated with a service to which another item in this Group applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49506)
+49536
+
+     Either: (a) repair of cruciate ligaments of knee; or (b) repair or reconstruction of collateral ligaments of knee; by open or arthroscopic means, including either or both of the following (if performed): (c) graft harvest; (d) intraarticular knee surgery; other than a service associated with a service to which another item of this Schedule applies if the service described in the other item is for the purpose of performing a procedure on the knee by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49536)
+49542
+
+     Reconstruction of anterior or posterior cruciate ligament of knee, by open or arthroscopic means, including any of the following (if performed): (a) graft harvest; (b) donor site repair; (c) meniscal repair; (d) collateral ligament repair; (e) extra-articular tenodesis; (f) any other associated intra-articular surgery; other than a service associated with a service to which another item of this Schedule applies if the service described in the other item is for the purpose of performing a procedure on the knee by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49542)
+49544
+
+     Reconstruction of 2 or more cruciate or collateral ligaments of knee, by open or arthroscopic means, including any of the following (if performed): (a) ligament repair; (b) graft harvest donor site repair; (c) meniscal repair; (d) any other associated intra-articular surgery; other than a service associated with a service to which another item of this Schedule applies if the service described in the other item is for the purpose of performing a procedure on the knee by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49544)
+49548
+
+     Knee, revision of patello-femoral stabilisation(H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49548)
+49551
+
+     Knee, revision of procedures to which item 49536 or 49542 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49551)
+49564
+
+     Stabilisation of patellofemoral joint of knee, by combined open and arthroscopic means, including either or both of the following (if performed): (a) medial soft tissue reconstruction and tendon transfer; (b) tibial tuberosity transfer with bone graft and internal fixation; other than a service associated a service to which another item of this Schedule applies if the service describedin the other item is for the purpose of performing a procedure on the knee by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49564)
+49565
+
+     Reconstruction of patellofemoral joint of knee, by combined open and arthroscopic means, including: (a) both of the following: (i) medial soft tissue reconstruction; (ii) tibial tuberosity transfer; and (b) any of the following (if performed): (i) bone graft; (ii) internal fixation; (iii) trochleoplasty; other than a service associated a service to which another item of this Schedule applies if the service describedin the other item is for the purpose of performing a procedure on the knee by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49565)
+49570
+
+     Diagnosis of knee, by arthroscopic means, when the pre-procedure diagnosis is undetermined, including either or both of the following (if performed): (a) biopsy; (b) lavage (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49570)
+49572
+
+     Partial meniscectomy of knee, by arthroscopic means, for atraumatic meniscus tear, other than a service to which another item of this Schedule applies if the service described in the other item is for the purpose of treating osteoarthritis (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49572)
+49574
+
+     Removal of loose bodies of knee, by arthroscopic means—one or more bodies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49574)
+49576
+
+     Repair of chondral lesion of knee, by arthroscopic means, including either or both of the following (if performed): (a) microfracture; (b) microdrilling; other than a service performed in combination with a service to which another item of this Schedule applies if the servicedescribedin the other item is for the purpose of performing chondral or osteochondral grafts (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49576)
+49578
+
+     Release of soft tissue, lateral release or osteoplasty of knee, by arthroscopic means, other than a service performed in combination with a service to which another item of this Schedule applies if the service describedin the other item is for the purpose of stabilising the patellofemoral joint of the knee (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49578)
+49580
+
+     Partial meniscectomy of knee, by arthroscopic means, for traumatic meniscus tear (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49580)
+49582
+
+     Meniscal repair of knee, by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49582)
+49584
+
+     Chondral, osteochondral or meniscal graft of knee, by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49584)
+49586
+
+     Synovectomy of knee, by arthroscopic means, for neoplasia or inflammatory arthropathy, other than a service to which another item of this Schedule applies if the service describedin the other item is for the purpose of treating uncomplicated osteoarthritis (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49586)
+49703
+
+     Surgery of ankle joint, by arthroscopic means, including any of the following (if performed): (a) cartilage treatment; (b) removal of loose bodies; (c) synovectomy; (d) excision of joint osteophytes; other than a service associated with a service to which another item in this Group applies if the service describedin the other item is for the purpose of performing a procedure on the ankle by arthroscopic means (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49703)
+49706
+
+     Arthrotomy of joint of ankle, for infection, including removal of loose bodies and joint debridement, including release of joint contracture (if performed) (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49706)
+49709
+
+     Stabilisation of ligament of ankle or subtalar joint (or both), including any of the following (if performed): (a) capsulotomy; (b) joint release; (c) synovectomy; (d) joint debridement; —one ligament complex, each incision (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/49709)
+50333
+
+     Excision of tarsal coalition, with interposition of muscle, fat graft or similar graft, including any of the following (if performed): (a) capsulotomy; (b) synovectomy; (c) excision of osteophytes; —one coalition (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/JointReconstructions/50333)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

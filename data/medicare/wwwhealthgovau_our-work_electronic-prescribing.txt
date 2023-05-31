@@ -1,0 +1,475 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Our work](/our-work)
+
+[Our work](/our-work)
+
+# Electronic prescribing
+
+Electronic prescribing is now widely available. It provides an option for
+prescribers and their patients to use an electronic prescription as an
+alternative to paper prescriptions. Paper prescriptions are still available.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Electronic prescribing&url=https://www.health.gov.au/our-work/electronic-prescribing)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/our-work/electronic-prescribing)
+    * [Email](mailto:?subject=Electronic prescribing&body=https://www.health.gov.au/our-work/electronic-prescribing)
+
+Loading...
+
+On this page
+
+## **About electronic prescribing**
+
+Electronic prescribing allows prescribers and their patients to use an
+electronic prescription. It forms part of an [Australian Government budget
+measure](https://www.health.gov.au/resources/publications/health-portfolio-
+budget-statements-2018-19) to make the PBS more efficient.
+
+Electronic prescriptions are part of the broader digital health and medicines
+safety framework. They enable the prescribing, dispensing and claiming of
+medicines, without the need for a paper prescription.
+
+Electronic prescribing does not fundamentally change existing prescribing and
+dispensing processes. Patients can still choose which pharmacy they attend to
+fill their prescription.
+
+While paper prescriptions are still available, prescribers and patients can
+choose an electronic prescription to be issued instead.
+
+## **Why electronic prescribing is important**
+
+Electronic prescribing is important because it:
+
+  * provides greater choice for patients
+  * makes prescribing and dispensing medicines more efficient
+  * may reduce prescribing and dispensing errors
+  * supports electronic medication charts in hospitals and residential aged care facilities
+  * removes the need for handling and storing a physical paper prescription
+  * supports digital health services such as telehealth services to ensure continuity of patient care
+  * provides an opportunity to protect community members and health care providers from exposure to infectious diseases (for example, COVID-19)
+  * maintains patient privacy and integrity of personal information.
+
+## **Goals of the initiative**
+
+Electronic prescribing aims to provide convenience and choice to patients
+while improving PBS efficiency, compliance and drug safety.
+
+## **Meeting our goals**
+
+We have implemented electronic prescribing. The Australian Government has
+changed legislation to make electronic prescribing of PBS medicines legal.
+States and territories have made changes to their legal frameworks to allow
+for electronic prescriptions in their jurisdiction.
+
+We are continuing to work with the [Australian Digital Health
+Agency](https://www.digitalhealth.gov.au/) to deliver the [technical
+framework](https://developer.digitalhealth.gov.au/resources/articles/electronic-
+prescribing) to help clinical software systems create, collect and store
+electronic prescriptions. This technical framework details the requirements
+for clinical software to:
+
+  * maintain patient choice of prescriber and pharmacy for supply of their medicines
+  * adhere to privacy and security principles
+  * ensure alignment with legislation.
+
+Services Australia has also [changed the PBS claim-for-payment
+system](https://www.servicesaustralia.gov.au/organisations/health-
+professionals/services/medicare/pbs-pharmacists/claiming/claiming-online-pbs-
+medicines) to support the new arrangements.
+
+## **Timelines**
+
+The rollout of electronic prescribing is nearing completion. Clinical software
+that can create, collect and store an electronic prescription is increasingly
+available across Australia.
+
+The Australian Government encourages community pharmacies and prescribers to
+learn about using electronic prescriptions. This includes getting software
+ready and participating in training opportunities the [Australian Digital
+Health Agency](https://www.digitalhealth.gov.au/get-started-with-digital-
+health/electronic-prescriptions), peak bodies and software providers are
+delivering.
+
+See [Electronic prescriptions](https://www.digitalhealth.gov.au/get-started-
+with-digital-health/electronic-prescriptions) at the Australian Digital Health
+Agency site.
+
+## **PBS regulatory framework**
+
+The regulatory framework to allow for electronic prescribing under the PBS has
+several components.
+
+Changes to the [National Health (Pharmaceutical Benefits) Regulations
+2017](https://www.legislation.gov.au/Latest/F2019C00923) allow the use of an
+electronic prescription under the PBS.
+
+Four instruments under these regulations support the use of electronic
+prescriptions, including electronic prescriptions that are medication charts.
+
+  * The [Form of the Electronic Prescription 2019](https://www.health.gov.au/resources/publications/form-of-the-electronic-prescription-2019) defines the information fields required when a PBS prescriber writes an electronic prescription.
+  * The [Electronic Prescriptions Information Technology Requirements 2019](https://www.health.gov.au/resources/publications/electronic-prescriptions-information-technology-requirements-instrument-2019) details system requirements for participating in electronic prescribing. 
+  * The Form of the PBS Hospital Medication Chart details requirements for paper and electronic forms of medication charts for use in hospitals.
+  * The Form of the National Residential Medication Chart details requirements for paper and electronic forms of medication charts for use in residential care facilities.
+
+The following policies guide electronic prescribing:
+
+  * [Electronic Prescribing Active Script List (ASL) Privacy Framework](https://www.health.gov.au/resources/publications/electronic-prescribing-active-script-list-privacy-framework)
+  * [Electronic Prescriptions Security and Access Policy](https://www.health.gov.au/resources/publications/electronic-prescriptions-security-and-access-policy)
+  * [Electronic Prescriptions Privacy Policy](https://www.health.gov.au/resources/publications/electronic-prescriptions-privacy-policy)
+  * [Electronic Prescriptions Data Usage Policy](https://www.health.gov.au/resources/publications/electronic-prescriptions-data-usage-policy)
+  * [PBS hospital medication chart](https://www.safetyandquality.gov.au/our-work/medication-safety/medication-charts/national-standard-medication-charts/pbs-hospital-medication-chart)
+
+  * [National residential medication chart](https://www.safetyandquality.gov.au/our-work/medication-safety/national-residential-medication-chart)
+
+For further information regarding the Commonwealth Privacy requirements, see
+the [Electronic Prescribing Privacy Impact Assessment Public
+Summary](https://www.health.gov.au/resources/publications/summary-of-privacy-
+impact-assessment-on-the-electronic-prescribing-project).
+
+Further information about the Department of Health’s privacy policy can be
+found [online](https://www.health.gov.au/using-our-websites/privacy).
+
+Changes to the [National Health (Claims and under co-payment data) Rules
+2012](https://www.legislation.gov.au/Latest/F2020C00018) allow PBS claims from
+electronic prescriptions. The rules state what information approved suppliers
+must provide about supplying PBS medicines from electronic prescriptions.
+
+## **Information for prescribers and dispensers**
+
+### Writing a prescription
+
+A prescriber can write prescriptions for dispensing by pharmacists in the
+following 2 ways:
+
+  1. Use standard prescription paper forms. 
+  2. Write prescriptions electronically – you will need to update your clinical information system to do this. Read about [setting up electronic prescribing](https://www.digitalhealth.gov.au/get-started-with-digital-health/electronic-prescriptions/for-prescribers), or you can contact your software provider directly. 
+
+All prescriptions must follow certain rules. Read more on [rules for
+prescribing PBS medicines](https://www.pbs.gov.au/info/healthpro/explanatory-
+notes/section1/Section_1_2_Explanatory_Notes) and [information for
+pharmacists](https://www.pbs.gov.au/info/healthpro/for-pharmacists). You must
+continue to adhere to the [National Health Act
+1953](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.legislation.gov.au%2FDetails%2FC2020C00062&data=02%7C01%7CGaby.Suchard%40digitalhealth.gov.au%7Ce8fc0c035d1142d4167908d7f647276a%7C49c6971ed0164e1ab04195533ede53a1%7C0%7C0%7C637248657792187740&sdata=kMTJWrt9fX981P2%2FVm6bLrQikllNrPpoAlt9hyS%2BMuE%3D&reserved=0)
+and relevant state or territory regulations when prescribing and supplying
+medicines.
+
+### **Benefits of using electronic prescribing**
+
+Prescribers can create electronic prescriptions in their software during
+consultations, where their software is conformant. A unique electronic token
+(in the form of a QR code) is created and sent to the patient as an SMS or
+email. The token is a key that unlocks the electronic prescription. Patients
+can provide the token to the pharmacist to enable dispense and supply of the
+medicines.
+
+There are many benefits to electronic prescribing, including enabling
+prescribers and pharmacists to assist their patients in a way that was not
+previously possible.
+
+For example, prescribers can print evidence of an electronic prescription in
+the form of a token and fax/email to a pharmacy with the patient's consent. As
+long as the token is legible, pharmacists can scan it and safely dispense the
+electronic prescription.
+
+As the electronic prescription is linked to the token, it can only be
+downloaded once. Therefore, the risk of safety and quality and fraudulent
+activity is greatly reduced.
+
+Another advantage to electronic prescribing is the Active Script List (ASL).
+
+The ASL is a token management system that provides a list of the patient’s
+active prescriptions. It has the ability to display all current active
+eligible barcoded paper and electronic prescriptions any time a
+prescriber/pharmacist accesses the patient's ASL. Patients are able to elect
+which prescriptions are sent to their ASL and which prescribers and pharmacist
+can view their ASL.
+
+From this list, the pharmacist can dispense electronic prescriptions,
+including electronic prescriptions that were issued before the ASL was
+registered where the script has repeats remaining to be filled. Patients on
+multiple medicines are encouraged to talk to their pharmacist about using an
+ASL.
+
+Find out more about the [Active Script
+List](https://www.digitalhealth.gov.au/initiatives-and-programs/electronic-
+prescriptions).
+
+### **I** **mage-based prescribing**
+
+Arrangements for image-based prescribing in hospitals outlined in the National
+Health (COVID-19 Supply of Pharmaceutical Benefits) Special Arrangement 2020
+(the Special Arrangement) ends on 31 March 2023. However, the requirement for
+a patient to provide written acknowledgment (e.g. a signature) for
+prescriptions will continue to not be enforced under the Special Arrangement
+until **31 March 2024**.
+
+Electronic prescribing is now widely available in Australia and provides an
+option for supporting telehealth consultations and enabling supply of
+medicines. Other prescribing options, such as urgent supply arrangements which
+existed prior to the COVID-19 pandemic will continue.
+
+Factsheets on arrangements for supply of medicines to support telehealth
+patients in the community setting are available for
+[prescribers](/resources/publications/covid-19-national-health-plan-
+prescriptions-via-telehealth-a-guide-for-prescribers "COVID-19 National Health
+Plan – prescriptions via telehealth – a guide for prescribers") and
+[pharmacists](/resources/publications/covid-19-national-health-plan-
+prescriptions-via-telehealth-a-guide-for-pharmacists "COVID-19 National Health
+Plan – prescriptions via telehealth – a guide for pharmacists").
+
+Although the Special Arrangement ends on 31 March 2023, residential care
+services can continue using copies of medication charts for PBS prescribing.
+This is allowed by section 45(2) of the National Health (Pharmaceutical
+Benefits) Regulations 2017 which specifies that an approved supplier may
+supply a pharmaceutical benefit on the basis of a medication chart
+prescription only if the supplier has seen a medication chart or a copy of the
+medication chart that includes all prescribing information requirements.
+
+A person does not need to provide a written acknowledgement that they have
+received a benefit (by signature) on the prescription (including a repeat
+authorisation or deferred supply) if it is not practical to do so, and the
+supplier is not required to certify the date of supply and the reason it was
+not practical to do so.
+
+Signature requirements outlined within the Special Arrangement will continue
+until **31 March 2024**.
+
+From 1 April 2023, Safety Net Prescription Record Forms (PRFs), whether
+handwritten or not, must be signed by pharmacists. PRFs not signed by the
+pharmacist after this date will not be accepted and there will be no
+transition period after this provision ceases in the Special Arrangement 31
+March 2023. The signature requirements for PRFs will revert to the previous
+requirements set out within the National Health Act 1953.
+
+Prescriptions written before 31 March 2023 with existing repeats that were
+dispensed under image-based hospital prescribing will continue to be honoured
+after 31 March 2023. These must continue to be retained by the pharmacist for
+subsequent supply of the medicine, until the prescription runs out or expires.
+
+While image-based prescribing is ending, healthcare providers also continue to
+have utilisation of options that existed prior to the COVID-19 pandemic to
+enable remote support to patients. For example, if a patient prefers to
+receive their paper-based prescription following a telehealth or telephone
+attendance, they, or someone known to them, may still collect their
+prescription in person or receive it by post and arrange supply of medicines
+separately in line with existing processes.
+
+## **State and territory requirements**
+
+### **Australian Capital Territory**
+
+In the Australian Capital Territory, the [Medicines, Poisons and Therapeutic
+Goods Act 2008](https://www.legislation.act.gov.au/a/2008-26) enables
+electronic prescribing.
+
+Read more about [medicines management in the ACT during
+COVID-19](https://www.health.act.gov.au/health-professionals/pharmaceutical-
+services/medicines-management-during-covid-19).
+
+### **New South Wales**
+
+In New South Wales, an
+[exemption](https://www.health.nsw.gov.au/pharmaceutical/Pages/electronic-
+prescribing.aspx) from the New South Wales Poisons and Therapeutic Goods
+Regulation enables electronic prescribing. See more information for:
+
+  * [pharmacists](https://www.health.nsw.gov.au/pharmaceutical/Pages/electronic-prescribing.aspx#bookmark4)
+  * [prescribers](https://www.health.nsw.gov.au/pharmaceutical/Pages/electronic-prescribing.aspx#bookmark3).
+
+### **Northern Territory**
+
+In the Northern Territory the [Electronic Transactions (Northern Territory)
+Act 2000](https://legislation.nt.gov.au/en/Bills/Electronic-Transactions-
+Northern-Territory-Bill-2000?format=assented) enables electronic prescribing.
+Read about [medicines and poisons control in the Northern
+Territory](https://health.nt.gov.au/professionals/medicines-and-poisons-
+control2/medicines-and-poisons-control).
+
+### **Queensland**
+
+In Queensland, the [Medicines and Poisons Act
+2019](https://www.legislation.qld.gov.au/view/whole/html/inforce/current/act-2019-026)
+and supporting [Medicines and Poisons (Medicines) Regulation
+2021](https://www.legislation.qld.gov.au/view/whole/html/inforce/current/sl-2021-0140)
+enables systems that meet the conditions specified in the [Departmental
+Standard – Requirements for an electronic prescription management system
+(Version
+1)](https://www.health.qld.gov.au/__data/assets/pdf_file/0028/1108936/ds-
+electronic-prescription-management-system.pdf), to electronically prepare,
+transfer, retrieve and record prescription information (electronic
+prescription) for a medicine, and to record dispensing activities.
+
+### **South Australia**
+
+In South Australia, the [Controlled Substances (Poisons) Regulations
+2011](https://www.legislation.sa.gov.au/LZ/C/R/Controlled%20Substances%20\(Poisons\)%20Regulations%202011.aspx)
+enable electronic prescriptions. Read [information for consumers, health
+professionals and software
+vendors](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/clinical+resources/clinical+programs+and+practice+guidelines/medicines+and+drugs/medicines+and+drugs).
+
+### **Tasmania**
+
+In Tasmania, Regulations 21 and 46 of the [Poisons Regulations
+2018](https://www.legislation.tas.gov.au/view/html/inforce/current/sr-2018-079)
+enable electronic prescriptions, where approved by the Tasmanian Secretary for
+Health. The Secretary for Health must approve any software system used in
+Tasmania to prescribe, transmit, or dispense electronic prescriptions. Read
+about [electronic prescribing in
+Tasmania](https://www.health.tas.gov.au/health-topics/medicines-and-poisons-
+regulation/medicines-and-poisons-regulation-information-health-
+professionals/electronically-transmitted-prescriptions).
+
+### **Victoria**
+
+Read about [electronic prescribing in
+Victoria](https://www.health.vic.gov.au/drugs-and-poisons/recent-
+updates#electronic-prescribing).
+
+### **Western Australia**
+
+In Western Australia, the [Medicines and Poisons Regulations
+2016](https://www.legislation.wa.gov.au/legislation/statutes.nsf/main_mrtitle_13861_homepage.html)
+enable electronic prescribing. The Western Australian Department of Health
+must approve each product that is part of an electronic prescribing system.
+Read about [electronic prescribing in Western
+Australia](https://ww2.health.wa.gov.au/Articles/A_E/Electronic-Prescribing-
+Systems).
+
+## **Learn more**
+
+See [Claiming online for PBS
+medicines](https://www.servicesaustralia.gov.au/organisations/health-
+professionals/services/medicare/pbs-pharmacists/claiming/claiming-online-pbs-
+medicines) for more information on the changes made to the PBS claim-for-
+payment system.
+
+Read the [summary of COVID-19 regulatory
+changes](https://www.psa.org.au/coronavirus/regulatory-changes/) impacting
+pharmacy across Australia.
+
+## **Contacts**
+
+Contact the Department of Health with questions about the legislative
+framework for electronic prescribing.
+
+Contact the Australian Digital Health Agency with questions about the
+electronic prescribing technical framework.
+
+Contact Services Australia with questions about the:
+
+  * PBS or Repatriation Schedule of Pharmaceutical Benefits (RPBS) claim systems
+  * Healthcare identifiers service.
+
+![](/themes/custom/hga/images/contact-aus-gov.png)
+
+###  [ Electronic prescribing contact ](/contacts/electronic-prescribing-
+contact?language=en)
+
+Contact us with questions about the Pharmaceutical Benefits Scheme (PBS)
+legislative framework for electronic prescribing.
+
+[ePrescribing@health.gov.au](mailto:ePrescribing@health.gov.au)
+
+Last updated:
+
+31 March 2023
+
+Tags:
+
+  * [Medicare](/topics/medicare)
+  * [Health technologies and digital health](/topics/health-technologies-and-digital-health)
+  * [Medicines](/topics/medicines)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

@@ -1,0 +1,133 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Hernia and appendix - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+30574
+
+     NOTE: Multiple Operation and Multiple Anaesthetic rules apply to this item Appendicectomy, when performed in conjunction with another intra-abdominal procedure and during which a specimen is collected and sent for pathological testing (Anaes.) [](/dynamic/MBSItems/HerniaAppendix/30574)
+30615
+
+     Strangulated, incarcerated or obstructed hernia, repair of, without bowel resection, on a patient 10 years of age or over (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/30615)
+30640
+
+     Repair of large and irreducible scrotal hernia, if surgery exceeds 2 hours, in a patient 10 years of age or over, other than a service to which item 30615, 30621, 30648, 30651 or 30655 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/30640)
+30645
+
+     Appendicectomy, on a patient under 10 years of age, other than a service to which item 30574 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/30645)
+30646
+
+     Laparoscopic appendicectomy, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/30646)
+30648
+
+     Femoral or inguinal hernia or infantile hydrocele, repair of, by open or minimally invasive approach, on a patient 10 years of age or over,otherthan a service to which item 30615 or 30651 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/30648)
+30720
+
+     Appendicectomy, on a patient 10 years of age or over, whether performed by:(a) laparoscopy or right iliac fossa open incision; or(b) conversion of a laparoscopy to an open right iliac fossa incision;other than a service to which item 30574 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/30720)
+43805
+
+     UMBILICAL, EPIGASTRIC OR LINEA ALBA HERNIA, repair of, on a patient under 10 years of age (Anaes.) [](/dynamic/MBSItems/HerniaAppendix/43805)
+43835
+
+     STRANGULATED, INCARCERATED OR OBSTRUCTED HERNIA, repair of, without bowel resection, on apatient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/43835)
+43837
+
+     CONGENITAL DIAPHRAGMATIC HERNIA, repair by thoracic or abdominal approach, with diagnosis confirmed in the first 24 hours of life (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/43837)
+43838
+
+     Diaphragmatic hernia, congential repair of, by thoracic or abdominal approach, not being a service to which any of items 31569 to 31581 apply, on a patient under 10 years of age (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/43838)
+43841
+
+     Femoral or inguinal hernia or infantile hydrocele, repair of, on a patient under 10 years of age, other than a service to which item 30651 or 43835 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/43841)
+43939
+
+     VENTRAL HERNIA following neonatal closure of exomphalos or gastroschisis, repair of (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/43939)
+44108
+
+     Inguinal hernia, laparoscopic or open repair of, at age less than 12 months (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/44108)
+44111
+
+     Obstructed or strangulated inguinal hernia,laparoscopic or open repair of, at age less than 12 months, including orchidopexy when performed (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/44111)
+44114
+
+     Inguinal hernia, laparoscopic or open repair of, at age less than 12 months when orchidopexy also required (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/HerniaAppendix/44114)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

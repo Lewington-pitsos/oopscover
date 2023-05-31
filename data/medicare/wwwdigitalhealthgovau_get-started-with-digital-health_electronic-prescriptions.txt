@@ -1,0 +1,309 @@
+Skip to main content
+
+[ Australian Digital Health Agency ](/) [ Australian Digital Health Agency for
+Healthcare Providers ](/healthcare-providers)
+
+Open Search
+
+Open Menu
+
+  * Open/Close Menu [ COVID-19 ](/covid-19-support)
+    * [ Your COVID-19 information in one place ](/initiatives-and-programs/my-health-record/covid-19-dashboard)
+    * [ Get proof of vaccination from My Health Record ](/initiatives-and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-record)
+    * [ What to do if information is missing ](/initiatives-and-programs/my-health-record/whats-inside/incorrect-or-missing-information)
+    * [ Get a My Health Record without a Medicare or DVA card ](/initiatives-and-programs/my-health-record/getting-started/set-up-a-record-without-medicare-or-dva-benefits)
+    * [ View My Health Record using an app ](/initiatives-and-programs/my-health-record/manage-your-record/view-my-health-record-using-an-app)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+  * Open/Close Menu [ Initiatives ](/initiatives-and-programs#Initiatives)
+    * [ My Health Record ](/initiatives-and-programs/my-health-record)
+    * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+    * [ Telehealth ](/initiatives-and-programs/telehealth)
+    * [ my health app ](/myhealth)
+  * Open/Close Menu [ Programs ](/initiatives-and-programs#Programs)
+    * [ Cyber security ](/initiatives-and-programs/cyber-security)
+    * [ National Digital Health Strategy ](/about-us/strategies-and-plans/national-digital-health-strategy-and-framework-for-action "National Digital Health Strategy")
+  * Open/Close Menu [ Newsroom ](/newsroom)
+    * [ Media releases ](/newsroom/media-releases)
+    * [ Podcasts ](/newsroom/podcasts)
+    * [ Newsletters ](/newsroom/newsletters "Find the latest information, news and insights on digital health in our newsletter series.")
+    * [ Digital Bytes ](/newsroom/digital-bytes "Get the latest insights and news from key healthcare providers, organisations and leaders.")
+    * [ Blogs ](/newsroom/blogs)
+  * Open/Close Menu [ Support ](/support "Support")
+    * [ Contact us ](/support/contact-us)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+    * [ Subscribe ](/support/subscribe)
+    * [ Glossary ](/support/glossary)
+    * [ Reporting fraud ](/support/reporting-fraud)
+  * Open/Close Menu [ About ](/about-us)
+    * [ Strategies and plans ](/about-us/strategies-and-plans)
+    * [ Organisational structure ](/about-us/board-members-and-executive-team)
+    * [ Policies, privacy and reporting ](/about-us/policies-privacy-and-reporting)
+    * [ Annual reports ](/about-us/annual-reports)
+    * [ Our websites ](/about-us/our-websites)
+    * [ Careers ](/careers)
+
+Search
+
+  * [For everyone](/)
+  * [For healthcare providers](/healthcare-providers)
+  * [For mhr everybody](/initiatives-and-programs/my-health-record)
+  * [For mhr hcp](/node/1688)
+  * [For ndhs](/ndhs)
+
+  * [ Careers ](/careers)
+  * [ Contact ](/support/contact-us)
+  * [ My Health Record (myGov) ](https://my.gov.au)
+
+## Breadcrumb
+
+  * [Home](/)
+  * [Initiatives and programs](/initiatives-and-programs)
+  * Electronic prescriptions 
+
+# Electronic prescriptions
+
+A convenient alternative to paper prescriptions.
+
+## Getting started
+
+  * For everyone
+  * For healthcare providers
+
+During your consultation
+
+  * Ask for an electronic prescription instead of a paper prescription.
+  * Your doctor will send you a unique QR barcode known as a 'token' via SMS or email to your mobile phone or computer.
+  * You will get a separate token for each medicine you are prescribed.
+  * Check that you have received your token before you finish the consultation.
+
+Getting your medicine
+
+At the pharmacy:
+
+  * Your pharmacist will scan the token as a key to unlock the electronic prescription from an encrypted and secure electronic prescription delivery service.
+  * Once you receive your medicine, you should delete the token that was used to get that medicine.
+  * If you have repeats on your prescription, your pharmacy will send you a new token for your next repeat which you will need to give to the pharmacist when it is time to get your medicine.
+  * If you accidentally lose or delete the SMS or email with your electronic prescription token, you can ask for it to be resent. For original prescriptions, contact the prescriber. For repeats, contact the pharmacy that issued the repeat.
+  * If your pharmacy does home delivery, you can forward your token to them instead of going into the pharmacy.
+
+Information for prescribers
+
+If you are a prescriber, [find out more](/healthcare-providers/initiatives-
+and-programs/electronic-prescribing/for-prescribers "For prescribers").
+
+Information for dispensers
+
+If you are a dispenser, [find out more](/healthcare-providers/initiatives-and-
+programs/electronic-prescribing/for-dispensers "For dispensers").
+
+### Need support?
+
+#### General enquiries
+
+Contact us with questions about electronic prescribing or electronic
+prescriptions  
+ **Phone:** [1300 901 001](tel:1300 901 001)  
+8am - 5pm (AEST/AEDT) Monday - Friday  
+ **Email:**[ [email protected]](/cdn-cgi/l/email-
+protection#87efe2ebf7c7e3eee0eef3e6ebefe2e6ebf3efa9e0e8f1a9e6f2)  
+ **Online:**[Contact Us form](/support/contact-us "Contact us")
+
+### Over 130 million electronic prescriptions have been issued since May 2020,
+by more than 56,000 prescribers - GPs and nurse practitioners.
+
+\- March 2023
+
+## What is an electronic prescription?
+
+An electronic prescription is a digital version of a paper prescription. They
+are a safe and convenient alternative to paper prescriptions. You can choose
+to receive an electronic prescription from your healthcare provider when you
+next need a prescription, or you can request for it to be sent to your [Active
+Script List (ASL)](/newsroom/blogs/active-ingredient-prescribing#ASL "Active
+Ingredient Prescribing").
+
+The majority of pharmacies are set up to dispense medicines using an
+electronic prescription.
+
+### How to get an electronic prescription
+
+####
+
+#### During your consultation
+
+  * If you choose to receive an electronic prescription, your doctor will send a SMS or email to your mobile phone. It will contain a link to a ‘token’ which contains your prescription information. Please speak to your healthcare provider for other options if you do not have a mobile device. 
+
+  * You will receive a separate token for each medicine you are prescribed.
+
+  * Check that you have received your token before you finish the consultation.
+
+  * Alternatively, if you have signed up for an Active Script List (ASL) you can ask your doctor to send your electronic prescription straight to your list. 
+
+#### Getting your medicine from the pharmacy
+
+  * Visit the pharmacy of your choice and present your token. They will scan the token, provide you with the medicine and offer professional advice.
+  * To save time, you may forward your token directly to the pharmacy to have it ready for collection or delivered to your home (if this service is available).
+  * If you are unable to go into the pharmacy, you can forward your token to a friend/family member/carer to collect your medicine on your behalf. 
+
+#### Obtaining and storing repeat prescriptions
+
+  * If you have repeats on your prescription, your pharmacy will send you a new token by SMS or email to use when you require more medicine. 
+  * You will need to use this new token at your preferred pharmacy when it is time to get your next supply of medicine.
+
+> #### If you accidentally lose or delete the SMS or email with your
+> electronic prescription token, you can ask for it to be resent. For original
+> prescriptions, contact the prescriber. For repeats, contact the pharmacy
+> that issued the repeat.
+
+### What are the benefits?
+
+Most medicines can be prescribed using an electronic prescription. The message
+with a link to your electronic prescription is stored on your digital device,
+so you can access it whenever you’re ready - saving you time, streamlining the
+process and improving medicine safety.
+
+  * There is no need to carry paper and this reduces the risk of losing scripts. 
+  * Electronic prescriptions provide a more convenient option if you travel frequently.
+
+### Apps to manage electronic prescriptions
+
+You can manage your electronic prescriptions through a mobile app. Your local
+pharmacy may have their own app which can help you more easily manage your
+electronic prescription tokens. Please speak to your pharmacist for more
+information or see the list of [mobile apps conformant for
+ePrescribing](/about-us/policies-privacy-and-reporting/registers "Registers").
+
+## What is an Active Script List (ASL)?
+
+#### A token management solution for all your electronic prescriptions and
+repeats
+
+An Active Script List is a digital list of your electronic prescriptions and
+can be a convenient option if you take multiple medications.
+
+Once registered, you no longer need to keep track of each electronic
+prescription token. Having an Active Script List means you can walk into a
+participating pharmacy, give consent for them to access your list, and have
+that pharmacy dispense your medicines.
+
+Ask your pharmacy about registering for an Active Script List.
+
+### How to get an Active Script List
+
+###
+
+### Managing multiple electronic prescriptions using the Active Script List
+
+  * To set up your list, visit your pharmacy with a mobile phone and [100 points of identification (PDF, 83.08 KB)](/sites/default/files/documents/documentary-evidence-of-identity.pdf "documentary-evidence-of-identity.pdf"). 
+  * After you have registered, any electronic prescription that you receive will be automatically added to your Active Script List. You can choose for some medicines not to be added by speaking with your doctor. 
+  * You may also receive a SMS or email with a link to a token if you choose.
+  * When you visit your pharmacy, ask them to access your Active Script List and dispense your medicine. 
+
+### What are the benefits?
+
+  * You no longer need to keep track of multiple electronic prescription tokens.
+  * 85% of pharmacies across Australia now have access to the Active Script List and can dispense your medicines providing you have given them consent. 
+  * Active Script List assists your doctor and pharmacist to help manage your medicines more easily.
+  * If your pharmacy offers home delivery, you do not need to leave your home to receive your medicines.
+
+To request the removal of a pharmacy’s access to your Active Script List or to
+discontinue your Active Script List, email the Active Script List Registry
+provider via [[email protected]](/cdn-cgi/l/email-
+protection#335a5d555c735e56575a5052475a5c5d585d5c445f565754561d505c5e1d5246).
+
+## Support and resources
+
+#### Online learning module
+
+We have developed an online learning module to help you understand more about
+electronic prescriptions and the Active Script List. You will learn
+
+  * How electronic prescriptions and the Active Script List work 
+  * What are the benefits are
+  * Simple tips for managing your medicines with electronic prescriptions, and 
+  * How to access them. 
+
+[Access the online learning
+module.](https://training.digitalhealth.gov.au/mod/page/view.php?id=961)
+
+## Popular links
+
+### Try a telehealth consultation
+
+healthdirect.gov.au
+
+[healthdirect.gov.au](https://www.healthdirect.gov.au/australian-health-
+services)
+
+### Set up your record online
+
+[Set up your record online](/initiatives-and-programs/my-health-
+record/getting-started/set-up-your-record-online)
+
+### My Health Record
+
+[My Health Record](/initiatives-and-programs/my-health-record)
+
+### Frequently asked questions
+
+[Frequently asked questions](/support/frequently-asked-questions)
+
+### Did you find this page helpful?
+
+Yes No
+
+Feedback (required)
+
+## Follow
+
+  * [ Twitter ](https://twitter.com/AuDigitalHealth)
+  * [ Facebook ](https://www.facebook.com/AuDigitalHealth)
+  * [ LinkedIn ](https://au.linkedin.com/company/australian-digital-health-agency)
+  * [ YouTube ](https://www.youtube.com/user/eHealthAus)
+
+## Australian Digital Health Agency
+
+  * [ About us ](/about-us)
+  * [ Careers ](/careers)
+  * [ Contact us ](/support/contact-us)
+  * [ Newsroom ](/newsroom)
+  * [ Digital health for healthcare providers ](/healthcare-providers?ln=3)
+  * [ Developer Centre ](https://developer.digitalhealth.gov.au/)
+  * [ National Clinical Terminology Service ](https://www.healthterminologies.gov.au/)
+
+## Initiatives and programs
+
+  * [ My Health Record ](/initiatives-and-programs/my-health-record)
+  * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+  * [ Telehealth ](/initiatives-and-programs/telehealth)
+  * [ More digital health tools ](/initiatives-and-programs)
+
+By operation of the _Public Governance, Performance and Accountability
+(Establishing the Australian Digital Health Agency) Rule 2016_ , on 1 July
+2016, all the assets and liabilities of NEHTA will vest in the Australian
+Digital Health Agency. In this website, on and from 1 July 2016, all
+references to "National E-Health Transition Authority" or "NEHTA" will be
+deemed to be references to the Australian Digital Health Agency. PCEHR means
+the My Health Record, formerly the "Personally Controlled Electronic Health
+Record", within the meaning of the _My Health Records Act 2012_ (Cth),
+formerly called the _Personally Controlled Electronic Health Records Act 2012_
+(Cth).
+
+The Australian Digital Health Agency acknowledges the Traditional Owners of
+Country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to Elders past,
+present and emerging.
+
+© 2023 Australian Digital Health Agency
+
+  * [ Sitemap ](/sitemap)
+  * [ Privacy policy ](/about-us/policies-privacy-and-reporting/privacy-policy)
+  * [ Terms of use ](/about-us/policies-privacy-and-reporting/terms-of-use)
+
+![](/themes/custom/adha_theme/src/virtual-assistant/images/va-chat-bubble.svg)
+Chat
+
+Close chat
+
+Your browser does not support iframes.
+

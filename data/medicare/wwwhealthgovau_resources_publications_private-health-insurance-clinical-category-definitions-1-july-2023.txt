@@ -1,0 +1,235 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Resources](/resources)
+  3. [Publications](/resources/publications)
+
+[Publications](/resources/publications)
+
+# Private health insurance clinical category definitions 1 July 2023
+
+Standard clinical category definitions for private health insurance hospital
+policies, as of 5 May 2023 and effective 1 July 2023.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Private health insurance clinical category definitions 1 July 2023&url=https://www.health.gov.au/resources/publications/private-health-insurance-clinical-category-definitions-1-july-2023)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/resources/publications/private-health-insurance-clinical-category-definitions-1-july-2023)
+    * [Email](mailto:?subject=Private health insurance clinical category definitions 1 July 2023&body=https://www.health.gov.au/resources/publications/private-health-insurance-clinical-category-definitions-1-july-2023)
+
+Loading...
+
+![Private health insurance clinical category definitions 1 July
+2023](/sites/default/files/styles/h_content_max_width_no_upscale/public/2023-05/private-
+health-insurance-clinical-category-definitions-1-july-2023.png?itok=VkuP2Hm7)
+
+Scroll down to access downloads and media.
+
+## Downloads
+
+### Private health insurance clinical category definitions 1 July 2023
+
+[ Download Private health insurance clinical category definitions 1 July 2023
+as PDF \- 275.29 KB \- 17 pages ](/sites/default/files/2023-05/private-health-
+insurance-clinical-category-definitions-1-july-2023.pdf)
+
+[ Download Private health insurance clinical category definitions 1 July 2023
+as Word \- 133.88 KB \- 17 pages ](/sites/default/files/2023-05/private-
+health-insurance-clinical-category-definitions-1-july-2023.docx)
+
+We aim to provide documents in an accessible format. If you're having problems
+using a document with your accessibility tools, [please contact us for
+help](/request-accessible-format?destination=/resources/publications/private-
+health-insurance-clinical-category-definitions-1-july-2023).
+
+Publication date:
+
+4 May 2023
+
+Publication type:
+
+Dataset
+
+Audience:
+
+Health sector
+
+Language:
+
+English
+
+Description:
+
+Definitions of the clinical categories for hospital treatment policies as
+found in the [Private Health Insurance (Complying Product) Rules
+2015](https://www.legislation.gov.au/Series/F2015L01021).
+
+The clinical categories include an indicative list of Medicare Benefits
+Schedule (MBS) items that should be covered. This list of items is derived
+from the [MBS-XML-20230701 (XML 7832
+KB)](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Downloads-230701)
+released on 4 April 2023 through [MBS
+Online](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/downloads)
+and effective 1 July 2023. The current documents reflect changes made to items
+of the MBS General Medical Services Table, Pathology Services Table (PST),
+Diagnostic Imaging Services Tables (DIST) and the Health Insurance Regulations
+2018. These files also include changes to various instruments made under
+subsection 3C(1) of the Health Insurance Act 1973.
+
+The [MBS Online July 2023
+News](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/news-230701)
+provides a summary of MBS changes for 1 July 2023. Key MBS item changes for
+private health include:
+
+  * plastic and reconstructive surgery services item charges 
+  * new mental health case conferencing items (930, 933, 935, 937, 943, 945, 946, 948, 959, 961, 962, 964, 969, 971, 972, 973, 975, 986, 80176, 80177 and 80178)
+  * cardio-thoracic item 38680 will be amended so that tumour excision services under this item may only be performed in-hospital
+  * amendment to orthopaedic item descriptor 49706 to allow patients to access this service where no infection is indicated
+  * repeal of item 32221 for the removal or revision of an artificial bowel sphincter
+  * amendment to items 13761 and 13762 for extracorporeal photopheresis treatments of graft versus host disease to apply once per each treatment in a 25-session treatment cycle, rather than once per cycle
+  * amendment to therapeutic nuclear medicine item 16015 to apply to patients with all cancer types
+  * increased scheduled fee for therapeutic nuclear medicine items 16003, 16006, 16009, 16012 and 16018 to reflect the cost of the radiopharmaceuticals
+  * introduction of new nuclear medicine item 61466 for cerebro-spinal fluid transport studies using indium-111, mirroring existing MBS item 61409 but using a different radioisotope
+  * amendment to the descriptor for nuclear medicine item 61409 to specify use of technetium‑99m and a fee increase to better reflect isotope costs
+  * amendment of MRI item 63545 to clarify the item descriptor, aligning with the original policy intent of changes implemented on 1 November 2022
+  * new MBS pathology item (69505) for antimicrobial drug susceptibility testing for patients who have an infection caused by a pathogen in the mycobacterium tuberculosis complex
+  * one new MBS item (73429) for initial diagnosis somatic gene panel testing classification of gliomas, including glioneuronal tumours or glioblastoma
+  * two new MBS items (73434 and 73435) and one amended MBS item (73427) for single gene testing for the diagnosis of early-onset heritable neuromuscular disorders
+  * other administrative and machinery changes.
+  * The clinical category definitions reflect amendments made to the following categories:
+  * Bone, joint and muscle
+  * Brain and nervous system
+  * Breast surgery (medically necessary)
+  * Digestive system
+  * Male reproductive system
+  * Plastic and reconstructive surgery (medically necessary)
+  * Skin
+  * Weight loss surgery
+
+New PST items and DIST items are automatically categorised as Support
+treatments so do not need to be listed in the clinical categories tables in
+the PHI Rules. All Support items are identified in the [Private Health
+Insurance classification of MBS items](/resources/publications/private-health-
+insurance-classification-of-mbs-items-1-july-2023 "Private Health Insurance
+classification of MBS items 1 July 2023").
+
+The assignment of MBS items by clinical category reflects the PHI rules. The
+PHI Rules will be published on the [Federal Register of
+Legislation](https://www.legislation.gov.au/) and formal notification from the
+Department of Health and Aged Care will be via [Private Health Insurance
+Circular](https://www.health.gov.au/news/phi-
+circulars?utm_source=health.gov.au&utm_medium=callout-auto-
+custom&utm_campaign=digital_transformation) following the finalisation of
+regulatory approval processes. Subscribe for notification of new Circulars
+using [Health’s Latest News RSS (Really Simple Syndication)
+feed](https://www.health.gov.au/using-our-websites/subscriptions/using-our-
+latest-news-rss-feed).
+
+For older versions of this publication, review the [Private health insurance
+clinical category and procedure
+type](https://www.health.gov.au/resources/collections/private-health-
+insurance-clinical-category-and-procedure-type) collection, or visit the
+[National Library's web
+archive](https://webarchive.nla.gov.au/awa/20210605190335/https:/www.health.gov.au/resources/publications/private-
+health-insurance-assignment-of-mbs-items-for-hospital-treatment).
+
+Part of a collection:
+
+[Private health insurance clinical category and procedure
+type](/resources/collections/private-health-insurance-clinical-category-and-
+procedure-type)
+
+Tags:
+
+  * [Private health insurance](/topics/private-health-insurance)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

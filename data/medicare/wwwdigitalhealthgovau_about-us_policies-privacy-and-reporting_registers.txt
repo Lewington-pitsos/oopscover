@@ -1,0 +1,276 @@
+Skip to main content
+
+[ Australian Digital Health Agency ](/) [ Australian Digital Health Agency for
+Healthcare Providers ](/healthcare-providers)
+
+Open Search
+
+Open Menu
+
+  * Open/Close Menu [ COVID-19 ](/covid-19-support)
+    * [ Your COVID-19 information in one place ](/initiatives-and-programs/my-health-record/covid-19-dashboard)
+    * [ Get proof of vaccination from My Health Record ](/initiatives-and-programs/my-health-record/whats-inside/getting-proof-of-your-vaccinations-from-my-health-record)
+    * [ What to do if information is missing ](/initiatives-and-programs/my-health-record/whats-inside/incorrect-or-missing-information)
+    * [ Get a My Health Record without a Medicare or DVA card ](/initiatives-and-programs/my-health-record/getting-started/set-up-a-record-without-medicare-or-dva-benefits)
+    * [ View My Health Record using an app ](/initiatives-and-programs/my-health-record/manage-your-record/view-my-health-record-using-an-app)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+  * Open/Close Menu [ Initiatives ](/initiatives-and-programs#Initiatives)
+    * [ My Health Record ](/initiatives-and-programs/my-health-record)
+    * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+    * [ Telehealth ](/initiatives-and-programs/telehealth)
+    * [ my health app ](/myhealth)
+  * Open/Close Menu [ Programs ](/initiatives-and-programs#Programs)
+    * [ Cyber security ](/initiatives-and-programs/cyber-security)
+    * [ National Digital Health Strategy ](/about-us/strategies-and-plans/national-digital-health-strategy-and-framework-for-action "National Digital Health Strategy")
+  * Open/Close Menu [ Newsroom ](/newsroom)
+    * [ Media releases ](/newsroom/media-releases)
+    * [ Podcasts ](/newsroom/podcasts)
+    * [ Newsletters ](/newsroom/newsletters "Find the latest information, news and insights on digital health in our newsletter series.")
+    * [ Digital Bytes ](/newsroom/digital-bytes "Get the latest insights and news from key healthcare providers, organisations and leaders.")
+    * [ Blogs ](/newsroom/blogs)
+  * Open/Close Menu [ Support ](/support "Support")
+    * [ Contact us ](/support/contact-us)
+    * [ Frequently asked questions ](/support/frequently-asked-questions)
+    * [ Subscribe ](/support/subscribe)
+    * [ Glossary ](/support/glossary)
+    * [ Reporting fraud ](/support/reporting-fraud)
+  * Open/Close Menu [ About ](/about-us)
+    * [ Strategies and plans ](/about-us/strategies-and-plans)
+    * [ Organisational structure ](/about-us/board-members-and-executive-team)
+    * [ Policies, privacy and reporting ](/about-us/policies-privacy-and-reporting)
+    * [ Annual reports ](/about-us/annual-reports)
+    * [ Our websites ](/about-us/our-websites)
+    * [ Careers ](/careers)
+
+Search
+
+  * [For everyone](/)
+  * [For healthcare providers](/healthcare-providers)
+  * [For mhr everybody](/initiatives-and-programs/my-health-record)
+  * [For mhr hcp](/node/1688)
+  * [For ndhs](/ndhs)
+
+  * [ Careers ](/careers)
+  * [ Contact ](/support/contact-us)
+  * [ My Health Record (myGov) ](https://my.gov.au)
+
+## Breadcrumb
+
+  * [Home](/)
+  * [About us](/about-us)
+  * [Policies, privacy and reporting](/about-us/policies-privacy-and-reporting)
+  * Registers 
+
+# Registers
+
+### [About us](/about-us)
+
+  * Open/Close Menu[Strategies and plans](/about-us/strategies-and-plans)
+    * [National Digital Health Strategy and Framework for Action](/about-us/strategies-and-plans/national-digital-health-strategy-and-framework-for-action)
+    * [Corporate plans](/about-us/strategies-and-plans/corporate-plans)
+    * [Reflect Reconciliation Action Plan](/about-us/strategies-and-plans/reflect-reconciliation-action-plan)
+    * [Leadership Strategy](/about-us/strategies-and-plans/leadership-strategy)
+    * [Workforce Strategy](/about-us/strategies-and-plans/workforce-strategy)
+    * [National Digital Health Capability Action Plan](/about-us/strategies-and-plans/national-digital-health-capability-action-plan)
+    * [Cyber Security Strategy](/about-us/strategies-and-plans/cyber-security-strategy)
+    * [Assessment framework for mHealth apps](/about-us/strategies-and-plans/assessment-framework-for-mhealth-apps)
+    * [Clinical Governance Performance Report](/about-us/strategies-and-plans/clinical-governance-performance-report)
+    * [Clinical Governance Framework](/about-us/strategies-and-plans/clinical-governance-framework)
+  * Open/Close Menu[Policies, privacy and reporting](/about-us/policies-privacy-and-reporting)
+    * [Procurement, tenders and contracts](/about-us/policies-privacy-and-reporting/procurement-tenders-and-contracts)
+    * Open/Close Menu[Freedom of Information (FOI)](/about-us/policies-privacy-and-reporting/freedom-of-information-foi)
+      * [Freedom of Information (FOI) disclosure log](/about-us/policies-privacy-and-reporting/freedom-of-information-foi/foi-disclosure-log)
+      * [Information publication scheme (IPS)](/about-us/policies-privacy-and-reporting/freedom-of-information-foi/information-publication-scheme-ips)
+      * [Information Publication Scheme (IPS) Agency Plan](/about-us/policies-privacy-and-reporting/freedom-of-information-foi/information-publication-scheme-agency-plan)
+    * [Public Interest Disclosure](/about-us/policies-privacy-and-reporting/public-interest-disclosure)
+    * [APS employee census results](/about-us/policies-privacy-and-reporting/aps-employee-census-results)
+    * [Registers](/about-us/policies-privacy-and-reporting/registers)
+    * [Interoperability reports](/about-us/policies-privacy-and-reporting/interoperability-reports)
+    * [Senate Order Reporting](/about-us/policies-privacy-and-reporting/senate-order-reporting)
+    * [ANAO Performance Audit Implementation Plan Publication](/about-us/policies-privacy-and-reporting/anao-performance-audit-implementation-plan-publication)
+    * [Reporting fraud](/about-us/policies-privacy-and-reporting/reporting-fraud)
+    * [Privacy policy](/about-us/policies-privacy-and-reporting/privacy-policy)
+    * [Terms of Use ](/about-us/policies-privacy-and-reporting/terms-of-use)
+    * [My Health Record legislation and governance](/about-us/policies-privacy-and-reporting/my-health-record-legislation-and-governance)
+    * [Agency s24 Determination](/about-us/policies-privacy-and-reporting/agency-s24-determination)
+  * Open/Close Menu[Board members and executive team](/about-us/board-members-and-executive-team)
+    * [Executive remuneration information](/about-us/board-members-and-executive-team/executive-remuneration-information)
+    * [Board Advisory Committees](/about-us/board-members-and-executive-team/board-advisory-committees)
+  * [Digital health advisers](/about-us/digital-health-advisers)
+  * [Annual reports](/about-us/annual-reports)
+  * [Careers](/careers)
+  * [Our websites](/about-us/our-websites)
+  * [Accessibility](/about-us/accessibility)
+
+## Privacy Impact Assessment (PIA) Register
+
+We are required by the _Privacy (Australian Government Agencies – Governance)
+APP[Code](https://www.oaic.gov.au/privacy/privacy-for-government-agencies/)
+2017_ (Cth) (the Code) to conduct a Privacy Impact Assessment (PIA) for
+projects with a high privacy risk.
+
+A project may be a high privacy risk if we consider that the project involves
+any new or changed ways of handling personal information that are likely to
+have a significant impact on the privacy of individuals.
+
+We are required by the Code to maintain a register of the PIAs it conducts. We
+have listed all PIAs conducted by us since we commenced operations on 1 July
+2016.
+
+### Privacy Impact Assessments
+
+We have conducted the following PIAs:
+
+**Subject of PIA** | **Date PIA completed**  
+---|---  
+My Health Record – National Opt-out Model Implementation | 03/07/2017  
+My Health Record – Data Linkage Project ( _project did not proceed_ ) |
+17/08/2018  
+Service Registration Assistant – Secure Messaging | 23/07/2019  
+My Health Record – Data Quality Assessment |
+
+18/10/2019  
+  
+[ADHA - My Health Record Applications Project - Privacy Impact
+Assessment](/media/2154) | 15/04/2020  
+  
+[ADHA - My Health Record Mobile Applications Project - Privacy Impact
+Assessment](/media/742)
+
+| 24/01/2022  
+Jurisdiction connection to MHR mobile gateway - PoC | 24/01/2022  
+[My Health Record Mobile Vendor Changes](/media/2544) | 23/09/2022  
+Data Centre Rehosting Project  | 17/09/2021  
+COVID-19 Dashboard (Phase 1) Privacy Impact Assessment  | 03/08/2022  
+Data Analytics Infrastructure Proof of Concept project to prepare and de-
+identify My Health Record data for research or public health purposes  |
+16/12/2022  
+  
+Last updated: **07 March 2023**
+
+## Electronic Prescribing Conformance Register
+
+A register of conforming software products has been created to ensure that
+software developers are creating software that is conformant to government
+legislation, and for healthcare providers and vendors to understand which
+software companies are conformant. [Find out
+more](https://www.digitalhealth.gov.au/healthcare-providers/initiatives-and-
+programs/my-health-record/conformant-clinical-software-products) on My Health
+Record.
+
+### A register of conforming software products
+
+This register will be used for the following stakeholders:
+
+  * **Open prescription delivery services** will be able to integrate into systems, this allows for vendors to connect into the operations of the electronic prescribing environment.
+  * **Health care providers** will be able to make decisions on which electronic prescribing software they use, based on whether the software is conformant to legislation.
+  * **Regulators** will also be able to see and understand which software is conformant and follows government legislation.
+
+### Conformant Software Register
+
+  * [Download: Electronic Prescribing - External Conformance Register](/media/3452) of software vendors that conform to the framework. (Last updated: 1 **9 May 2023** )
+  * [Download: Electronic Prescribing – Transitional eNRMC Conformance Register](/media/2405) (Last updated: **09 February 2023** )
+
+## ePIP Conformance Register
+
+Managed by the Digital Health Agency on behalf of the Australian healthcare
+community, it provides a register of medical software products and
+organisations that meet the requirements of the [Practice Incentives Program
+(PIP) eHealth Incentive](https://www.myhealthrecord.gov.au/for-healthcare-
+professionals/practice-incentives-program).
+
+  * [Download: ePIP Conformance Register](/media/1718)
+
+Last updated: **10 November 2021**
+
+## HI Service Conformance Register
+
+A register of software products that conform to the HI Service Conformance
+Profile and are permitted to connect to the HI Service.
+
+  * [Download: HI Conformance Register (PDF, 382.23 KB)](/sites/default/files/documents/hi-conformance-register-20230525.pdf "hi-conformance-register-20230525.pdf")
+
+Last updated: **18 May 2023**
+
+## Secure Messaging Conformance Register
+
+A register of conformant software products.
+
+  * [Download: Secure Messaging - Conformance Register](/media/1867)
+
+Last updated: **3 December 2021**
+
+## Gifts and Benefits Register
+
+From 18 October 2019, the Australian Public Service Commission (APSC) requires
+all agency heads to publicly disclose all gifts and benefits accepted and
+valued at over $AUD100 (excluding GST) in a specified format, including
+publication of all giver’s names and organisations.
+
+  * [Gifts and benefits register, Q4 2022](https://www.digitalhealth.gov.au/media/2646)
+  * [Gifts and benefits register, Q3 2022](https://www.digitalhealth.gov.au/media/2645)
+  * [Gifts and benefits register, Q2 2022](https://www.digitalhealth.gov.au/media/2644)
+  * [Gifts and benefits register, Q1 2022](https://www.digitalhealth.gov.au/media/2643)
+  * [Gifts and benefits register, Q4 2021](/media/1914)
+  * [Gifts and benefits register, Q3 2021](/media/1752)
+  * [Gifts and benefits register, Q2 2021](/media/1208)
+  * [Gifts and benefits register, Q1 2021](/media/1207)
+  * [Gifts and benefits register, Q4 2020](/media/1066)
+  * [Gifts and benefits register, Q3 2020](/media/1067)
+  * [Gifts and benefits register, Q2 2020](/media/1068)
+
+Last updated: **23 January 2023**
+
+## Follow
+
+  * [ Twitter ](https://twitter.com/AuDigitalHealth)
+  * [ Facebook ](https://www.facebook.com/AuDigitalHealth)
+  * [ LinkedIn ](https://au.linkedin.com/company/australian-digital-health-agency)
+  * [ YouTube ](https://www.youtube.com/user/eHealthAus)
+
+## Australian Digital Health Agency
+
+  * [ About us ](/about-us)
+  * [ Careers ](/careers)
+  * [ Contact us ](/support/contact-us)
+  * [ Newsroom ](/newsroom)
+  * [ Digital health for healthcare providers ](/healthcare-providers?ln=3)
+  * [ Developer Centre ](https://developer.digitalhealth.gov.au/)
+  * [ National Clinical Terminology Service ](https://www.healthterminologies.gov.au/)
+
+## Initiatives and programs
+
+  * [ My Health Record ](/initiatives-and-programs/my-health-record)
+  * [ Electronic prescriptions ](/initiatives-and-programs/electronic-prescriptions)
+  * [ Telehealth ](/initiatives-and-programs/telehealth)
+  * [ More digital health tools ](/initiatives-and-programs)
+
+By operation of the _Public Governance, Performance and Accountability
+(Establishing the Australian Digital Health Agency) Rule 2016_ , on 1 July
+2016, all the assets and liabilities of NEHTA will vest in the Australian
+Digital Health Agency. In this website, on and from 1 July 2016, all
+references to "National E-Health Transition Authority" or "NEHTA" will be
+deemed to be references to the Australian Digital Health Agency. PCEHR means
+the My Health Record, formerly the "Personally Controlled Electronic Health
+Record", within the meaning of the _My Health Records Act 2012_ (Cth),
+formerly called the _Personally Controlled Electronic Health Records Act 2012_
+(Cth).
+
+The Australian Digital Health Agency acknowledges the Traditional Owners of
+Country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to Elders past,
+present and emerging.
+
+© 2023 Australian Digital Health Agency
+
+  * [ Sitemap ](/sitemap)
+  * [ Privacy policy ](/about-us/policies-privacy-and-reporting/privacy-policy)
+  * [ Terms of use ](/about-us/policies-privacy-and-reporting/terms-of-use)
+
+![](/themes/custom/adha_theme/src/virtual-assistant/images/va-chat-bubble.svg)
+Chat
+
+Close chat
+
+Your browser does not support iframes.
+

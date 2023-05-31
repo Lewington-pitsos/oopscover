@@ -1,0 +1,274 @@
+Skip to main contentSkip to main navigation
+
+The information on the Medical Costs Finder is a guide only and should not be
+used as a quote or medical diagnosis.
+
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27720%27%20height=%27140%27/%3e)![Australian
+Government Department of
+Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![Australian
+Government Department of Health](https://gblmcfprod-static-
+gwb2haftfsevewa7.z01.azurefd.net/_next/static/media/doh-
+logo.43ff08e4.png?w=1920)![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27268%27%20height=%27140%27/%3e)![Medical
+Costs
+Finder](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![Medical
+Costs Finder](https://gblmcfprod-static-
+gwb2haftfsevewa7.z01.azurefd.net/_next/static/media/mcf-
+wordmark.a96e5bc9.png?w=640)](/ "Home")
+
+  * [For medical specialists](/medical-specialists)
+
+Menu
+
+Close
+
+  * [Home](/)
+  * [Search now](/search)
+  * [Features](/features)
+  * [Guide to costs](/guide-to-costs)
+  * [How it works](/how-it-works)
+  * [About](/about-mcf)
+  * [Resources](/resources)
+  * [For medical specialists](/medical-specialists)
+  * [Disclaimer](/disclaimer)
+
+  1. [Home](/)
+  2. [Portal privacy notice](/portal-privacy-notice)
+
+# MCF Portal privacy notice
+
+This collection notice explains how we manage personal information of medical
+specialists and their authorised persons who use the Medical Costs Finder
+(MCF) Portal
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://gblmcfprod-
+static-
+gwb2haftfsevewa7.z01.azurefd.net/_next/static/media/procedures.0c67c8e8.png?w=3840)
+
+ **On this page:**
+
+  * [What the MCF Portal is](/portal-privacy-notice#whatMcfPortalIs)
+  * [Scope](/portal-privacy-notice#scope)
+  * [Information we collect and store in the MCF Portal](/portal-privacy-notice#informationMcfPortal)
+  * [When we collect your personal information from others](/portal-privacy-notice#whenPersonalInformation)
+  * [Why we collect, use and disclose personal information](/portal-privacy-notice#whyPersonalInformation)
+  * [When we disclose information to the Digital Identity Interim Oversight Authority](/portal-privacy-notice#oversightAuthority)
+  * [Sharing your personal information](/portal-privacy-notice#shareInformation)
+  * [How information in the MCF Portal is stored](/portal-privacy-notice#storedInformation)
+  * [How you can access or correct your information](/portal-privacy-notice#accessInformation)
+  * [Concerns and complaints](/portal-privacy-notice#concerns)
+  * [Contact Details](/portal-privacy-notice#contactDetails)
+
+## What the MCF Portal is
+
+The MCF Portal is for medical specialists and their authorised
+representatives. Specialists and their staff can enter information about
+medical services including:
+
+  * where services are provided
+  * indicative fees
+  * any gap arrangements they have with private health insurers.
+
+The information is then published on the MCF website.
+
+If you are a medical specialist and would like to publish your fees on the
+Medical Costs Finder website, you will need to [sign up or log in(opens in new
+tab)](https://medicalcostsfinderportal.health.gov.au/) to the MCF Portal.
+
+[Medical Costs Finder Portal](https://medicalcostsfinderportal.health.gov.au/)
+
+Access to the MCF Portal is restricted to approved users (users) who:
+
+  * have registered to use the MCF Portal
+  * agree to the [MCF Portal terms of use](/portal-terms-of-use)
+
+## Scope
+
+This collection notice applies to the [MCF Portal(opens in new
+tab)](https://medicalcostsfinderportal.health.gov.au/).
+
+It explains how we (the Australian Government Department of Health and Aged
+Care) manage your personal information in relation to the MCF Portal
+consistent with our obligations under the [Privacy Act 1988(opens in new
+tab)](https://www.legislation.gov.au/Details/C2021C00024) (the Privacy Act).
+
+## Information we collect and store in the MCF Portal
+
+We will collect and store your personal information to set up a user account
+and provide access to the MCF Portal. This includes your:
+
+  * full name
+  * date of birth
+  * email
+  * unique identifier from when you verify your identity through PRODA or myGovID.
+
+If you are a medical specialist, we will collect your:
+
+  * specialities
+  * Medicare provider number
+  * Australia Health Practitioner Regulation Agency (AHPRA) number.
+
+We cannot create you a user account for the MCF portal without this
+information.
+
+We will also collect service information that users provide. This includes:
+
+  * address
+  * fee insurance and service information for each practice location for a medical specialist
+  * business contact details (for example, phone and email)
+  * appointment, access levels and contact details for an authorised person
+
+When users access the MCF Portal, we will collect information about user
+access and actions in audit logs.
+
+If you register interest in a speciality for which the MCF Portal is not yet
+available, we will collect your name, email and specialty.
+
+## When we collect your personal information from others
+
+We will only collect personal information from others with your consent. This
+includes:
+
+  * from PRODA or myGovID when you verify your identity
+  * from a user you nominate as an authorised person, if you are a specialist
+  * from a specialist you agree to represent, if you are an authorised person.
+
+## Why we collect, use and disclose personal information
+
+We collect, use and disclose personal information about you to:
+
+  * set up a user account
+  * validate a user's identity
+  * register users and notify the outcome of registration requests
+  * give access to and administer the MCF Portal
+  * verify your identity if you contact our MCF Portal Support Team
+  * receive registrations of interest and notify specialists when their specialty is available
+  * get information about medical specialists for publication on the MCF website.
+
+Your personal information may also be used or disclosed where you have
+provided consent, or it is required or authorised by or under law.
+
+## When we disclose information to the Digital Identity Interim Oversight
+Authority
+
+If you use the Australian Government Digital Identity System (the System) to
+access the MCF Portal, we may provide the personal information linked to your
+Digital Identity to Services Australia and the Digital Transformation Agency.
+This is to assist them to perform functions on behalf of the Digital Identity
+Interim Oversight Authority (Oversight Authority). These functions include:
+
+  * identifying fraud
+  * locating where a cyber security incident has been detected within the System.
+
+For more information on how the Oversight Authority handles your personal
+information, see the [Oversight Authority privacy notice(opens in new
+tab)](http://www.servicesaustralia.gov.au/digital-identity-interim-oversight-
+authority-privacy-notice)
+
+## Sharing your personal information
+
+The law, including the [Privacy Act 1988(opens in new
+tab)](https://www.legislation.gov.au/Details/C2021C00024) (the Privacy Act),
+protects your personal information.
+
+Your personal information will not be disclosed to any other person, body, or
+agency unless:
+
+  * you give us permission, for example, to share with another Australian Government system or service
+  * it is authorised or required by law
+  * it meets one of the other exceptions in the Australian Privacy Principles
+
+If we need to share information with a third party as part of our service to
+you, the form you fill in will tell you about it.
+
+Personal information you provide for publication to the MCF website may be
+accessible overseas.
+
+## How information in the MCF Portal is stored
+
+Information collected in the MCF Portal is stored in a secure cloud service
+hosted in the Department of Health and Aged Care. The information is stored in
+Australia.
+
+We will store your data in the MCF Portal in accordance with any requirements
+under the [Archives Act 1983(opens in new
+tab)](http://www.legislation.gov.au/Details/C2021C00218)
+
+## How you can access or correct your information
+
+Our [privacy policy(opens in new
+tab)](http://www.health.gov.au/resources/publications/privacy-policy) provides
+further information on how you access or correct your information.
+
+If you need to correct your personal information in the MCF Portal, you can
+either:
+
+  * make amendments directly in the MCF Portal
+  * contact the MCF Portal Support Team at [MCFportalSupport@health.gov.au](mailto:MCFportalSupport@health.gov.au)
+
+## Concerns and complaints
+
+Our [privacy policy(opens in new
+tab)](http://www.health.gov.au/resources/publications/privacy-policy) explains
+how you can make a complaint if you think we have breached:
+
+  * the Australian Privacy Principles
+  * the Australian Government Agencies Privacy Code
+
+The [privacy policy(opens in new
+tab)](http://www.health.gov.au/resources/publications/privacy-policy) also
+explains how we will manage your complaint.
+
+## Contact Details
+
+Contact us to find out more about privacy within the department, or to make a
+privacy enquiry or complaint.
+
+  * Phone: 02 6289 1555
+  * Freecall: 1800 020 103
+  * Email: [MCFportalSupport@health.gov.au](mailto:MCFportalSupport@health.gov.au)
+  * Post:
+    * Privacy Officer
+    * Department of Health and Aged Care
+    * MDP 62
+    * GPO Box 9848
+    * Canberra ACT 2601
+
+Date last updated: November 2022
+
+ **Using the Medical Costs Finder**
+
+  * [About](/about-mcf)
+  * [Terms of use](/terms-of-use)
+  * [Medical Costs Finder disclaimer](/disclaimer)
+
+ **About the Department of Health and Aged Care**
+
+  * [About the department](https://www.health.gov.au/about-us)
+  * [Accessibility](https://www.health.gov.au/using-our-websites/accessibility)
+  * [Copyright](https://www.health.gov.au/using-our-websites/copyright)
+  * [Department of Health and Aged Care disclaimer](https://www.health.gov.au/using-our-websites/disclaimer)
+  * [Privacy](https://www.health.gov.au/using-our-websites/website-privacy-policy)
+  * [Social media](https://www.health.gov.au/using-our-websites/social-media)
+
+ **For medical specialists**
+
+  * [Information for medical specialists](/medical-specialists)
+  * [Access the MCF Portal](https://medicalcostsfinderportal.health.gov.au/)
+  * [Portal help guide](https://medicalcostsfinderportal.health.gov.au/Signin?HelpGuide=1)
+
+ **Help us improve**
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](https://www.health.gov.au/help-us-improve-
+healthgovau?referrer=https://medicalcostsfinder.health.gov.au)
+
+  * [Contact us](https://www.health.gov.au/about-us/contact-us)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | Department of Health and Aged Care
+

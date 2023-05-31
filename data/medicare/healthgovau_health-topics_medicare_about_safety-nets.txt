@@ -1,0 +1,257 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Medicare](/topics/medicare)
+  4. [About Medicare](/topics/medicare/about)
+
+[About Medicare](/topics/medicare/about)
+
+# Medicare safety nets
+
+Medicare safety nets give you extra support if you have high out-of-pocket
+medical costs. Once you incur a certain amount of out-of-pocket costs for out-
+of-hospital medical services, Medicare gives you a higher amount back for the
+rest of the year.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Medicare safety nets&url=https://www.health.gov.au/topics/medicare/about/safety-nets)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/medicare/about/safety-nets)
+    * [Email](mailto:?subject=Medicare safety nets&body=https://www.health.gov.au/topics/medicare/about/safety-nets)
+
+Loading...
+
+On this page
+
+## **About Medicare safety nets**
+
+Medicare safety nets support people who have high out-of-pocket medical costs
+for services provided out-of-hospital. The safety nets do not apply to
+services that are not listed on the [Medicare Benefits
+Schedule](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home)
+(MBS) or to MBS services that are delivered in hospital.
+
+Once your out-of-pocket medical costs [reach a certain
+amount](https://www.servicesaustralia.gov.au/what-are-medicare-safety-nets-
+thresholds?context=22001), Medicare gives you a higher amount back for the
+rest of the year. The increased benefits apply to either your:
+
+  * ‘gap expenses’ – the difference between the Medicare benefit you get and the [schedule fee](http://www9.health.gov.au/mbs/fullDisplay.cfm?type=note&q=GN.10.26)
+  * ‘out-of-pocket expenses’ – the difference between the Medicare benefit you get and what your health practitioner charges.
+
+Anyone enrolled in Medicare is eligible for these safety nets. Services
+Australia keeps a tally of your MBS service expenses – you can see [where
+you’re up to](https://www.servicesaustralia.gov.au/how-to-manage-your-
+medicare-safety-net?context=22001) any time.
+
+Read more about the [Medicare safety
+nets](https://www.servicesaustralia.gov.au/medicare-safety-nets).
+
+## **Greatest Permissible Gap (GPG)**
+
+The GPG is defined in Section 10(3) of the national [Health Insurance Act
+1973](https://www.legislation.gov.au/Details/C2022C00174) and requires that
+the difference between the MBS fee for an item and the 85% Medicare benefit
+must not be greater than a specified amount. In other words the GPG is a rule
+that sets a maximum gap dollar amount.
+
+The GPG amount is indexed annually on 1 November in line with the consumer
+price index (June quarter).
+
+From 1 November 2022, the GPG is set at $93.20, which means that all out-of-
+hospital Medicare services which have an MBS fee of $621.50 or more will
+attract a benefit that is greater than 85% of the MBS fee.
+
+If, for example, the schedule fee for a service is $1000 then the 85% benefit
+would be $850, which means that the gap is $150. In this case the GPG would
+apply and the patient would receive a Medicare benefit of $906.80, not $850
+(i.e. $1000 minus the GPG of $93.20).
+
+The benefit payable for those items meeting the threshold is the MBS fee less
+the GPG amount. The GPG amount is to be rounded up to the nearest multiple of
+5 cents.
+
+You don’t need to do anything – Services Australia automatically applies the
+GPG when paying your rebate.
+
+## **Original Medicare Safety Net (OMSN)**
+
+Your [gap expenses](/node/40785#about-medicare-safety-nets) count towards the
+OMSN.
+
+Once your gap expenses reach the
+[threshold](https://www.servicesaustralia.gov.au/what-are-medicare-safety-
+nets-thresholds?context=22001) in a calendar year, Medicare will reimburse you
+100% of the [schedule
+fee](http://www9.health.gov.au/mbs/fullDisplay.cfm?type=note&q=GN.10.26)
+(instead of 85%) for any further out-of-hospital medical services you need
+that are subsidised under the MBS.
+
+If your health practitioner charges more than the schedule fee, you may still
+incur an out-of-pocket cost.
+
+For 2023, the OMSN threshold is $531.70. We review it each year on 1 January,
+in line with any rise in the cost of living ([consumer price
+index](https://www.ato.gov.au/Rates/Consumer-price-index/)).
+
+If you’re an individual, you don’t need to do anything – you’ll automatically
+get the higher rebate once you reach the threshold. If you’re a family, you
+need to [let Services Australia
+know](https://www.servicesaustralia.gov.au/how-to-manage-your-medicare-safety-
+net?context=22001), so they can record your family’s combined expenses.
+
+Read more about the [OMSN](https://www.servicesaustralia.gov.au/original-
+medicare-safety-net?context=22001).
+
+## **Extended Medicare Safety Net (EMSN)**
+
+Your [out-of-pocket expenses](/node/40785#about-medicare-safety-nets) count
+towards the EMSN.
+
+Once your out-of-pocket expenses reach the
+[threshold](https://www.servicesaustralia.gov.au/what-are-medicare-safety-
+nets-thresholds?context=22001) in a calendar year, Medicare will cover up to
+80% of any further out-of-pocket expenses you have for out-of-hospital medical
+services that are subsidised under the MBS.
+
+A number of out-of-hospital services have a [cap on how much Medicare will
+pay](http://www9.health.gov.au/mbs/fullDisplay.cfm?type=note&q=GN.10.27&qt=noteID&criteria=%20EMSN%20benefit%20cap).
+This means that if your out-of-pocket expenses are higher than that cap, the
+amount you get back might be lower than 80%. The EMSN does not affect how much
+you get from your private health insurance.
+
+For 2023, the EMSN thresholds are:
+
+  * $770.30 for people who have a concession card or get Family Tax Benefit Part A
+  * $2,414 for others.
+
+We review these each year on 1 January, in line with any rise in the cost of
+living ([consumer price index](https://www.ato.gov.au/Rates/Consumer-price-
+index/)).
+
+If you’re an individual, you don’t need to do anything – you’ll automatically
+get the higher rebate once you reach the threshold. If you’re a family, you
+need to [let Services Australia
+know](https://www.servicesaustralia.gov.au/how-to-manage-your-medicare-safety-
+net?context=22001), so they can record your family’s combined expenses.
+
+Read more about the [EMSN](https://www.servicesaustralia.gov.au/extended-
+medicare-safety-net?context=22001).
+
+Last updated:
+
+22 December 2022
+
+Tags:
+
+  * [Medicare](/topics/medicare)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Medicare](/topics/medicare)
+
+  * [About Medicare](/topics/medicare/about)
+    * [What Medicare covers](/topics/medicare/about/what-medicare-covers)
+    * [Costs](/topics/medicare/about/costs)
+    * [Safety nets](/topics/medicare/about/safety-nets)
+    * [What we do](/topics/medicare/about/what-we-do)
+  * [For practitioners and industry](/topics/medicare/access-practitioners-industry)
+  * [Compliance](/topics/medicare/compliance)
+  * [Reforms and reviews](/topics/medicare/reforms-and-reviews)
+  * [Data, statistics and reporting](/topics/medicare/data-statistics-reporting)
+  * [Initiatives and programs](/topics/medicare/programs)
+  * [News](/topics/medicare/news)
+  * [Resources](/topics/medicare/resources)
+  * [Contacts](/topics/medicare/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

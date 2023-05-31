@@ -1,0 +1,130 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Weight loss surgery - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+30165
+
+     Lipectomy, wedge excision of abdominal apron that is a direct consequence of significant weight loss, not being a service associated with a service to which item 30168, 30171, 30172, 30176, 30177, 30179, 45530, 45564 or 45565 applies, if: (a) there is intertrigo or another skin condition that risks loss of skin integrity and has failed 3 months of conventional (or non surgical) treatment; and (b) the abdominal apron interferes with the activities of daily living; and (c) the weight has been stable for at least 6 months following significant weight loss prior to the lipectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/30165)
+30168
+
+     Lipectomy, wedge excision of redundant non abdominal skin and fat that is a direct consequence of significant weight loss,not being a service associated with a service to which item 30165, 30171, 30172, 30176, 30177, 30179, 45530, 45564 or 45565 applies, if: (a) there is intertrigo or another skin condition that risks loss of skin integrity and has failed 3 months of conventional (or non surgical) treatment; and (b) the redundant skin and fat interferes with the activities of daily living; and (c) the weight has been stable for at least 6 months following significant weight loss prior to the lipectomy; and (d) the procedure involves 1 excision only (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/30168)
+30171
+
+     Lipectomy, wedge excision of redundant non abdominal skin and fat that is a direct consequence of significant weight loss, not being a service associated with a service to which item 30165, 30168, 30172, 30176, 30177, 30179, 45530, 45564 or 45565 applies, if: (a) there is intertrigo or another skin condition that risks loss of skin integrity and has failed 3 months of conventional (or non surgical) treatment; and (b) the redundant skin and fat interferes with the activities of daily living; and (c) the weight has been stable for at least 6 months following significant weight loss prior to the lipectomy; and (d) the procedure involves 2 excisions only (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/30171)
+30172
+
+     Lipectomy, wedge excision of redundant non abdominal skin and fat that is a direct consequence of significant weight loss, not being a service associated with a service to which item 30165, 30168, 30171, 30176, 30177, 30179, 45530, 45564 or 45565 applies, if: (a) there is intertrigo or another skin condition that risks loss of skin integrity and has failed 3 months of conventional (or non surgical) treatment; and (b) the redundant skin and fat interferes with the activities of daily living; and (c) the weight has been stable for at least 6 months following significant weight loss prior to the lipectomy; and (d) the procedure involves 3 or more excisions (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/30172)
+30177
+
+     Lipectomy, excision of skin and subcutaneous tissue associated with redundant abdominal skin and fat that is a direct consequence of significant weight loss, in conjunction with a radical abdominoplasty (Pitanguy type or similar), with or without repair of musculoaponeurotic layer and transposition of umbilicus, not being a service associated with a service to which item 30165, 30168, 30171, 30172, 30176, 30179, 45530, 45564 or 45565 applies, if: (a) there is intertrigo or another skin condition that risks loss of skin integrity and has failed 3 months of conventional (or non surgical) treatment; and (b) the redundant skin and fat interferes with the activities of daily living; and (c) the weight has been stable for at least 6 months following significant weight loss prior to the lipectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/30177)
+30179
+
+     Circumferential lipectomy, as an independent procedure, to correct circumferential excess of redundant skin and fat that is a direct consequence of significant weight loss, with or without a radical abdominoplasty (Pitanguy type or similar),not being a service associated with a service to which item 30165, 30168, 30171, 30172, 30176, 30177, 45530, 45564 or 45565 applies, if: (a) the circumferential excess of redundant skin and fat is complicated by intertrigo or another skin condition that risks loss of skin integrity and has failed 3 months of conventional (or non surgical) treatment; and (b) the circumferential excess of redundant skin and fat interferes with the activities of daily living; and (c) the weight has been stable for at least 6 months following significant weight loss prior to the lipectomy (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/30179)
+31569
+
+     Adjustable gastric band, placement of, with or without crural repair taking 45 minutes or less, for a patient with clinically severe obesity (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/31569)
+31572
+
+     Gastric bypass by Roux-en-Y including associated anastomoses, with or without crural repair taking 45 minutes or less, for a patient with clinically severe obesity not being associated with a service to which item 30515 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/31572)
+31575
+
+     Sleeve gastrectomy, with or without crural repair taking 45 minutes or less, for a patient with clinically severe obesity (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/31575)
+31578
+
+     Gastroplasty (excluding by gastric plication), with or without crural repair taking 45 minutes or less, for a patient with clinically severe obesity (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/31578)
+31581
+
+     Gastric bypass by biliopancreatic diversion with or without duodenal switch including gastric resection and anastomoses, with or without crural repair taking 45 minutes or less, for a patient with clinically severe obesity (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/31581)
+31584
+
+     Surgical reversal of previous bariatric procedure, including revision or conversion, if:a) the previous procedure involved any of the following:(i) placement of adjustable gastric banding;(ii) gastric bypass;(iii) sleeve gastrectomy;(iv) gastroplasty (excluding gastric plication);(v) biliopancreatic diversion; and(b) any of items 31569 to 31581 applied to the previous procedureother than a service associated with a service to which item 31585 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/31584)
+31585
+
+     Removal of adjustable gastric band (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/31585)
+31587
+
+     Adjustment of gastric band as an independent procedure including any associated consultation [](/dynamic/MBSItems/WeightLossSurgery/31587)
+31590
+
+     Adjustment of gastric band reservoir, repair, revision or replacement of (Anaes.) (Assist.) [](/dynamic/MBSItems/WeightLossSurgery/31590)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+

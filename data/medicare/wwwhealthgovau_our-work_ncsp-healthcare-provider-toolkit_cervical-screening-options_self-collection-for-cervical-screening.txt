@@ -1,0 +1,220 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Our work](/our-work)
+  3. [National Cervical Screening Program – Healthcare provider toolkit](/our-work/NCSP-healthcare-provider-toolkit)
+  4. [Cervical screening options](/our-work/NCSP-healthcare-provider-toolkit/cervical-screening-options)
+
+[Cervical screening options](/our-work/NCSP-healthcare-provider-
+toolkit/cervical-screening-options)
+
+# Self-collection for cervical screening
+
+Self-collection of a vaginal sample is just as effective at detecting HPV as a
+clinician-collected sample of the cervix.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=Self-collection for cervical screening&url=https://www.health.gov.au/our-work/NCSP-healthcare-provider-toolkit/cervical-screening-options/self-collection-for-cervical-screening)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/our-work/NCSP-healthcare-provider-toolkit/cervical-screening-options/self-collection-for-cervical-screening)
+    * [Email](mailto:?subject=Self-collection for cervical screening&body=https://www.health.gov.au/our-work/NCSP-healthcare-provider-toolkit/cervical-screening-options/self-collection-for-cervical-screening)
+
+Loading...
+
+On this page
+
+You must order and oversee self-collection of a vaginal sample. You must also
+be able to provide timely collection of a clinician-collected cervical sample,
+if required as part of a follow-up assessment.
+
+You are responsible for:
+
+  * facilitating access to, and return of, the self-collection swab
+  * labelling the sample as ‘self-collect’ on the pathology request form
+  * providing the sample to the laboratory for processing
+  * communicating the results and any follow-up requirements to the patient.
+
+Health services should work out which practitioners will give self-collection
+consultations. Keep in mind that only doctors and nurse practitioners can sign
+pathology requests for Cervical Screening Tests under the MBS rules. Remember
+that patients who are not up to date with cervical screening are more likely
+to speak with you if they know and trust you.
+
+All health services should maintain complete data on patients’ screening
+history. Staff can offer cervical screening to patients flagged in the patient
+records.
+
+You can find out a patient’s screening history by accessing the Healthcare
+Provider Portal through PRODA. This provides a self-service alternative to
+access and submit cervical screening data electronically in the National
+Cancer Screening Register (NCSR). Practices using Best Practice,
+MedicalDirector and Communicare can integrate their practice systems with the
+NCSR to view their patient’s cervical screening record directly in a patient
+record. Visit [NCSR.gov.au](http://www.NCSR.gov.au) for more information.
+
+## Who is eligible for self-collection
+
+Self-collection of a vaginal sample for screening is available as an option
+for:
+
+  * anyone who is eligible for cervical screening – women and people with a cervix aged 25-74 years who have ever had any sexual contact (which includes sexual intercourse, penetrative sex, oral sex, very intimate genital skin contact such as part of foreplay and anal sex)
+  * follow-up HPV testing after an intermediate risk result1
+  * cervical screening during pregnancy.
+
+Encourage patients attending an in-person consultation to collect a sample
+while they are still at the clinic. Sample collection is more likely in this
+context. However, to maximise participation in cervical screening, self-
+collection can occur in any setting that you think is appropriate for that
+patient, including through a telehealth consultation.
+
+## Who is not eligible for self-collection
+
+Self-collection is not appropriate if the patient requires a co-test,
+including patients who:
+
+  * are symptomatic (e.g. experiencing unusual vaginal bleeding, pain or discharge)
+  * are undergoing Test of Cure surveillance or been treated for a glandular abnormality
+  * have had a total hysterectomy with past history of high-grade squamous intraepithelial lesion
+  * were exposed to diethylstilbestrol (DES) in utero.
+
+Patients with symptoms indicating cervical abnormalities or cancer need
+diagnostic testing. Manage them according to the [National Cervical Screening
+Program Clinical Guidelines](https://www.cancer.org.au/clinical-
+guidelines/cervical-cancer-
+screening/?title=Guidelines:Cervical_cancer/Screening).
+
+## Managing self-collection results
+
+Patients take a self-collected sample from the vagina (not the cervix).
+Vaginal samples can only be tested for HPV and not for cytology.
+
+If the self-collected test detects HPV , depending on the type of HPV
+detected, the patient will either need:
+
+  * a speculum examination (to collect a sample of cells from the cervix for liquid-based cytology) to determine management
+  * to be sent directly for colposcopy.
+
+You can find out more about cervical screening and collection options in these
+resources:
+
+  * [NCSP clinical management pathway](/resources/publications/national-cervical-screening-program-understanding-the-national-cervical-screening-program-management-pathway "National Cervical Screening Program – Understanding the National Cervical Screening Program Management Pathway")
+  * [Self-collection quick reference guide](/resources/publications/national-cervical-screening-program-quick-reference-guide-self-collected-vaginal-sample "National Cervical Screening Program – Quick reference guide – Self-collected vaginal sample")
+  * [Pathology Test Guide for Cervical and Vaginal Testing](/resources/publications/national-cervical-screening-program-pathology-test-guide-for-cervical-and-vaginal-testing "National Cervical Screening Program – Pathology test guide for cervical and vaginal testing")
+
+[1] Note Medicare rebates for a self-collected sample at a follow up test for
+people whose initial screening test was clinician collected will be effective
+from 1 November 2022.
+
+Last updated:
+
+1 July 2022
+
+Tags:
+
+  * [Preventive health](/topics/preventive-health)
+  * [Cancer](/topics/cancer)
+  * [National Cervical Screening Program – Healthcare provider toolkit](/our-work/NCSP-healthcare-provider-toolkit)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [National Cervical Screening Program – Healthcare provider toolkit](/our-
+work/NCSP-healthcare-provider-toolkit)
+
+  * [Understanding barriers to screening](/our-work/ncsp-healthcare-provider-toolkit/barriers-to-screening)
+  * [Demonstrating respect and building trust](/our-work/NCSP-healthcare-provider-toolkit/demonstrating-respect-and-building-trust)
+  * [Working with patients who face specific barriers](/our-work/ncsp-healthcare-provider-toolkit/working-with-patients)
+  * [Cervical screening options](/our-work/NCSP-healthcare-provider-toolkit/cervical-screening-options)
+    * [Self-collection](/our-work/NCSP-healthcare-provider-toolkit/cervical-screening-options/self-collection-for-cervical-screening)
+  * [Cervical screening training and support](/our-work/ncsp-healthcare-provider-toolkit/training-and-support)
+  * [Resource library](/our-work/ncsp-healthcare-provider-toolkit/resource-library)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+

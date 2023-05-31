@@ -1,0 +1,390 @@
+Skip to main content Skip to main navigation Skip to main content
+
+[ ![Back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH2x.png)
+![Going back to the homepage](/sites/default/files/2022-07/DHAC-Crest-AIH-
+standard_0.png) ](/ "Home")
+
+### Sub menu
+
+  * [About the Handbook](/contents/about-the-handbook "About the handbook")
+  * [Contact us](/contact-us "Contact us")
+
+Search  
+
+Menu  Search
+
+Close
+
+  * [Home](/home)
+  * [Contents](/contents)
+  * [Diseases](/contents/vaccine-preventable-diseases)
+  * [Vaccines](/vaccines)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Resources](/resources)
+
+## You are here
+
+  1. [Home](/)
+  2. [Table of contents](/contents)
+  3. [Vaccination for special risk groups](/contents/vaccination-for-special-risk-groups)
+
+[Vaccination for special risk groups](/contents/vaccination-for-special-risk-
+groups)
+
+# Vaccination for Aboriginal and Torres Strait Islander people
+
+Some vaccines have different recommendations for Aboriginal and Torres Strait
+Islander people.
+
+  * [ Listen ](//app-oc.readspeaker.com/cgi-bin/rsent?customerid=5802&lang=en_au&voice=Jack&readclass=main-content&url=https%3A%2F%2Fimmunisationhandbook.health.gov.au%2Fcontents%2Fvaccination-for-special-risk-groups%2Fvaccination-for-aboriginal-and-torres-strait-islander-people "Listen to this page using ReadSpeaker webReader")
+
+  * Print 
+  * Share 
+
+    * [Twitter](https://twitter.com/share?text=Vaccination for Aboriginal and Torres Strait Islander people&url=https://immunisationhandbook.health.gov.au/contents/vaccination-for-special-risk-groups/vaccination-for-aboriginal-and-torres-strait-islander-people "Share to Twitter")
+    * [Facebook](https://facebook.com/sharer.php?u=https://immunisationhandbook.health.gov.au/contents/vaccination-for-special-risk-groups/vaccination-for-aboriginal-and-torres-strait-islander-people "Share to Facebook")
+    * [Email](mailto:?subject= The Australian Immunisation Handbook | Vaccination for Aboriginal and Torres Strait Islander people&body=https://immunisationhandbook.health.gov.au/contents/vaccination-for-special-risk-groups/vaccination-for-aboriginal-and-torres-strait-islander-people "Share via email")
+
+Recently added
+
+This page was added on **09 June 2018**.
+
+Updates made
+
+This page was updated on **25 January 2023**. View history of updates
+
+On this page:
+
+On this page
+
+## Overview
+
+Some vaccines have different recommendations for Aboriginal and Torres Strait
+Islander people. For children, these are vaccines against:
+
+  * [hepatitis A](/node/146)
+  * [influenza](/node/149)
+  * [meningococcal disease](/node/152)
+  * [pneumococcal disease](/node/154)
+  * [tuberculosis](/node/161) (BCG [bacille Calmette–Guérin] vaccine)
+
+For adults, these are vaccines against:
+
+  * [hepatitis B](/node/147)
+  * [influenza](/node/149)
+  * [pneumococcal disease](/node/154)
+
+See [Infographic. Vaccination for Aboriginal and Torres Strait Islander
+adolescents and adults](/node/487).
+
+The Aboriginal and Torres Strait Islander peoples are a diverse population
+characterised by diverse languages, culture and geographic distribution.
+Aboriginal and Torres Strait Islander people live all over the country with a
+majority living in metropolitan areas compared to remote and regional
+settings.1 It is important for clinicians to accurately identify Aboriginal
+and Torres Strait Islander peoples and to critically evaluate vaccine
+preventable disease (VPD) risk based on the individual (e.g. age, health,
+lifestyle) and the differing vaccine recommendations across states.
+
+## Introduction of infectious diseases to Aboriginal and Torres Strait
+Islander people
+
+After European colonisation of Australia, Aboriginal and Torres Strait
+Islander peoples experienced infectious disease epidemics with very high
+morbidity and mortality. The diseases with the most serious effects were:
+
+  * smallpox (mortality rate >30%)2
+  * tuberculosis
+  * influenza
+  * measles (mortality rate >20%)2
+  * syphilis
+
+## Success in vaccination for Aboriginal and Torres Strait Islander people
+
+In recent decades, vaccination has been very successful in eliminating or
+substantially reducing the rates of many vaccine-preventable diseases in all
+Australians. Vaccination has also substantially improved Aboriginal and Torres
+Strait Islander child mortality rates.3 The vaccine-preventable diseases among
+Aboriginal and Torres Strait Islander people that have been significantly
+reduced by successful vaccination programs are:4
+
+  * diphtheria
+  * poliomyelitis
+  * tetanus
+  * hepatitis A 
+  * hepatitis B
+  * measles
+  * mumps 
+  * rubella
+
+## Burden of vaccine-preventable diseases in Aboriginal and Torres Strait
+Islander people
+
+Risk factors often associated with the burden of vaccine preventable diseases
+among Aboriginal and Torres Strait Islander people, such as smoking and
+overcrowded housing, are downstream indicators secondary to a range of inter-
+related historical, cultural, political, psychosocial and environmental
+factors. There are some extra vaccines that are recommended for Aboriginal and
+Torres Strait Islander peoples, for those disease where Aboriginal and Torres
+Strait Islander people have a disproportionately higher burden of disease
+compared with non-Indigenous Australians. One example is invasive pneumococcal
+disease. Vaccination reduced the burden of disease caused by serotypes that
+are in the vaccines, but other serotypes that are not included in the
+available vaccines continue to cause disproportionate disease among Aboriginal
+and Torres Strait Islander people.4
+
+Vaccination against [_Haemophilus influenzae_ type b](/node/145) (Hib) disease
+is an example where recommendations for Aboriginal and Torres Strait Islander
+children have previously differed to those for non-indigenous people due to
+disparities in the incidence of Hib disease between the two population groups.
+Following a targeted immunisation program where Aboriginal and Torres Strait
+Islander children were recommended Hib-containing vaccines known as PRP-OMPs,
+which were more immunogenic than the other conjugate Hib (PRP-T) vaccines, Hib
+disease in Aboriginal and Torres Strait Islander children has declined.5,6
+Now, Aboriginal and Torres Strait Islander children and non-Indigenous
+children receive the same vaccine and the same schedule.
+
+Since October 2009, all infants receive PRP-T vaccines. Invasive Hib disease
+and nasopharyngeal colonisation with Hib are being closely monitored in high-
+incidence settings such as the Northern Territory and Western Australia after
+this change. To date, Hib epidemiology has not changed in relation to the
+change to PRP-T-containing vaccines for Aboriginal and Torres Strait Islander
+children. (See [_Haemophilus influenzae_ type b](/node/145)).
+
+Table. Vaccines recommended for Aboriginal and Torres Strait Islander people
+
+These vaccines are **in addition to** the vaccines recommended for all
+Australians, or those recommended in particular medical, occupational,
+behavioural or other risk groups.
+
+Vaccine | Recommendation for Aboriginal and Torres Strait Islander people  
+---|---  
+BCG |
+
+  * Neonates living in areas of high tuberculosis incidence in the Northern Territory, Queensland and northern South Australia
+  * 1 dose
+
+  
+Hepatitis A |
+
+  * Children living in the Northern Territory, Queensland, South Australia and Western Australia
+  * 2 doses before 5 years of age, with the first dose in the 2nd year of life
+
+  
+Hepatitis B |
+
+  * Non-vaccinated and non-immune adults
+
+  
+Influenza |
+
+  * All people aged ≥6 months
+  * Annual vaccination
+
+  
+[MenACWY](/technical-terms#menacwy) and MenB (meningococcal) |
+
+  * Aboriginal and Torres Strait Islander people aged 2 months to 19 years
+
+  
+13vPCV or 15vPCV (pneumococcal conjugate) |
+
+  * Children living in the Northern Territory, Queensland, South Australia and Western Australia (3-dose primary course with a booster dose in second year of life [extra dose at 6 months of age])
+  * All adults aged ≥50 years (1 dose)
+
+  
+23vPPV (pneumococcal polysaccharide) |
+
+  * Children living in the Northern Territory, Queensland, South Australia and Western Australia – 2 doses (1 dose at 4 years of age and a 2nd dose at least 5 years later)
+  * All adults aged ≥50 years – 2 doses (1 dose 12 months after the 13vPCV dose and 2nd dose at least 5 years later)
+
+  
+  
+## Immunisation service delivery in Aboriginal and Torres Strait Islander
+communities
+
+The following groups all provide vaccination services to Aboriginal and Torres
+Strait Islander people, and are important to the success of immunisation
+programs by promoting access to culturally safe services and practices:
+
+  * general practitioners
+  * Aboriginal Community Controlled Health Services
+  * Aboriginal Medical Services
+  * community health services
+  * the Royal Flying Doctor Service
+  * state and territory corrective services
+
+Disparities in vaccination coverage point to the importance of ascertaining
+people who identify as being Aboriginal and/or Torres Strait Islander,
+particularly in mainstream health services in urban areas. Using patient
+information systems to record Aboriginal and Torres Strait Islander status and
+schedule preventive health services could increase opportunistic vaccination
+and enable patients to receive reminders.
+
+This could lead to improvements in coverage and ensure that people receive
+their vaccines at the right time.7 Recording Aboriginal and Torres Strait
+Islander status also plays a critical role in informing any changes needed to
+vaccine recommendations for Aboriginal and Torres Strait Islander people.
+Using culturally appropriate service delivery and communication strategies,
+and specific Medicare items will also help to improve access to health
+services for Aboriginal and Torres Strait Islander people.8-10
+
+## References
+
+  1. Telethon Kids Institute. Working together: Aboriginal and Torres Strait Islander mental health and wellbeing principles and practice. Perth, WA: Telethon Kids Institute; 2022. (Accessed 17 October 2022). <https://www.telethonkids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/working-together-aboriginal-and-wellbeing-2014.pdf>
+  2. Dowling PJ. 'A great deal of sickness': introduced diseases among the Aboriginal people of colonial southeast Australia, 1788–1900 [PhD thesis]. Canberra: Australian National University; 1998.
+  3. Menzies R, Turnour C, Chiu C, McIntyre P. Vaccine preventable diseases and vaccination coverage in Aboriginal and Torres Strait Islander people, Australia, 2003 to 2006. Communicable Diseases Intelligence 2008;32 Suppl:S2-67.
+  4. Naidu L, Chiu C, Habig A, et al. Vaccine preventable diseases and vaccination coverage in Aboriginal and Torres Strait Islander people, Australia 2006–2010. Communicable Diseases Intelligence 2013;37 Suppl:S1-95.
+  5. Markey P, Krause V, Boslego JW, et al. The effectiveness of Haemophilus influenzae type b conjugate vaccines in a high risk population measured using immunization register data. Epidemiology and Infection 2001;126:31-6.
+  6. Hanna JN. Impact of Haemophilus influenzae type b (Hib) vaccination on Hib meningitis in children in Far North Queensland, 1989 to 2003. Communicable Diseases Intelligence 2004;28:255-7.
+  7. Bailie RS, Togni SJ, Si D, Robinson G, d'Abbs PH. Preventive medical care in remote Aboriginal communities in the Northern Territory: a follow-up study of the impact of clinical guidelines, computerised recall and reminder systems, and audit and feedback. BMC Health Services Research 2003;3:15.
+  8. Andrews B, Simmons P, Long I, Wilson R. Identifying and overcoming the barriers to Aboriginal access to general practitioner services in rural New South Wales. Australian Journal of Rural Health 2002;10:196-201.
+  9. Hayman NE, White NE, Spurling GK. Improving Indigenous patients' access to mainstream health services: the Inala experience. Medical Journal of Australia 2009;190:604-6.
+  10. Couzos S, Delaney Thiele D. The new "Indigenous health" incentive payment: issues and challenges. Medical Journal of Australia 2010;192:154-7.
+
+## Page history
+
+Last updated
+
+25 January 2023
+
+Last reviewed
+
+25 January 2023
+
+Show all page updates (2)
+
+25 January 2023
+
+Updates to clinical guidance to include 15-valent pneumococcal conjugate
+vaccine.
+
+3 June 2020
+
+Changes to Hepatitis A and pneumococcal vaccine recommendations for Aboriginal
+and Torres Strait Islander people.
+
+25 January 2023
+
+Updates to clinical guidance to include 15-valent pneumococcal conjugate
+vaccine.
+
+3 June 2020
+
+Changes to Hepatitis A and pneumococcal vaccine recommendations for Aboriginal
+and Torres Strait Islander people.
+
+[ Previous Vaccination for people who are immunocompromised
+](/contents/vaccination-for-special-risk-groups/vaccination-for-people-who-
+are-immunocompromised "Go to previous page")
+
+[ Next Vaccination for preterm infants ](/contents/vaccination-for-special-
+risk-groups/vaccination-for-preterm-infants "Go to next page")
+
+## In this section
+
+##  [Table of contents](/contents)
+
+  * [About the handbook](/contents/about-the-handbook)
+  * [Fundamentals of immunisation](/contents/fundamentals-of-immunisation)
+  * [Vaccination procedures](/contents/vaccination-procedures)
+  * [Catch-up vaccination](/contents/catch-up-vaccination)
+  * [Vaccination for special risk groups](/contents/vaccination-for-special-risk-groups)
+    * [Vaccination for people who are immunocompromised](/contents/vaccination-for-special-risk-groups/vaccination-for-people-who-are-immunocompromised)
+    * Vaccination for Aboriginal and Torres Strait Islander people
+    * [Vaccination for preterm infants](/contents/vaccination-for-special-risk-groups/vaccination-for-preterm-infants)
+    * [Vaccination for women who are planning pregnancy, pregnant or breastfeeding](/contents/vaccination-for-special-risk-groups/vaccination-for-women-who-are-planning-pregnancy-pregnant-or-breastfeeding)
+    * [Vaccination before or after anaesthesia or surgery](/contents/vaccination-for-special-risk-groups/vaccination-before-or-after-anaesthesia-or-surgery)
+    * [Vaccination for people at occupational risk](/contents/vaccination-for-special-risk-groups/vaccination-for-people-at-occupational-risk)
+    * [Vaccination for international travellers](/contents/vaccination-for-special-risk-groups/vaccination-for-international-travellers)
+    * [Vaccination for people who have had an adverse event following immunisation](/contents/vaccination-for-special-risk-groups/vaccination-for-people-who-have-had-an-adverse-event-following-immunisation)
+    * [Vaccination for other groups (inmates, men who have sex with men, people who inject drugs, and sex workers)](/contents/vaccination-for-special-risk-groups/vaccination-for-other-groups-inmates-men-who-have-sex-with-men-people-who-inject-drugs-and-sex-workers)
+    * [Vaccination for people who have recently received normal human immunoglobulin and other blood products](/contents/vaccination-for-special-risk-groups/vaccination-for-people-who-have-recently-received-normal-human-immunoglobulin-and-other-blood-products)
+    * [Vaccination for migrants, refugees and people seeking asylum in Australia](/contents/vaccination-for-special-risk-groups/vaccination-for-migrants-refugees-and-people-seeking-asylum-in-australia)
+    * [Vaccination for people with bleeding disorders](/contents/vaccination-for-special-risk-groups/vaccination-for-people-with-bleeding-disorders)
+  * [Vaccine preventable diseases](/contents/vaccine-preventable-diseases)
+
+Is there anything wrong with this page?
+
+## Help us improve the Australian Immunisation Handbook
+
+What you were doing? (required)
+
+What went wrong? (required)
+
+Leave this field blank
+
+Printed content may be out of date. For up to date information, always refer
+to the digital version:
+
+https://immunisationhandbook.health.gov.au/contents/vaccination-for-special-
+risk-groups/vaccination-for-aboriginal-and-torres-strait-islander-people
+
+## Who's responsible for the Handbook
+
+  * [ATAGI](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi)
+  * [NHMRC](https://www.nhmrc.gov.au/)
+  * [Chief Medical Officer](https://www.health.gov.au/about-us/who-we-are/leadership#chief-medical-officer)
+  * [Department of Health and Aged Care](https://www.health.gov.au/)
+
+## Useful links and tools
+
+  * [Announcements](/contents/about-the-handbook/announcements "Announcements")
+  * [Handbook tables](/resources/tables "Handbook tables")
+  * [Handbook figures](/resources/figures "Handbook figures")
+  * [Technical terms](/technical-terms "Glossary of technical terms")
+  * [Abbreviations](/abbreviations "Abbreviations")
+
+## More about Immunisation
+
+  * [National Immunisation Program](https://www.health.gov.au/initiatives-and-programs/national-immunisation-program)
+  * [NIP Schedule](https://www.health.gov.au/health-topics/immunisation/immunisation-throughout-life/national-immunisation-program-schedule)
+  * [ATAGI statements](https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi#statements)
+  * [Immunisation news](https://www.health.gov.au/news?f%5B0%5D=field_related_health_topics%3A1021)
+  * [Immunisation resources](https://www.health.gov.au/resources?f%5B0%5D=field_related_health_topics%3A1021&f%5B1%5D=field_audience%3A446)
+  * [NCIRS Factsheets](http://www.ncirs.org.au/health-professionals/ncirs-fact-sheets-faqs)
+
+## Help us improve
+
+We are always looking for ways to improve our website, the NICC and mobile
+app.
+
+[Provide feedback](/provide-feedback)
+
+## Using the Handbook
+
+  * [Accessibility](https://www.health.gov.au/using-our-websites/accessibility)
+  * [Copyright](https://www.health.gov.au/using-this-website/copyright)
+  * [Disclaimers](https://www.health.gov.au/using-this-website/disclaimers)
+  * [Privacy](https://www.health.gov.au/using-this-website/privacy)
+
+## Mobile apps
+
+[![Download from Apple App
+Store](/sites/default/files/2021-05/App_Store_Badge_v2.svg)](https://apps.apple.com/au/app/immunisationhandbook/id1484584970)
+
+[![Get it on Google
+Play](/sites/default/files/2021-05/Google_Play_Store_badge_EN_v2.svg)](https://play.google.com/store/apps/details?id=au.gov.health.immunisationhandbook.immunisation_handbook&hl=en_AU&gl=AU&utm_source=Website&utm_campaign=AIH)
+
+## Acknowledgement
+
+The Department of Health and Aged Care acknowledges First Nations peoples as
+the Traditional Owners of Country throughout Australia, and their continuing
+connection to land, sea and community. We pay our respects to them and their
+cultures, and to all Elders both past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged
+Care](https://www.health.gov.au/)
+
+Back to top
+
+Link copied
+
+**Link** , **share** or **bookmark** directly to this section of the page.
+
+  *[BCG]: bacille Calmette-Guérin
+  *[PRP]: polyribosylribitol phosphate
+  *[13vPCV]: 13-valent pneumococcal conjugate vaccine.
+  *[15vPCV]: 15-valent pneumococcal conjugate vaccine.
+  *[23vPPV]: 23-valent pneumococcal polysaccharide vaccine
+

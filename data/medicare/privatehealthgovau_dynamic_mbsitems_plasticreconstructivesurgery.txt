@@ -1,0 +1,1099 @@
+[![PrivateHealth.gov.au](/assets/images/logo-blue.svg)](/)
+
+  * [How Health Insurance Works](/health_insurance/index.htm "How Health Insurance Works")
+  * [Health Insurers](/healthinsurers/index.htm "Health Insurers")
+  * [Compare Policies](/comparepolicies/index.htm "Compare Policies")
+  * [Contact Us](/contactus.htm "Contact Us")
+  * [FAQ](/faq.htm "Frequently Asked Questions")
+  * 
+
+## Plastic and reconstructive surgery (medically necessary) - MBS items
+
+The following MBS item numbers are included in this clinical category. _The
+following is an indicative list of MBS items that are covered in the clinical
+category. Other MBS items not listed here may also be covered. If you cannot
+find the item you are looking for, please speak with your insurer._
+
+30003
+
+     LOCALISED BURNS, dressing of, (not involving grafting)each attendance at which the procedure is performed, including any associated consultation [](/dynamic/MBSItems/PlasticReconstructiveSurgery/30003)
+30006
+
+     EXTENSIVE BURNS, dressing of, without anaesthesia (not involving grafting)each attendance at which the procedure is performed, including any associated consultation [](/dynamic/MBSItems/PlasticReconstructiveSurgery/30006)
+30010
+
+     LOCALISED BURNS, dressing of, under general anaesthesia (not involving grafting) (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/30010)
+30014
+
+     EXTENSIVE BURNS, dressing of, under general anaesthesia (not involving grafting) (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/30014)
+30017
+
+     BURNS, excision of, under general anaesthesia, involving not more than 10 per cent of body surface, where grafting is not carried out during the same operation (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/30017)
+30020
+
+     BURNS, excision of, under general anaesthesia, involving more than 10 per cent of body surface, where grafting is not carried out during the same operation (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/30020)
+30175
+
+     Radical abdominoplasty, with repair of rectus diastasis, excision of skin and subcutaneous tissue, and transposition of umbilicus, not being a laparoscopic procedure, where the patient has an abdominal wall defect as a consequence of pregnancy, if: (a) the patient:(i) has a diastasis of at least 3cm measured by diagnostic imaging prior to this service; and(ii) has symptoms of at least moderate severity of pain or discomfort at the site of the diastasis in the abdominal wall during functional use and/or low back pain or urinary symptoms likely due to rectus diastasis that have been documented in the patient’s records by the practitioner providing this service; and(iii) has failed to respond to non-surgical conservative treatment including physiotherapy; and(iv) has not been pregnant in the last 12 months (b) the service is not a service associated with a service to which item 30165, 30651, 30655, 30168, 30171, 30172, 30176, 30177, 30179, 45530, 45564 or 45565 applies Applicable once per lifetime (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/30175)
+30176
+
+     Lipectomy, radical abdominoplasty (Pitanguy type or similar), with excision of skin and subcutaneous tissue, repair of musculoaponeurotic layer and transposition of umbilicus, not being a service associated with a service to which item 30165, 30168, 30171, 30172, 30177, 30179, 45530, 45564 or 45565 applies,if the patient has previously had a massive intra-abdominal or pelvic tumour surgically removed (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/30176)
+38846
+
+     Pectus excavatum or pectus carinatum, repair or radical correction of, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828, 38847, 38848 or 38849 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/38846)
+38847
+
+     Pectus excavatum, repair of, with implantation of subcutaneous prosthesis, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828, 38846, 38848 or 38849 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/38847)
+38848
+
+     Pectus excavatum, repair of, with insertion of a concave bar, by any method, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38828, 38846 or 38847 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/38848)
+38849
+
+     Pectus excavatum, removal of a concave bar, by any method, not being a service associated with a service to which item 18258, 18260, 38815, 38816, 38828, 38846 or 38847 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/38849)
+38857
+
+     Chest wall resection, sternum and/or ribs without reconstruction, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38824, 38828 or 38858 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/38857)
+38858
+
+     Chest wall resection, sternum and / or ribs with reconstruction, other than a service associated with a service to which item 18258, 18260, 38815, 38816, 38824, 38828 or 38857 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/38858)
+42860
+
+     EYELID (upper or lower), scleral or Goretex or other non-autogenous graft to, with recession of the lid retractors (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/42860)
+42863
+
+     EYELID, recession of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/42863)
+42866
+
+     ENTROPION or TARSAL ECTROPION, repair of, by tightening, shortening or repair of inferior retractors by open operation across the entire width of the eyelid (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/42866)
+42872
+
+     EYEBROW, elevation of, by skin excision, to correct for a reduced field of vision caused by paretic, involutional, or traumatic eyebrow descent/ptosis to a position below the superior orbital rim (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/42872)
+43882
+
+     Cloacal exstrophy, operation for (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/43882)
+45000
+
+     Single stage local muscle flap repair, on eyelid, nose, lip, neck, hand, thumb, finger or genitals not in association with any of items 31356 to 31376 (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45000)
+45003
+
+     Single stage local myocutaneous flap repair to one defect, simple and small not in association with any of items 31356 to 31376 (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45003)
+45006
+
+     SINGLE STAGE LARGE MYOCUTANEOUS FLAP REPAIR to 1 defect, (pectoralis major, latissimus dorsi, or similar large muscle) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45006)
+45009
+
+     Single stage localmuscle flap repair to 1 defect, simple and small,other than a service associated with a service to which item 30278, 30281 or 41722 applies (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45009)
+45012
+
+     SINGLE STAGE LARGE MUSCLE FLAP REPAIR to 1 defect, (pectoralis major, gastrocnemius, gracilis or similar large muscle) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45012)
+45015
+
+     MUSCLE OR MYOCUTANEOUS FLAP, delay of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45015)
+45018
+
+     Dermis, dermofat or fascia graft (other than transfer of fat by injection): (a) if the service is not associated with neurosurgical services for spinal disorders mentioned in any of items 51011 to 51171; and (b) other than a service associated with a service to which item 39615, 39715, 40106 or 40109 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45018)
+45019
+
+     Full face chemical peel for severely sun-damaged skin, if: (a) the damage affects at least 75% of the facial skin surface area; and (b) the damage involves photo-damage (dermatoheliosis); and (c) the photo-damage involves: (i) a solar keratosis load exceeding 30 individual lesions; or (ii) solar lentigines; or (iii) freckling, yellowing or leathering of the skin; or (iv) solar kertoses which have proven refractory to, or recurred following, medical therapies; and (d) at least medium depth peeling agents are used; and (e) the chemical peel is performed in the operating theatre of a hospital by a medical practitioner recognised as a specialist in the specialty of dermatology or plastic surgery. Applicable once only in any 12 month period (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45019)
+45021
+
+     ABRASIVE THERAPY for severely disfiguring scarring resulting from trauma, burns or acne - limited to 1 aesthetic area (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45021)
+45024
+
+     ABRASIVE THERAPY for severely disfiguring scarring resulting from trauma, burns or acne - more than 1 aesthetic area (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45024)
+45025
+
+     CARBON DIOXIDE LASER OR ERBIUM LASER (not including fractional laser therapy) resurfacing of the face or neck for severely disfiguring scarring resulting from trauma, burns or acne - limited to 1 aesthetic area (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45025)
+45026
+
+     CARBON DIOXIDE LASER OR ERBIUM LASER (not including fractional laser therapy) resurfacing of the face or neck for severely disfiguring scarring resulting from trauma, burns or acne - more than 1 aesthetic area (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45026)
+45027
+
+     ANGIOMA, cauterisation of or injection into, where undertaken in the operating theatre of a hospital (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45027)
+45030
+
+     ANGIOMA (haemangioma or lymphangioma or both) of skin and subcutaneous tissue (excluding facial muscle or breast) or mucous surface, small, excision and suture of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45030)
+45033
+
+     ANGIOMA, (haemangioma or lymphangioma or both), large or involving deeper tissue including facial muscle or breast, excision and suture of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45033)
+45035
+
+     ANGIOMA (haemangioma or lymphangioma or both), large and deep, involving muscles or nerves, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45035)
+45036
+
+     ANGIOMA (haemangioma or lymphangioma or both) of neck, deep, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45036)
+45039
+
+     ARTERIOVENOUS MALFORMATION (3 centimetres or less) of superficial tissue, excision of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45039)
+45042
+
+     ARTERIOVENOUS MALFORMATION, (greater than 3 centimetres), excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45042)
+45045
+
+     ARTERIOVENOUS MALFORMATION on eyelid, nose, lip, ear, neck, hand, thumb, finger or genitals, excision of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45045)
+45048
+
+     LYMPHOEDEMATOUS tissue or lymphangiectasis, of lower leg and foot, or thigh, or upper arm, or forearm and hand, major excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45048)
+45051
+
+     Contour reconstruction by open repair of contour defects, due to deformity, if: (a) contour reconstructive surgery is indicated because the deformity is secondary to congenital absence of tissue or has arisen from trauma (other than trauma from previous cosmetic surgery); and (b) insertion of a non-biological implant is required, other than one or more of the following: (i) insertion of a non-biological implant that is a component of another service specified in Group T8; (ii) injection of liquid or semisolid material; (iii) an oral and maxillofacial implant service to which item 52321 applies; (iv) a service to insert mesh; and (c) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45051)
+45054
+
+     LIMB OR CHEST, decompression escharotomy of (including all incisions), for acute compartment syndrome secondary to burn (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45054)
+45200
+
+     Single stage local flap, if indicated to repair one defect, simple and small, excluding flap for male pattern baldness and excluding H-flap or double advancement flap not in association with any of items 31356 to 31376 (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45200)
+45201
+
+     Muscle, myocutaneous or skin flap, where clinically indicated to repair one surgical excision made in the removal of a malignant or non-malignant skin lesion (only in association with items 31000, 31001, 31002, 31003, 31004, 31005, 31358, 31359, 31360, 31363, 31364, 31369, 31370, 31371, 31373 or 31376)-may be claimed only once per defect (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45201)
+45202
+
+     Muscle, myocutaneous or skin flap, where clinically indicated to repair one surgical excision made in the removal of a malignant or non-malignant skin lesion in a patient, if the clinical relevance of the procedure is clearly annotated in the patient's record and either: (a) item 45201 applies and additional flap repair is required for the same defect; or (b) item 45201 does not apply and either: (i) the patient has severe pre-existing scarring, severe skin atrophy or sclerodermoid changes; or (ii) the repair is contiguous with a free margin (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45202)
+45203
+
+     Single stage local flap, if indicated to repair one defect, complicated or large, excluding flap for male pattern baldness and excluding H-flap or double advancement flap not in association with any of items 31356 to 31376 (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45203)
+45206
+
+     Single stage local flap if indicated to repair one defect, on eyelid, nose, lip, ear, neck, hand, thumb, finger or genitals and excluding H-flap or double advancement flap not in association with any of items 31356 to 31376 (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45206)
+45207
+
+     H-flap or double advancement flap if indicated to repair one defect, on eyelid, eyebrow or forehead not in association with any of items 31356 to 31376 (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45207)
+45209
+
+     DIRECT FLAP REPAIR (cross arm, abdominal or similar), first stage (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45209)
+45212
+
+     DIRECT FLAP REPAIR (cross arm, abdominal or similar), second stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45212)
+45215
+
+     DIRECT FLAP REPAIR, cross leg, first stage (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45215)
+45218
+
+     DIRECT FLAP REPAIR, cross leg, second stage (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45218)
+45221
+
+     DIRECT FLAP REPAIR, small (cross finger or similar), first stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45221)
+45224
+
+     DIRECT FLAP REPAIR, small (cross finger or similar), second stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45224)
+45227
+
+     INDIRECT FLAP OR TUBED PEDICLE, formation of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45227)
+45230
+
+     DIRECT OR INDIRECT FLAP OR TUBED PEDICLE, delay of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45230)
+45233
+
+     INDIRECT FLAP OR TUBED PEDICLE, preparation of intermediate or final site and attachment to the site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45233)
+45236
+
+     INDIRECT FLAP OR TUBED PEDICLE, spreading of pedicle, as a separate procedure (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45236)
+45239
+
+     DIRECT, INDIRECT OR LOCAL FLAP, revision of, by incision and suture, not being a service to which item 45240 applies (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45239)
+45240
+
+     DIRECT, INDIRECT OR LOCAL FLAP, revision of, by liposuction, not being a service to which item 45239, 45497, 45498 or 45499 applies (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45240)
+45400
+
+     FREE GRAFTING (split skin) of a granulating area, small (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45400)
+45403
+
+     FREE GRAFTING (split skin) of a granulating area, extensive (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45403)
+45406
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving not more than 3 per cent of total body surface (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45406)
+45409
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 3 per cent or more but less than 6 per cent of total body surface (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45409)
+45412
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 6 per cent or more but less than 9 per cent of total body surface (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45412)
+45415
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 9 per cent or more but less than 12 per cent of total body surface (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45415)
+45418
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 12 per cent or more but less than 15 per cent of total body surface (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45418)
+45439
+
+     FREE GRAFTING (split skin) to 1 defect, including elective dissection, small (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45439)
+45442
+
+     FREE GRAFTING (split skin) to 1 defect, including elective dissection, extensive (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45442)
+45445
+
+     FREE GRAFTING (split skin) as inlay graft to 1 defect including elective dissection using a mould (including insertion of, and removal of mould) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45445)
+45448
+
+     FREE GRAFTING (split skin) to 1 defect, including elective dissection on eyelid, nose, lip, ear, neck, hand, thumb, finger or genitals, not being a service to which item 45442 or 45445 applies (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45448)
+45451
+
+     FREE GRAFTING (full thickness), to 1 defect, excluding grafts for male pattern baldness (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45451)
+45460
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 15 percent or more but less than 20 percent of total body surface - one surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45460)
+45461
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 15 percent or more but less than 20 percent of total body surface - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45461)
+45462
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 15 percent or more but less than 20 percent of total body surface - conjoint surgery, co- surgeon (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45462)
+45464
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 20 percent or more but less than 30 percent of total body surface - one surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45464)
+45465
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 20 percent or more but less than 30 percent of total body surface - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45465)
+45466
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 20 percent or more but less than 30 percent of total body surface - conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45466)
+45468
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 30 percent or more but less than 40 percent of total body surface - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45468)
+45469
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 30 percent or more but less than 40 percent of total body surface - conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45469)
+45471
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 40 percent or more but less than 50 percent of total body surface - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45471)
+45472
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 40 percent or more but less than 50 percent of total body surface - conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45472)
+45474
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 50 percent or more but less than 60 percent of total body surface - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45474)
+45475
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 50 percent or more but less than 60 percent of total body surface - conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45475)
+45477
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 60 percent or more but less than 70 percent of total body surface - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45477)
+45478
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 60 percent or more but less than 70 percent of total body surface - conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45478)
+45480
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 70 percent or more but less than 80 percent of total body surface - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45480)
+45481
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 70 percent or more but less than 80 percent of total body surface - conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45481)
+45483
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 80 percent or more of total body surface - conjoint surgery, principal surgeon (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45483)
+45484
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - involving 80 percent or more of total body surface - conjoint surgery, co-surgeon (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45484)
+45485
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - upper eyelid, nose, lip, ear or palm of the hand (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45485)
+45486
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - forehead, cheek, anterior aspect of the neck, chin, plantar aspect of the foot, heel or genitalia (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45486)
+45487
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - whole of toe (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45487)
+45488
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - the whole of 1 digit of the hand (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45488)
+45489
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - the whole of 2 digits of the hand (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45489)
+45490
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - the whole of 3 digits of the hand (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45490)
+45491
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - the whole of 4 digits of the hand (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45491)
+45492
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - the whole of 5 digits of the hand (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45492)
+45493
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - portion of digit of hand (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45493)
+45494
+
+     FREE GRAFTING (split skin) to burns, including excision of burnt tissue - whole of face (excluding ears) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45494)
+45496
+
+     FLAP, free tissue transfer using microvascular techniques - revision of, by open operation (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45496)
+45497
+
+     FLAP, free tissue transfer using microvascular techniques, or any autogenous breast reconstruction - complete revision of, by liposuction (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45497)
+45498
+
+     FLAP, free tissue transfer using microvascular techniques, or any autogenous breast reconstruction - staged revision of, by liposuction - first stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45498)
+45499
+
+     FLAP, free tissue transfer using microvascular techniques, or any autogenous breast reconstruction - staged revision of, by liposuction - second stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45499)
+45500
+
+     MICROVASCULAR REPAIR using microsurgical techniques, with restoration of continuity of artery or vein of distal extremity or digit (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45500)
+45501
+
+     MICROVASCULAR ANASTOMOSIS of artery using microsurgical techniques, for re-implantation of limb or digit (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45501)
+45502
+
+     MICROVASCULAR ANASTOMOSIS of vein using microsurgical techniques, for re-implantation of limb or digit (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45502)
+45503
+
+     MICRO-ARTERIAL OR MICRO-VENOUS GRAFT using microsurgical techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45503)
+45504
+
+     MICROVASCULAR ANASTOMOSIS of artery using microsurgical techniques, for free transfer of tissue including setting in of free flap (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45504)
+45505
+
+     MICROVASCULAR ANASTOMOSIS of vein using microsurgical techniques, for free transfer of tissue including setting in of free flap (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45505)
+45506
+
+     SCAR, of face or neck, not more than 3 cm in length, revision of, where undertaken in the operating theatre of a hospital, or where performed by a specialist in the practice of his or her specialty (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45506)
+45512
+
+     SCAR, of face or neck, more than 3 cm in length, revision of, where undertaken in the operating theatre of a hospital, or where performed by a specialist in the practice of his or her specialty (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45512)
+45515
+
+     SCAR, other than on face or neck, not more than 7 cms in length, revision of, as an independent procedure, where undertaken in the operating theatre of a hospital or where performed by a specialist in the practice of his or her specialty (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45515)
+45518
+
+     SCAR, other than on face or neck, more than 7 cms in length, revision of, as an independent procedure, where undertaken in the operating theatre of a hospital, or where performed by a specialist in the practice of his or her speciality (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45518)
+45519
+
+     EXTENSIVE BURN SCARS OF SKIN (more than 1 percent of body surface area), excision of, for correction of scar contracture (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45519)
+45560
+
+     HAIR TRANSPLANTATION for the treatment of alopecia of congenital or traumatic origin or due to disease, excluding male pattern baldness, not being a service to which another item in this Group applies (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45560)
+45561
+
+     MICROVASCULAR ANASTOMOSIS of artery or vein using microsurgical techniques, for supercharging of pedicled flaps (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45561)
+45562
+
+     FREE TRANSFER OF TISSUE involving raising of tissue on vascular or neurovascular pedicle, including direct repair of secondary cutaneous defect if performed, excluding flap for male pattern baldness (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45562)
+45563
+
+     NEUROVASCULAR ISLAND FLAP, including direct repair of secondary cutaneous defect if performed, excluding flap for male pattern baldness (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45563)
+45564
+
+     Free transfer of tissue reconstructive surgery for the repair of major tissue defect due to congenital deformity, surgery or trauma, involving anastomoses of up to 2 vessels using microvascular techniques and including raising of tissue on a vascular or neurovascular pedicle, preparation of recipient vessels, transfer of tissue, insetting of tissue at recipient site and direct repair of secondary cutaneous defect if performed, other than a service associated with a service to which item 30165, 30168, 30171, 30172, 30176, 30177, 30179, 45501, 45502, 45504, 45505 or 45562 applies-conjoint surgery, principal specialist surgeon (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45564)
+45565
+
+     Free transfer of tissue reconstructive surgery for the repair of major tissue defect due to congenital deformity, surgery or trauma, involving anastomoses of up to 2 vessels using microvascular techniques and including raising of tissue on a vascular or neurovascular pedicle, preparation of recipient vessels, transfer of tissue, insetting of tissue at recipient site and direct repair of secondary cutaneous defect if performed, other than a service associated with a service to which item 30165, 30168, 30171, 30172, 30176, 30177, 30179, 45501, 45502, 45504, 45505 or 45562 applies-conjoint surgery, conjoint specialist surgeon (H) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45565)
+45566
+
+     TISSUE EXPANSION not being a service to which item 45539 or 45542 applies - insertion of tissue expansion unit and all attendances for subsequent expansion injections (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45566)
+45568
+
+     TISSUE EXPANDER, removal of, with complete excision of fibrous capsule (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45568)
+45569
+
+     CLOSURE OF ABDOMEN WITH RECONSTRUCTION OF UMBILICUS, with or without lipectomy, being a service associated with items 45562, 45564, 45565 or 45530 (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45569)
+45570
+
+     CLOSURE OF ABDOMEN, repair of musculoaponeurotic layer, being a service associated with item 45569 (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45570)
+45572
+
+     INTRA OPERATIVE TISSUE EXPANSION performed during an operation when combined with a service to which another item in Group T8 applies including expansion injections and excluding treatment of male pattern baldness (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45572)
+45575
+
+     FACIAL NERVE PARALYSIS, free fascia graft for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45575)
+45578
+
+     FACIAL NERVE PARALYSIS, muscle transfer for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45578)
+45581
+
+     FACIAL NERVE PALSY, excision of tissue for (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45581)
+45584
+
+     Liposuction (suction assisted lipolysis) to one regional area (one limb or trunk), for treatment of post traumatic pseudolipoma, if photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45584)
+45585
+
+     Liposuction (suction assisted lipolysis) to one regional area (one limb or trunk), other than a service associated with a service to which item 31525 applies, if: (a) the liposuction is for: (i) the treatment of Barraquer-Simons syndrome, lymphoedema or macrodystrophia lipomatosa; or (ii) the reduction of a buffalo hump that is secondary to an endocrine disorder or pharmacological treatment of a medical condition; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45585)
+45587
+
+     Meloplasty for correction of facial asymmetry if: (a) the asymmetry is secondary to trauma (including previous surgery), a congenital condition or a medical condition (such as facial nerve palsy); and (b) the meloplasty is limited to one side of the face (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45587)
+45588
+
+     Meloplasty (excluding browlifts and chinlift platysmaplasties), bilateral, if: (a) surgery is indicated to correct a functional impairment due to a congenital condition, disease (excluding post-acne scarring) or trauma (other than trauma resulting from previous elective cosmetic surgery); and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45588)
+45589
+
+     Autologous fat grafting (harvesting, preparation and injection of adipocytes) if: (a) the autologous fat grafting is for either or both of the following purposes: (i) the correction of asymmetry arising from volume and contour defects in craniofacial disorders—up to a total of 4 services if each service is provided at least 3 months after the previous service; (ii) the treatment of burn scar or associated skin graft in the context of scar contracture, contour deformity or neuropathic pain, for patients who have undergone a minimum of 3 months of topical therapies, including silicone and pressure therapy, with an unsatisfactory or minimal level of improvement—up to a total of 4 services per region of the body (upper or lower limbs, trunk, neck or face) if each service provided per region of the body is provided at least 3 months after the previous such service; and (b) both: (i) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes; and (ii) for craniofacial disorders, evidence of diagnosis of the qualifying craniofacial disorder is documented in the patient notes (H) (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45589)
+45590
+
+     ORBITAL CAVITY, reconstruction of a wall or floor, with or without foreign implant (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45590)
+45593
+
+     ORBITAL CAVITY, bone or cartilage graft to orbital wall or floor including reduction of prolapsed or entrapped orbital contents (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45593)
+45596
+
+     MAXILLA, total resection of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45596)
+45597
+
+     MAXILLA, total resection of both maxillae (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45597)
+45599
+
+     MANDIBLE, total resection of both sides, including condylectomies where performed (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45599)
+45602
+
+     MANDIBLE, including lower border, OR MAXILLA, sub-total resection of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45602)
+45608
+
+     MANDIBLE, hemimandibular reconstruction with bone graft, not being a service associated with a service to which item 45599 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45608)
+45611
+
+     MANDIBLE, condylectomy (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45611)
+45614
+
+     EYELID, WHOLE THICKNESS RECONSTRUCTION OF other than by direct suture only (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45614)
+45617
+
+     Upper eyelid, reduction of, if: (a) the reduction is for any of the following: (i) history of a demonstrated visual impairment; (ii) intertriginous inflammation of the eyelid; (iii) herniation of orbital fat in exophthalmos; (iv) facial nerve palsy; (v) post-traumatic scarring; (vi) the restoration of symmetry of contralateral upper eyelid in respect of one of the conditions mentioned in subparagraphs(i) to (v); and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45617)
+45620
+
+     Lower eyelid, reduction of, if: (a) the reduction is for: (i) herniation of orbital fat in exophthalmos, facial nerve palsy or post-traumatic scarring; or (ii) the restoration of symmetry of the contralateral lower eyelid in respect of one of these conditions; and (b) photographic and/or diagnostic imaging evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45620)
+45623
+
+     Ptosis of upper eyelid (unilateral), correction of, by: (a) sutured elevation of the tarsal plate on the eyelid retractors (Muller’s or levator muscle or levator aponeurosis); or (b) sutured suspension to the brow/frontalis muscle; Not applicable to a service for repair of mechanical ptosis to which item 45617 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45623)
+45624
+
+     Ptosis of upper eyelid, correction of, by: (a) sutured elevation of the tarsal plate on the eyelid retractors (Muller’s or levator muscle or levator aponeurosis); or (b) sutured suspension to the brow/frontalis muscle; if a previous ptosis surgery has been performed on that side (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45624)
+45625
+
+     PTOSIS of eyelid, correction of eyelid height by revision of levator sutures within one week of primary repair by levator resection or advancement, performed in the operating theatre of a hospital (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45625)
+45626
+
+     Ectropion or entropion, not caused by trachoma, correction of (unilateral) (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45626)
+45627
+
+     Ectropion or entropion, caused by trachoma, correction of (unilateral) (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45627)
+45629
+
+     SYMBLEPHARON, grafting for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45629)
+45632
+
+     Rhinoplasty, partial, involving correction of one or both lateral cartilages, one or both alar cartilages or one or both lateral cartilages and alar cartilages, if: (a) the indication for surgery is: (i) airway obstruction and the patient has a self reported NOSE Scale score of greater than 45; or (ii) significant acquired, congenital or developmental deformity; and (b) photographic and/or NOSE Scale evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45632)
+45635
+
+     Rhinoplasty, partial, involving correction of bony vault only, if: (a) the indication for surgery is: (i) airway obstruction and the patient has a self-reported NOSE Scale score of greater than 45; or (ii) significant acquired, congenital or developmental deformity; and (b) photographic and/or NOSE Scale evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45635)
+45641
+
+     Rhinoplasty, total, including correction of all bony and cartilaginous elements of the external nose, with or without autogenous cartilage or bone graft from a local site (nasal), if: (a) the indication for surgery is: (i) airway obstruction and the patient has a self-reported NOSE Scale score of greater than 45; or (ii) significant acquired, congenital or developmental deformity; and (b) photographic and/or NOSE Scale evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45641)
+45644
+
+     Rhinoplasty, total, including correction of all bony and cartilaginous elements of the external nose involving autogenous bone or cartilage graft obtained from distant donor site, including obtaining of graft, if: (a) the indication for surgery is: (i) airway obstruction and the patient has a self-reported NOSE Scale score of greater than 45; or (ii) significant acquired, congenital or developmental deformity; and (b) photographic and/or NOSE Scale evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45644)
+45647
+
+     FACE, contour restoration of 1 region, using autogenous bone or cartilage graft (not being a service to which item 45644 applies) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45647)
+45650
+
+     Rhinoplasty, revision of, if: (a) the indication for surgery is: (i) airway obstruction and the patient has a self-reported NOSE Scale score of greater than 45; or (ii) significant acquired, congenital or developmental deformity; and (b) photographic and/or NOSE Scale evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45650)
+45652
+
+     Rhinophyma of a moderate or severe degree, carbon dioxide laser or erbium laser excision - ablation of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45652)
+45653
+
+     RHINOPHYMA, shaving of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45653)
+45656
+
+     COMPOSITE GRAFT (Chondrocutaneous or chondromucosal) to nose, ear or eyelid (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45656)
+45658
+
+     Correction of a congenital deformity of the ear if: (a)the congenital deformity is not related to a prominent ear; and (b) the deformity has been clinically diagnosed as a constricted ear, Stahl's ear, or a similar congenital deformity; and (c) photographic evidence demonstrating the clinical need for this service is documented in the patient notes. (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45658)
+45659
+
+     Correction of a congenital deformity of the ear if: (a) the patient is less than 18 years of age; and (b) the deformity is characterised by an absence of the antihelical fold and/or large scapha and/or large concha; and (c) photographic evidence demonstrating the clinical need for this service is documented in the patient notes (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45659)
+45660
+
+     EXTERNAL EAR, COMPLEX TOTAL RECONSTRUCTION OF, using multiple costal cartilage grafts to form a framework, including the harvesting and sculpturing of the cartilage and its insertion, for congenital absence, microtia or post-traumatic loss of entire or substantial portion of pinna (first stage) - performed by a specialist in the practice of his or her specialty (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45660)
+45661
+
+     EXTERNAL EAR, COMPLEX TOTAL RECONSTRUCTION OF, elevation of costal cartilage framework using cartilage previously stored in abdominal wall, including the use of local skin and fascia flaps and full thickness skin graft to cover cartilage (second stage) - performed by a specialist in the practice of his or her specialty (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45661)
+45662
+
+     CONGENITAL ATRESIA, reconstruction of external auditory canal (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45662)
+45665
+
+     LIP, EYELID OR EAR, FULL THICKNESS WEDGE EXCISION OF, with repair by direct sutures (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45665)
+45668
+
+     VERMILIONECTOMY, by surgical excision (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45668)
+45669
+
+     Vermilionectomy for biopsy-confirmed cellular atypia, using carbon dioxide laser or erbium laser excision - ablation (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45669)
+45671
+
+     LIP OR EYELID RECONSTRUCTION using full thickness flap (Abbe or similar), first stage (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45671)
+45674
+
+     LIP OR EYELID RECONSTRUCTION using full thickness flap (Abbe or similar), second stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45674)
+45675
+
+     MACROCHEILIA or macroglossia, operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45675)
+45676
+
+     MACROSTOMIA, operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45676)
+45677
+
+     CLEFT LIP, unilateralprimary repair, 1 stage, without anterior palate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45677)
+45680
+
+     CLEFT LIP, unilateral - primary repair, 1 stage, with anterior palate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45680)
+45683
+
+     CLEFT LIP, bilateral - primary repair, 1 stage, without anterior palate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45683)
+45686
+
+     CLEFT LIP, bilateral - primary repair, 1 stage, with anterior palate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45686)
+45689
+
+     CLEFT LIP, lip adhesion procedure, unilateral or bilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45689)
+45692
+
+     CLEFT LIP, partial revision, including minor flap revision alignment and adjustment, including revision of minor whistle deformity if performed (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45692)
+45695
+
+     CLEFT LIP, total revision, including major flap revision, muscle reconstruction and revision of major whistle deformity (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45695)
+45698
+
+     CLEFT LIP, primary columella lengthening procedure, bilateral (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45698)
+45701
+
+     CLEFT LIP RECONSTRUCTION using full thickness flap (Abbe or similar), first stage (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45701)
+45704
+
+     CLEFT LIP RECONSTRUCTION using full thickness flap (Abbe or similar), second stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45704)
+45707
+
+     CLEFT PALATE, primary repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45707)
+45710
+
+     CLEFT PALATE, secondary repair, closure of fistula using local flaps (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45710)
+45713
+
+     CLEFT PALATE, secondary repair, lengthening procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45713)
+45714
+
+     ORO-NASAL FISTULA, plastic closure of, including services to which item 45200, 45203 or 45239 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45714)
+45716
+
+     VELO-PHARYNGEAL INCOMPETENCE, pharyngeal flap for, or pharyngoplasty for (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45716)
+45720
+
+     Mandible or maxilla, unilateral osteotomy or osteectomy of, including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45720)
+45723
+
+     Mandible or maxilla, unilateral osteotomy or osteectomy of, including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45723)
+45726
+
+     Mandible or maxilla, bilateral osteotomy or osteectomy of, including transposition of nerves and vessels and bone grafts taken from the same site (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45726)
+45729
+
+     Mandible or maxilla, bilateral osteotomy or osteectomy of, including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45729)
+45731
+
+     Mandible or maxilla, osteotomies or osteectomies of, involving 3 or more such procedures on the 1 jaw, including transposition of nerves and vessels and bone grafts taken from the same site (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45731)
+45732
+
+     Mandible or maxilla, osteotomies or osteectomies of, involving 3 or more such procedures on the 1 jaw, including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45732)
+45735
+
+     Mandible and maxilla, osteotomies or osteectomies of, involving 2 such procedures of each jaw, including transposition of nerves and vessels and bone grafts taken from the same site (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45735)
+45738
+
+     Mandible and maxilla, osteotomies or osteectomies of, involving 2 such procedures of each jaw, including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45738)
+45741
+
+     Mandible and maxilla, complex bilateral osteotomies or osteectomies of, involving 3 or more such procedures of 1 jaw and 2 such procedures of the other jaw, including genioplasty when performed and transposition of nerves and vessels and bone grafts taken from the same site (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45741)
+45744
+
+     Mandible and maxilla, complex bilateral osteotomies or osteectomies of, involving 3 or more such procedures of 1 jaw and 2 such procedures of the other jaw, including genioplasty when performed and transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45744)
+45747
+
+     MANDIBLE AND MAXILLA, complex bilateral osteotomies or osteectomies of, involving 3 or more such procedures of each jaw, including genioplasty (when performed) and transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45747)
+45752
+
+     MANDIBLE AND MAXILLA, complex bilateral osteotomies or osteectomies of, involving 3 or more such procedures of each jaw, including genioplasty when performed and transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45752)
+45753
+
+     MIDFACIAL OSTEOTOMIES - Le Fort II, Modified Le Fort III (Nasomalar), Modified Le Fort III(Malar-Maxillary), Le Fort III involving 3 or more osteotomies of the midface including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45753)
+45754
+
+     MIDFACIAL OSTEOTOMIES - Le Fort II, Modified Le Fort III (Nasomalar), Modified Le Fort III (Malar-Maxillary), Le Fort III involving 3 or more osteotomies of the midface including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45754)
+45755
+
+     TEMPOROMANDIBULAR PARTIAL OR TOTAL MENISCECTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45755)
+45758
+
+     TEMPORO-MANDIBULAR JOINT, arthroplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45758)
+45761
+
+     GENIOPLASTY, including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45761)
+45767
+
+     HYPERTELORISM, correction of, intracranial (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45767)
+45770
+
+     HYPERTELORISM, correction of, subcranial (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45770)
+45773
+
+     TREACHER COLLINS SYNDROME, PERIORBITAL CORRECTION OF, with rib and iliac bone grafts (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45773)
+45776
+
+     ORBITAL DYSTOPIA (UNILATERAL), CORRECTION OF, with total repositioning of 1 orbit, intracranial (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45776)
+45779
+
+     ORBITAL DYSTOPIA (UNILATERAL), CORRECTION OF, with total repositioning of 1 orbit, extracranial (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45779)
+45782
+
+     FRONTOORBITAL ADVANCEMENT, UNILATERAL (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45782)
+45785
+
+     CRANIAL VAULT RECONSTRUCTION for oxycephaly, brachycephaly, turricephaly or similar condition(bilateral frontoorbital advancement) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45785)
+45791
+
+     ABSENT CONDYLE AND ASCENDING RAMUS in hemifacial microsomia, CONSTRUCTION OF, not including harvesting of graft material (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45791)
+45794
+
+     OSSEO-INTEGRATION PROCEDURE - extra-oral, implantation of titanium fixture, not for implantable bone conduction hearing system device (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45794)
+45797
+
+     OSSEO-INTEGRATION PROCEDURE, fixation of transcutaneous abutment, not for implantable bone conduction hearing system device (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45797)
+45799
+
+     ASPIRATION BIOPSY of 1 or MORE JAW CYSTS as an independent procedure to obtain material for diagnostic purposes and not being a service associated with an operative procedure on the same day (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45799)
+45801
+
+     TUMOUR, CYST, ULCER OR SCAR, (other than a scar removed during the surgical approach at an operation),in the oral and maxillofacial region, up to 3 cm in diameter, removal from cutaneous or subcutaneous tissue or from mucous membrane, where the removal is by surgical excision and suture, not being a service to which item 45803 applies (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45801)
+45803
+
+     TUMOURS, CYSTS, ULCERS OR SCARS, (other than a scar removed during the surgical approach at an operation), in the oral and maxillofacial region, up to 3 cm in diameter, removal from cutaneous or subcutaneous tissue or from mucous membrane, where the removal is by surgical excision and suture, and the procedure is performed on more than 3 but not more than 10 lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45803)
+45805
+
+     TUMOUR, CYST, ULCER OR SCAR, (other than a scar removed during the surgical approach at an operation), in the oral and maxillofacial region, more than 3 cm in diameter, removal from cutaneous or subcutaneous tissue or from mucous membrane (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45805)
+45807
+
+     TUMOUR, CYST (other than a cyst associated with a tooth or tooth fragment unless it has been established by radiological examination that there is a minimum of 5mm separation between the cyst lining and tooth structure or where a tumour or cyst has been proven by positive histopathology), ULCER OR SCAR (other than a scar removed during the surgical approach at an operation), in the oral and maxillofacial region, removal of, not being a service to which another item in this Subgroup applies, involving muscle, bone, or other deep tissue (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45807)
+45809
+
+     TUMOUR OR DEEP CYST (other than a cyst associated with a tooth or tooth fragment unless it has been established by radiological examination that there is a minimum of 5mm separation between the cyst lining and tooth structure or where a tumour or cyst has been proven by positive histopathology), in the oral and maxillofacial region, removal of, requiring wide excision, not being a service to which another item in this Subgroup applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45809)
+45811
+
+     TUMOUR, in the oral and maxillofacial region, removal of, from soft tissue (including muscle, fascia and connective tissue), extensive excision of, without skin or mucosal graft (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45811)
+45813
+
+     TUMOUR, in the oral and maxillofacial region, removal of, from soft tissue (including muscle, fascia and connective tissue), extensive excision of, with skin or mucosal graft (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45813)
+45815
+
+     OPERATION ON MANDIBLE OR MAXILLA (other than alveolar margins) for chronic osteomyelitis - 1 bone or in combination with adjoining bones (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45815)
+45817
+
+     OPERATION on SKULL for OSTEOMYELITIS (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45817)
+45819
+
+     OPERATION ON ANY COMBINATION OF ADJOINING BONES IN THE ORAL AND MAXILLOFACIAL REGION, being bones referred to in item 45817 (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45819)
+45821
+
+     BONE GROWTH STIMULATOR IN THE ORAL AND MAXILLOFACIAL REGION, insertion of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45821)
+45823
+
+     ARCH BARS, 1 or more, which were inserted for dental fixation purposes to the maxilla or mandible, removal of, requiring general anaesthesia where undertaken in the operating theatre of a hospital (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45823)
+45825
+
+     MANDIBULAR OR PALATAL EXOSTOSIS, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45825)
+45827
+
+     MYLOHYOID RIDGE, reduction of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45827)
+45829
+
+     MAXILLARY TUBEROSITY, reduction of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45829)
+45831
+
+     PAPILLARY HYPERPLASIA OF THE PALATE, removal of - less than 5 lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45831)
+45833
+
+     PAPILLARY HYPERPLASIA OF THE PALATE, removal of - 5 to 20 lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45833)
+45835
+
+     PAPILLARY HYPERPLASIA OF THE PALATE, removal of - more than 20 lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45835)
+45837
+
+     VESTIBULOPLASTY, submucosal or open, including excision of muscle and skin or mucosal graft when performed - unilateral or bilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45837)
+45839
+
+     FLOOR OF MOUTH LOWERING (Obwegeser or similar procedure), including excision of muscle and skin or mucosal graft when performed - unilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45839)
+45841
+
+     ALVEOLAR RIDGE AUGMENTATION with bone or alloplast or both - unilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45841)
+45843
+
+     ALVEOLAR RIDGE AUGMENTATION - unilateral, insertion of tissue expanding device into maxillary or mandibular alveolar ridge region for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45843)
+45845
+
+     OSSEO-INTEGRATION PROCEDURE - intra-oral implantation of titanium fixture to facilitate restoration of the dentition following resection of part of the maxilla or mandible for benign or malignant tumours (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45845)
+45847
+
+     OSSEO-INTEGRATION PROCEDURE - fixation of transmucosal abutment to fixtures placed following resection of part of the maxilla or mandible for benign or malignant tumours (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45847)
+45849
+
+     MAXILLARY SINUS, BONE GRAFT to floor of maxillary sinus following elevation of mucosal lining (sinus lift procedure), (unilateral) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45849)
+45853
+
+     ABSENT CONDYLE and ASCENDING RAMUS in hemifacial microsomia, construction of, not including harvesting of graft material (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45853)
+45865
+
+     ARTHROCENTESIS, irrigation of temporomandibular joint after insertion of 2 cannuli into the appropriate joint space(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45865)
+45877
+
+     TEMPOROMANDIBULAR JOINT, arthrodesis of, with synovectomy if performed, not being a service to which another item in this Subgroup applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45877)
+45879
+
+     TEMPOROMANDIBULAR JOINT OR JOINTS, application of external fixator to, other than for treatment of fractures (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45879)
+45882
+
+     The treatment of a premalignant lesion of the oral mucosa by a treatment using cryotherapy, diathermy or carbon dioxide laser. [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45882)
+45885
+
+     Facial, mandibular or lingual artery or vein or artery and vein, ligation of, not being a service to which item 41707 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45885)
+45888
+
+     FOREIGN BODY, in the oral and maxillofacial region, deep, removal of using interventional imaging techniques (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45888)
+45891
+
+     SINGLE-STAGE LOCAL FLAP where indicated, repair to 1 defect, using temporalis muscle (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45891)
+45894
+
+     FREE GRAFTING, in the oral and maxillofacial region, (mucosa or split skin) of a granulating area (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45894)
+45897
+
+     ALVEOLAR CLEFT (congenital) unilateral, grafting of, including plastic closure of associated oro-nasal fistulae and ridge augmentation (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45897)
+45900
+
+     MANDIBLE, fixation by intermaxillary wiring, excluding wiring for obesity [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45900)
+45975
+
+     MAXILLA, unilateral or bilateral, treatment of fracture of, not requiring splinting [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45975)
+45984
+
+     MAXILLA, treatment of a complicated fracture of, involving viscera, blood vessels or nerves requiring open reduction not involving plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45984)
+45990
+
+     MAXILLA, treatment of a complicated fracture of, involving viscera, blood vessels or nerves requiring open reduction involving the use of plate(s) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/45990)
+50411
+
+     Lower limb deficiency, treatment of congenital deficiency of the femur by resection of the distal femur and proximal tibia followed by knee fusion (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/50411)
+50414
+
+     Lower limb deficiency, treatment of congenital deficiency of the femur by resection of the distal femur and proximal tibia followed by knee fusion and rotationplasty (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/50414)
+50417
+
+     Lower limb deficiency, treatment of congenital deficiency of the tibia by reconstruction of the knee, involving transfer of fibula or tibia, and repair of quadriceps mechanism (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/50417)
+50420
+
+     Patella, congenital dislocation of, reconstruction of the quadriceps (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/50420)
+50423
+
+     Tibia, fibula or both, congenital deficiency of, transfer of the fibula to tibia, with internal fixation (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/50423)
+51904
+
+     LIPECTOMY - wedge excision of skin or fat - 1 EXCISION (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/51904)
+51906
+
+     LIPECTOMY- wedge excision of skin or fat - 2 OR MORE EXCISIONS (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/51906)
+52010
+
+     FULL THICKNESS LACERATION OF EAR, EYELID, NOSE OR LIP, repair of, with accurate apposition of each layer of tissue (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52010)
+52036
+
+     TUMOUR, CYST, ULCER OR SCAR, (other than a scar removed during the surgical approach at an operation), up to 3 cm in diameter, removal from cutaneous or subcutaneous tissue or from mucous membrane, where the removal is by surgical excision and suture, not being a service to which item 52039 applies (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52036)
+52045
+
+     TUMOUR, CYST (other than a cyst associated with a tooth or tooth fragment unless it has been established by radiological examination that there is a minimum of 5mm separation between the cyst lining and tooth structure or where a tumour or cyst has been proven by positive histopathology), ULCER OR SCAR (other than a scar removed during the surgical approach at an operation), removal of, not being a service to which another item in Groups O3 to O9 applies, involving muscle, bone, or other deep tissue (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52045)
+52048
+
+     TUMOUR OR DEEP CYST (other than a cyst associated with a tooth or tooth fragment unless it has been established by radiological examination that there is a minimum of 5mm separation between the cyst lining and tooth structure or where a tumour or cyst has been proven by positive histopathology), removal of, requiring wide excision, not being a service to which another item in Groups O3 to O9 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52048)
+52106
+
+     ARCH BARS, 1 or more, which were inserted for dental fixation purposes to the maxilla or mandible, removal of, requiring general anaesthesia where undertaken in the operating theatre of a hospital (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52106)
+52108
+
+     LIP, full thickness wedge excision of, with repair by direct sutures (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52108)
+52111
+
+     VERMILIONECTOMY (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52111)
+52117
+
+     MANDIBLE, including lower border, or MAXILLA, sub-total resection of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52117)
+52120
+
+     MANDIBLE, hemimandiblectomy of, including condylectomy where performed (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52120)
+52122
+
+     MANDIBLE, hemi-mandibular reconstruction of, OR MAXILLA, reconstruction of, with BONE GRAFT, PLATE, TRAY OR ALLOPLAST, not being a service associated with a service to which item 52123 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52122)
+52123
+
+     MANDIBLE, total resection of both sides, including condylectomies where performed (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52123)
+52300
+
+     SINGLE-STAGE LOCAL FLAP, where indicated, repair to 1 defect, with skin or mucosa (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52300)
+52303
+
+     SINGLE-STAGE LOCAL FLAP, where indicated, repair to 1 defect, with buccal pad of fat (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52303)
+52306
+
+     SINGLE-STAGE LOCAL FLAP, where indicated, repair to 1 defect, using temporalis muscle (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52306)
+52309
+
+     FREE GRAFTING (mucosa or split skin) of a granulating area (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52309)
+52312
+
+     FREE GRAFTING (mucosa, split skin or connective tissue) to 1 defect, including elective dissection (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52312)
+52315
+
+     FREE GRAFTING, FULL THICKNESS, to 1 defect (mucosa or skin) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52315)
+52318
+
+     BONE GRAFT, harvesting of, via separate incision, being a service associated with a service to which another item in Groups O3 to O9 applies - Autogenous - small quantity (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52318)
+52319
+
+     BONE GRAFT, harvesting of, via separate incision, being a service associated with a service to which another item in Groups O3 to O9 applies - Autogenous - large quantity (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52319)
+52321
+
+     FOREIGN IMPLANT (NON-BIOLOGICAL), insertion of, for CONTOUR RECONSTRUCTION of pathological deformity, not being a service associated with a service to which item 52624 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52321)
+52324
+
+     DIRECT FLAP REPAIR, using tongue, first stage (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52324)
+52327
+
+     DIRECT FLAP REPAIR, using tongue, second stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52327)
+52330
+
+     PALATAL DEFECT (oro-nasal fistula), plastic closure of, including services to which item 52300, 52303, 52306 or 52324 applies (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52330)
+52333
+
+     CLEFT PALATE, primary repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52333)
+52336
+
+     CLEFT PALATE, secondary repair, closure of fistula using local flaps (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52336)
+52337
+
+     ALVEOLAR CLEFT (congenital) unilateral, grafting of, including plastic closure of associated oro-nasal fistulae and ridge augmentation (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52337)
+52339
+
+     CLEFT PALATE, secondary repair, lengthening procedure (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52339)
+52342
+
+     MANDIBLE or MAXILLA, unilateral osteotomy or osteectomy of, including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52342)
+52345
+
+     MANDIBLE or MAXILLA, unilateral osteotomy or osteectomy of, including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52345)
+52348
+
+     MANDIBLE or MAXILLA, bilateral osteotomy or osteectomy of, including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52348)
+52351
+
+     MANDIBLE or MAXILLA, bilateral osteotomy of osteectomy of, including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52351)
+52354
+
+     MANDIBLE or MAXILLA, osteotomies or osteectomies of, involving 3 or more such procedures on the 1 jaw, including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52354)
+52357
+
+     MANDIBLE or MAXILLA, osteotomies or osteectomies of, involving 3 or more such procedures on the 1 jaw, including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52357)
+52360
+
+     MANDIBLE and MAXILLA, osteotomies or osteectomies of, involving 2 such procedures of each jaw, including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52360)
+52363
+
+     MANDIBLE and MAXILLA, osteotomies or osteectomies of, involving 2 such procedures of each jaw, including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52363)
+52366
+
+     MANDIBLE and MAXILLA, complex bilateral osteotomies or osteectomies of, involving 3 or more such procedures of 1 jaw and 2 such procedures of the other jaw, including genioplasty when performed and transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52366)
+52369
+
+     MANDIBLE and MAXILLA, complex bilateral osteotomies or osteectomies of, involving 3 or more such procedures of 1 jaw and 2 such procedures of the other jaw, including genioplasty when performed and transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52369)
+52372
+
+     MANDIBLE and MAXILLA, complex bilateral osteotomies or osteectomies of, involving 3 or more such procedures of each jaw, including genioplasty when performed and transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52372)
+52375
+
+     MANDIBLE and MAXILLA, complex bilateral osteotomies or osteectomies of, involving 3 or more such procedures of each jaw, including genioplasty when performed and transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (H) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52375)
+52378
+
+     GENIOPLASTY including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52378)
+52379
+
+     FACE, contour reconstruction of 1 region, using autogenous bone or cartilage graft (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52379)
+52380
+
+     MIDFACIAL OSTEOTOMIES - Le Fort II, Modified Le Fort III (Nasomalar), Modified Le Fort III (Malar-Maxillary), Le Fort III involving 3 or more osteotomies of the midface including transposition of nerves and vessels and bone grafts taken from the same site (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52380)
+52382
+
+     MIDFACIAL OSTEOTOMIES - Le Fort II, Modified Le Fort III (Nasomalar), Modified Le Fort III (Malar-Maxillary), Le Fort III involving 3 or more osteotomies of the midface including transposition of nerves and vessels and bone grafts taken from the same site and stabilisation with fixation by wires, screws, plates or pins, or any combination (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52382)
+52420
+
+     MANDIBLE, fixation by intermaxillary wiring, excluding wiring for obesity [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52420)
+52424
+
+     DERMIS, DERMOFAT OR FASCIA GRAFT (excluding transfer of fat by injection) (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52424)
+52430
+
+     MICROVASCULAR REPAIR OF, using microsurgical techniques, with restoration of continuity of artery or vein of distal extremity or digit (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52430)
+52440
+
+     CLEFT LIP, unilateral - primary repair, 1 stage, without anterior palate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52440)
+52442
+
+     CLEFT LIP, unilateral - primary repair, 1 stage, with anterior palate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52442)
+52444
+
+     CLEFT LIP, bilateral - primary repair, 1 stage, without anterior palate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52444)
+52446
+
+     CLEFT LIP, bilateral - primary repair, 1 stage, with anterior palate repair (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52446)
+52450
+
+     CLEFT LIP, partial revision, including minor flap revision alignment and adjustment, including revision of minor whistle deformity if performed (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52450)
+52452
+
+     CLEFT LIP, total revision, including major flap revision, muscle reconstruction and revision of major whistle deformity (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52452)
+52456
+
+     CLEFT LIP RECONSTRUCTION using full thickness flap (Abbe or similar), first stage (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52456)
+52458
+
+     CLEFT LIP RECONSTRUCTION using full thickness flap (Abbe or similar), second stage (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52458)
+52460
+
+     VELO-PHARYNGEAL INCOMPETENCE, pharyngeal flap for, or pharyngoplasty for (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52460)
+52480
+
+     COMPOSITE GRAFT (Chondro-cutaneous or chondro-mucosal) to nose, ear or eyelid (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52480)
+52482
+
+     MACROCHEILIA or macroglossia, operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52482)
+52484
+
+     MACROSTOMIA, operation for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52484)
+52600
+
+     MANDIBULAR OR PALATAL EXOSTOSIS, excision of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52600)
+52603
+
+     MYLOHYOID RIDGE, reduction of (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52603)
+52606
+
+     MAXILLARY TUBEROSITY, reduction of (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52606)
+52609
+
+     PAPILLARY HYPERPLASIA OF THE PALATE, removal of - less than 5 lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52609)
+52612
+
+     PAPILLARY HYPERPLASIA OF THE PALATE, removal of - 5 to 20 lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52612)
+52615
+
+     PAPILLARY HYPERPLASIA OF THE PALATE, removal of - more than 20 lesions (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52615)
+52618
+
+     VESTIBULOPLASTY, submucosal or open, including excision of muscle and skin or mucosal graft when performed - unilateral or bilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52618)
+52621
+
+     FLOOR OF MOUTH LOWERING (Obwegeser or similar procedure), including excision of muscle and skin or mucosal graft when performed - unilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52621)
+52624
+
+     ALVEOLAR RIDGE AUGMENTATION with bone or alloplast or both - unilateral (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52624)
+52626
+
+     ALVEOLAR RIDGE AUGMENTATION - unilateral, insertion of tissue expanding device into maxillary or mandibular alveolar ridge region for (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52626)
+52627
+
+     OSSEO-INTEGRATION PROCEDURE - in the practice of oral and maxillofacial surgery, extra oral implantation of titanium fixture (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52627)
+52630
+
+     OSSEO-INTEGRATION PROCEDURE - in the practice of oral and maxillofacial surgery, fixation of transcutaneous abutment (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52630)
+52633
+
+     OSSEO-INTEGRATION PROCEDURE - intra-oral implantation of titanium fixture to facilitate restoration of the dentition following resection of part of the maxilla or mandible for benign or malignant tumours (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52633)
+52636
+
+     OSSEO-INTEGRATION PROCEDURE - fixation of transmucosal abutment to fixtures placed following resection of part of the maxilla or mandible for benign or malignant tumours (Anaes.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/52636)
+53242
+
+     TEMPOROMANDIBULAR JOINT OR JOINTS, application of external fixator to, other than for treatment of fractures (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/53242)
+53453
+
+     ORBITAL CAVITY, reconstruction of a wall or floor with or without foreign implant (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/53453)
+53455
+
+     ORBITAL CAVITY, bone or cartilage graft to orbital wall or floor including reduction of prolapsed or entrapped orbital contents (Anaes.) (Assist.) [](/dynamic/MBSItems/PlasticReconstructiveSurgery/53455)
+75024
+
+     PRESURGICAL INFANT MAXILLARY ARCH REPOSITIONING PRESURGICAL INFANT MAXILLARY ARCH REPOSITIONING including supply of appliances and all adjustments of appliances and supervision - WHERE 1 APPLIANCE IS USED [](/dynamic/MBSItems/PlasticReconstructiveSurgery/75024)
+75027
+
+     PRESURGICAL INFANT MAXILLARY ARCH REPOSITIONING including supply of appliances and all adjustments of appliances and supervisionWHERE 2 APPLIANCES ARE USED [](/dynamic/MBSItems/PlasticReconstructiveSurgery/75027)
+
+  
+[Return to index](/dynamic/MBSItems "MBS item numbers")
+
+[![PrivateHealth.gov.au](/assets/images/footer_logo.svg)](/
+"PrivateHealth.gov.au home")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://www.ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+  * [Compare policies](/footer/compareredirect.htm "This link in the footer redirects to the Compare page.")
+  * [Agreement hospitals](/footer/agreementhospitals.htm "Insurers can negotiate agreements with hospitals to minimise out-of-pocket expenses.")
+  * [Lifetime Health Cover calculators](/footer/lifetimehealthcover/index.htm "Calculators to help you determine the lifetime health cover \(LHC\) loading payable on your hospital cover.")
+  * [Restricted insurers](/footer/restricted_insurers.htm "Restricted Insurers cover specific industries or groups.")
+  * [Gap cover doctors](/footer/gapcoverdoctors.htm "Gap Cover Doctors may limit your out-of-pocket expenses. ")
+  * [MBS item numbers](/footer/mbsitems/index.htm "These pages list the MBS items associated with clinical categories.")
+  * [Does my policy cover](/footer/doesmypolicycover.htm "Does my policy cover")
+  * [Medical Costs Finder](/footer/costsfinder.htm "An online tool to find out more about the cost of specialist medical services.")
+  * [Glossary](/footer/glossary.htm "Definitions of common terms used in private health insurance policies in Australia.")
+
+  * [Ask a question](/footer/ask_a_question.htm "You can ask a question of the Private Health Insurance Ombudsman \(PHIO\) using this online form.")
+  * [Links](/footer/links.htm "Useful links for health insurance in Australia.")
+  * [Brochures](/footer/brochures.htm "Brochures relating to private health insurance in Australia.")
+  * [Privacy](/footer/privacy.htm "The privacy policy of PrivateHealth.gov.au.")
+  * [Site map](/footer/sitemap.htm "Sitemap for PrivateHealth.gov.au")
+  * [About this site](/footer/about/index.htm "About PrivateHealth.gov.au.")
+
+[![Australian
+Government](/assets/images/ag.svg)](https://www.australia.gov.au/ "Australian
+Government")
+
+[![Commonwealth
+Ombudsman](/assets/images/ombudsman.svg)](https://ombudsman.gov.au
+"Commonwealth Ombudsman")
+
+## [How Health Insurance Works](/health_insurance/index.htm "How Private
+Health Insurance works in Australia.")
+
+Your questions answered.
+
+## [Health Insurers](/healthinsurers/index.htm "Policies, contact details &
+performance.")
+
+Policies, contact details & performance.
+
+## [Compare Policies](/comparepolicies/index.htm "Find policies that match
+your needs.")
+
+Find policies that match your needs.
+
+## Search this site
+
+Find out about Private Health Insurance.
+
+## [FAQ](/faq.htm "Frequently asked questions.")
+
+Frequently asked questions.
+
+## [Contact Us](/contactus.htm "Got a question? Contact us today.")
+
+Need more information? Contact us today.
+
+  *[MBS]: Medicare Benefits Schedule
+
