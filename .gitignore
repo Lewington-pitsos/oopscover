@@ -3,6 +3,7 @@ creds.json
 venv
 data/*
 !data/medicare
+!data/mcare
 .vscode
 cruft
 # Elastic Beanstalk Files

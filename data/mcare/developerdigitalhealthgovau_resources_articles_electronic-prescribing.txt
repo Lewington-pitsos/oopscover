@@ -1,0 +1,421 @@
+Skip to Content
+
+[ ![Home](/profiles/adha/themes/custom/adha_govcms/images/logo-white.svg) ](/
+"Home")
+
+### Developer Centre
+
+  * [Log in](/user "Login")
+  * [Register](/user/register "Register")
+
+  * [Products](/products)
+  * [What's happening](/whats-happening)
+  * [Feedback](/webform/feedback "Feedback")
+  * [Register](/user/register "Register")
+  * [__](/search "Search Documents")
+
+Enter your keywords
+
+  * [Home](/home)
+  * Electronic Prescribing
+
+Go to top of page
+
+![Electronic Prescribing
+icon](https://developer.digitalhealth.gov.au/sites/default/files/homeicon-
+electronicprescribing.png)
+
+# Electronic Prescribing
+
+Electronic prescribing provides an option for prescribers and their patients
+to have a digital prescription as an alternative to a paper prescription.
+Electronic prescribing is not mandatory, and patients and prescribers will be
+able to choose an electronic or a paper version of their prescription.
+
+## Quick Intro
+
+Through the 2018/19 Commonwealth Budget, the Government announced support for
+the implementation of electronic prescribing. The Commonwealth Department of
+Health and Aged Care (Health) is leading the work to enable electronic
+prescribing and has overall accountability for the electronic prescribing
+project. Health has partnered with the Australian Digital Health Agency (the
+Agency) to develop the technical components of the project, including the
+solution architecture and a conformance framework supporting the legal
+prescribing and dispensing of medicines and subsequent Pharmaceutical Benefits
+Scheme (PBS) claiming from electronic prescriptions.
+
+## Developer Guides
+
+Start with the Electronic Prescribing Conformance Process below - this
+includes mandatory registration requirements and reading.
+
+Introduction:  | [Electronic Prescribing Conformance Process](/electronic-
+prescribing/conformance-process)  
+---|---  
+Guide 1: | [CIS to Open PDS or ASLR - Electronic Prescribing Developer
+Guide](/developer-guide/conformance-process-clinical-information-systems-
+connecting-open-prescription-delivery-service-aslr)  
+Guide 2: | [PDS and ASLR - Electronic Prescribing Developer Guide](/developer-
+guide/pds-and-aslr-electronic-prescribing-developer-guide)  
+Guide 3: | [CIS with a Direct PDS - Electronic Prescribing Developer
+Guide](/developer-guide/cis-direct-pds-electronic-prescribing-developer-guide)  
+Guide 4: | [Additional HI Service requirements for Electronic
+Prescribing](/developer-guide/electronic-prescribing-healthcare-identifiers-
+hi-service-developer-guide-4)  
+Guide 5: | [Mobile Intermediary System - Electronic Prescribing Conformance
+Process - Developer Guide](/developer-guide/mobile-intermediary-system-
+electronic-prescribing-conformance-process-developer-guide)  
+Guide 6: | [Mobile Application - Electronic Prescribing Conformance Process -
+Developer Guide](/developer-guide/mobile-application-electronic-prescribing-
+conformance-process-developer-guide)  
+  
+If you are connecting your software to the My Health Record system then you
+may wish to follow our combined developer guides here:  
+[https://developer.digitalhealth.gov.au/developer-guide/my-health-
+record-b2b-developer-guides](/developer-guide/my-health-record-b2b-developer-
+guides)
+
+## Resources
+
+### [eHealth Prescription and Dispense View v1.2.2](/specifications/clinical-
+documents/ep-1657-2014)
+
+##### Specifications | EP-1657:2014
+
+eHealth Prescription and Dispense View documents represent an electronic
+summary of information about medication prescriptions and dispensations
+contained in an individual’s My Health Record.
+
+[](/tooltip/1169/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+### [eHealth Prescription Record v1.2.1](/specifications/clinical-
+documents/ep-2689-2018)
+
+##### Specifications | EP-2689:2018
+
+eHealth prescription record documents can be used to share information about
+prescribed medications via the individual’s digital health record. Documents
+of this type do not represent actual prescriptions, but merely support the
+sharing of information about medication prescriptions via the individual’s
+digital health record.
+
+[](/tooltip/3106/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+Featured
+
+### [Electronic Prescribing - Conformance Test Specifications
+v3.0.3](/specifications/ehealth-foundations/ep-3726-2022)
+
+##### Specifications | EP-3726:2022
+
+This release of the end product EP-3726:2022 updates Conformance Test
+Specifications and test data for electronic prescribing software vendors. It
+also includes instructions for Transitional eNRMC software vendors.
+
+[](/tooltip/4825/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+Featured
+
+### [Electronic Prescribing - Declaration of Conformance
+v2.0](/specifications/ehealth-foundations/ep-3757-2023)
+
+##### Specifications | EP-3757:2023
+
+The Electronic Prescribing - Declaration of Conformance v2.0 has been
+developed in consultation with key participants in the Electronic Prescribing
+community to better address the requirements of the contemporary Conformance
+Assessment Scheme (CAS).
+
+[](/tooltip/4839/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+### [Electronic Prescribing - State and Territory Legislative Readiness and
+Technical Requirements v2.3](/specifications/ehealth-foundations/ep-3285-2020)
+
+##### Products, Specifications | EP-3285:2020
+
+Each software developer needs to consider the jurisdictions they think their
+software will operate in and consider the legal obligations for those
+jurisdictions. Software developers are responsible for contacting their
+relevant state and territory regulation authorities to attain this
+information. This document has been developed and is maintained by the
+Department of Health.
+
+[](/tooltip/4377/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+Featured
+
+### [Electronic Prescribing - Technical Framework Documents
+v3.2](/specifications/ehealth-foundations/ep-3733-2022)
+
+##### Specifications | EP-3733:2022
+
+These technical framework documents are provided to software vendors and
+demonstrate what is required to enable electronic prescribing.
+
+[](/tooltip/4778/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+### [Electronic Prescribing – Frequently Asked
+Questions](/resources/faqs/electronic-prescribing-frequently-asked-questions)
+
+##### FAQs, Industry Offers, Products
+
+The following Electronic Prescribing Frequently Asked Questions (FAQs) are
+categorised into the following topics: General, Dispensing and Technical
+Questions along with a Glossary and links to more information.
+
+### [Electronic Transfer of Prescription](/products/electronic-transfer-
+prescription)
+
+##### Products
+
+Electronic Transfer of Prescription (ETP) involves the creation of an
+electronic message (alongside a legal paper prescription) which is transmitted
+to a prescription exchange service (PES).
+
+### [Draft Interoperability Procurement Guidelines – request for Industry
+feedback](/resources/news/draft-interoperability-procurement-guidelines-
+request-industry-feedback)
+
+##### Industry Offers
+
+The Agency is very keen to understand and get feedback from the medical
+software industry on some key topics within the Guidelines.
+
+Tuesday, 6 September 2022
+
+### [eHealth Dispense Record v1.2.1](/specifications/clinical-
+documents/ep-2690-2018)
+
+##### Specifications | EP-2690:2018
+
+eHealth Dispense Record documents can be used to share information about
+medication dispensations via the individual’s digital health record.
+
+[](/tooltip/3111/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+### [Electronic Prescribing - Archive](/products/electronic-prescribing)
+
+##### Industry Offers, Products, Sample Code, Specifications, Toolkits
+
+**Archive - for the latest on Electronic Prescribing refer to:**
+
+[https://developer.digitalhealth.gov.au/electronic-prescribing](/electronic-
+prescribing)
+
+### [Electronic Prescribing – Industry Offer](/resources/articles/electronic-
+prescribing-industry-offer)
+
+##### Industry Offers
+
+**Further information** **about the Electronic Prescribing Industry Offer**
+
+The Electronic Prescribing Industry Offer- second round is now closed and all
+tenderers have been notified of the outcome.
+
+### [Electronic Transfer of Prescription v1.1](/specifications/clinical-
+documents/ep-0938-2010)
+
+##### Specifications | EP-0938:2010
+
+The Agency’s Electronic Transfer of Prescriptions (ETP) Release 1.1 has been
+archived on this website, but is still available for download.
+
+[](/tooltip/1168/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+### [eMedications Management Functional Framework
+v1.1](/specifications/ehealth-foundations/ep-2121-2015)
+
+##### Specifications | EP-2121:2015
+
+The eMedications Management (eMM) Functional Framework outlines the key
+capabilities within medications management business systems. It can be used to
+identify opportunities and gaps in medications management process automation,
+system integration, information quality and terminology standardisation.
+
+[](/tooltip/1126/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+### [Pharmacist Shared Medicines List v1.1.1](/specifications/clinical-
+documents/ep-2924-2020)
+
+##### Specifications | EP-2924:2020
+
+PSML documents help ensure the continuity of medicine management for consumers
+across different care settings. PSML documents allow pharmacists in both
+hospital and community pharmacy settings to record the outcome of consumer
+consultations regarding their current medications for upload to the My Health
+Record system.
+
+[](/tooltip/4291/nojs?destination=taxonomy/term/472 "Quick preview")[Login to
+download](/user/modal-login/nojs?destination=taxonomy/term/472)
+
+## FAQs
+
+Electronic Prescribing – Frequently Asked Questions:
+
+  * [General Questions](/resources/faqs/electronic-prescribing-frequently-asked-questions#General)
+  * [Prescribing Systems](/resources/faqs/electronic-prescribing-frequently-asked-questions#Prescribing-Systems)
+  * [Dispensing Systems](/resources/faqs/electronic-prescribing-frequently-asked-questions#Dispensing%20Systems)
+  * [Mobile Applications](/resources/faqs/electronic-prescribing-frequently-asked-questions#Mobile%20Applications)
+  * [Mobile Intermediaries](/resources/faqs/electronic-prescribing-frequently-asked-questions#Mobile%20Intermediaries)
+  * [Transitional eNRMC and Conformance Profile 3.0](/resources/faqs/electronic-prescribing-frequently-asked-questions#Transitional%20eNRMC%20and%20Conformance%20Profile%203.0)
+    * [General Questions](/resources/faqs/electronic-prescribing-frequently-asked-questions#Transitional-eNRMC-and-Conformance-Profile-3.0-General)
+    * [Healthcare Identifiers (HI) Service and Electronic Prescribing](/resources/faqs/electronic-prescribing-frequently-asked-questions#Healthcare%20Identifiers%20\(HI\)%20Service%20and%20Electronic%20Prescribing)
+    * [eNRMC and Electronic Prescribing](/resources/faqs/electronic-prescribing-frequently-asked-questions#eNRMC%20and%20Electronic%20Prescribing)
+    * [Other Conformance Profile 3.0 Questions](/resources/faqs/electronic-prescribing-frequently-asked-questions#Other%20Conformance%20Profile%203.0%20questions)
+    * [Useful links](/resources/faqs/electronic-prescribing-frequently-asked-questions#Useful%20links)
+  * [Conformance Process Questions](/resources/faqs/electronic-prescribing-frequently-asked-questions#Conformance-Process)
+  * [Glossary](/resources/faqs/electronic-prescribing-frequently-asked-questions#Glossary)
+
+## News
+
+Mar
+
+27
+
+####  [Electronic Prescribing Sunset Dates for Conformance
+Profiles](/resources/news/electronic-prescribing-sunset-dates-conformance-
+profiles)
+
+The Australian Digital Health Agency (the Agency) has published a series of
+Electronic Prescribing (EP) Conformance Profiles (CP) with incremental
+increases in functionality.
+
+Feb
+
+10
+
+####  [Continuation of SMS reimbursement and the Electronic Prescription
+Fee](/resources/news/continuation-sms-reimbursement-and-electronic-
+prescription-fee)
+
+On behalf of the Department of Health and Aged Care, the Australian Digital
+Health Agency advises that the reimbursements of electronic prescription
+tokens sent via SMS will be extended until _30 June 2023,_ via the existing
+SMS Gateway providers.
+
+Jun
+
+30
+
+####  [Electronic Prescriptions Conformance Profile Sunset
+dates](/resources/news/electronic-prescriptions-conformance-profile-sunset-
+dates)
+
+In response to feedback received and in recognition of the current state of
+development progress, the Agency has extended the sunset dates.
+
+Apr
+
+05
+
+####  [Discontinuation of TLS 1.1 access to Verizon certificates-australia
+websites](/resources/news/discontinuation-tls-11-access-verizon-certificates-
+australia-websites)
+
+**NOTE DATE CHANGE: The upgrade will now take place on Saturday 25 June
+2022.**
+
+Verizon Australia is a third party organisation who manages the issuance of
+both Medicare and NASH PKI certificates that are used by Healthcare
+Organisations to undertake electronic business with Services Australia.
+
+Sep
+
+20
+
+####  [Transition to NASH SHA-2 Certificates -
+Notifications](/resources/news/system-notifications-transition-nash-
+sha-2-certificates)
+
+**Changes to the National Authentication Service for Health (NASH) PKI
+certificates** \- The Australian Digital Health Agency has been working
+closely with Services Australia and the medical software industry to upgrade
+the NASH authentication system to enhance security when accessing digital
+health services.
+
+Was this page helpful? (*)
+
+Yes
+
+No
+
+Was this page helpful?
+
+Comments
+
+A description can go here. 1024 character limit.
+
+By operation of the Public Governance, Performance and Accountability
+_(Establishing the Australian Digital Health Agency) Rule 2016_ , on 1 July
+2016, all the assets and liabilities of NEHTA will vest in the Australian
+Digital Health Agency. In this website, on and from 1 July 2016, all
+references to "National E-Health Transition Authority" or "NEHTA" will be
+deemed to be references to the Australian Digital Health Agency. PCEHR means
+the My Health Record, formerly the "Personally Controlled Electronic Health
+Record", within the meaning of the _My Health Records Act 2012 (Cth), formerly
+called the Personally Controlled Electronic Health Records Act 2012 (Cth)_.
+
+Stay Connected
+
+with the Australian Digital Health Agency
+
+Register to download resources and keep informed of the latest Developer News.
+
+[Register](/user/register)
+
+### Resources
+
+  * [My Health Record](/my-health-record)
+  * [Electronic Prescribing](/products/electronic-prescribing)
+  * [Secure Messaging](/products/secure-messaging)
+  * [Healthcare Identifiers](/healthcare-identifiers-service)
+  * [Clinical Terminology](/products/clinical-terminology)
+  * [View all](/products)
+
+### Help Centre
+
+  * 1300 901 001
+  * [[email protected]](/cdn-cgi/l/email-protection#660e030a1626020f010f12070a0e03070a120e48010910480713 "Contact us via email")
+  * [System Status](/system-status)
+  * [Terms of Use](/developer-centre-terms-use)
+  * [Privacy](https://www.digitalhealth.gov.au/about-us/policies-privacy-and-reporting/privacy-policy)
+
+### Connect
+
+  * [__](https://twitter.com/AuDigitalHealth "Follow us on Twitter")
+  * [__](https://www.linkedin.com/company/australian-digital-health-agency "Linked In Profile")
+  * [__](https://www.youtube.com/user/eHealthAus "Subscribe to our YouTube channel")
+  * [__](/rss.xml "Access our RSS feed")
+
+### Help us improve
+
+We are always looking for ways to improve Digital Health
+
+[Provide feedback](/webform/feedback)
+
+[Australian Digital Health Agency ![logo of the Australian Digital Health
+Agency](/profiles/adha/themes/custom/govstrap/img/logo-white.svg) ](/
+"Australian Digital Health Agency")
+
+Copyright © 2011-2023 Australian Digital Health Agency and third parties.
+
+This website has been designed to be as accessible as possible. We are
+continually updating it to meet [Web Content Accessibility Guidelines (WCAG)
+2.0 Level AA](http://www.w3.org/TR/WCAG20/ "WCAG").
+
+If you have any problems using this site, or a document you need is not in an
+accessible format, [email us or call
+us](https://www.digitalhealth.gov.au/contact-us "Email or call Australian
+Digital Health").
+
+Back to Top __
+

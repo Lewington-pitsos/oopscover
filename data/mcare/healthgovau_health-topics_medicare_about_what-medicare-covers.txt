@@ -1,0 +1,340 @@
+Skip to main content Skip to main navigation
+
+## Site notifications
+
+  *     * [Coronavirus (COVID-19) health alert](/health-alerts/covid-19 "Coronavirus \(COVID-19\) pandemic")
+    * [Japanese encephalitis virus (JEV) health alert](/health-alerts/japanese-encephalitis-virus-jev "Japanese encephalitis virus \(JEV\)")
+
+[ ![Australian Government Department of Health and Aged
+Care](/themes/custom/hga/logo.svg) ](/ "Home")
+
+Australian Government Department of Health and Aged Care
+
+### Sub menu
+
+  * [About us](/about-us)
+  * [Ministers](/ministers)
+  * [News](/news)
+  * [Contact us](/about-us/contact-us)
+
+Search
+
+Menu  Search
+
+Close
+
+  * [Home](/)
+  * [Topics](/topics)
+  * [Our work](/our-work)
+  * [Resources](/resources)
+  * [Translations](/resources/translated?f%5B0%5D=field_audience%3A451&f%5B1%5D=field_related_initiatives%3A7419)
+
+## You are here
+
+  1. [Home](/)
+  2. [Topics](/topics)
+  3. [Medicare](/topics/medicare)
+  4. [About Medicare](/topics/medicare/about)
+
+[About Medicare](/topics/medicare/about)
+
+# What Medicare covers
+
+Medicare subsidises a large number of health services and products. You can
+use your Medicare card to access medical services, hospital services for
+public patients, surgical services, prescription medicines, eye tests,
+pathology tests, imaging and scans.
+
+  * Listen
+  * Print
+  * Share
+
+    * [Twitter](https://twitter.com/share?text=What Medicare covers&url=https://www.health.gov.au/topics/medicare/about/what-medicare-covers?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation)
+    * [Facebook](https://facebook.com/sharer.php?u=https://www.health.gov.au/topics/medicare/about/what-medicare-covers?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation)
+    * [Email](mailto:?subject=What Medicare covers&body=https://www.health.gov.au/topics/medicare/about/what-medicare-covers?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation)
+
+Loading...
+
+On this page
+
+## **What is covered**
+
+Medicare subsidises the costs of:
+
+  * [services delivered in public and private hospitals](/node/40415#hospital-services)
+  * [medical services](/node/40415#medical-services)
+  * [tests, imaging and scans](/node/40415#tests-imaging-and-scans).
+
+The [Pharmaceutical Benefits Scheme](https://www.pbs.gov.au/pbs/home) (PBS)
+subsidises [medicines](/node/40415#medicines) for people with a Medicare card.
+
+If you and your healthcare provider have opted in, you can use [My Health
+Record](https://www.myhealthrecord.gov.au/) to keep track of your health care,
+tests results and medicines.
+
+Read about [accessing Medicare benefits](/node/39417#how-to-access-medicare).
+
+### **Hospital services**
+
+If you’re a public patient in a hospital Medicare subsidises things like:
+
+  * emergency care
+  * most surgeries and procedures (there might be a wait time if it’s not an emergency)
+  * medicines provided to you in hospital
+  * follow-up care.
+
+Read more about [hospital under
+Medicare](https://www.servicesaustralia.gov.au/health-care-and-
+medicare?context=60092#hospital) and [hospital costs](/node/40784#hospital-
+costs).
+
+The [Medicare Benefits
+Schedule](http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home)
+(MBS) lists all the hospital services with MBS item numbers that Medicare
+covers.
+
+For private patients, while Medicare covers some of the doctor’s fees,, it
+doesn’t cover hospital charges like accommodation and theatre fees. [Private
+health insurance](https://privatehealth.gov.au/) can help cover these costs,
+if you have it.
+
+### **Medical services**
+
+A wide range of medical services are subsidised under Medicare through the
+MBS.
+
+Medical services that Medicare subsidises include:
+
+  * [consultations with health practitioners](https://www.servicesaustralia.gov.au/health-care-and-medicare?context=60092), like general practitioners, specialists and other health practitioners – in person or via [telehealth](https://www.health.gov.au/health-topics/health-technologies-and-digital-health/about/telehealth)
+  * [mental health services](https://www.servicesaustralia.gov.au/mental-health-care-and-medicare?context=60092), including mental health assessments, treatment plans and medicines
+  * [health checks](https://www1.health.gov.au/internet/main/publishing.nsf/Content/mha_resource_kit)
+  * some dental procedures, under the [Child Dental Benefits Schedule](https://www.health.gov.au/initiatives-and-programs/child-dental-benefits-schedule).
+
+Read more about [health care under
+Medicare](https://www.servicesaustralia.gov.au/health-care-and-
+medicare?context=60092).
+
+Not all health practitioners [bulk
+bill](https://www.servicesaustralia.gov.au/bulk-billing?context=60092). When
+you make your appointment, check how much you will have to pay, if anything.
+
+Read more about [medical services costs](/node/40784#medical-services-costs).
+
+### **Tests, imaging and scans**
+
+#### **Diagnostic imaging**
+
+Medicare, through the MBS, covers many [diagnostic
+imaging](https://www.health.gov.au/health-topics/diagnostic-imaging) services,
+such as:
+
+  * [magnetic resonance imaging](http://www9.health.gov.au/mbs/search.cfm?cat1=89&cat2=115&cat3=&adv=) (MRI)
+  * [nuclear medicine scans](http://www9.health.gov.au/mbs/search.cfm?cat1=89&cat2=114&cat3=&adv=) like [positron emission tomography](http://www9.health.gov.au/mbs/search.cfm?cat1=89&cat2=114&cat3=1017&adv=) (PET)
+  * [ultrasounds](http://www9.health.gov.au/mbs/search.cfm?cat1=89&cat2=90&cat3=&adv=)
+  * [computed tomography](http://www9.health.gov.au/mbs/search.cfm?cat1=89&cat2=95&cat3=&adv=) (CT) scans
+  * x‑rays.
+
+To be eligible for a Medicare rebate, MRI and PET scans must:
+
+  * have item numbers listed on the [MBS](http://www.mbsonline.gov.au/)
+  * have been [referred by a health practitioner](https://www.healthdirect.gov.au/what-is-a-referral)
+  * be provided by an [accredited provider](https://www.safetyandquality.gov.au/standards/diagnostic-imaging/diagnostic-imaging-accreditation-scheme)
+  * be done on [eligible equipment](https://www.health.gov.au/health-topics/diagnostic-imaging/mri-and-pet-locations) – not all MRI machines are eligible.
+
+You can request to go to a provider of your choice, as long as they meet these
+criteria. Not all imaging and scan providers [bulk
+bill](https://www.servicesaustralia.gov.au/bulk-billing?context=60092). When
+you make your appointment, check with the provider how much you will have to
+pay, if anything.
+
+Read more about [imaging and scans under
+Medicare](https://www.servicesaustralia.gov.au/screening-tests-and-scans-
+covered-medicare?context=60092).
+
+#### **Pathology tests**
+
+Medicare, through the MBS, covers pathology tests – such as blood, urine or
+tissue – to screen for, diagnose or monitor disease.
+
+If your GP requests more than 3 tests on the same day, Medicare will only pay
+for the 3 most expensive tests.
+
+There is no limit on the amount of tests a specialist can request.
+
+Not all pathology labs [bulk bill](https://www.servicesaustralia.gov.au/bulk-
+billing?context=60092), but many do. Before you go, check with them how much
+you will have to pay, if anything.
+
+Read more about [pathology tests under
+Medicare](https://www.servicesaustralia.gov.au/screening-tests-and-scans-
+covered-medicare?context=60092#a2) and [how pathology tests
+work](https://www.labtestsonline.org.au/).
+
+#### **Eye tests**
+
+Medicare covers [eye tests](https://www.servicesaustralia.gov.au/screening-
+tests-and-scans-covered-medicare?context=60092#a3) done by an optometrist:
+
+  * once every 3 years if you’re under 65 years
+  * once a year if you’re 65 years or older. 
+
+Medicare does not cover glasses or contact lenses, but you might be able to
+access [state or territory schemes](/node/40415#support-from-other-programs).
+
+Not all optometrists [bulk bill](https://www.servicesaustralia.gov.au/bulk-
+billing?context=60092). Check with them when you make your appointment.
+
+Read more about [eye tests under
+Medicare](https://www.servicesaustralia.gov.au/screening-tests-and-scans-
+covered-medicare?context=60092#a3).
+
+### **Medicines**
+
+The [PBS](https://www.pbs.gov.au/pbs/home) subsidises a wide range of
+prescription medicines.
+
+While many non-PBS medicines are available for purchase over the counter,
+there are [other ways to access](/topics/medicines/access/other-ways-to-access
+"Other ways to access medicines") subsidised medicines if they are not on the
+PBS.
+
+The [National Immunisation Program](https://www.health.gov.au/initiatives-and-
+programs/national-immunisation-program) covers the cost of vaccines to
+eligible Australians.
+
+Read more about [medicines](https://www.health.gov.au/health-topics/medicines)
+and [their cost](/node/40784#medicine-costs).
+
+## **What isn’t covered**
+
+Medicare does not cover the costs of:
+
+  * ambulance services
+  * most dental services
+  * glasses and contact lenses
+  * hearing devices
+  * elective and cosmetic surgery
+  * services not on the [MBS](http://www.mbsonline.gov.au/)
+  * services provided through the private health system.
+
+If you have [private health insurance](https://privatehealth.gov.au/), it
+might cover some of the costs that Medicare doesn’t cover, depending on your
+policy.
+
+Medicare doesn’t cover your healthcare costs overseas – you will need travel
+insurance. But countries that have a [Reciprocal Health Care
+Agreement](https://www.servicesaustralia.gov.au/reciprocal-health-care-
+agreements?context=60040) with us may cover some of your costs.
+
+## **Support from other programs**
+
+You might be eligible for free or subsidised medical services and products not
+covered by Medicare through the:
+
+  * [BreastScreen Australia Program](https://www.health.gov.au/initiatives-and-programs/breastscreen-australia-program), which provides a free mammogram every 2 years to women aged 40 years and over
+  * [Closing the Gap PBS Co-payment Program](https://www.pbs.gov.au/info/publication/factsheets/closing-the-gap-pbs-co-payment-measure), which reduces the cost of PBS medicines for eligible patients, who can get their medicines free or at the concession price
+  * [Continence Aids Payment Scheme](https://www.servicesaustralia.gov.au/continence-aids-payment-scheme), which helps with the cost of continence products
+  * Department of Veterans’ Affairs [optical services](https://www.dva.gov.au/health-and-treatment/injury-or-health-treatments/health-services/optical-services), which provides free optical services to veterans who hold a gold card or white card
+  * [Hearing Services Program](https://hearingservices.gov.au/), which provides subsidised hearing services and devices to eligible Australians with hearing loss
+  * [Life Saving Drugs Program](https://www.health.gov.au/initiatives-and-programs/life-saving-drugs-program), which pays for specific essential medicines to treat patients with rare and life-threatening diseases.
+  * [Medical Treatment Overseas Program](/our-work/medical-treatment-overseas-program "Medical Treatment Overseas Program"), which provides financial assistance to approved applicants to travel overseas for life-saving treatment.
+  * [National Bowel Cancer Screening Program](https://www.health.gov.au/initiatives-and-programs/national-bowel-cancer-screening-program), which sends a free screening test every 2 years to Australians aged 50 to 74 years that they can do at home
+  * [National Cervical Screening Program](https://www.health.gov.au/initiatives-and-programs/national-cervical-screening-program), which provides a free cervical screening test every 5 years to women aged 25 to 74 years
+  * [National Diabetes Services Scheme](https://www.health.gov.au/initiatives-and-programs/national-diabetes-services-scheme-ndss), which helps people with diabetes to understand and manage their life with diabetes, and provides timely, reliable and affordable access to the NDSS support services and products
+  * [Pharmaceutical Benefits Scheme](https://www.pbs.gov.au/pbs/home), which provides timely, reliable and affordable access to necessary medicines for Australians
+  * [Repatriation Pharmaceutical Benefits Scheme](https://www.dva.gov.au/health-and-treatment/help-cover-healthcare-costs/manage-medicine-and-keep-costs-down/concessional#what-is-the-repatriation-pharmaceutical-benefits-scheme), which provides eligible people with access to a wide range of medicines and wound care items at a concession rate
+  * [Stoma Appliance Scheme](https://www.health.gov.au/initiatives-and-programs/stoma-appliance-scheme), which provides free stoma products to members of Australian stoma associations 
+  * [Visiting Optometrist Scheme](https://www.health.gov.au/health-topics/aboriginal-and-torres-strait-islander-health/eye-health-and-vision-support?utm_source=health.gov.au&utm_medium=callout-auto-custom&utm_campaign=digital_transformation#outreach-services), which supports optometrists to deliver services in remote and very remote locations
+  * state or territory-based schemes for glasses and contact lenses 
+    * Australian Capital Territory – [Spectacles Subsidy Scheme](https://www.revenue.act.gov.au/community-assistance/spectacles-subsidy-scheme)
+    * New South Wales – [NSW Spectacles program](https://www.visionaustralia.org/referral/benefits-and-funding/nsw-spectacles)
+    * Northern Territory – [spectacles concessions](https://nt.gov.au/community/concessions-and-payments/nt-concession-scheme/concessions/spectacles)
+    * Queensland – [Spectacle Supply Scheme](https://www.health.qld.gov.au/mass/prescribe/spectacles)
+    * South Australia – [GlassesSA](https://www.sa.gov.au/topics/care-and-support/concessions/health-concessions/glassessa)
+    * Tasmania – [spectacles assistance](https://www.concessions.tas.gov.au/search?mode=results&queries_site_content_query=spectacles&x=0&y=0)
+    * Victoria – [Victorian Eye Care Service](https://services.dffh.vic.gov.au/eye-care-and-glasses)
+    * Western Australia – [Spectacle Subsidy Scheme](https://www.healthywa.wa.gov.au/Articles/S_T/Spectacle-Subsidy-Scheme).
+
+Last updated:
+
+12 April 2023
+
+Tags:
+
+  * [Medicare](/topics/medicare)
+
+Is there anything wrong with this page?
+
+## Help us improve health.gov.au
+
+If you would like a response please use the [enquiries form](/about-
+us/contact-us/general-enquiries "General enquiries") instead.
+
+What you were doing? (mandatory)
+
+What went wrong? (mandatory)
+
+Leave this field blank
+
+## In this section
+
+##  [Medicare](/topics/medicare)
+
+  * [About Medicare](/topics/medicare/about)
+    * [What Medicare covers](/topics/medicare/about/what-medicare-covers)
+    * [Costs](/topics/medicare/about/costs)
+    * [Safety nets](/topics/medicare/about/safety-nets)
+    * [What we do](/topics/medicare/about/what-we-do)
+  * [For practitioners and industry](/topics/medicare/access-practitioners-industry)
+  * [Compliance](/topics/medicare/compliance)
+  * [Reforms and reviews](/topics/medicare/reforms-and-reviews)
+  * [Data, statistics and reporting](/topics/medicare/data-statistics-reporting)
+  * [Initiatives and programs](/topics/medicare/programs)
+  * [News](/topics/medicare/news)
+  * [Resources](/topics/medicare/resources)
+  * [Contacts](/topics/medicare/contacts)
+
+### Health and Aged Care
+
+  * [About us](/about-us "About us")
+  * [Ministers](/ministers)
+  * [Careers](/about-us/work-with-us)
+  * [Corporate reporting](/about-us/corporate-reporting)
+  * [Freedom of information](/about-us/corporate-reporting/freedom-of-information-foi "Freedom of information")
+  * [Contact us](/about-us/contact-us)
+  * [Contacts directory](/contacts)
+
+### Using our websites
+
+  * [About our website](/using-our-websites/about-our-website)
+  * [Accessibility](/using-our-websites/accessibility)
+  * [Copyright](/using-our-websites/copyright)
+  * [Disclaimer](/using-our-websites/disclaimer)
+  * [Privacy](/using-our-websites/website-privacy-policy)
+  * [Social media](/using-our-websites/social-media)
+  * [Subscriptions](/using-our-websites/subscriptions)
+  * [Vulnerability disclosure policy](/using-our-websites/vulnerability-disclosure-policy)
+
+### Follow us
+
+  * [Media centre](/media-centre)
+  * [News](/news?f%255B0%255D=field_audience%3A451)
+  * [Facebook](https://www.facebook.com/healthgovau "Facebook")
+  * [LinkedIn](https://www.linkedin.com/company/dept-of-health-and-ageing/ "Linked In")
+  * [Twitter](https://twitter.com/healthgovau "Twitter")
+  * [Youtube](https://www.youtube.com/user/healthgovau "Youtube")
+  * [Instagram](https://www.instagram.com/healthgovau/)
+
+### Help us improve
+
+We are always looking for ways to improve our website.
+
+[Provide feedback](/about-us/contact-us/website-feedback)
+
+The Department of Health and Aged Care acknowledges the traditional owners of
+country throughout Australia, and their continuing connection to land, sea and
+community. We pay our respects to them and their cultures, and to elders both
+past and present.
+
+© Commonwealth of Australia | [Department of Health and Aged Care](/)
+
