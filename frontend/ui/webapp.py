@@ -2,10 +2,95 @@ import os
 import logging
 from pathlib import Path
 from json import JSONDecodeError
-
 import streamlit as st
+from typing import List, Dict, Any, Tuple, Optional
+import os
+import logging
+from time import sleep
+import requests
 
-from ui.utils import haystack_is_ready, send_feedback, ouchmate_query
+API_ENDPOINT = os.getenv("API_ENDPOINT", "https://3.27.43.150.nip.io")
+INVOKE = "invocations"
+STATUS = "ping"
+HS_VERSION = "hs_version"
+DOC_REQUEST = "query"
+DOC_FEEDBACK = "feedback"
+DOC_UPLOAD = "file-upload"
+
+def haystack_is_ready():
+    url = f"{API_ENDPOINT}/{STATUS}"
+    try:
+        if requests.get(url).status_code < 400:
+            return True
+    except Exception as e:
+        logging.exception(e)
+        sleep(1)  # To avoid spamming a non-existing endpoint at startup
+    return False
+
+def _final_text(query, answer_texts):
+    context = '...\n'.join(answer_texts)
+
+    return f""""=== Context: 
+{context}
+=== Query: 
+{query}
+=== 
+Answer the query using the above context as guidance. Be as helpful as possible. Answer in the style of crocodile dundee, use lots of aussie slang and short words. Think step by step.
+=== Answer:"
+)
+""" 
+
+def get_prompt(query, results, max_len):
+    answer_texts = []
+    last_prompt = ""
+
+    for result in results:
+        answer_texts.append(result["answer"])
+        if len(last_prompt) >= max_len:
+            return last_prompt
+
+        last_prompt = _final_text(query, answer_texts)
+
+    return last_prompt 
+
+def haystack_version():
+    """
+    Get the Haystack version from the REST API
+    """
+    url = f"{API_ENDPOINT}/{HS_VERSION}"
+    return requests.get(url, timeout=0.1).json()["hs_version"]
+
+def ouchmate_query(query):
+    url = f"{API_ENDPOINT}/{INVOKE}"
+
+    req = {"query": query}
+    response_raw = requests.post(url, json=req)
+
+    if response_raw.status_code >= 400 and response_raw.status_code != 503:
+        raise Exception(f"{vars(response_raw)}")
+    
+    response = response_raw.json()
+    if "errors" in response:
+        raise Exception(", ".join(response["errors"]))  
+    
+    return response
+
+def send_feedback(query, answer_obj, is_correct_answer, is_correct_document, document) -> None:
+    """
+    Send a feedback (label) to the REST API
+    """
+    url = f"{API_ENDPOINT}/{DOC_FEEDBACK}"
+    req = {
+        "query": query,
+        "document": document,
+        "is_correct_answer": is_correct_answer,
+        "is_correct_document": is_correct_document,
+        "origin": "user-feedback",
+        "answer": answer_obj,
+    }
+    response_raw = requests.post(url, json=req)
+    if response_raw.status_code >= 400:
+        raise ValueError(f"An error was returned [code {response_raw.status_code}]: {response_raw.json()}")
 
 DEFAULT_QUESTION_AT_STARTUP = os.getenv("DEFAULT_QUESTION_AT_STARTUP", "If I break my leg and have to go to hospital, how much will I have to pay, roughly?")
 
@@ -100,7 +185,7 @@ OuchMate will search relevant resources and try to give you a straight answer in
     
     st.markdown("""## THIS IS NOT MEDICAL ADVICE
 
-OuchMate is just a demo which gives you a general gist. For the love of god consult an actual doctor or at least some of the sources before making any important decisions.""", 
+OuchMate is just a demo which gives you a general gist. For the love of god consult an actual doctor before making important decisions.""", 
 unsafe_allow_html=True)
 
     # Get results for query
