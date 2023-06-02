@@ -8,6 +8,7 @@ import logging
 from time import sleep
 import requests
 import re
+from PIL import Image
 
 # API_ENDPOINT = os.getenv("API_ENDPOINT", "https://3.27.43.150.nip.io")
 API_ENDPOINT = os.getenv("API_ENDPOINT", "https://3.27.43.150.nip.io")
@@ -61,7 +62,7 @@ def haystack_version():
     url = f"{API_ENDPOINT}/{HS_VERSION}"
     return requests.get(url, timeout=0.1).json()["hs_version"]
 
-def ouchmate_query(query):
+def bushman_steve(query):
     url = f"{API_ENDPOINT}/{INVOKE}"
 
     template = """Context: {join(documents)}
@@ -142,12 +143,16 @@ def main():
         st.session_state.answer = None
         st.session_state.results = None
 
-    # Title
-    st.write("# OuchMate Demo")
-    st.markdown(
-        """Ask a Question about the **Australian** Medicare system. 
+    image = Image.open('bushmankim.png')
 
-OuchMate will search relevant resources and try to give you a straight answer in less than 100 words.""",
+    left_co, cent_co,last_co = st.columns(3)
+    with cent_co:
+        st.image(image, caption="G'day cobba")
+
+    # Title
+    st.write("# Bushman Kim Demo")
+    st.markdown(
+        """Ask BK a Question about the **Australian** Medicare system, he'll search some relevant resources and try to give you a straight answer in less than 100 words.""",
         unsafe_allow_html=True,)
 
     # Sidebar
@@ -220,7 +225,7 @@ OuchMate is just a demo which gives you a general gist. For the love of god cons
                 "🔭🧠 &nbsp;&nbsp; Performing a bloody neural search mate, should take about 15 seconds..."
             ):
                 try:
-                    st.session_state.results = ouchmate_query(question)
+                    st.session_state.results = bushman_steve(question)
                 except JSONDecodeError as je:
                     st.error("👓 &nbsp;&nbsp; An error occurred reading the results. Is the document store working?")
                     return
