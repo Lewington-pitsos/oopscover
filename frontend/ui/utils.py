@@ -11,7 +11,7 @@ import requests
 
 openai.api_key = "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"
 
-API_ENDPOINT = os.getenv("API_ENDPOINT", "http://localhost:8080")
+API_ENDPOINT = os.getenv("API_ENDPOINT", "https://3.27.43.150.nip.io")
 INVOKE = "invocations"
 STATUS = "ping"
 HS_VERSION = "hs_version"

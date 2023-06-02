@@ -26,18 +26,3 @@ and then the frontend with
 
 `cd frontend`
 `streamlit run ui/webapp.py`
-
-
-## Elastic Beanstalk
-
-Make sure you are in the right virtualenv, then create the app with
-
-`eb init -p python-3.10 ouchmate --region ap-southeast-2`
-
-create elastic beanstalk environment with
-
-`eb create flask-env -i c4.large`
-
-Destroy the environment 
-
-`eb terminate flask-env`

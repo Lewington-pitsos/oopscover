@@ -1,13 +1,9 @@
 import os
-import sys
 import logging
 from pathlib import Path
 from json import JSONDecodeError
 
-import pandas as pd
 import streamlit as st
-from markdown import markdown
-import time
 
 from ui.utils import haystack_is_ready, send_feedback, ouchmate_query
 

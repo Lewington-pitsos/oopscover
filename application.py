@@ -5,7 +5,7 @@ from pipeline import load_pipeline, HaystackEncoder
 from haystack.nodes import PromptTemplate
 
 application = Flask(__name__)
-pipe = load_pipeline("data/mcare/")
+pipe = load_pipeline("data/medicare/")
 
 @application.route('/', methods=['GET'])
 @application.route('/index', methods=['GET'])
