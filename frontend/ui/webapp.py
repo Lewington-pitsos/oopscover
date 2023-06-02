@@ -3,12 +3,13 @@ import logging
 from pathlib import Path
 from json import JSONDecodeError
 import streamlit as st
-from typing import List, Dict, Any, Tuple, Optional
 import os
 import logging
 from time import sleep
 import requests
+import re
 
+# API_ENDPOINT = os.getenv("API_ENDPOINT", "https://3.27.43.150.nip.io")
 API_ENDPOINT = os.getenv("API_ENDPOINT", "https://3.27.43.150.nip.io")
 INVOKE = "invocations"
 STATUS = "ping"
@@ -63,7 +64,25 @@ def haystack_version():
 def ouchmate_query(query):
     url = f"{API_ENDPOINT}/{INVOKE}"
 
-    req = {"query": query}
+    template = """Context: {join(documents)}
+===
+{query}
+===
+Answer the question strictly in 75 words or less using the above context as guidance. Answer in the style of crocodile dundee. Use short, easy to understand language, 75 words or less. Do not quote from the context. Think step by step.
+===
+A (75 words or less):"""
+
+    req = {
+        "query": "According to the Australian Medicare system, " + query,
+        "retriever_kwargs": {"top_k": 6},
+        "generator_kwargs": {
+            "invocation_context": {
+                "prompt_template": template,
+                "max_tokens": 110,
+            }
+        },
+
+    }
     response_raw = requests.post(url, json=req)
 
     if response_raw.status_code >= 400 and response_raw.status_code != 503:
@@ -92,7 +111,12 @@ def send_feedback(query, answer_obj, is_correct_answer, is_correct_document, doc
     if response_raw.status_code >= 400:
         raise ValueError(f"An error was returned [code {response_raw.status_code}]: {response_raw.json()}")
 
-DEFAULT_QUESTION_AT_STARTUP = os.getenv("DEFAULT_QUESTION_AT_STARTUP", "If I break my leg and have to go to hospital, how much will I have to pay, roughly?")
+DEFAULT_QUESTION_AT_STARTUP = os.getenv("DEFAULT_QUESTION_AT_STARTUP", "How does medicare work?")
+
+def escape_special_characters(text):
+    special_characters = r'[\^$.|?*+(){}'
+    escaped_text = re.sub(f'([{re.escape(special_characters)}])', r'\\\1', text)
+    return escaped_text
 
 # Labels for the evaluation
 EVAL_LABELS = os.getenv("EVAL_FILE", str(Path(__file__).parent / "eval_labels_example.csv"))
@@ -106,6 +130,7 @@ def set_state_if_absent(key, value):
 
 def main():
     st.set_page_config(page_title="Haystack Demo", page_icon="https://haystack.deepset.ai/img/HaystackIcon.png", initial_sidebar_state="collapsed")
+
 
     # Persistent state
     set_state_if_absent("question", DEFAULT_QUESTION_AT_STARTUP)
@@ -156,7 +181,6 @@ OuchMate will search relevant resources and try to give you a straight answer in
         unsafe_allow_html=True,
     )
 
-    # Search bar
     question = st.text_input(
         value=st.session_state.question,
         max_chars=250,
@@ -185,8 +209,8 @@ OuchMate will search relevant resources and try to give you a straight answer in
     
     st.markdown("""## THIS IS NOT MEDICAL ADVICE
 
-OuchMate is just a demo which gives you a general gist. For the love of god consult an actual doctor before making important decisions.""", 
-unsafe_allow_html=True)
+OuchMate is just a demo which gives you a general gist. For the love of god consult an actual doctor or the [official sources](https://www.health.gov.au/topics/medicare/about/what-medicare-covers) before making important decisions.""", 
+    unsafe_allow_html=True)
 
     # Get results for query
     if run_query and question:
@@ -210,13 +234,14 @@ unsafe_allow_html=True)
             
     if st.session_state.results:
         with results_section:
-            st.write("## Answer:")
-            st.markdown(st.session_state.results['results'][0])
+            st.write("## Answer (NOT ACTUAL MEDICAL ADVICE):")
+
+            st.write(escape_special_characters(st.session_state.results['results'][0]))
 
             with st.expander("**Sources**"):
                 for count, result in enumerate(st.session_state.results['invocation_context']['documents'][:3]):
                     if result["content"]:
-                        st.markdown(result["content"])
+                        st.text(result["content"])
                         
                         source = f"[{result['meta']['url']}]({result['meta']['url']})"
                         st.markdown(f"**Relevance:** {result['score']} -  **Source:** {source}")
@@ -262,6 +287,5 @@ unsafe_allow_html=True)
                                 st.error("🐞 &nbsp;&nbsp; An error occurred while submitting your feedback!")
 
                     st.write("___")           
-
 
 main()
