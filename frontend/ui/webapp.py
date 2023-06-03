@@ -239,40 +239,6 @@ Bushman Kim is just a fun demo project. For the love of god consult an actual do
                         )
                         st.write("**Relevance:** ", result["relevance"])
 
-                    if eval_mode and result["answer"]:
-                        # Define columns for buttons
-                        is_correct_answer = None
-                        is_correct_document = None
-
-                        button_col1, button_col2, button_col3, _ = st.columns([1, 1, 1, 6])
-                        if button_col1.button("👍", key=f"{result['context']}{count}1", help="Correct answer"):
-                            is_correct_answer = True
-                            is_correct_document = True
-
-                        if button_col2.button("👎", key=f"{result['context']}{count}2", help="Wrong answer and wrong passage"):
-                            is_correct_answer = False
-                            is_correct_document = False
-
-                        if button_col3.button(
-                            "👎👍", key=f"{result['context']}{count}3", help="Wrong answer, but correct passage"
-                        ):
-                            is_correct_answer = False
-                            is_correct_document = True
-
-                        if is_correct_answer is not None and is_correct_document is not None:
-                            try:
-                                send_feedback(
-                                    query=question,
-                                    answer_obj=result["_raw"],
-                                    is_correct_answer=is_correct_answer,
-                                    is_correct_document=is_correct_document,
-                                    document=result["document"],
-                                )
-                                st.success("✨ &nbsp;&nbsp; Thanks for your feedback! &nbsp;&nbsp; ✨")
-                            except Exception as e:
-                                logging.exception(e)
-                                st.error("🐞 &nbsp;&nbsp; An error occurred while submitting your feedback!")
-
                     st.write("___")           
 
 main()
