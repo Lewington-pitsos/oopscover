@@ -106,7 +106,7 @@ def set_state_if_absent(key, value):
         st.session_state[key] = value
 
 def main():
-    st.set_page_config(page_title="Haystack Demo", page_icon="https://haystack.deepset.ai/img/HaystackIcon.png", initial_sidebar_state="collapsed")
+    st.set_page_config(page_title="Bushman Kim", page_icon="https://haystack.deepset.ai/img/HaystackIcon.png", initial_sidebar_state="collapsed")
 
 
     # Persistent state
@@ -199,7 +199,7 @@ Bushman Kim is just a fun demo project. For the love of god consult an actual do
         st.session_state.question = question
         with results_section:
             with st.spinner(
-                "🔭🧠 &nbsp;&nbsp; Performing a bloody neural search mate, should take about 15 seconds..."
+                "🔭🧠 &nbsp;&nbsp; Performing a neural search mate, should take about 15 seconds..."
             ):
                 try:
                     st.session_state.results = bushman_steve(question)
