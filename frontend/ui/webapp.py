@@ -9,6 +9,8 @@ from time import sleep
 import requests
 import re
 from PIL import Image
+from io import BytesIO
+
 
 # API_ENDPOINT = os.getenv("API_ENDPOINT", "https://3.27.43.150.nip.io")
 API_ENDPOINT = os.getenv("API_ENDPOINT", "https://3.27.43.150.nip.io")
@@ -143,12 +145,13 @@ def main():
         st.session_state.answer = None
         st.session_state.results = None
 
-    image = Image.open('bushmankim.png')
+    response = requests.get('https://bushmankims-bucket-hands-off-cobba.s3.ap-southeast-2.amazonaws.com/bushmankim.png')
+    image = Image.open(BytesIO(response.content))
 
     left_co, cent_co,last_co = st.columns(3)
     with cent_co:
         st.image(image, caption="G'day cobba")
-
+    
     # Title
     st.write("# Bushman Kim Demo")
     st.markdown(
@@ -214,7 +217,7 @@ def main():
     
     st.markdown("""## THIS IS NOT MEDICAL ADVICE
 
-OuchMate is just a demo which gives you a general gist. For the love of god consult an actual doctor or the [official sources](https://www.health.gov.au/topics/medicare/about/what-medicare-covers) before making important decisions.""", 
+Bushman Kim is just a fun demo project. For the love of god consult an actual doctor or the [official sources](https://www.health.gov.au/topics/medicare/about/what-medicare-covers) before making important decisions.""", 
     unsafe_allow_html=True)
 
     # Get results for query
@@ -241,7 +244,7 @@ OuchMate is just a demo which gives you a general gist. For the love of god cons
         with results_section:
             st.write("## Answer (NOT ACTUAL MEDICAL ADVICE):")
 
-            st.write(escape_special_characters(st.session_state.results['results'][0]))
+            st.write(escape_special_characters(st.session_state.results['results'][0]) + "... but I'm just a rambling bushman, maybe you should ask a real doctor.")
 
             with st.expander("**Sources**"):
                 for count, result in enumerate(st.session_state.results['invocation_context']['documents'][:3]):
