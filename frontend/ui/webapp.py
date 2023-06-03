@@ -133,9 +133,6 @@ def main():
         unsafe_allow_html=True,)
 
     # Sidebar
-    st.sidebar.header("Options")
-    eval_mode = st.sidebar.checkbox("Evaluation mode")
-    debug = st.sidebar.checkbox("Show debug info")
 
     st.sidebar.markdown(
         f"""
@@ -154,10 +151,18 @@ def main():
             opacity: 0;
         }}
     </style>
+    <div>
+                <p><a href="https://github.com/Lewington-pitsos/oopscover">Source Code</a></p>
+        <p><a href="https://www.linkedin.com/in/louka-ewington-pitsos-2a92b21a0/">Louka's Linkedin</a></p>
+        <p><a href="https://www.youtube.com/@lewingtonn">Louka's Youtube (yeah, weird)</a></p>
+
+    </div>
     <div class="haystack-footer">
         <hr />
         <h4>Built with <a href="https://haystack.deepset.ai/">Haystack</a> 1.14.0</h4>
         <p>Get it on <a href="https://github.com/deepset-ai/haystack/">GitHub</a> &nbsp;&nbsp; - &nbsp;&nbsp; Read the <a href="https://docs.haystack.deepset.ai/docs">Docs</a></p>
+        
+
     </div>
     """,
         unsafe_allow_html=True,
