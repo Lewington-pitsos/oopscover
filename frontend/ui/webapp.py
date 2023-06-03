@@ -31,32 +31,6 @@ def haystack_is_ready():
         sleep(1)  # To avoid spamming a non-existing endpoint at startup
     return False
 
-def _final_text(query, answer_texts):
-    context = '...\n'.join(answer_texts)
-
-    return f""""=== Context: 
-{context}
-=== Query: 
-{query}
-=== 
-Answer the query using the above context as guidance. Be as helpful as possible. Answer in the style of crocodile dundee, use lots of aussie slang and short words. Think step by step.
-=== Answer:"
-)
-""" 
-
-def get_prompt(query, results, max_len):
-    answer_texts = []
-    last_prompt = ""
-
-    for result in results:
-        answer_texts.append(result["answer"])
-        if len(last_prompt) >= max_len:
-            return last_prompt
-
-        last_prompt = _final_text(query, answer_texts)
-
-    return last_prompt 
-
 def haystack_version():
     """
     Get the Haystack version from the REST API
@@ -76,7 +50,7 @@ Answer the question strictly in 75 words or less using the above context as guid
 A (75 words or less):"""
 
     req = {
-        "query": "According to the Australian Medicare system, " + query,
+        "query": query,
         "retriever_kwargs": {"top_k": 6},
         "generator_kwargs": {
             "invocation_context": {
